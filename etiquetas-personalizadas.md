@@ -43,6 +43,8 @@ La impresión en este tipo de stickers personalizados puede ser realizada en col
 
 Son **ideales para consumos desde 1000 unidades hasta 50.000 unidades**.
 
+>La característica principal de estas etiquetas es que las palabras y las imágenes del diseño nunca se recortarán. Por lo tanto, el diseño personalizado nunca se afectará al momento del corte. Es la diferencia principal con los hologramas genéricos.
+
 {% include slider.html %}
 
 ### ¿Requieres proteger tus productos de los falsificadores con adhesivos personalizados?
