@@ -1,0 +1,8 @@
+<div class="videos">
+  {% for video in page.videos %}
+  <video autoplay muted loop playsinline preload="auto">
+      <source src="{{ video | relative_url}}" type="video/mp4">
+      Tu navegador no soporta la etiqueta de video.
+  </video>
+  {% endfor %}
+</div>

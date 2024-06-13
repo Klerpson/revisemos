@@ -1,0 +1,96 @@
+.pagina{
+  position: relative;
+  display: flex;
+  gap: 2em;
+  flex-wrap: wrap;
+}
+
+.pagina > article{
+  flex: 1 0 480px;
+  max-width: 100%;
+}
+
+.pagina aside{
+  width: min(100%, 440px);
+}
+
+@media screen and (min-width: 800px) {
+  .pagina{
+    flex-direction: row-reverse;
+  }
+}
+
+
+.landing_grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr));
+  grid-auto-rows: auto;
+  gap: 2em;
+  padding: 2em 0;
+  }
+  
+  .landing_grid article{
+    display: grid;
+    text-align: center;
+    place-content: start;
+}
+
+.landing_grid img{
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+  display: inline-block;
+  width: 180px;
+  margin-inline: auto;
+}
+
+details {
+  padding: 0 2em;
+  border: 2.4px solid var(--secundario);
+  max-width: max-content;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+summary{
+  padding: 16px 0 8px;
+  color: var(--accion);
+  font-weight: 700;
+  font-size: 18px;
+}
+
+details p{
+  font-size: 18px;
+  padding: 8px 0 16px;
+}
+
+.productos_beneficios{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.productos_beneficios li{
+  list-style: none;
+  flex: 1 0 280px;
+  border-bottom: 1px dotted var(--gris);
+  padding: 1em 0;
+  margin-bottom: 1em;
+  display: grid;
+  gap: 1em;
+  place-content: start;
+}
+
+.videos{
+  display: flex;
+  gap: 2em;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.videos video{
+  width: min(100%, 400px);
+  object-fit: cover;
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+}

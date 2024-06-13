@@ -1,0 +1,50 @@
+---
+layout: compress
+---
+{% include head.html %}
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <!-- End Google Tag Manager (noscript) -->
+  {% include nav.html %}
+
+  {% include header.html %}
+  
+  {% if page.layout == "post" %}
+    <main class="wrapper flow">
+      {{ content }}
+      <div class="post-social wrapper">
+        {% include share.html %}
+      </div>
+      {% include cta.html%}
+    </main>
+    <a href="#">
+      {% include boton-up.html %}
+    </a>
+
+  {% else %}
+
+    {{ content }}
+
+  {% endif %}
+
+  {% include footer.html %}
+  <a href="{{site.whatsapp}}" class="boton-whatsapp">
+    <img src="{{'img/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">
+  </a>
+</script>
+{% if page.layout == "producto" or page.layout == "servicio" %}
+<script src="/js/slider.js" defer></script>
+{% endif %}
+<!-- <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+  <script>
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      noResultsText: 'No tenemos este texto aún',
+      fuzzy: false
+    });
+  </script> -->
+  <script> const previousTitle = document.title; window.addEventListener('blur', () => { document.title = '🚨 ¡No te vayas! ¡Regresa! 🚨'; }); window.addEventListener('focus', () => { document.title = previousTitle; }); </script>
+  </body>
+</html>

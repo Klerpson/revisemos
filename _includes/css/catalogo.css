@@ -1,0 +1,22 @@
+.catalogo{
+  display: flex;
+  flex-direction: column;
+
+  & h2{
+    text-align: center;
+    margin: 3em auto;
+  }
+
+  & .home_gallery{
+    padding-top: 0;
+    border: none;
+  }
+
+  & .logo{
+    width: min(100%, 360px);
+    margin: 2em auto;
+  }
+
+}
+
+

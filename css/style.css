@@ -1,0 +1,15 @@
+---
+---
+{% include css/universal.css %}
+{% include css/header.css %}
+{% include css/nav.css %}
+{% include css/home.css %}
+{% include css/footer.css %}
+{% include css/boton-up.css %}
+{% include css/catalogo.css %}
+{% include css/paginas.css %}
+{% include css/carousel.css %}
+{% include css/slider.css %}
+{% include css/blog.css %}
+{% include css/share.css %}
+{% include css/queries.css %}

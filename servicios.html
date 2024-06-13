@@ -1,0 +1,36 @@
+---
+layout: pagina
+title: "Los servicios de Holographic a tu disposición"
+description: "Además de imprimir, en Holographic te servimos de otras maneras: mantenimientos de impresoras térmicas, rollos de hologramas, app de trazabilidad. Conoce más"
+h1: "Los <span class='resaltar'>servicios de Holographic</span> a la orden de tu empresa"
+intro: Examina cómo puedes aprovechar nuestros servicios en tu empresa
+hero: img/blog-holographic.webp
+jpg: img/blog-holographic.jpg
+alt: Fotografía de un vaso GurCoff
+---
+<section class="wrapper flow">
+  <h2>Etikit te ayuda con los problemas de control de tu mercancía</h2>
+</section>
+<main class="entradas wrapper">
+  <h2>Estas empresas protegen sus activos con nuestros stickers de seguridad y marcación</h2>
+  <p>¿Están falsificando tu mercancia? ¿Tus envíos no llegan completos o con la mercancía original?</p>
+  <h3>Así es como te podemos ayudar desde Holographic S.A.S. ⏬</h3>
+  <div class="home_gallery">
+    {% for caso in site.pages %}
+     {% if caso.layout == "servicio" %}
+    <article>
+      <img src="{{caso.hero|relative_url}}" alt="{{caso.alt}}">
+      <div>
+        <a href="{{caso.url|relative_url}}"><h4>{{caso.h1}}</h4></a>
+        </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+    <article>
+      <img src="{{'img/etikit-logo.webp'|relative_url}}" alt="Etikit aplicación de trazabalidad" width="160">
+      <div>
+        <a href="{{'servicios/etikit-app'|relative_url}}"><h4>Aplicación de trazabilidad Etikit de Holographic</h4></a>
+      </div>
+    </article>
+  </div>
+</main>

@@ -1,0 +1,31 @@
+.footer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: var(--radius);
+}
+
+.footer div{
+  display: grid;
+  gap: 8px;
+  place-content: flex-start;
+  max-width: 240px;
+}
+
+.footer div:last-child{
+  margin-left: auto;
+}
+
+.footer div span{
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.footer a{
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<!-- Este layout se hizo para poder aprovechar el header diferente a las demás secciones -->
+<section class="wrapper flow">
+  <h2>Algunas muestras de {{page.h1 | downcase}}</h2>
+  <div class="home_gallery">
+    {% for item in page.puntos-dolor %}
+    {% for punto in item %}
+    <article class="flow">
+      <img src="{{punto[1]|relative_url}}" alt="Fotografías de {{page.title}}" loading="lazy" width="180" height="225">
+      <h3>{{punto[0]}}</h3>
+    </article>
+    {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+{{content}}
+<hr>
+<section class="title">
+  <h2>Conoce más productos de Holographic en Colombia</h2>
+  <a href="{{'productos' | relative_url}}" title="Catálogo de productos holográficos y marcación de Holographic S.A.S." class="boton boton_2" target="_blank" rel="nofollow noopener">Conoce todos los productos</a>
+</section>
+{% include carousel.html %}
+<a href="#">
+  {% include boton-up.html %}
+</a>

@@ -1,0 +1,358 @@
+:root {
+  /*** COLORES ***/
+  --principal: #42434d;
+  --accion: #3b3a34;
+  --secundario: #e5e5e5;
+  --clr1: #e2cdac;
+  --clr2: #e9e7db;
+  --clr3: #ddaea3;
+  --clr4: #d5c9d1;
+  --clr5: #bfced1;
+  --clr6: #b7c9bf;
+  --clr7: #5f8ba3;
+  --gris: #dfdfdf;
+  --grisFuentes: #3f3f4a;
+  --fuenteTitulos: 'Montserrat', sans-serif;
+  --fuenteTexto: 'Karma', serif;
+  --radius: 8px;
+  --shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.42);
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: 8em;
+}
+
+body {
+  color: var(--grisFuentes);
+  font-family: var(--fuenteTexto);
+  background-color: #fefefe;
+  line-height: 1.6;
+  cursor: url('/img/puntero.png'), auto;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.2;
+  text-transform: initial;
+  max-width: 992px;
+  font-family: var(--fuenteTitulos);
+  margin: 0;
+}
+/* 
+h1 {
+  font-size: clamp(2.25rem, 2.023rem + 1.14vw, 2.75rem);
+  margin: 0;
+  margin-bottom: 32px;
+} */
+
+h2 {
+  font-size: clamp(1.5rem, 1.357rem + 0.71vw, 2rem);
+}
+
+h3 {
+  font-size: clamp(1.25rem, 1.068rem + 0.91vw, 1.75rem);
+}
+
+h4 {
+  font-size: clamp(1.125rem, 1.034rem + 0.45vw, 1.375rem);
+}
+
+h1,
+p,
+li,
+td,
+th,
+blockquote {
+  word-wrap: break-word;
+  font-size: clamp(1.125rem, 1.089rem + 0.18vw, 1.25rem);
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: var(--clr7);
+  font-weight: 700;
+  font-family: var(--fuenteTitulos);
+  transition: all 0.2s ease-in;
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(
+    to right,
+    rgba(66, 67, 77, 0),
+    rgba(66, 67, 77, 0.75),
+    rgba(66, 67, 77, 0)
+  );
+  margin: 0 0 2.4em 0;
+}
+
+small {
+  font-size: 80%;
+}
+
+blockquote {
+  border: 2px solid var(--principal);
+  padding: 2em;
+  text-align: center;
+}
+
+img {
+  border-style: none;
+  max-width: 100%;
+  border-radius: var(--radius);
+}
+
+ul li {
+  margin-left: 2em;
+}
+
+ol li {
+  list-style: decimal;
+  margin-left: 2em;
+}
+
+ol li::marker {
+  padding: 4px;
+  font-size: 2em;
+  font-weight: bolder;
+  color: var(--principal);
+  vertical-align: middle;
+}
+
+table {
+  width: 100%;
+  margin: 2em 0 4em;
+}
+
+table tr {
+  border-bottom: 2px dotted var(--principal);
+  display: flex;
+  padding: 1.2em 0;
+  flex-wrap: wrap;
+  gap: 1em;
+  width: 100%;
+}
+
+table th {
+  font-weight: 900;
+}
+
+table td,
+table th {
+  flex: 1 0 240px;
+  max-width: 100%;
+}
+
+input{
+  padding: 16px;
+  font-size: 18px;
+  border-radius: var(--radius);
+  border: 2px solid var(--principal);
+}
+
+.wrapper {
+  width: min(calc(100% - 20px), 1400px);
+  margin-inline: auto;
+  padding: 3rem 0;
+}
+
+.content {
+  width: min(calc(100% - 20px), 1400px);
+  margin-inline: auto;
+}
+
+.flow > * + *:not(h1) {
+  margin-top: 1.4em;
+}
+
+.title {
+  text-align: center;
+}
+
+.resaltar {
+  background-color: var(--clr2);
+  color: var(--accion);
+  padding: 4px;
+  font-weight: 700;
+}
+
+.add {
+  margin-top: 1rem;
+  max-width: 80%;
+  margin-inline: auto;
+  min-height: 280px;
+  padding: 1rem;
+}
+
+.boton {
+  display: block;
+  border-radius: var(--radius);
+  text-decoration: none;
+  padding: 16px 24px;
+  width: min(100%, 360px);
+  text-align: center;
+  font-weight: 700;
+  font-size: 18px;
+  transition: all 0.15s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  margin: 2rem auto;
+  cursor: pointer;
+  line-height: 1.2;
+}
+
+.boton:hover{
+  box-shadow: var(--shadow);
+  transform: scale(1.024);
+}
+
+.boton_1{
+  background: linear-gradient(120deg, #e5e5e5 30%, #f0f0f0 38%, #f0f0f0 40%, #e5e5e5 48%);
+  color: var(--principal);
+  border-radius: var(--radius);
+  border: 3.6px solid var(--principal);
+  margin: 0;
+}
+
+.boton_1:hover {
+  background: linear-gradient(120deg, #e5e5e5 30%, #f0f0f0 38%, #f0f0f0 40%, #e5e5e5 48%);
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  animation: load89234 1s infinite alternate-reverse;
+}
+
+.boton_2 {
+  background: linear-gradient(120deg, var(--accion) 30%, var(--principal) 38%, var(--principal) 40%, var(--accion) 48%);
+  color: white;
+  background-color: var(--principal);
+  border: 2.4px solid var(--principal);
+}
+
+.boton_2:hover{
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  animation: load89234 1s infinite alternate-reverse;
+}
+
+.boton_1:active,
+.boton_2:active {
+  box-shadow: none;
+}
+
+@keyframes load89234 {
+  100% {
+    background-position: -100% 0;
+  }
+}
+
+.boton-whatsapp {
+  position: fixed;
+  bottom: 8rem;
+  right: 12px;
+  z-index: 100;
+  -webkit-animation: scale-up-center 0.4s cubic-bezier(0.390,0.575,0.565,1.000) 0.5s 6 alternate-reverse both;
+  animation: scale-up-center 0.4s cubic-bezier(0.390,0.575,0.565,1.000) 0.5s 6 alternate-reverse both;
+  transition: all .2s ease-in-out;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  text-decoration: none;
+}
+
+.boton-whatsapp img{
+  display: inline;
+}
+
+.boton-whatsapp:hover {
+  -webkit-filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
+  filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
+}
+
+.flex > *{
+  flex: 1 0 400px;
+  max-width: 100%;
+}
+
+.bg{
+  background-color: #e5e5e5;
+  background-image: url("/img/bg.webp");
+}
+
+lord-icon{
+  display: block;
+  border: 2.4px solid var(--complemento2);
+  width: min(100%, 440px);
+  border-radius: var(--radius);
+  margin: 1em auto;
+  background-color: white;
+}
+
+.bloques{
+  display: grid;
+  gap: 1em;
+  grid-auto-flow: dense;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+}
+
+.bloques > div{
+  padding: 40px;
+  display: grid;
+  gap: 1em;
+  place-content: center;
+  place-items: center;
+  border-radius: var(--radius);
+}
+
+.bloques div video{
+  width: min(100%, 600px);
+  border-radius: var(--radius);
+}
+
+.bloques div ul li{
+  list-style: none;
+  margin: 0;
+}
+
+.bg1{
+  background-color: var(--clr1);
+}
+.bg2{
+  background-color: var(--clr2);
+}
+.bg3{
+  background-color: var(--clr3);
+}
+.bg4{
+  background-color: var(--clr4);
+}
+.bg5{
+  background-color: var(--clr5);
+}
+.bg6{
+  background-color: var(--clr6);
+}
+.bg7{
+  background-color: var(--clr7);
+}
+
+.title{
+  text-align: center;
+  display: grid;
+  place-items: center;
+}
+
+/* BG OFICIAL
+background: rgb(0,181,19);
+background: linear-gradient(135deg, rgba(0,181,19,1) 0%, rgba(255,254,0,1) 25%, rgba(255,0,0,1) 49%, rgba(255,121,0,1) 74%, rgba(14,0,255,1) 100%); */

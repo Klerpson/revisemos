@@ -1,0 +1,74 @@
+{% assign layout = page.layout %}
+{% case layout %}
+
+{% when "default" %}
+<header class="bloques wrapper">
+  <div class="header_mini_bloque bg">
+    <img src="{{'img/sticker-holografico-azul-turquesa.webp'|relative_url}}" alt="Adhesivo holográfico de seguridad">
+    <h3>Sticker holográfico</h3>
+    <p>Holograma Premium. Para pedidos desde 100000 unidades.</p>
+    <span>Haz clic y asesórate gratis</span>
+  </div>
+  <div class="header_bloque bloque_big">
+    <img src="{{'img/sticker-seguridad-licores.webp'|relative_url}}" alt="">
+    <div>
+      <h1>{{page.h1}}</h1>
+      <p>{{page.intro}}</p>
+      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
+    </div>
+  </div>
+  
+{% when "pagina" %}
+<header class="post_header wrapper">
+<img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
+<div class="header_bloque  flow">
+  <h1>{{page.h1}}</h1>
+  <p>➡️ {{page.intro}}</p>
+</div>
+
+{% when "industria" %}
+<header class="bloques wrapper">
+  <div class="header_mini_bloque bg">
+    <img src="{{'img/sticker-holografico-rojo-neon.webp'|relative_url}}" alt="Sticker holográfico de seguridad">
+    <h3>Sticker holográfico</h3>
+    <p>Holograma Premium. Para pedidos desde 100000 unidades.</p>
+    <span>Desde 520000</span>
+  </div>
+  <div class="header_bloque bloque_big">
+    <img src="{{'img/sticker-seguridad-licores.webp'|relative_url}}" alt="">
+    <div>
+      <h1>{{page.h1}}</h1>
+      <p>{{page.intro}}</p>
+      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
+    </div>
+  </div>
+
+  {% when "post" %}
+  <header class="post_header wrapper">
+    <div class="bg flow">
+      <h1>{{page.h1}}</h1>
+      <p>{{page.description}}</p>
+      <small>Autor: {{page.autor}} | Temática: <a href="{{page.category | remove: '#' | relative_url }}">{{page.category}}</a></small>
+    </div>
+    <img src="{{page.hero|reltive_url}}" alt="{{page.alt}}" width="600" height="340">
+
+{% else %}
+<header class="bloques wrapper">
+  <div class="header_bloque bloque_big">
+    <img src="{{page.hero |relative_url}}" alt="{{page.alt}}">
+    <div>
+      <h1>{{page.h1}}</h1>
+      <p>{{page.intro}}</p>
+      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate con nosotros" %}
+    </div>
+  </div>
+  <div class="header_mini_bloque bg">
+    <h4>Accesos rápidos</h4>
+    {% for items in page.enlaces %}
+    {% for item in items %}
+      <a href="{{item[1]}}">{{item[0]}}</a>
+    {% endfor %}
+    {% endfor %}
+  </div>
+{% endcase %}
+</header>

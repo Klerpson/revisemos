@@ -1,0 +1,23 @@
+---
+layout: compress
+---
+{% include head.html %}
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <!-- End Google Tag Manager (noscript) -->
+  <header class="landing_header wrapper bg">
+    <div>
+      <img src="{{'img/logotipo.webp'|relative_url}}" alt="Logotipo Holographic" width="280">
+      <h1>{{page.h1}}</h1>
+      <p>{{page.intro}}</p>
+      <a href="{{site.whatsapp}}%20:%20{{page.h1 | url_encode }}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+    </div>
+    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
+  </header>
+  
+  
+    {{content}}
+  <a href="#">
+    {% include boton-up.html %}
+  </a>
+</body>

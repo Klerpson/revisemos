@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<main class="wrapper pagina">
+  <aside>
+    {% include carousel.html %}
+    <a href="{{site.whatsapp}}" title="Asesoría sobre adhesivos holográficos" class="boton boton_2">Asesórate gratis</a>
+    <a href="{{'quienes-somos'|relative_url}}" title="Sobre Holographic S.A.S." class="boton boton_2">Conócenos mejor</a>
+    <a href="{{'faqs'|relative_url}}" title="FAQ's holographic" class="boton boton_2">Preguntas frecuentes</a>
+  </aside>
+  <article class="flow">
+    {{content}}
+  </article>
+</main>
+{% include cta.html %}

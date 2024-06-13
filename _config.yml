@@ -1,0 +1,27 @@
+baseurl: ''
+url: 'https://revisemos.com'
+name: 'Holographic'
+author: Henando - Holographic
+instagram: https://www.instagram.com/holographic.col/
+facebook: https://www.facebook.com/holographic.col
+youtube: https://www.youtube.com/user/HolographicSAS
+maps: https://maps.app.goo.gl/jYCUm1ups1dPYUUVA
+whatsapp: https://api.whatsapp.com/send?phone=+573165285933&text=👋Hola,%20estoy%20interesado%20en%20las%20etiquetas%20de%20seguridad
+telefono: "6017561613"
+direccion: Av Cra 68 No 75A - 50 C.C Metropolis Edificio Ofiespacios ofi 415, Bogotá
+
+markdown: kramdown
+
+permalink: :slug
+
+keep_files: [/img]
+
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []

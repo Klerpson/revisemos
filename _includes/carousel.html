@@ -1,0 +1,18 @@
+<div class="carousel_container">
+  <div class="carousel">  
+    {% for item in site.data.fotos %}
+    <article class="item">
+      <a href="{{site.instagram}}" title="instagram Holographic" rel="nofollow noopener noreferrer" target="_blank">
+        <img src="{{item.img|relative_url}}" loading="lazy" alt="{{item.alt}}" width="180" height="226">
+      </a>
+  </article>
+  {% endfor %}
+  {% for item in site.data.fotos %}
+  <article class="item">
+    <a href="{{site.instagram}}" title="instagram Holographic" rel="nofollow noopener noreferrer" target="_blank">
+      <img src="{{item.img|relative_url}}" loading="lazy" alt="{{item.alt}}" width="180" height="226">
+    </a>
+  </article>
+  {% endfor %}
+  </div> 
+</div>
