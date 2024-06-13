@@ -13,7 +13,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/productos/rollo-papel-holografico/</loc>
+        <loc>http://localhost:4000/productos/rollo-papel-holografico</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -21,7 +21,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/productos/cintas-de-seguridad/</loc>
+        <loc>http://localhost:4000/productos/cintas-de-seguridad</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -29,7 +29,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/productos/codigos-de-barras/</loc>
+        <loc>http://localhost:4000/productos/codigos-de-barras</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -45,7 +45,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/industria/estampilla-para-licores/</loc>
+        <loc>http://localhost:4000/industria/estampilla-para-licores</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -53,7 +53,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/servicios/etikit-app/</loc>
+        <loc>http://localhost:4000/servicios/etikit-app</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -61,7 +61,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/servicios/etiquetas-personalizadas/</loc>
+        <loc>http://localhost:4000/servicios/etiquetas-personalizadas</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -69,7 +69,23 @@
   
   
       <url>
-        <loc>http://localhost:4000/productos/etiquetas-void/</loc>
+        <loc>http://localhost:4000/servicios/etiquetas-platinum</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/servicios/etiquetas-premium</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/productos/etiquetas-void</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -97,7 +113,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/servicios/marcacion-y-trazabilidad/</loc>
+        <loc>http://localhost:4000/servicios/marcacion-y-trazabilidad</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -133,7 +149,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/productos/stickers-holograficos/</loc>
+        <loc>http://localhost:4000/productos/stickers-holograficos</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

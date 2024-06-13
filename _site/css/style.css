@@ -787,7 +787,7 @@ details p{
 
 .productos_beneficios li{
   list-style: none;
-  flex: 1 0 280px;
+  flex: 1 0 320px;
   border-bottom: 1px dotted var(--gris);
   padding: 1em 0;
   margin-bottom: 1em;

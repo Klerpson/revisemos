@@ -1,6 +1,6 @@
 ---
 layout: servicio
-permalink: servicios/etiquetas-personalizadas/
+permalink: servicios/etiquetas-personalizadas
 title: "Stickers holográficos y etiquetas adhesivas personalizadas"
 description: "Destaca tus productos con stickers holográficos y etiquetas adhesivas personalizadas. Diseños exclusivos que cautivan. ¡Solicita una cotización ahora!"
 h1: Servicio de stickers holográficos personalizadas 
@@ -13,12 +13,13 @@ enlaces:
   - Etiquetas personalizadas con Tamper Evident: '#enlace2'
   - Cómo personalizamos tu impresión: '#enlace3'
   - Tamaños y colores de la impresión personalizada: '#enlace4'
+  - Algunas muestras de los hologramas personalizados: '#muestras'
 puntos-dolor:
   - Holograma personalizado: "img/holograma-exclusivo.webp"
-  - Calcomanías personalizadas: "img/nosotros/foto-de-stiker-holografico-15.webp"
-  - Sello personalizado: "img/holograma-personalizado.webp"
-  - Sticker personalizado: "img/nosotros/foto-de-stiker-holografico-2.webp"
-  - Etiqueta personalizada: "img/sticker-personalizado.webp"
+  - Destaca tu marca: "img/nosotros/foto-de-stiker-holografico-15.webp"
+  - Protege y destaca a la vez: "img/holograma-personalizado.webp"
+  - Personaliza y controla: "img/nosotros/foto-de-stiker-holografico-2.webp"
+  - Evita las falsificaciones: "img/sticker-personalizado.webp"
 videos:
   - videos/adhesivo-premium.mp4
   - videos/holograma-personalizado.mp4

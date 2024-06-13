@@ -7,7 +7,7 @@ layout: default
 <section class="wrapper flow">
   <h2>Utiliza nuestro servicio de {{page.h1 | downcase}}</h2>
   <p>{{page.description}}</p>
-  <h3>{{page.title | capitalize }}: conoce algunas muestras</h3>
+  <h3 id="muestras">{{page.title | capitalize }}: conoce algunas muestras</h3>
   <div class="home_gallery">
     {% for items in page.puntos-dolor %}
     {% for item in items %}

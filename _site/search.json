@@ -35,7 +35,7 @@
     {
     
     "title"    : "Consigue tu rollo de papel holográfico con nosotros",
-    "url"      : "/productos/rollo-papel-holografico/"
+    "url"      : "/productos/rollo-papel-holografico"
     
     } ,
 
@@ -46,7 +46,7 @@
     {
     
     "title"    : "Cintas Inviolables | Protección Segura con Evidencia",
-    "url"      : "/productos/cintas-de-seguridad/"
+    "url"      : "/productos/cintas-de-seguridad"
     
     } ,
 
@@ -57,7 +57,7 @@
     {
     
     "title"    : "Códigos de barras: sigue y controla tus productos y activos",
-    "url"      : "/productos/codigos-de-barras/"
+    "url"      : "/productos/codigos-de-barras"
     
     } ,
 
@@ -79,7 +79,7 @@
     {
     
     "title"    : "Marcación de activos fijos y trazabilidad con Holographic",
-    "url"      : "/industria/estampilla-para-licores/"
+    "url"      : "/industria/estampilla-para-licores"
     
     } ,
 
@@ -90,7 +90,7 @@
     {
     
     "title"    : "Etikit mantén el control de tus mercancía | Holographic",
-    "url"      : "/servicios/etikit-app/"
+    "url"      : "/servicios/etikit-app"
     
     } ,
 
@@ -101,7 +101,29 @@
     {
     
     "title"    : "Stickers holográficos y etiquetas adhesivas personalizadas",
-    "url"      : "/servicios/etiquetas-personalizadas/"
+    "url"      : "/servicios/etiquetas-personalizadas"
+    
+    } ,
+
+  
+  
+  
+  
+    {
+    
+    "title"    : "Holographic: Servicio de Stickers Holográficos Platinum",
+    "url"      : "/servicios/etiquetas-platinum"
+    
+    } ,
+
+  
+  
+  
+  
+    {
+    
+    "title"    : "Holographic: Servicio de Stickers Holográficos Premium",
+    "url"      : "/servicios/etiquetas-premium"
     
     } ,
 
@@ -112,7 +134,7 @@
     {
     
     "title"    : "Etiquetas de marcación VOID de Holographic",
-    "url"      : "/productos/etiquetas-void/"
+    "url"      : "/productos/etiquetas-void"
     
     } ,
 
@@ -164,7 +186,7 @@
     {
     
     "title"    : "Marcación de activos fijos y trazabilidad con Holographic",
-    "url"      : "/servicios/marcacion-y-trazabilidad/"
+    "url"      : "/servicios/marcacion-y-trazabilidad"
     
     } ,
 
@@ -224,7 +246,7 @@
     {
     
     "title"    : "Stickers y adhesivos holográficos",
-    "url"      : "/productos/stickers-holograficos/"
+    "url"      : "/productos/stickers-holograficos"
     
     } ,
 
