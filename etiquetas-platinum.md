@@ -43,7 +43,7 @@ Etiquetas con un diseño holográfico exclusivo, propiedad del cliente.
 
 Utilizamos diferentes tecnologías de origen. Se pueden fabricar mezclando dos tipos de materiales adhesivos, dependiendo de las necesidades de seguridad y su función. **Son hechas a la medida que requiere el producto final**.
 
-Son **Ideales para consumos de más de 50.000 unidades**.
+Son **ideales para consumos de más de 50.000 unidades**.
 
 [Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
 

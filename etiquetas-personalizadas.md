@@ -68,11 +68,11 @@ Nuestros hologramas personalizados son piezas holográficas con diseños exclusi
 ![Imagen de un sticker holográfico explicando sus partes]({{'img/stikcer-personalizado-explicado.webp' | relative_url}} "Sello personalizado Holographic"){:loading="lazy"}
 ![Desarrollo de holograma personalizado]({{'img/desarrollo-holograma-personalizado.webp' | relative_url}} "Sello personalizado Holographic"){:loading="lazy"}
   
-* **01 - Efecto degradado**
-* **02 - Patrón de línea geométricas**
-* **03 - Efecto relieve**
-* **04 - Efecto profundidad 3D**
-* **05 - Efecto 4 canales o capas**
+* **01 - Efecto degradado**: El efecto de degradado se puede identificar a simple vista, dando movimiento suaves al holograma.
+* **02 - Patrón de línea geométricas**: Patrón de líneas geométricas con alta resolución. Produce cambios visuales diseñados con un software especial único para brindar más seguridad.
+* **03 - Efecto relieve**: Técnica utilizada con gráficos generados por un software especial que da el efecto de relieve o elevados de la base.
+* **04 - Efecto profundidad 3D**: Gracias al diseño proporcionado, se puede lograr un efecto 3D en el fondo. Aporta una visión de profundidad al observar el holograma.
+* **05 - Efecto 4 canales o capas**: Se diseña 4 capas con diferentes imágenes o textos, con el efecto flip-flop. El resultado es una imagen que aparece y la otra desaparece si se observa desde diferentes ángulos.
 
 >**Estos stickers personalizados tienen la capacidad de difractar la luz**. Estos agrega una visualización difícil de copiar con impresiones convencionales y minimiza la capacidad de falsificación.
 {:id="enlace2"}

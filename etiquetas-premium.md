@@ -9,45 +9,57 @@ hero: img/holograma-premium.webp
 jpg: img/holograma-premium.jpg
 alt: Fotografía de stickers premium
 enlaces:
-  - La seguridad de las etiquetas personalizadas: '#enlace1'
+  - Características del servicio premium de Holographic: '#enlace1'
   - Etiquetas personalizadas con Tamper Evident: '#enlace2'
   - Cómo personalizamos tu impresión: '#enlace3'
   - Tamaños y colores de la impresión personalizada: '#enlace4'
 puntos-dolor:
-  - Sticker platinum personalizado: "img/sellos-platinum.webp"
+  - Holograma de seguridad platinum: img/servicio-premium.webp
   - Diseño exclusivo del cliente: "img/etiqueta-platinum.webp"
   - Sticker platinum de Holographic: "img/etiqueta-platinum-holographic.webp"
   - Destaca entre la competencia: "img/sticker-platinum-holographic.webp"
   - Diseño imposible de falsificar: "img/holograma-platinum.webp"
 videos:
-  - videos/holograma-platinum.mp4
-  - videos/sticker-platinum.mp4
-  - videos/adhesivo-platinum.mp4
+  - videos/servicio-premium.mp4
+  - videos/stickers-premium.mp4
+  - videos/adhesivos-premium.mp4
 fotos:
-  - Holograma de seguridad platinum: img/servicio-premium.webp
-  - Foto del servicio de stickers paltinum: img/servicio-stickers-platinum.webp
-  - Foto de sticker platinum: img/sticker-platinum.webp
-  - Estampilla de licor platinum: img/sticker-holografico-licor.webp
-  - Imagen de sticker platinum: img/estampilla-platinum.webp
-  - Adhesivo a color platinum: img/adhesivo-platinum.webp
-  - Stickers platinum de seguridad: img/sticker-platinum-seguridad.webp
-  - Sello platinum: img/codigo-barras-platinum.webp
-  - Sticker a color platinum: img/holograma-a-color-personalizado.webp
-  - Sticker platinum: img/nosotros/foto-de-stiker-holografico-19.webp
+  - Sticker premium personalizado: "img/servicio-hologramas-premium.webp"
+  - Foto del servicio de stickers premium: img/servicio-premium-de-stickers.webp
+  - Foto de sticker premium: img/nosotros/foto-de-stiker-holografico-21.webp
+  - Estampilla premium: img/stickers-premium.webp
+  - Imagen de sticker premium: img/holograma-premium-holographic.webp
+  - Adhesivo a color premium: img/adhesivo-premium.webp
+  - Sello premium: img/sello-premium.webp
+  - Stickers premium de seguridad: img/servicio-adhesivos-premium.webp
+  - Sticker a color premium: img/servicio-stickers-holograficos-premium.webp
+  - Sticker premium: img/sticker-evidencia-premium.webp
 ---
 {% include slider.html %}
 
-## Destaca tus productos con nuestro servicio de hologramas platinum
+## Luce tus productos mientras cuidas tu inversión con nuestro servicio Premium
 
-Etiquetas con un diseño holográfico exclusivo, propiedad del cliente.
+Diseñamos y fabricamos etiquetas con un diseño holográfico exclusivo propiedad del cliente. Este servicio es utilizado en diferentes industrias y productos, ya que **se enfoca en el bienestar de tus consumidores y su interés por recibir un producto genuino, de calidad y sin adulteración**.
 
-Utilizamos diferentes tecnologías de origen. Se pueden fabricar mezclando dos tipos de materiales adhesivos, dependiendo de las necesidades de seguridad y su función. **Son hechas a la medida que requiere el producto final**.
+Son **ideales para consumos de más de 100.000 unidades**.
 
-Son **Ideales para consumos de más de 50.000 unidades**.
-
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank" id="enlace1"}
 
 {% include videos.html %}
+
+## ¿Cuáles son las características del servicio de hologramas premium?
+
+| Características | Ventajas | Detalles Técnicos |
+|----------------|----------|-------------------|
+| Generación holográfica personalizada en 3D | Diseño exclusivo y difícil de copiar | Resolución de hasta 2000 líneas por pulgada |
+| Diseño con imágenes y micro textos | Mayor seguridad y autenticidad | Tamaño mínimo de micro texto: 0.1 mm |
+| Creadas por equipos tecnológicos de alta resolución | Calidad superior y detalles precisos | Equipos con tecnología de grabado láser |
+| Difíciles de copiar con impresiones convencionales | Protección contra falsificaciones | Requiere equipos especializados para su reproducción |
+| Característica Tamper Evident (opcional) | Evidencia de apertura o manipulación | Adhesivo sensible a la manipulación |
+| Muestra apertura en la superficie donde se pega o en la etiqueta | Garantiza la integridad del producto | Deja rastros visibles si se intenta despegar |
+| No permite que las etiquetas sean reutilizables | Evita el uso no autorizado de etiquetas | Una vez despegada, la etiqueta se destruye o daña |
+
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
 
 ## Niveles de Seguridad de los stickers platinum de Holographic
 
@@ -64,3 +76,41 @@ Son **Ideales para consumos de más de 50.000 unidades**.
 {:class="productos_beneficios bg" style="padding: 20px;"}
 
 Este producto de **los hologramas platinum cuenta con un nivel de seguridad NIVEL 5** y es completamente personalizable.
+
+![Imagen de un sticker holográfico explicando sus partes]({{'img/sello-premium-holographic.webp' | relative_url}} "Sello premium Holographic"){:loading="lazy"}
+![Desarrollo de holograma premium]({{'img/holograma-premium.webp' | relative_url}} "Sello premium Holographic"){:loading="lazy"}
+  
+* **01 - Efecto perla**: Este es un efecto en el que algunas partes de la imagen se ajustan para que parezcan perlas reales.
+* **02 - Evidencia de despegado**: Se puede agregar evidencia de despegado.
+* **03 - Patrón laborado**: Patrón de líneas geométricas con alta resolución. Producen cambios visuales diseñados con un software especial único para brindar más seguridad.
+* **04 - Efecto degradado**: EI efecto de degradado se puede identificar a simple vista dando movimiento suaves al holograma.
+* **05 - Globo 3D**: La imagen del globo se ha proporcionado como un objeto 3D puro y representa un ligero movimiento al cambiar el ángulo de visión del holograma.
+
+>**Estos stickers personalizados tienen la capacidad de difractar la luz**. Estos agrega una visualización difícil de copiar con impresiones convencionales y minimiza la capacidad de falsificación.
+{:id="enlace2"}
+
+## Servicio premium de hologramas con evidencia de despegado (Tamper Evident)
+
+### Sticker premium con evidencia Full Release
+
+Su característica fundamental es que al intentar ser removida queda la marca del adhesivo plano en la superficie donde se instaló, lo que no permite ser removida del producto original.
+
+### Sticker premium Holograma Honeycomb
+
+Al retirarse de la superficie **se evidencian hexágonos dispuestos modularmente**. Simulan la forma de un panal de abejas en la superficie donde ha sido adherida previamente.
+
+*No deja marca en la superficie si no en la etiqueta.*
+
+Algunos de nuestros clientes desean tener la característica TAMPER EVIDENT. Sin embargo, no quieren que en la superficie quede la evidencia.
+
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+
+Los sectores o industrias que **más solicitan el servicio de hologramas de seguridad premium** son:
+
+1. Universidades y Colegios
+2. Repuestos
+3. Lubricantes
+4. Productos Electrónicos y Eléctricos
+5. Licores
+6. Industria Farmacéutica
+7. Industria Manufacturera
