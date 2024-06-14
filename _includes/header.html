@@ -49,6 +49,7 @@
       <h1>{{page.h1}}</h1>
       <p>{{page.description}}</p>
       <small>Autor: {{page.autor}} | Temática: <a href="{{page.category | remove: '#' | relative_url }}">{{page.category}}</a></small>
+      <small>Mira más temas en <a href="{{'blog' | relative_url }}">nuestro blog</a></small>
     </div>
     <img src="{{page.hero|reltive_url}}" alt="{{page.alt}}" width="600" height="340">
 

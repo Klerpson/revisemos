@@ -492,7 +492,7 @@ nav {
 }
 
 .dropdown-content a{
-  margin-bottom: 8px;
+  margin: 0 0 16px 0;
 }
 
 .navegacion > a:hover,
@@ -913,6 +913,25 @@ details p{
   max-width: 180px;
   height: 100%;
   object-fit: cover;
+}
+
+.blog_gallery{
+  display: grid;
+  gap: 2em;
+}
+
+.blog_gallery article{
+  display: flex;
+  gap: 1em;
+  align-items: center;
+
+  & img{
+    box-shadow: var(--shadow);
+  }
+
+  & small{
+    font-weight: 700;
+  }
 }
 
 .post_header{

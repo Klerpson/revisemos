@@ -1,3 +1,22 @@
+.blog_gallery{
+  display: grid;
+  gap: 2em;
+}
+
+.blog_gallery article{
+  display: flex;
+  gap: 1em;
+  align-items: center;
+
+  & img{
+    box-shadow: var(--shadow);
+  }
+
+  & small{
+    font-weight: 700;
+  }
+}
+
 .post_header{
   min-height: 50dvh;
   padding-top: 4em;

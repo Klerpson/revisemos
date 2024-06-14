@@ -56,7 +56,7 @@ nav {
 }
 
 .dropdown-content a{
-  margin-bottom: 8px;
+  margin: 0 0 16px 0;
 }
 
 .navegacion > a:hover,

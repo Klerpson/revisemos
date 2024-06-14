@@ -12,12 +12,13 @@ alt: Fotografía de un vaso GurCoff
   <h2>El blog de Holographic está pensado para ayudarte</h2>
   <p>Hemos aprendido y seguimos aprendiendo lo que más podemos sobre <strong>adhesivos, hologramas, cintas de seguridad, mercancías, envíos, falsificación y protección</strong>, entre otros.</p>
   <h3>Haz clic en los siguientes artículos del blog de Holographic ⏬</h3>
-  <div class="home_gallery">
+  <div class="blog_gallery">
     {% for post in site.posts %}
     <article>
-      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}">
+      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="180" height="120">
       <div>
         <a href="{{post.url|relative_url}}"><h4>{{post.h1}}</h4></a>
+        <small>{{post.date | date: "%d-%m-%Y"}}</small>
       </div>
     </article>
     {% endfor %}
