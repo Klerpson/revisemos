@@ -1,28 +1,28 @@
 stickers:
   - img: img/holograma-adhesivo-personalizado.webp
-    alt: Holograma personalizado para empresas
-    nombre: Holograma Personalizado
+    alt: Servicio personalizado para empresas
+    nombre: Etiquetas Platinum
     p: Etiquetas desarrolladas con un diseño holográfico exclusivo
-    url: "productos/etiquetas-personalizadas"
+    url: "servicios/etiquetas-platinum"
     title: Holograma personalizado
   - img: img/cinta-seguridad.webp
     alt: Cintad de seguridad para mercancía
     nombre: Cintas de Seguridad
     p: No pierdas más mercancía con nuestras cintas de seguridad
-    url: "#"
+    url: "productos/cintas-de-seguridad"
     title: Cinta Seguridad
   - img: img/adhesivo-con-evidencia.webp
     alt: Etiqueta de seguridad con evidencia de despegue
     nombre: Cintas con evidencia
     p: Etiquetas de seguridad que dejan una evidencia de apertura
-    url: "#"
+    url: "productos/stickers-holograficos"
     title: Etiqueta seguridad evidencia
   - img: img/holograma-personalizado.webp
     alt: Holograma adhesivo de seguridad
-    nombre: Holograma de Seguridad
-    p: Solución de protección de contenido o seguridad con etiquetas genéricas
-    url: "#"
-    title: Holograma Seguridad
+    nombre: Hologramas personalizados
+    p: Solución de etiquetas adhesivas personalizadas y más seguras
+    url: "servicios/etiquetas-personalizadas"
+    title: Holograma personalizado
   - img: img/etiquetas-void.webp
     alt: Sticker VOID de seguridad
     nombre: Etiqueta Adhesiva VOID
@@ -35,6 +35,38 @@ hologramas:
     alt: Holograma personalizado para empresas
     nombre: Holograma Personalizado
     p: Etiquetas desarrolladas con un diseño holográfico exclusivo
+    url: "productos/etiquetas-personalizadas"
+    title: Holograma personalizado
+  - img: img/servicio-premium.webp
+    alt: Servicio de stickers holográficos platinum
+    nombre: Stickers Platinum
+    p: Destaca de tu competencia y asegura tus productos
+    url: "servicios/etiquetas-platinum"
+    title: Cinta Seguridad
+  - img: img/stickers-personalizados.webp
+    alt: Etiqueta de seguridad premium
+    nombre: Stickers Premium
+    p: Personaliza tu etiqueta con hologramas antifalsificación
+    url: "servicios/etiquetas-premium"
+    title: Etiqueta seguridad premium
+  - img: img/bobina-papel-holografico.webp
+    alt: Bobina de papel holográfico
+    nombre: Rollo papel holográfico
+    p: Consigue el rollo de adhesivo holográfico para mayor rendimiento
+    url: "productos/bobinas-papel-holografico"
+    title: Rollo adhesivo holográfico
+  - img: img/sticker-holografico-licor.webp
+    alt: Sticker holográfico de licores
+    nombre: Estampilla de licores
+    p: Ejemplo de una industria beneficiada por stickers holográficos
+    url: "industrias/estampilla-para-licores/"
+    title: Etiqueta holografica de licores
+
+impresoras:
+  - img: img/etiquetas-blancas.webp
+    alt: Etiquetas adhesivas para impresión térmica
+    nombre: Etiquetas de papel
+    p: Etiquetas para impresión térmica y de transferencia
     url: "productos/etiquetas-personalizadas"
     title: Holograma personalizado
   - img: img/servicio-premium.webp

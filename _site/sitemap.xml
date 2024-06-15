@@ -21,6 +21,14 @@
   
   
       <url>
+        <loc>http://localhost:4000/catalogo</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
         <loc>http://localhost:4000/productos/cintas-de-seguridad</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -107,6 +115,14 @@
        </url>
   
   
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/productos/impresoras-termicas-y-lectores-de-codigos</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
   
   
   

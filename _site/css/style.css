@@ -922,11 +922,18 @@ details p{
 
 .blog_gallery article{
   display: flex;
+  flex-wrap: wrap;
   gap: 1em;
   align-items: center;
+  justify-content: center;
 
   & img{
     box-shadow: var(--shadow);
+  }
+
+  & div{
+    flex: 1 0 400px;
+    max-width: 100%;
   }
 
   & small{

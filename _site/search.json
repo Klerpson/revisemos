@@ -50,6 +50,17 @@
   
     {
     
+    "title"    : "Catálogo de productos de Holographic en Colombia",
+    "url"      : "/catalogo"
+    
+    } ,
+
+  
+  
+  
+  
+    {
+    
     "title"    : "Cintas Inviolables | Protección Segura con Evidencia",
     "url"      : "/productos/cintas-de-seguridad"
     
@@ -179,6 +190,17 @@
   
     {
     
+    "title"    : "Compra tu impresora térmica o lector de códigos",
+    "url"      : "/productos/impresoras-termicas-y-lectores-de-codigos"
+    
+    } ,
+
+  
+  
+  
+  
+    {
+    
     "title"    : "Sticker de Seguridad Holográfico, Etiquetas y Adhesivos",
     "url"      : "/"
     
@@ -234,7 +256,7 @@
   
     {
     
-    "title"    : "Catálogo de productos de Holographic en Colombia",
+    "title"    : "Estos productos de Holographic en Colombia está a tu alcance",
     "url"      : "/productos"
     
     } ,
@@ -283,7 +305,7 @@
   
     {
     
-    "title"    : "Stickers y adhesivos holográficos",
+    "title"    : "Stickers holográficos genéricos y personalizados",
     "url"      : "/productos/stickers-holograficos"
     
     } ,
