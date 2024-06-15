@@ -65,31 +65,31 @@ hologramas:
 impresoras:
   - img: img/etiquetas-blancas.webp
     alt: Etiquetas adhesivas para impresión térmica
-    nombre: Etiquetas de papel
-    p: Etiquetas para impresión térmica y de transferencia
-    url: "productos/etiquetas-personalizadas"
-    title: Holograma personalizado
-  - img: img/servicio-premium.webp
-    alt: Servicio de stickers holográficos platinum
-    nombre: Stickers Platinum
-    p: Destaca de tu competencia y asegura tus productos
-    url: "productos/etiquetas-platinum"
-    title: Cinta Seguridad
-  - img: img/stickers-personalizados.webp
-    alt: Etiqueta de seguridad premium
-    nombre: Stickers Premium
-    p: Personaliza tu etiqueta con hologramas antifalsificación
-    url: "productos/etiquetas-premium"
-    title: Etiqueta seguridad premium
-  - img: img/bobina-papel-holografico.webp
-    alt: Bobina de papel holográfico
-    nombre: Rollo papel holográfico
-    p: Consigue el rollo de adhesivo holográfico para mayor rendimiento
-    url: "productos/bobinas-papel-holografico"
-    title: Rollo adhesivo holográfico
-  - img: img/sticker-holografico-licor.webp
-    alt: Sticker holográfico de licores
-    nombre: Estampilla de licores
-    p: Ejemplo de una industria beneficiada por stickers holográficos
-    url: "industrias/estampilla-para-licores/"
-    title: Etiqueta holografica de licores
+    nombre: Etiquetas de papel grandes
+    p: Etiquetas de papel grandes para impresión térmica
+    url: "productos/etiquetas-de-papel"
+    title: Etiquetas de papel para impresora térmica
+  - img: img/adhesivo-codigo-de-barras.webp
+    alt: Etiquetas para códigos de barra
+    nombre: Etiquetas de papel plateado
+    p: Etiquetas de impresión térmica y de transferencia
+    url: "productos/etiquetas-de-papel"
+    title: Etiquetas de papel para impresora térmica
+  - img: img/codigo-barras-etiqueta.webp
+    alt: Etiqueta para códigos de barras
+    nombre: Etiquetas para códigos
+    p: Imprime códigos de barras y marca tus productos
+    url: "productos/etiquetas-de-papel"
+    title: Etiquetas de papel para impresora térmica
+  - img: img/nosotros/foto-de-stiker-holografico-11.webp
+    alt: Etiquetas con evidencia de despegue
+    nombre: Etiqueta con evidencia
+    p: Imprime y marca tus activos con etiquetas con evidencia de despegue
+    url: "productos/etiquetas-de-papel"
+    title: Evident Tamper
+  - img: img/holograma-qr.webp
+    alt: Etiqueta holográfica
+    nombre: Marca con hologramas
+    p: Utiliza adhesivos con más tecnología de marcado y seguridad
+    url: "productos/stickers-holograficos"
+    title: Adhesivo holográfico

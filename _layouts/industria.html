@@ -1,6 +1,24 @@
 ---
 layout: default
 ---
-{{content}}
-<!-- Este layout se hizo para poder aprovechar el header diferente a las demás secciones -->
 
+<main class="wrapper flow ">
+  {{content}}
+</main>
+<section class="wrapper flow">
+  <h2>Utiliza nuestro servicio de {{page.h1 | downcase}}</h2>
+  <p>{{page.description}}.</p>
+  <h3 id="muestras">{{page.title | capitalize }}: conoce algunas muestras</h3>
+  <div class="home_gallery">
+    {% for items in page.puntos-dolor %}
+    {% for item in items %}
+    <article class="flow">
+      <img src="{{item[1]|relative_url}}" alt="{{item[0]}}" loading="lazy" width="180" height="225">
+      <h4>{{item[0]}}</h4>
+    </article>
+    {% endfor %}
+    {% endfor %}
+  </div>
+  <a href="#" title="Sello personalizado" class="boton boton_2">Asesórate gratis</a>
+</section>
+{% include testimonios.html %}

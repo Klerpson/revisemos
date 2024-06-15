@@ -12,16 +12,17 @@ alt: Fotografía de un negocio en las oficinas de Holographic
   <h2>Estas empresas protegen sus activos con nuestros stickers de seguridad y marcación</h2>
   <p>¿Están falsificando tu mercancía? ¿Tus envíos no llegan completos o con la mercancía original?</p>
   <h3>Así es como te podemos ayudar desde Holographic S.A.S. ⏬</h3>
-  <div class="home_gallery">
+  <div class="blog_gallery">
     {% for caso in site.pages %}
      {% if caso.layout == "industria" %}
     <article>
-      <img src="{{caso.hero|relative_url}}" alt="{{caso.alt}}">
+      <img src="{{caso.hero|relative_url}}" alt="{{caso.alt}}" loading="lazy" width="280" height="180">
       <div>
         <a href="{{caso.url|relative_url}}"><h4>{{caso.h1}}</h4></a>
-        </div>
-        </article>
-      {% endif %}
+        <p>{{caso.intro}}</p>
+      </div>
+    </article>
+    {% endif %}
     {% endfor %}
   </div>
 </main>
