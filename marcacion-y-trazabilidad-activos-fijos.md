@@ -53,6 +53,8 @@ Son ideales cuando se busca una alternativa distinta a las placas para marcar o 
 
 Además de su atractivo visual, estos hologramas **ofrecen la posibilidad de incluir códigos de barras** para una mayor eficacia en el seguimiento de activos. Nuestros etiquetas con códigos de marcación son ampliamente utilizados por nuestros clientes que buscan **marcar sus activos de una manera que combina seguridad, funcionalidad y diseño**.
 
+[Conoce las etiquetas personalizadas]({{ 'servicios/etiquetas-personalizadas' | relative_url }} "Stickers holográficos personalizados"){:class="boton boton_2" target="_blank"}
+
 >Las diferentes tecnologías que tenemos en Holographic nos permiten incluir muchos elementos de seguridad dentro del holograma de cada sticker, haciéndolos imposibles de copiar o reemplazar.
 {:id="etiquetas-void"}
 
@@ -64,7 +66,7 @@ Su **manipulación es fácil y cuentan con una resistencia excepcional**, lo que
 
 Están disponibles en diferentes tamaños para adaptarse a las necesidades específicas de cada activo.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+[Conoce las etiquetas VOID]({{ 'productos/etiquetas-void' | relative_url }} "Etiquetas VOID"){:class="boton boton_2" target="_blank"}
 
 {% include slider.html %}
 
@@ -102,4 +104,4 @@ Su transparencia permite una **lectura clara de la información**, mientras que 
 
 Prueba las etiquetas para control de activos fijos que tenemos para ti en Holographic.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+[Conoce las etiquetas holográficas]({{ 'productos/stickers-holograficos' | relative_url }} "Etiquetas holográficas"){:class="boton boton_2" target="_blank"}

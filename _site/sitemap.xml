@@ -61,7 +61,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/industria/estampilla-para-licores</loc>
+        <loc>http://localhost:4000/industrias/etiquetas-para-licores</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
