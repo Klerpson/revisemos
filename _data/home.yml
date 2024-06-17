@@ -78,7 +78,7 @@ impresoras:
   - img: img/codigo-barras-etiqueta.webp
     alt: Etiqueta para códigos de barras
     nombre: Etiquetas para códigos
-    p: Imprime códigos de barras y marca tus productos
+    p: Etiquetas de papel con códigos de barras
     url: "productos/etiquetas-de-papel"
     title: Etiquetas de papel para impresora térmica
   - img: img/nosotros/foto-de-stiker-holografico-11.webp

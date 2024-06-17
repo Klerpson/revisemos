@@ -9,10 +9,9 @@ hero: img/holograma-premium.webp
 jpg: img/holograma-premium.jpg
 alt: Fotografía de stickers premium
 enlaces:
-  - Características del servicio premium de Holographic: '#enlace1'
-  - Etiquetas personalizadas con Tamper Evident: '#enlace2'
-  - Cómo personalizamos tu impresión: '#enlace3'
-  - Tamaños y colores de la impresión personalizada: '#enlace4'
+  - Las características de nuestros stickers holográficos premium: '#caracteristicas-stickers-premium'
+  - Adhesivos premium imposibles de copiar: '#adhesivos-holograficos-imposibles-de-copiar'
+  - Stickers holográficos premium con evidencia de despagado: '#stickers-premium-con-evidencia-de-despegado'
 puntos-dolor:
   - Holograma de seguridad platinum: img/servicio-premium.webp
   - Diseño exclusivo del cliente: "img/etiqueta-platinum.webp"
@@ -37,11 +36,12 @@ fotos:
 ---
 {% include slider.html %}
 
-## Luce tus productos mientras cuidas tu inversión con nuestro servicio Premium
+## Luce tus productos mientras cuidas tu inversión con nuestros stickers holográficos Premium
 
 Diseñamos y fabricamos etiquetas con un diseño holográfico exclusivo propiedad del cliente. Este servicio es utilizado en diferentes industrias y productos, ya que **se enfoca en el bienestar de tus consumidores y su interés por recibir un producto genuino, de calidad y sin adulteración**.
 
 Son **ideales para consumos de más de 100.000 unidades**.
+{:id="caracteristicas-stickers-premium"}
 
 [Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank" id="enlace1"}
 
@@ -73,7 +73,7 @@ Son **ideales para consumos de más de 100.000 unidades**.
   Es la tecnología de generación de más alta seguridad, no se mide en dpi, ya que se pueden generar objetos del tamaño de micrones. Se pueden generar características únicas por lo cual no es posible de ser replicada.
 * ***Nivel 5***  
   La más alta resolución en imágenes holográficas, imágenes nano ópticas. Se alcanzan tamaños de 300 nm, estructuras visuales 3D con una apariencia increíblemente real. Imágenes encubiertas que requieren equipos especializados para identificarla, por lo cual son imposibles de falsificar.
-{:class="productos_beneficios bg" style="padding: 20px;"}
+{:class="productos_beneficios bg" style="padding: 20px;" id="adhesivos-holograficos-imposibles-de-copiar"}
 
 Este producto de **los hologramas platinum cuenta con un nivel de seguridad NIVEL 5** y es completamente personalizable.
 
@@ -87,7 +87,7 @@ Este producto de **los hologramas platinum cuenta con un nivel de seguridad NIVE
 * **05 - Globo 3D**: La imagen del globo se ha proporcionado como un objeto 3D puro y representa un ligero movimiento al cambiar el ángulo de visión del holograma.
 
 >**Estos stickers personalizados tienen la capacidad de difractar la luz**. Estos agrega una visualización difícil de copiar con impresiones convencionales y minimiza la capacidad de falsificación.
-{:id="enlace2"}
+{:id="stickers-premium-con-evidencia-de-despegado"}
 
 ## Servicio premium de hologramas con evidencia de despegado (Tamper Evident)
 
