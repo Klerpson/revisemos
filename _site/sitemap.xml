@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -36,7 +36,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/rollo-papel-holografico</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -119,7 +119,7 @@
     
       <url>
         <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -144,7 +144,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/cintas-de-seguridad</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -241,7 +241,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/codigos-de-barras</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -355,7 +355,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/codigos-qr</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -469,7 +469,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -494,20 +494,20 @@
     
       <url>
         <loc>http://localhost:4000/industrias/etiquetas-para-licores</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
           <image:image>
             <image:loc>http://localhost:4000/img/estampilla-para-licores.jpg</image:loc>
-            <image:title>Estampillas de licores que evitan la adulteración</image:title>
+            <image:title>Estampillas para licores para tus impuestos y rentas</image:title>
             <image:caption>Fotografía de stickers holográficos para botellas de licor</image:caption>
           </image:image>
         
         
           <image:image>
             <image:loc>http://localhost:4000/img/estampilla-para-licores.webp</image:loc>
-            <image:title>Estampillas de licores que evitan la adulteración</image:title>
+            <image:title>Estampillas para licores para tus impuestos y rentas</image:title>
             <image:caption>Fotografía de stickers holográficos para botellas de licor</image:caption>
           </image:image>
         
@@ -588,17 +588,17 @@
           
             <video:video>
               <video:content_loc>http://localhost:4000/videos/holograma-personalizado.mp4</video:content_loc>
-              <video:title>Estampillas de licores que evitan la adulteración</video:title>
+              <video:title>Estampillas para licores para tus impuestos y rentas</video:title>
             </video:video>
           
             <video:video>
               <video:content_loc>http://localhost:4000/videos/etiqueta-holografica-botellla-licor.mp4</video:content_loc>
-              <video:title>Estampillas de licores que evitan la adulteración</video:title>
+              <video:title>Estampillas para licores para tus impuestos y rentas</video:title>
             </video:video>
           
             <video:video>
               <video:content_loc>http://localhost:4000/videos/sticker-holografico-botella-licor.mp4</video:content_loc>
-              <video:title>Estampillas de licores que evitan la adulteración</video:title>
+              <video:title>Estampillas para licores para tus impuestos y rentas</video:title>
             </video:video>
           
         
@@ -608,7 +608,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/etikit-app</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -633,7 +633,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/etiquetas-papel-impresion-termica</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -747,7 +747,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/etiquetas-personalizadas</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -861,7 +861,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/etiquetas-platinum</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -975,7 +975,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/etiquetas-premium</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1089,7 +1089,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/etiquetas-void</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1206,7 +1206,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/impresoras-termicas-y-lectores-de-codigos</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1320,20 +1320,20 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
           <image:image>
             <image:loc>http://localhost:4000/img/sticker-seguridad-licores.jpg</image:loc>
-            <image:title>Sticker de Seguridad Holográfico, Etiquetas y Adhesivos</image:title>
+            <image:title>Stickers Holográficos y Etiquetas de Seguridad para Empresas</image:title>
             <image:caption>Rollo de stickers holográficos</image:caption>
           </image:image>
         
         
           <image:image>
             <image:loc>http://localhost:4000/img/sticker-seguridad-licores.webp</image:loc>
-            <image:title>Sticker de Seguridad Holográfico, Etiquetas y Adhesivos</image:title>
+            <image:title>Stickers Holográficos y Etiquetas de Seguridad para Empresas</image:title>
             <image:caption>Rollo de stickers holográficos</image:caption>
           </image:image>
         
@@ -1345,7 +1345,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1373,7 +1373,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/mantenimiento-impresoras-termicas</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1398,7 +1398,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1512,7 +1512,7 @@
     
       <url>
         <loc>http://localhost:4000/productos</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1537,7 +1537,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1565,7 +1565,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1593,7 +1593,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/stickers-holograficos</loc>
-        <lastmod>2024-06-17T07:37:31-05:00</lastmod>
+        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
