@@ -13,16 +13,16 @@ stickers:
     title: Cinta Seguridad
   - img: img/adhesivo-con-evidencia.webp
     alt: Etiqueta de seguridad con evidencia de despegue
-    nombre: Cintas con evidencia
+    nombre: Adhesivos con evidencia
     p: Etiquetas de seguridad que dejan una evidencia de apertura
     url: "productos/stickers-holograficos"
     title: Etiqueta seguridad evidencia
-  - img: img/holograma-personalizado.webp
-    alt: Holograma adhesivo de seguridad
-    nombre: Hologramas personalizados
-    p: Solución de etiquetas adhesivas personalizadas y más seguras
-    url: "servicios/etiquetas-personalizadas"
-    title: Holograma personalizado
+  - img: img/holograma-premium.webp
+    alt: Adhesivo holográfico de seguridad
+    nombre: Etiquetas premium
+    p: Solución de etiquetas adhesivas premium con más tecnología
+    url: "servicios/etiquetas-premium"
+    title: Holograma premium
   - img: img/etiquetas-void.webp
     alt: Sticker VOID de seguridad
     nombre: Etiqueta Adhesiva VOID
