@@ -8,7 +8,7 @@ layout: null
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   {% for page in site.pages %}
-    {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}
+    {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.url contains '.css' or page.noindex %}
     {% else %}
       <url>
         <loc>{{ page.url | absolute_url }}</loc>
@@ -30,11 +30,13 @@ layout: null
           </image:image>
         {% endif %}
         {% if page.fotos %}
-          {% for foto in page.fotos %}
+          {% for fotos in page.fotos %}
+          {% for foto in fotos %}
             <image:image>
-              <image:loc>{{ foto.url | absolute_url }}</image:loc>
-              <image:title>{{ foto.title }}</image:title>
+              <image:loc>{{ foto[1] | absolute_url }}</image:loc>
+              <image:title>{{ foto[0] }}</image:title>
             </image:image>
+          {% endfor %}
           {% endfor %}
         {% endif %}
         {% if page.videos %}
