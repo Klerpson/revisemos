@@ -10,7 +10,13 @@ layout: compress
       <img src="{{'img/logotipo.webp'|relative_url}}" alt="Logotipo Holographic" width="280">
       <h1>{{page.h1}}</h1>
       <p>{{page.intro}}</p>
+      {% if page.url contains "/etikit-app" %}
+      <a href="{{site.whatsapp}}%20la%20app%20de%20etikit" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Conoce más la app</a>
+      
+      {% else %}
       <a href="{{site.whatsapp}}%20:%20{{page.h1 | url_encode }}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+
+      {% endif %}
     </div>
     <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
   </header>
