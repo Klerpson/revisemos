@@ -1,6 +1,6 @@
 ---
-layout: servicio
-permalink: servicios/etiquetas-platinum
+layout: producto
+permalink: productos/etiquetas-platinum
 title: "Holographic: Servicio de Stickers Holográficos Platinum"
 description: "HOLOGRAMAS PLATINUM ideales para consumos de más de 50.000 unidades Etiquetas con un diseño holográfico exclusivo de propiedad del cliente"
 h1: Servicio de hologramas de seguridad Platinum
@@ -8,6 +8,7 @@ intro: Este servicio exclusivo de Holographic diferencia tus productos de la com
 hero: img/stickers-platinum.webp
 jpg: img/stickers-platinum.jpg
 alt: Fotografía de stickers platinum
+cantidad: 50000
 enlaces:
   - Conoce nuestro servicio de hologramas platinum: '#enlace1'
   - Niveles de seguridad de este servicio: '#enlace2'
@@ -34,8 +35,6 @@ fotos:
   - Sticker a color platinum: img/holograma-a-color-personalizado.webp
   - Sticker platinum: img/nosotros/foto-de-stiker-holografico-19.webp
 ---
-{% include slider.html %}
-
 ## Destaca tus productos con nuestro servicio de hologramas platinum
 
 Etiquetas con un diseño holográfico exclusivo, propiedad del cliente.
@@ -48,19 +47,34 @@ Son **ideales para consumos de más de 50.000 unidades**.
 [Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
 
 {% include videos.html %}
+{:id="enlace2"}
 
 ## Niveles de Seguridad de los stickers platinum de Holographic
 
-* ***Nivel 1***  
-  Elementos que contienen características visibles, las cuales se pueden obtener a partir de un objeto real.
-* ***Nivel 2***  
-  Esta tecnología permite crear imágenes visibles e imágenes encubiertas en los hologramas a partir de pixeles que en conjunto crean las imágenes de los hologramas.
-* ***Nivel 3***  
-  Tecnología que permite generar imágenes a una resolución superior a 120.000 dpi. A diferencia de otras tecnologías, las cuales permiten visualizar las características en los colores del espectro visible (arcoíris), esta tecnología permite anular colores. También permite generar relieve.
-* ***Nivel 4***  
-  Es la tecnología de generación de más alta seguridad, no se mide en dpi, ya que se pueden generar objetos del tamaño de micrones. Se pueden generar características únicas por lo cual no es posible de ser replicada.
-* ***Nivel 5***  
-  La más alta resolución en imágenes holográficas, imágenes nano ópticas. Se alcanzan tamaños de 300 nm, estructuras visuales 3D con una apariencia increíblemente real. Imágenes encubiertas que requieren equipos especializados para identificarla, por lo cual son imposibles de falsificar.
-{:class="productos_beneficios bg" style="padding: 20px;" id="enlace2"}
+### 1. Sticker con nivel de seguridad 1
+
+Elementos que contienen características visibles, las cuales se pueden obtener a partir de un objeto real.
+
+### 2. Sticker con nivel de seguridad 2
+
+Esta tecnología permite crear imágenes visibles e imágenes encubiertas en los hologramas a partir de pixeles que en conjunto crean las imágenes de los hologramas.
+
+### 3. Sticker con nivel de seguridad 3
+
+Tecnología que permite generar imágenes a una resolución superior a 120.000 dpi. A diferencia de otras tecnologías, las cuales permiten visualizar las características en los colores del espectro visible (arcoíris), esta tecnología permite anular colores. También permite generar relieve.
+
+### 4. Sticker con nivel de seguridad 4
+
+Es la tecnología de generación de más alta seguridad, no se mide en dpi, ya que se pueden generar objetos del tamaño de micrones. Se pueden generar características únicas por lo cual no es posible de ser replicada.
+
+### 5. Sticker con nivel de seguridad 5
+
+#### Este es el nivel de seguridad de los stickers holográficos platinum de Holographic
+
+La más alta resolución en imágenes holográficas, imágenes nano ópticas. Se alcanzan tamaños de 300 nm, estructuras visuales 3D con una apariencia increíblemente real. Imágenes encubiertas que requieren equipos especializados para identificarla, por lo cual son imposibles de falsificar.
 
 Este producto de **los hologramas platinum cuenta con un nivel de seguridad NIVEL 5** y es completamente personalizable.
+
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+
+{% include slider.html %}

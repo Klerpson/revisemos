@@ -1,6 +1,6 @@
 ---
-layout: servicio
-permalink: servicios/mantenimiento-impresoras-termicas
+layout: producto
+permalink: productos/mantenimiento-impresoras-termicas
 title: "Hacemos el mantenimiento y reparación de impresoras térmicas"
 description: "Mantener una impresora térmica en buen estado evita problemas técnicos costosos, y asegura que las etiquetas se impriman de manera nítida y legible"
 h1: Servicio de mantenimiento de impresoras térmicas 
@@ -8,6 +8,7 @@ intro: Holographic repara y mantiene tus impresoras de etiquetas
 hero: img/mantenimiento-impresoras.webp
 jpg: img/mantenimiento-impresoras.jpg
 alt: Fotografía de adhesivos personalizados
+cantidad: 
 enlaces:
   - Holographic es líder en mantenimiento de impresoras térmicas: '#mantenimiento-de-holographic'
   - Cómo se hace los mantenimientos: '#como-hacer-mantenimiento'

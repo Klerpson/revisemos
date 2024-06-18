@@ -1,6 +1,6 @@
 ---
-layout: servicio
-permalink: servicios/etiquetas-personalizadas
+layout: producto
+permalink: productos/etiquetas-personalizadas
 title: "Stickers holográficos y etiquetas adhesivas personalizadas"
 description: "Destaca tus productos con stickers holográficos y etiquetas adhesivas personalizadas. Diseños exclusivos que cautivan. ¡Solicita una cotización ahora!"
 h1: Servicio de stickers holográficos personalizadas 
@@ -8,6 +8,7 @@ intro: Personaliza y protege tus productos con stickers holográficos y etiqueta
 hero: img/sellos-personalizados.webp
 jpg: img/sellos-personalizados.jpg
 alt: Fotografía de adhesivos personalizados
+cantidad: 1000
 enlaces:
   - La seguridad de las etiquetas personalizadas: '#enlace1'
   - Etiquetas personalizadas con Tamper Evident: '#enlace2'

@@ -1,23 +1,24 @@
 ---
-layout: servicio
-permalink: servicios/etiquetas-premium
-title: "Holographic: Servicio de Stickers Holográficos Premium"
-description: "HOLOGRAMAS PREMIUM ideales para consumos de más de 100.000 unidades Etiquetas con un diseño premium exclusivo y propiedad del cliente"
-h1: Servicio de hologramas de seguridad Premium
-intro: El servicio premium de Holographic ofrece seguridad y exclusividad a tus productos
+layout: producto
+permalink: productos/etiquetas-premium
+title: "Holographic: Stickers Holográficos Premium antifalsificación"
+description: "Etiquetas holográficas PREMIUM ideales para consumos de más de 100.000 unidades. Diseños premium exclusivo del cliente. Más tecnología antifalsificación"
+h1: Stickers holográficos Premium de Holographic
+intro: Los adhesivos holográficos premium de Holographic te dan más seguridad y exclusividad
 hero: img/holograma-premium.webp
 jpg: img/holograma-premium.jpg
 alt: Fotografía de stickers premium
+cantidad: 100000
 enlaces:
-  - Las características de nuestros stickers holográficos premium: '#caracteristicas-stickers-premium'
+  - Características de nuestros stickers holográficos premium: '#caracteristicas-stickers-premium'
   - Adhesivos premium imposibles de copiar: '#adhesivos-holograficos-imposibles-de-copiar'
   - Stickers holográficos premium con evidencia de despagado: '#stickers-premium-con-evidencia-de-despegado'
 puntos-dolor:
-  - Holograma de seguridad platinum: img/servicio-premium.webp
-  - Diseño exclusivo del cliente: "img/etiqueta-platinum.webp"
-  - Sticker platinum de Holographic: "img/etiqueta-platinum-holographic.webp"
+  - Holograma de seguridad premium: img/servicio-premium.webp
+  - Diseño único del sticker holográfico: "img/etiqueta-platinum.webp"
   - Destaca entre la competencia: "img/sticker-platinum-holographic.webp"
-  - Diseño imposible de falsificar: "img/holograma-platinum.webp"
+  - Evita la falsificación de tu sticker: "img/etiqueta-platinum-holographic.webp"
+  - Hologramas con más tecnología: "img/holograma-platinum.webp"
 videos:
   - videos/servicio-premium.mp4
   - videos/stickers-premium.mp4
@@ -34,22 +35,20 @@ fotos:
   - Sticker a color premium: img/servicio-stickers-holograficos-premium.webp
   - Sticker premium: img/sticker-evidencia-premium.webp
 ---
-{% include slider.html %}
-
 ## Luce tus productos mientras cuidas tu inversión con nuestros stickers holográficos Premium
 
 Diseñamos y fabricamos etiquetas con un diseño holográfico exclusivo propiedad del cliente. Este servicio es utilizado en diferentes industrias y productos, ya que **se enfoca en el bienestar de tus consumidores y su interés por recibir un producto genuino, de calidad y sin adulteración**.
 
 Son **ideales para consumos de más de 100.000 unidades**.
-{:id="caracteristicas-stickers-premium"}
 
 [Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank" id="enlace1"}
 
 {% include videos.html %}
+{:id="caracteristicas-stickers-premium"}
 
-## ¿Cuáles son las características del servicio de hologramas premium?
+## ¿Qué consigues con los stickers holográficos premium de Holographic?
 
-| Características | Ventajas | Detalles Técnicos |
+| Características | Ventajas | Detalles técnicos |
 |----------------|----------|-------------------|
 | Generación holográfica personalizada en 3D | Diseño exclusivo y difícil de copiar | Resolución de hasta 2000 líneas por pulgada |
 | Diseño con imágenes y micro textos | Mayor seguridad y autenticidad | Tamaño mínimo de micro texto: 0.1 mm |
@@ -60,6 +59,8 @@ Son **ideales para consumos de más de 100.000 unidades**.
 | No permite que las etiquetas sean reutilizables | Evita el uso no autorizado de etiquetas | Una vez despegada, la etiqueta se destruye o daña |
 
 [Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+
+{% include slider.html %}
 
 ## Niveles de Seguridad de los stickers platinum de Holographic
 

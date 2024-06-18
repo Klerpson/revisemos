@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -36,7 +36,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/rollo-papel-holografico</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -119,7 +119,7 @@
     
       <url>
         <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -144,7 +144,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/cintas-de-seguridad</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -241,7 +241,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/codigos-de-barras</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -355,7 +355,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/codigos-qr</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -469,7 +469,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -494,7 +494,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias/etiquetas-para-licores</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -608,7 +608,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/etikit-app</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -633,7 +633,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/etiquetas-papel-impresion-termica</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -746,8 +746,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/servicios/etiquetas-personalizadas</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <loc>http://localhost:4000/productos/etiquetas-personalizadas</loc>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -860,8 +860,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/servicios/etiquetas-platinum</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <loc>http://localhost:4000/productos/etiquetas-platinum</loc>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -974,21 +974,21 @@
   
     
       <url>
-        <loc>http://localhost:4000/servicios/etiquetas-premium</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <loc>http://localhost:4000/productos/etiquetas-premium</loc>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
           <image:image>
             <image:loc>http://localhost:4000/img/holograma-premium.jpg</image:loc>
-            <image:title>Holographic: Servicio de Stickers Holográficos Premium</image:title>
+            <image:title>Holographic: Stickers Holográficos Premium antifalsificación</image:title>
             <image:caption>Fotografía de stickers premium</image:caption>
           </image:image>
         
         
           <image:image>
             <image:loc>http://localhost:4000/img/holograma-premium.webp</image:loc>
-            <image:title>Holographic: Servicio de Stickers Holográficos Premium</image:title>
+            <image:title>Holographic: Stickers Holográficos Premium antifalsificación</image:title>
             <image:caption>Fotografía de stickers premium</image:caption>
           </image:image>
         
@@ -1069,17 +1069,17 @@
           
             <video:video>
               <video:content_loc>http://localhost:4000/videos/servicio-premium.mp4</video:content_loc>
-              <video:title>Holographic: Servicio de Stickers Holográficos Premium</video:title>
+              <video:title>Holographic: Stickers Holográficos Premium antifalsificación</video:title>
             </video:video>
           
             <video:video>
               <video:content_loc>http://localhost:4000/videos/stickers-premium.mp4</video:content_loc>
-              <video:title>Holographic: Servicio de Stickers Holográficos Premium</video:title>
+              <video:title>Holographic: Stickers Holográficos Premium antifalsificación</video:title>
             </video:video>
           
             <video:video>
               <video:content_loc>http://localhost:4000/videos/adhesivos-premium.mp4</video:content_loc>
-              <video:title>Holographic: Servicio de Stickers Holográficos Premium</video:title>
+              <video:title>Holographic: Stickers Holográficos Premium antifalsificación</video:title>
             </video:video>
           
         
@@ -1089,7 +1089,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/etiquetas-void</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1205,8 +1205,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/productos/impresoras-termicas-y-lectores-de-codigos</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <loc>http://localhost:4000/productos/impresoras-termicas-y-de-transferencia</loc>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1320,19 +1320,19 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
           <image:image>
-            <image:loc>http://localhost:4000/img/sticker-seguridad-licores.jpg</image:loc>
+            <image:loc>http://localhost:4000/img/stickers-platinum.jpg</image:loc>
             <image:title>Stickers Holográficos y Etiquetas de Seguridad para Empresas</image:title>
             <image:caption>Rollo de stickers holográficos</image:caption>
           </image:image>
         
         
           <image:image>
-            <image:loc>http://localhost:4000/img/sticker-seguridad-licores.webp</image:loc>
+            <image:loc>http://localhost:4000/img/stickers-platinum.webp</image:loc>
             <image:title>Stickers Holográficos y Etiquetas de Seguridad para Empresas</image:title>
             <image:caption>Rollo de stickers holográficos</image:caption>
           </image:image>
@@ -1345,7 +1345,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1368,12 +1368,126 @@
     
   
     
+      <url>
+        <loc>http://localhost:4000/productos/lectores-de-codigos-de-barras</loc>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/impresora-termica-y-lector-codigo.jpg</image:loc>
+            <image:title>Compra tu impresora térmica o lector de códigos</image:title>
+            <image:caption>Fotografía de productos de holographic</image:caption>
+          </image:image>
+        
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/impresora-termica-y-lector-codigo.webp</image:loc>
+            <image:title>Compra tu impresora térmica o lector de códigos</image:title>
+            <image:caption>Fotografía de productos de holographic</image:caption>
+          </image:image>
+        
+        
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/sello-color-personalizado.webp</image:loc>
+              <image:title>Adhesivo de seguridad holográfico</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/sellos-seguridad-personalizados.webp</image:loc>
+              <image:title>Etiqueta hologramas</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/servicio-platinum.webp</image:loc>
+              <image:title>Sticker holográfico seguridad</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/sticker-generico.webp</image:loc>
+              <image:title>Sticker de seguridad holograma</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/sticker-personalizado.webp</image:loc>
+              <image:title>Adhesivo holografico</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/sticker-proteccion-marca.webp</image:loc>
+              <image:title>Sticker holografico antifalsificacion</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/stickers-personalizados.webp</image:loc>
+              <image:title>Sellos holográficos</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/stikcer-seguridad.webp</image:loc>
+              <image:title>Pegatina holografica</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-4.webp</image:loc>
+              <image:title>Holograma seguridad</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-19.webp</image:loc>
+              <image:title>Sticker seguridad de colores</image:title>
+            </image:image>
+          
+          
+        
+        
+          
+            <video:video>
+              <video:content_loc>http://localhost:4000/videos/etiquetas-void.mp4</video:content_loc>
+              <video:title>Compra tu impresora térmica o lector de códigos</video:title>
+            </video:video>
+          
+            <video:video>
+              <video:content_loc>http://localhost:4000/videos/sticker-evidencia.mp4</video:content_loc>
+              <video:title>Compra tu impresora térmica o lector de códigos</video:title>
+            </video:video>
+          
+            <video:video>
+              <video:content_loc>http://localhost:4000/videos/etiqueta-void-cnr.mp4</video:content_loc>
+              <video:title>Compra tu impresora térmica o lector de códigos</video:title>
+            </video:video>
+          
+        
+      </url>
+    
+  
+    
     
   
     
       <url>
-        <loc>http://localhost:4000/servicios/mantenimiento-impresoras-termicas</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <loc>http://localhost:4000/productos/mantenimiento-impresoras-termicas</loc>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1398,7 +1512,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1512,7 +1626,7 @@
     
       <url>
         <loc>http://localhost:4000/productos</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1537,7 +1651,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1565,7 +1679,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1592,8 +1706,122 @@
   
     
       <url>
+        <loc>http://localhost:4000/productos/stickers-genericos</loc>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/etiquetas-papel-impresion.jpg</image:loc>
+            <image:title>Sticker holográfico más rápidos y más accesibles</image:title>
+            <image:caption>Fotografía de stickers holográficos genéricos</image:caption>
+          </image:image>
+        
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/etiquetas-papel-impresion.webp</image:loc>
+            <image:title>Sticker holográfico más rápidos y más accesibles</image:title>
+            <image:caption>Fotografía de stickers holográficos genéricos</image:caption>
+          </image:image>
+        
+        
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/adhesivo-codigo-de-barras.webp</image:loc>
+              <image:title>Sticker para impresión térmica</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/etiquetas-trazabilidad-marcado.webp</image:loc>
+              <image:title>Adhesivo de papel blanco</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/etiquetas-void-blancas.webp</image:loc>
+              <image:title>Imprimir etiquetas de papel</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/etiqueta-codigo-barras.webp</image:loc>
+              <image:title>Etiqueta para código de barras</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/impresora-codigo-barras.webp</image:loc>
+              <image:title>Etiquetas para impresión térmica</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/cinta-de-cera-negra.webp</image:loc>
+              <image:title>Cinta de cera para transferencia negra</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/rollo-con-etiquetas-de-papel.webp</image:loc>
+              <image:title>Rollos de etiquetas de papel</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/rollos-de-sticker-de-papel.webp</image:loc>
+              <image:title>Rollos de stickers de papel</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/papel-adhesivo-para-impresora-termica.webp</image:loc>
+              <image:title>Papel adhesivo para impresora termica</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/etiquetas-blancas.webp</image:loc>
+              <image:title>Etiquetas de papel blancas</image:title>
+            </image:image>
+          
+          
+        
+        
+          
+            <video:video>
+              <video:content_loc>http://localhost:4000/videos/etiquetas-papel-blanco.mp4</video:content_loc>
+              <video:title>Sticker holográfico más rápidos y más accesibles</video:title>
+            </video:video>
+          
+            <video:video>
+              <video:content_loc>http://localhost:4000/videos/etiquetas-blancas.mp4</video:content_loc>
+              <video:title>Sticker holográfico más rápidos y más accesibles</video:title>
+            </video:video>
+          
+            <video:video>
+              <video:content_loc>http://localhost:4000/videos/etiqueta-void.mp4</video:content_loc>
+              <video:title>Sticker holográfico más rápidos y más accesibles</video:title>
+            </video:video>
+          
+        
+      </url>
+    
+  
+    
+      <url>
         <loc>http://localhost:4000/productos/stickers-holograficos</loc>
-        <lastmod>2024-06-17T11:58:25-05:00</lastmod>
+        <lastmod>2024-06-17T22:48:57-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         

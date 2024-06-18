@@ -15,7 +15,40 @@ layout: default
     {% endfor %}
   </div>
 </section>
+{% if page.cantidad %}
+<main class="wrapper flow">
+  {{content}}
+</main>
+{% else %}
 {{content}}
+{% endif %}
+{% if page.cantidad %}
+<section class="wrapper title">
+  <h2>También te puede interesar estos productos recomendados por Holographic</h2>
+</section>
+<section class="bloques wrapper">
+  <div class="bloque_small bg2">
+    <h3>Protección con adhesivos antifalsificación</h3>
+    <img src="{{'img/sticker-proteccion-marca.webp'|relative_url}}" alt="Sticker para proteger marca" loading="lazy" width="180" height="225">
+    <a href="{{'productos/stickers-holograficos'|relative_url}}" title="Sticker holografico de seguridad" class="boton boton_1">Stickers holográficos para tu marca</a>
+  </div>
+  <div class="bloque_small bg3">
+    <h3>Cinta de seguridad para transporte</h3>
+    <img src="{{'img/cinta-seguridad-evidencia.webp'|relative_url}}" alt="Cinta seguridad para transporte con evidencia" loading="lazy" width="180" height="225">
+    <a href="{{'productos/cintas-de-seguridad'|relative_url}}" title="Cinta seguridad evidencia" class="boton boton_1">Cinta de seguridad para tus mercancías</a>
+  </div>
+  <div class="bloque_small bg4">
+    <h3>Marcación de activos fijos y trazabilidad</h3>
+    <img src="{{'img/etiquetas-trazabilidad-marcado.webp'|relative_url}}" alt="Etiquetas de seguridad para marcado" loading="lazy" width="180" height="225">
+    <a href="{{'industrias/marcacion-y-trazabilidad-de-activos-fijos'|relative_url}}" title="Etiquetas seguridad de activos" class="boton boton_1">Sigue tus activos con etiquetas de códigos</a>
+  </div>
+  <div class="bloque_small bg5">
+    <h3>Bobina o rollos de adhesivos de seguridad</h3>
+    <img src="{{'img/bobina-o-rollo-de-stickers.webp'|relative_url}}" alt="Rollos de stickers de seguridad" loading="lazy" width="180" height="225">
+    <a href="{{'productos/bobinas-papel-holografico'|relative_url}}" title="Bobinas o rollos de hologramas" class="boton boton_1">Ahorra con nuestros rollos de stickers</a>
+  </div>
+</section>
+{% endif %}
 <hr>
 <section class="title">
   <h2>Conoce más productos de Holographic en Colombia</h2>
