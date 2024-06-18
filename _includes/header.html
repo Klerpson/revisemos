@@ -4,18 +4,18 @@
 {% when "default" %}
 <header class="bloques wrapper">
   <div class="header_mini_bloque bg">
-    <img src="{{'img/sticker-holografico-azul-turquesa.webp'|relative_url}}" alt="Adhesivo holográfico de seguridad">
     <h3>Sticker holográfico</h3>
     <p>Holograma Premium. Para pedidos desde 100000 unidades.</p>
     <span><a href="{{site.whatsapp}}" rel="nofollow noopener noreferrer" target="_blank" title="Contacta con Holographic">Haz clic y asesórate gratis</a></span>
+    <img src="{{'img/sticker-holografico-azul-turquesa.webp'|relative_url}}" alt="Adhesivo holográfico de seguridad">
   </div>
   <div class="header_bloque bloque_big">
-    <img src="{{'img/sticker-seguridad-licores.webp' | relative_url }}" alt="{{page.alt}}">
     <div>
       <h1>{{page.h1}}</h1>
       <p>{{page.intro}}</p>
-      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
     </div>
+    <img src="{{page.hero | relative_url }}" alt="{{page.alt}}" width="600" title="Etiqueta de seguridad de Holographic">
+    {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
   </div>
   
 {% when "pagina" %}

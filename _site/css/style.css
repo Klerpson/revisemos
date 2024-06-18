@@ -1070,6 +1070,9 @@ details p{
     grid-column: span 2;
   }
   
+}
+
+@media screen and (width >= 1200px) {
   .header_bloque div{
     grid-area: div;
   }
@@ -1084,9 +1087,6 @@ details p{
     grid-template-columns: min(100%, 480px) auto;
     place-items: center;
   }
-}
-
-@media screen and (width >= 1200px) {
   
     .header_bloque.bloque_big{
       grid-column: span 3;
