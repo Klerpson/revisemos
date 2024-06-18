@@ -12,6 +12,9 @@
 
 .pagina aside{
   width: min(100%, 440px);
+  display: grid;
+  gap: 1em;
+  align-content: start;
 }
 
 @media screen and (min-width: 800px) {

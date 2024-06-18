@@ -19,7 +19,7 @@ alt: Fotografía de productos de holographic
     </article>
     {% endfor %}
   </div>
-  <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+  <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
 </section>
 
 <main class="entradas wrapper">
@@ -32,7 +32,7 @@ alt: Fotografía de productos de holographic
     <article>
       <img src="{{caso.hero|relative_url}}" alt="{{caso.alt}}" loading="lazy" width="280" height="180">
       <div>
-        <a href="{{caso.url|relative_url}}"><h4>{{caso.h1}}</h4></a>
+        <a href="{{caso.url|relative_url}}" title="{{caso.title}}"><h4>{{caso.h1}}</h4></a>
         <p>{{caso.intro}}</p>
       </div>
     </article>

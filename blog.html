@@ -17,7 +17,7 @@ alt: Fotografía de un vaso GurCoff
     <article>
       <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="180" height="120">
       <div>
-        <a href="{{post.url|relative_url}}"><h4>{{post.h1}}</h4></a>
+        <a href="{{post.url|relative_url}}" title="{{post.title}}"><h4>{{post.h1}}</h4></a>
         <small>{{post.date | date: "%d-%m-%Y"}}</small>
       </div>
     </article>

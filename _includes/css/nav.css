@@ -29,7 +29,7 @@ nav {
   justify-content: center;
 }
 
-.navegacion > a,
+.navegacion > a:not(.boton),
 .dropdown-content a{
   background: linear-gradient(120deg, #e5e5e5 30%, #f0f0f0 38%, #f0f0f0 40%, #e5e5e5 48%);
   height: min-content;
@@ -38,13 +38,19 @@ nav {
   justify-content: center;
   text-align: center;
   gap: 8px;
-  transition: all .4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  padding: 8px;
+  transition: all .10s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  padding: 8px 16px;
   border-radius: var(--radius);
   border: 3.6px solid var(--secundario);
-  margin: 0;
+  margin: 0 auto;
   text-align:center;
   font-size: 18px;
+  color: var(--clr7);
+  box-shadow: 0 0 4px var(--clr7);
+}
+
+.navegacion .boton{
+  margin: 0;
 }
 
 .navegacion > a:hover,
@@ -61,7 +67,7 @@ nav {
 
 .navegacion > a:hover,
 .dropdown-content a:hover{
-  transform: scale(1.05);
+  transform: scale(1.015);
 }
 
 .buscador:target{
@@ -80,7 +86,7 @@ nav {
 .dropdown-content {
   display: none;
   position: absolute;
-  top: 32px;
+  top: 28px;
   left: 0;
   background-color: #f9f9f9;
   min-width: 200px;
