@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -36,7 +36,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/rollo-papel-holografico</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -119,7 +119,7 @@
     
       <url>
         <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -144,7 +144,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/cintas-de-seguridad</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -240,236 +240,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/productos/codigos-de-barras</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/etiquetas-void-holographic.jpg</image:loc>
-            <image:title>Códigos de barras: sigue y controla tus productos y activos</image:title>
-            <image:caption>Fotografía de una etiqueta VOID</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/etiquetas-void-holographic.webp</image:loc>
-            <image:title>Códigos de barras: sigue y controla tus productos y activos</image:title>
-            <image:caption>Fotografía de una etiqueta VOID</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-codigo-de-barras.webp</image:loc>
-              <image:title>Cinta de código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-codigo-barras.webp</image:loc>
-              <image:title>Etiqueta código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/codigo-barra-sticker.webp</image:loc>
-              <image:title>Imagen de sticker con código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/adhesivo-codigo-de-barras.webp</image:loc>
-              <image:title>Adhesivo con código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/marcacion-con-codigo-de-barras.webp</image:loc>
-              <image:title>Marcación con código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-void-rastro.webp</image:loc>
-              <image:title>Imagen de pegatinas de seguridad con código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-seguridad-void.webp</image:loc>
-              <image:title>Cinta void con código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-void-para-computador.webp</image:loc>
-              <image:title>Sticker de seguridad void con código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/trazabilidad-codigo-de-barras.webp</image:loc>
-              <image:title>Trazabilidad con código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/impresora-codigo-barras.webp</image:loc>
-              <image:title>Impresora de código de barras</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/marcacion-activo-fijo.mp4</video:content_loc>
-              <video:title>Códigos de barras: sigue y controla tus productos y activos</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/codigo-barra-holograma.mp4</video:content_loc>
-              <video:title>Códigos de barras: sigue y controla tus productos y activos</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/codigos-de-barras-holografico.mp4</video:content_loc>
-              <video:title>Códigos de barras: sigue y controla tus productos y activos</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/productos/codigos-qr</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/codigo-qr.jpg</image:loc>
-            <image:title>Hologramas con códigos QR: Marca y controla tus activos</image:title>
-            <image:caption>Fotografía de un holograma QR</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/codigo-qr.webp</image:loc>
-            <image:title>Hologramas con códigos QR: Marca y controla tus activos</image:title>
-            <image:caption>Fotografía de un holograma QR</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/holograma-qr.webp</image:loc>
-              <image:title>Foto de holograma qr</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-holografico-qr.webp</image:loc>
-              <image:title>Sticker holográfico con qr</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-qr.webp</image:loc>
-              <image:title>Sticker qr</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/hologramas-qr.webp</image:loc>
-              <image:title>Imagen de hologramas qr</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/estampilla-qr.webp</image:loc>
-              <image:title>Estampilla qr para licores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-qr-holograma.webp</image:loc>
-              <image:title>Etiqueta holográfica qr</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/adhesivo-qr.webp</image:loc>
-              <image:title>Adhesivo qr</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-16.webp</image:loc>
-              <image:title>Sticker de seguridad con código qr</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-qr.webp</image:loc>
-              <image:title>Trazabilidad con código qr</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-11.webp</image:loc>
-              <image:title>Etiqueta qr de seguridad</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/holograma-personalizado.mp4</video:content_loc>
-              <video:title>Hologramas con códigos QR: Marca y controla tus activos</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/sticker-qr.mp4</video:content_loc>
-              <video:title>Hologramas con códigos QR: Marca y controla tus activos</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiqueta-qr.mp4</video:content_loc>
-              <video:title>Hologramas con códigos QR: Marca y controla tus activos</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-      <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -493,21 +265,21 @@
   
     
       <url>
-        <loc>http://localhost:4000/industrias/etiquetas-para-licores</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <loc>http://localhost:4000/productos/stickers-holograficos/estampillas-para-licores</loc>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
           <image:image>
             <image:loc>http://localhost:4000/img/estampilla-para-licores.jpg</image:loc>
-            <image:title>Estampillas para licores para tus impuestos y rentas</image:title>
+            <image:title>Estampillas para licores: etiqueta de impuestos y rentas</image:title>
             <image:caption>Fotografía de stickers holográficos para botellas de licor</image:caption>
           </image:image>
         
         
           <image:image>
             <image:loc>http://localhost:4000/img/estampilla-para-licores.webp</image:loc>
-            <image:title>Estampillas para licores para tus impuestos y rentas</image:title>
+            <image:title>Estampillas para licores: etiqueta de impuestos y rentas</image:title>
             <image:caption>Fotografía de stickers holográficos para botellas de licor</image:caption>
           </image:image>
         
@@ -588,17 +360,17 @@
           
             <video:video>
               <video:content_loc>http://localhost:4000/videos/holograma-personalizado.mp4</video:content_loc>
-              <video:title>Estampillas para licores para tus impuestos y rentas</video:title>
+              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
             </video:video>
           
             <video:video>
               <video:content_loc>http://localhost:4000/videos/etiqueta-holografica-botellla-licor.mp4</video:content_loc>
-              <video:title>Estampillas para licores para tus impuestos y rentas</video:title>
+              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
             </video:video>
           
             <video:video>
               <video:content_loc>http://localhost:4000/videos/sticker-holografico-botella-licor.mp4</video:content_loc>
-              <video:title>Estampillas para licores para tus impuestos y rentas</video:title>
+              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
             </video:video>
           
         
@@ -608,7 +380,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/etikit-app</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -633,7 +405,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/etiquetas-papel-impresion-termica</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -746,8 +518,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/productos/etiquetas-personalizadas</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <loc>http://localhost:4000/productos/stickers-holograficos/personalizadas</loc>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -860,8 +632,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/productos/etiquetas-platinum</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <loc>http://localhost:4000/productos/stickers-holograficos/platinum</loc>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -974,8 +746,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/productos/etiquetas-premium</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <loc>http://localhost:4000/productos/stickers-holograficos/premium</loc>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1089,7 +861,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/etiquetas-void</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1206,7 +978,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/impresoras-termicas-y-de-transferencia</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1320,7 +1092,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1345,7 +1117,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1370,7 +1142,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/lectores-de-codigos-de-barras</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1487,7 +1259,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/mantenimiento-impresoras-termicas</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1512,7 +1284,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1626,7 +1398,7 @@
     
       <url>
         <loc>http://localhost:4000/productos</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1651,7 +1423,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1679,7 +1451,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1706,8 +1478,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/productos/stickers-genericos</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <loc>http://localhost:4000/productos/stickers-holograficos/genericos</loc>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1820,8 +1592,122 @@
   
     
       <url>
+        <loc>http://localhost:4000/industrias/stickers-antifalsificacion-para-licoreras</loc>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/estampilla-para-licores.jpg</image:loc>
+            <image:title>Estampillas para licores: etiqueta de impuestos y rentas</image:title>
+            <image:caption>Fotografía de stickers holográficos para botellas de licor</image:caption>
+          </image:image>
+        
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/estampilla-para-licores.webp</image:loc>
+            <image:title>Estampillas para licores: etiqueta de impuestos y rentas</image:title>
+            <image:caption>Fotografía de stickers holográficos para botellas de licor</image:caption>
+          </image:image>
+        
+        
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/sticker-personalizado.webp</image:loc>
+              <image:title>Estampilla personalizada para botellas</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/estampilla-platinum.webp</image:loc>
+              <image:title>Estampilla para licores</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/estampilla-qr.webp</image:loc>
+              <image:title>QR para licores</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/sticker-holografico.webp</image:loc>
+              <image:title>Botella con etiqueta holográfica</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-26.webp</image:loc>
+              <image:title>Tapa botella con etiqueta</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-1.webp</image:loc>
+              <image:title>Adhesivo de seguridad para licores</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/sticker-holografico-botellas.webp</image:loc>
+              <image:title>Sellos holográficos para botellas</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/adhesivo-holografico-licor.webp</image:loc>
+              <image:title>Adhesivo holográfico para licor</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/etiqueta-qr-licores.webp</image:loc>
+              <image:title>Etiqueta qr para licores</image:title>
+            </image:image>
+          
+          
+          
+            <image:image>
+              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-19.webp</image:loc>
+              <image:title>Sticker seguridad de colores</image:title>
+            </image:image>
+          
+          
+        
+        
+          
+            <video:video>
+              <video:content_loc>http://localhost:4000/videos/holograma-personalizado.mp4</video:content_loc>
+              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
+            </video:video>
+          
+            <video:video>
+              <video:content_loc>http://localhost:4000/videos/etiqueta-holografica-botellla-licor.mp4</video:content_loc>
+              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
+            </video:video>
+          
+            <video:video>
+              <video:content_loc>http://localhost:4000/videos/sticker-holografico-botella-licor.mp4</video:content_loc>
+              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
+            </video:video>
+          
+        
+      </url>
+    
+  
+    
+      <url>
         <loc>http://localhost:4000/productos/stickers-holograficos</loc>
-        <lastmod>2024-06-18T08:37:57-05:00</lastmod>
+        <lastmod>2024-06-18T13:39:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1959,6 +1845,27 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/etiquetas-holograficas-con-codigos-qr</loc>
+      <lastmod>2024-06-10T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/codigo-qr.jpg</image:loc>
+          <image:title>Hologramas con códigos QR: Marca y controla tus activos</image:title>
+          <image:caption>Fotografía de un holograma QR</image:caption>
+        </image:image>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/codigo-qr.webp</image:loc>
+          <image:title>Hologramas con códigos QR: Marca y controla tus activos</image:title>
+          <image:caption>Fotografía de un holograma QR</image:caption>
+        </image:image>
+      
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/cintas-de-seguridad-caracteristicas-funciones</loc>
       <lastmod>2024-06-04T00:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
@@ -1975,6 +1882,27 @@
           <image:loc>http://localhost:4000/img/blog/cinta-seguridad.webp</image:loc>
           <image:title>Características y funciones de las cintas de seguridad</image:title>
           <image:caption>Foto de una cinta de seguridad personalizada</image:caption>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/codigos-de-barras</loc>
+      <lastmod>2024-05-18T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/etiquetas-void-holographic.jpg</image:loc>
+          <image:title>Códigos de barras: sigue y controla tus productos y activos</image:title>
+          <image:caption>Fotografía de una etiqueta VOID</image:caption>
+        </image:image>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/etiquetas-void-holographic.webp</image:loc>
+          <image:title>Códigos de barras: sigue y controla tus productos y activos</image:title>
+          <image:caption>Fotografía de una etiqueta VOID</image:caption>
         </image:image>
       
     </url>

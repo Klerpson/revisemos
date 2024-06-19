@@ -1,6 +1,6 @@
 ---
 layout: producto
-permalink: productos/etiquetas-platinum
+permalink: productos/stickers-holograficos/platinum
 title: "Holographic: Servicio de Stickers Holográficos Platinum"
 description: "HOLOGRAMAS PLATINUM ideales para consumos de más de 50.000 unidades Etiquetas con un diseño holográfico exclusivo de propiedad del cliente"
 h1: Servicio de hologramas de seguridad Platinum

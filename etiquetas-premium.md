@@ -1,6 +1,6 @@
 ---
 layout: producto
-permalink: productos/etiquetas-premium
+permalink: productos/stickers-holograficos/premium
 title: "Holographic: Stickers Holográficos Premium antifalsificación"
 description: "Etiquetas holográficas PREMIUM ideales para consumos de más de 100.000 unidades. Diseños premium exclusivo del cliente. Más tecnología antifalsificación"
 h1: Stickers holográficos Premium de Holographic

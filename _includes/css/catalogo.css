@@ -1,6 +1,7 @@
 .catalogo{
   display: flex;
   flex-direction: column;
+  gap: 1em;
 
   & h2{
     text-align: center;

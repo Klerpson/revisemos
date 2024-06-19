@@ -1,10 +1,11 @@
 ---
-layout: producto
-permalink: productos/codigos-de-barras
+layout: post
 title: "Códigos de barras: sigue y controla tus productos y activos"
 description: "Las etiquetas con código de barras se utilizan en industrias para los productos y activos fijos. En Holographic fabricamos los que necesitas"
-h1: Códigos de barras
+h1: Códigos de barras para la trazabilidad interna
 intro: ¿Todavía no tienes un control total de tus productos y activos? Necesitas nuestros códigos de barras
+autor: Diana - Holographic
+category: "Seguridad"
 hero: img/etiquetas-void-holographic.webp
 jpg: img/etiquetas-void-holographic.jpg
 alt: Fotografía de una etiqueta VOID
@@ -34,43 +35,43 @@ fotos:
   - Trazabilidad con código de barras: img/trazabilidad-codigo-de-barras.webp
   - Impresora de código de barras: img/impresora-codigo-barras.webp
 ---
-<a href="{{site.whatsapp}}%20:%20{{page.h1 }}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Consigue tus códigos de barras</a>
 <main class="wrapper flow" id="que-son-los-codigos-de-barras">
   <h2>¿Qué son los códigos de barras y cómo protegen tu dinero?</h2>
   <p>Un código de barras es una <strong>imagen conformada por varias líneas</strong> o rectángulos de un determinado tamaño, que <strong>representan una serie de números y/o caracteres</strong>, es decir, contienen información codificada.</p>
   <h3>Los códigos de barras pueden ser tanto unidimensionales (1D) como bidimensionales (2D).</h3>
   <p>Dichos códigos pueden ser leídos con escáneres o incluso con teléfonos celulares, los cuales se encargan de decodificar la información consignada, bien sea para conocerla, para procesarla, para descargar inventarios o para direccionarse a un sitio web.</p>
-  <h2>Los beneficios que dan los códigos de barras a tu empresa</h2>
+  <h3>Aprovecha los códigos de barras para la marcación de tus activos</h3>
   <p>Aunque evidentemente los códigos de barras se desarrollaron para mejorar la velocidad de las transacciones de ventas, existen numerosos beneficios potenciales para las empresas entre los cuales se pueden destacar:</p>
   <ul class="productos_beneficios">
     <li>
-      <h3>Precisión aumentada</h3>
+      <h4>Precisión aumentada</h4>
       <p>Es mucho más seguro confiar en un código de barras para procesar la información de cada producto que, en datos ingresados de manera manual, puesto que en esta segunda opción es más fácil que ocurran errores.</p>
     </li>
     <li>
-      <h3>Datos de manera inmediata</h3>
+      <h4>Datos de manera inmediata</h4>
       <p>El procesamiento de información de un código de barras cuenta con una gran velocidad, de esta forma se puede acceder de manera inmediata a los datos del inventario o las ventas, y todo en tiempo real.</p>
     </li>
     <li>
-      <h3>Disminución de las capacitaciones</h3>
+      <h4>Disminución de las capacitaciones</h4>
       <p>El sistema de código de barras es muy sencillo de utilizar por lo que los empleados requerirán de poco entrenamiento para aprender a utilizarlo. Además, gracias a su facilidad tienen mucho menos detalles que retener y aprender.</p>
     </li>
     <li>
-      <h3>Control de inventario</h3>
+      <h4>Control de inventario de activos</h4>
       <p>Los códigos de barras permiten escanear y rastrear el inventario, lo que produce un control mucho más preciso y un mejor cálculo.</p>
     </li>
     <li>
-      <h3>Fácil y económico</h3>
+      <h4>Fácil y económico</h4>
       <p>Implementar un sistema de códigos de barras es sumamente fácil y económico. Por lo que te permitirá controlar todo tu inventario de manera inmediata y económica.</p>
     </li>
   </ul>
 </main>
 <section class="wrapper">
-  {% include videos.html %}
+  <a href="{{site.whatsapp}}%20:%20{{page.h1 }}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate en marcación de activos</a>
+  {% include slider.html %}
 </section>
 <section class="wrapper flow" id="codigos-de-barras-para-activos-fijos">
   <h2>Cómo se utilizan los códigos de barras en el cuidado de tus activos fijos</h2>
-
+  <p>En este cuadro comparativo te mostramos todas <strong>características y ventajas de los códigos de barras en el control de activos y mercancía.</strong></p>
 <table>
   <tr>
     <th>Características</th>
@@ -109,10 +110,10 @@ fotos:
   </tr>
 </table>
 
-  <a href="{{site.whatsapp}}%20:%20{{page.h1 }}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Consigue tus códigos de barras</a>
-  {% include slider.html %}
+  <a href="{{site.whatsapp}}%20:%20{{page.h1 }}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate en marcación de activos</a>
 
-  <h2>Los tipos de etiquetas con código de barras más solicitadas en Holographic</h2>
+  {% include videos.html %}
+  <h2>Los tipos de etiquetas holográficas con código de barras más solicitadas en Holographic</h2>
 
 <h3>Código de Barras 1D</h3>
 <ul>
@@ -207,12 +208,11 @@ fotos:
   </li>
 </ul>
 
-<a href="{{site.whatsapp}}%20:%20{{page.h1 }}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Consigue tus códigos de barras</a>
+<p>¿Quieres mejorar el control de tus productos y reducir los gastos generales de tu empresa?¡Estas en el lugar indicado!</p>
+<p>No te pierdas la oportunidad de probar los códigos de barras profesionales que tenemos para ti aquí en Holographic.</p>
 
+<a href="{{site.whatsapp}}%20:%20{{page.h1 }}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate en marcación de activos</a>
 
-<p>¿Quieres mejorar el control de tus productos y reducir los gastos generales de tu empresa?<br>
-¡Estas en el lugar indicado!<br>
-No te pierdas la oportunidad de probar los códigos de barras profesionales que tenemos para ti aquí en Holographic.</p>
 
 </section>
 
@@ -266,6 +266,6 @@ No te pierdas la oportunidad de probar los códigos de barras profesionales que 
       <li>Etiquetas de productos</li>
     </ul>
 <blockquote class="flow">Aquí en HoloGraphic queremos brindarte justo lo que necesitas, con la mejor asesoría y por supuesto, al mejor precio. ¡Esa es nuestra misión!
-  <a href="{{site.whatsapp}}%20:%20{{page.h1 }}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Consigue tus códigos de barras</a>
+  <a href="{{site.whatsapp}}%20:%20{{page.h1 }}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate en marcación de activos</a>
   </blockquote>
 </section>

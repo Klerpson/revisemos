@@ -6,8 +6,18 @@
     } ,
   
     {
+      "title"    : "Hologramas con códigos QR: Marca y controla tus activos",
+      "url"      : "/etiquetas-holograficas-con-codigos-qr"
+    } ,
+  
+    {
       "title"    : "Características y funciones de las cintas de seguridad",
       "url"      : "/cintas-de-seguridad-caracteristicas-funciones"
+    } ,
+  
+    {
+      "title"    : "Códigos de barras: sigue y controla tus productos y activos",
+      "url"      : "/codigos-de-barras"
     } 
   
   ,
@@ -72,28 +82,6 @@
   
     {
     
-    "title"    : "Códigos de barras: sigue y controla tus productos y activos",
-    "url"      : "/productos/codigos-de-barras"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Hologramas con códigos QR: Marca y controla tus activos",
-    "url"      : "/productos/codigos-qr"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
     "title"    : "Contacta con Holographic y encuentra la solución que buscas",
     "url"      : "/contacto"
     
@@ -105,8 +93,8 @@
   
     {
     
-    "title"    : "Estampillas para licores para tus impuestos y rentas",
-    "url"      : "/industrias/etiquetas-para-licores"
+    "title"    : "Estampillas para licores: etiqueta de impuestos y rentas",
+    "url"      : "/productos/stickers-holograficos/estampillas-para-licores"
     
     } ,
 
@@ -139,7 +127,7 @@
     {
     
     "title"    : "Stickers holográficos y etiquetas adhesivas personalizadas",
-    "url"      : "/productos/etiquetas-personalizadas"
+    "url"      : "/productos/stickers-holograficos/personalizadas"
     
     } ,
 
@@ -150,7 +138,7 @@
     {
     
     "title"    : "Holographic: Servicio de Stickers Holográficos Platinum",
-    "url"      : "/productos/etiquetas-platinum"
+    "url"      : "/productos/stickers-holograficos/platinum"
     
     } ,
 
@@ -161,7 +149,7 @@
     {
     
     "title"    : "Holographic: Stickers Holográficos Premium antifalsificación",
-    "url"      : "/productos/etiquetas-premium"
+    "url"      : "/productos/stickers-holograficos/premium"
     
     } ,
 
@@ -317,7 +305,18 @@
     {
     
     "title"    : "Sticker holográfico más rápidos y más accesibles",
-    "url"      : "/productos/stickers-genericos"
+    "url"      : "/productos/stickers-holograficos/genericos"
+    
+    } ,
+
+  
+  
+  
+  
+    {
+    
+    "title"    : "Estampillas para licores: etiqueta de impuestos y rentas",
+    "url"      : "/industrias/stickers-antifalsificacion-para-licoreras"
     
     } ,
 

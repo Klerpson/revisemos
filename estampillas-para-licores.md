@@ -1,10 +1,10 @@
 ---
-layout: industria
-permalink: industrias/etiquetas-para-licores
-title: "Estampillas para licores para tus impuestos y rentas"
-description: "Las estampillas y las etiquetas holográficas son elementos fundamentales para evitar la adulteración de las botellas de licor ¡Holographic te las fabrica!"
+layout: producto
+permalink: productos/stickers-holograficos/estampillas-para-licores
+title: "Estampillas para licores: etiqueta de impuestos y rentas"
+description: "Las estampillas para licores y las etiquetas holográficas son elementos fundamentales para evitar la adulteración de las botellas de licor"
 h1: Estampillas y etiquetas para la industria del licor 
-intro: Las estampillas y etiquetas de licor son elementos fundamentales en la industria de las bebidas alcohólicas.
+intro: Las estampillas para licores y las etiquetas holográficas son fundamentales en la industria licorera.
 hero: img/estampilla-para-licores.webp
 jpg: img/estampilla-para-licores.jpg
 alt: Fotografía de stickers holográficos para botellas de licor

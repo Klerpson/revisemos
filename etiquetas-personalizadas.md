@@ -1,6 +1,6 @@
 ---
 layout: producto
-permalink: productos/etiquetas-personalizadas
+permalink: productos/stickers-holograficos/personalizadas
 title: "Stickers holográficos y etiquetas adhesivas personalizadas"
 description: "Destaca tus productos con stickers holográficos y etiquetas adhesivas personalizadas. Diseños exclusivos que cautivan. ¡Solicita una cotización ahora!"
 h1: Servicio de stickers holográficos personalizadas 

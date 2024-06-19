@@ -1,9 +1,10 @@
 ---
-layout: producto
-permalink: productos/codigos-qr
+layout: post
 title: "Hologramas con códigos QR: Marca y controla tus activos"
 description: "Las etiquetas con código de barras se utilizan en industrias para los productos y activos fijos. En Holographic fabricamos los que necesitas"
 h1: Hologramas y etiquetas con códigos QR
+autor: Diana - Holographic
+category: "Mantenimiento"
 intro: Almacena y lee los datos de tu negocio de manera rápida y segura con el holograma QR
 hero: img/codigo-qr.webp
 jpg: img/codigo-qr.jpg
@@ -35,14 +36,6 @@ fotos:
   - Etiqueta qr de seguridad: img/nosotros/foto-de-stiker-holografico-11.webp
 ---
 
-<a
-  href="{{site.whatsapp}}%20:%20{{page.h1}}"
-  title="Contáctanos"
-  class="boton boton_2"
-  target="_blank"
-  rel="nofollow noopener"
-  >Obtén tus stickers QR</a
->
 <section class="wrapper flow" id="codigos-qr-para-empresa">
   <h2>Con los stickers de código QR optimizas la gestión de tus inventarios y la información de tus productos</h2>
   <p>Las etiquetas con código QR son ideales empresas que buscan una forma eficiente y versátil de transmitir información con altos estándares de seguridad y control.</p>
@@ -171,12 +164,11 @@ fotos:
   </table>
   <p>¿Qué esperas? Descubre la mejor manera de utilizar el código QR en tus productos</p>
   <a
-    href="{{site.whatsapp}}%20:%20{{page.h1}}"
-    title="Contáctanos"
-    class="boton boton_2"
+    href="{{'productos/stickers-holograficos' | relative_url}}"
+    title="Etiquetas holográficas"
+    class="boton boton_1"
     target="_blank"
-    rel="nofollow noopener"
-    >Obtén tus stickers QR</a
+    >Obtén tus stickers holográficos</a
   >
 </section>
 <section class="wrapper">{% include videos.html %}</section>
@@ -204,12 +196,11 @@ fotos:
   <p><b>Verificación de autenticidad</b>: El uso de códigos QR en licores ayuda a verificar la autenticidad de las botellas, combatiendo la falsificación, y optimizan la logística y la gestión de inventarios mediante un seguimiento eficiente a lo largo de la cadena de suministro.</p>
 
   <a
-    href="{{site.whatsapp}}%20:%20{{page.h1}}"
-    title="Contáctanos"
-    class="boton boton_2"
+    href="{{'productos/stickers-holograficos' | relative_url}}"
+    title="Etiquetas holográficas"
+    class="boton boton_1"
     target="_blank"
-    rel="nofollow noopener"
-    >Obtén tus códigos QR</a
+    >Obtén tus stickers holográficos</a
   >
 </section>
 <section class="wrapper title">
@@ -228,7 +219,7 @@ fotos:
     <a
       href="{{'productos/impresoras-termicas-y-lectores-de-codigos' | relative_url}}"
       title="Impresoras térmicas"
-      class="boton boton_1"
+      class="boton boton_2"
       >Consigue tu impresora térmica</a
     >
   </div>
@@ -244,7 +235,7 @@ fotos:
     <a
       href="{{'productos/stickers-holograficos/' | relative_url}}"
       title="Sello protección de marca"
-      class="boton boton_1"
+      class="boton boton_2"
       >Stickers holográficos para tu marca</a
     >
   </div>
@@ -260,7 +251,7 @@ fotos:
     <a
       href="{{'productos/cintas-de-seguridad/' | relative_url}}"
       title="Cinta seguridad evidencia"
-      class="boton boton_1"
+      class="boton boton_2"
       >Cinta de seguridad para tus mercancías</a
     >
   </div>
@@ -276,7 +267,7 @@ fotos:
     <a
       href="{{'productos/rollo-papel-holografico' | relative_url}}"
       title="Bobinas o rollos de hologramas"
-      class="boton boton_1"
+      class="boton boton_2"
       >Ahorra con nuestros rollos de stickers</a
     >
   </div>
@@ -321,12 +312,11 @@ fotos:
     <br />
     Empieza a integrarlos en tus productos, estrategias de marketing y operaciones comerciales para aumentar la eficiencia, mejorar la experiencia del cliente y llevar tu negocio al siguiente nivel.
     <a
-      href="{{site.whatsapp}}%20:%20{{page.h1}}"
-      title="Contáctanos"
-      class="boton boton_2"
-      target="_blank"
-      rel="nofollow noopener"
-      >Obtén tus códigos QR</a
-    >
+    href="{{'productos/stickers-holograficos' | relative_url}}"
+    title="Etiquetas holográficas"
+    class="boton boton_1"
+    target="_blank"
+    >Obtén tus stickers holográficos</a
+  >
   </blockquote>
 </section>
