@@ -8,9 +8,8 @@ hero: img/stickers-platinum.webp
 jpg: img/stickers-platinum.jpg
 alt: Fotografía de stickers platinum
 enlaces:
-  - Conoce nuestro servicio de hologramas platinum: '#enlace1'
-  - Niveles de seguridad de este servicio: '#enlace2'
-  - Algunas muestras de los hologramas platinum: '#muestras'
+  - Conoce nuestro servicio de hologramas platinum: '#hologramas-platinum'
+  - Niveles de seguridad de este servicio: '#niveles-seguridad'
 puntos-dolor:
   - Sticker platinum personalizado: "img/sellos-platinum.webp"
   - Diseño exclusivo del cliente: "img/etiqueta-platinum.webp"
@@ -36,16 +35,16 @@ fotos:
 ## Destaca tus productos con nuestro servicio de hologramas platinum
 
 Etiquetas con un diseño holográfico exclusivo, propiedad del cliente.
-{:id="enlace1"}
+{:id="hologramas-platinum"}
 
 Utilizamos diferentes tecnologías de origen. Se pueden fabricar mezclando dos tipos de materiales adhesivos, dependiendo de las necesidades de seguridad y su función. **Son hechas a la medida que requiere el producto final**.
 
 Son **ideales para consumos de más de 50.000 unidades**.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
 
 {% include videos.html %}
-{:id="enlace2"}
+{:id="niveles-seguridad"}
 
 ## Niveles de Seguridad de los stickers platinum de Holographic
 
@@ -73,6 +72,6 @@ La más alta resolución en imágenes holográficas, imágenes nano ópticas. Se
 
 Este producto de **los hologramas platinum cuenta con un nivel de seguridad NIVEL 5** y es completamente personalizable.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
 
 {% include slider.html %}

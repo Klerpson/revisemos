@@ -26,35 +26,16 @@
   <p>➡️ {{page.intro}}</p>
 </div>
 
-{% when "industria" %}
-<header class="bloques wrapper">
-  <div class="bloque_small bg1">
+{% when "post" %}
+<header class="post_header wrapper">
+  <div class="bg flow">
     <h1>{{page.h1}}</h1>
-    <p>{{page.intro}}</p>
-    {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
-  </div>
-  <div class="bloque_big bg2">
-    <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
-    <h2>{{page.title}}</h2>
-  </div>
-  <div class="bloque_small bg4">
-    <h4>Accesos rápidos</h4>
-    {% for items in page.enlaces %}
-    {% for item in items %}
-      <a href="{{item[1]}}">{{item[0]}}</a>
-    {% endfor %}
-    {% endfor %}
-  </div>
+    <p>{{page.description}}</p>
+    <small>Autor: {{page.autor}} | Temática: <a href="{{page.category | remove: '#' | relative_url }}">{{page.category}}</a></small>
+    <small><b>📍Estás aquí: </b><a href="/" title="Página de inicio">Inicio</a>/<a href="{{'blog' | relative_url}}" title="Blog Holographic">Blog</a>/{{page.title}}</small>
 
-  {% when "post" %}
-  <header class="post_header wrapper">
-    <div class="bg flow">
-      <h1>{{page.h1}}</h1>
-      <p>{{page.description}}</p>
-      <small>Autor: {{page.autor}} | Temática: <a href="{{page.category | remove: '#' | relative_url }}">{{page.category}}</a></small>
-      <small>Mira más temas en <a href="{{'blog' | relative_url }}">nuestro blog</a></small>
-    </div>
-    <img src="{{page.hero|reltive_url}}" alt="{{page.alt}}" width="600" height="340">
+  </div>
+  <img src="{{page.hero|reltive_url}}" alt="{{page.alt}}" width="600" height="340">
 
 {% else %}
 <header class="bloques wrapper">

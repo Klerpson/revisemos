@@ -9,7 +9,7 @@ jpg: img/holograma-premium.jpg
 alt: Fotografía de stickers premium
 enlaces:
   - Características de nuestros stickers holográficos premium: '#caracteristicas-stickers-premium'
-  - Adhesivos premium imposibles de copiar: '#adhesivos-holograficos-imposibles-de-copiar'
+  - Niveles de seguridad de los hologramas premium: '#niveles-de-seguridad'
   - Stickers holográficos premium con evidencia de despagado: '#stickers-premium-con-evidencia-de-despegado'
 puntos-dolor:
   - Holograma de seguridad premium: img/servicio-premium.webp
@@ -39,7 +39,7 @@ Diseñamos y fabricamos etiquetas con un diseño holográfico exclusivo propieda
 
 Son **ideales para consumos de más de 100.000 unidades**.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank" id="enlace1"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="enlace1"}
 
 {% include videos.html %}
 {:id="caracteristicas-stickers-premium"}
@@ -56,25 +56,37 @@ Son **ideales para consumos de más de 100.000 unidades**.
 | Muestra apertura en la superficie donde se pega o en la etiqueta | Garantiza la integridad del producto | Deja rastros visibles si se intenta despegar |
 | No permite que las etiquetas sean reutilizables | Evita el uso no autorizado de etiquetas | Una vez despegada, la etiqueta se destruye o daña |
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="niveles-de-seguridad"}
 
 {% include slider.html %}
 
 ## Niveles de Seguridad de los stickers platinum de Holographic
 
-* ***Nivel 1***  
-  Elementos que contienen características visibles, las cuales se pueden obtener a partir de un objeto real.
-* ***Nivel 2***  
-  Esta tecnología permite crear imágenes visibles e imágenes encubiertas en los hologramas a partir de pixeles que en conjunto crean las imágenes de los hologramas.
-* ***Nivel 3***  
-  Tecnología que permite generar imágenes a una resolución superior a 120.000 dpi. A diferencia de otras tecnologías, las cuales permiten visualizar las características en los colores del espectro visible (arcoíris), esta tecnología permite anular colores. También permite generar relieve.
-* ***Nivel 4***  
-  Es la tecnología de generación de más alta seguridad, no se mide en dpi, ya que se pueden generar objetos del tamaño de micrones. Se pueden generar características únicas por lo cual no es posible de ser replicada.
-* ***Nivel 5***  
-  La más alta resolución en imágenes holográficas, imágenes nano ópticas. Se alcanzan tamaños de 300 nm, estructuras visuales 3D con una apariencia increíblemente real. Imágenes encubiertas que requieren equipos especializados para identificarla, por lo cual son imposibles de falsificar.
-{:class="productos_beneficios bg" style="padding: 20px;" id="adhesivos-holograficos-imposibles-de-copiar"}
+### 1. Sticker con nivel de seguridad 1
+
+Elementos que contienen características visibles, las cuales se pueden obtener a partir de un objeto real.
+
+### 2. Sticker con nivel de seguridad 2
+
+Esta tecnología permite crear imágenes visibles e imágenes encubiertas en los hologramas a partir de pixeles que en conjunto crean las imágenes de los hologramas.
+
+### 3. Sticker con nivel de seguridad 3
+
+Tecnología que permite generar imágenes a una resolución superior a 120.000 dpi. A diferencia de otras tecnologías, las cuales permiten visualizar las características en los colores del espectro visible (arcoíris), esta tecnología permite anular colores. También permite generar relieve.
+
+### 4. Sticker con nivel de seguridad 4
+
+Es la tecnología de generación de más alta seguridad, no se mide en dpi, ya que se pueden generar objetos del tamaño de micrones. Se pueden generar características únicas por lo cual no es posible de ser replicada.
+
+### 5. Sticker con nivel de seguridad 5
+
+#### Este es el nivel de seguridad de los stickers holográficos platinum de Holographic
+
+La más alta resolución en imágenes holográficas, imágenes nano ópticas. Se alcanzan tamaños de 300 nm, estructuras visuales 3D con una apariencia increíblemente real. Imágenes encubiertas que requieren equipos especializados para identificarla, por lo cual son imposibles de falsificar.
 
 Este producto de **los hologramas platinum cuenta con un nivel de seguridad NIVEL 5** y es completamente personalizable.
+
+### Componentes de las etiquetas premium de Holographic
 
 ![Imagen de un sticker holográfico explicando sus partes]({{'img/sello-premium-holographic.webp' | relative_url}} "Sello premium Holographic"){:loading="lazy"}
 ![Desarrollo de holograma premium]({{'img/holograma-premium.webp' | relative_url}} "Sello premium Holographic"){:loading="lazy"}
@@ -102,7 +114,7 @@ Al retirarse de la superficie **se evidencian hexágonos dispuestos modularmente
 
 Algunos de nuestros clientes desean tener la característica TAMPER EVIDENT. Sin embargo, no quieren que en la superficie quede la evidencia.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
 
 Los sectores o industrias que **más solicitan el servicio de hologramas de seguridad premium** son:
 

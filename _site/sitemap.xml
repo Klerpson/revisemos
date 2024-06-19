@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-06-19T15:49:54-05:00</lastmod>
+        <lastmod>2024-06-19T17:01:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -36,7 +36,7 @@
     
       <url>
         <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2024-06-19T15:49:54-05:00</lastmod>
+        <lastmod>2024-06-19T17:01:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -61,7 +61,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-06-19T15:49:54-05:00</lastmod>
+        <lastmod>2024-06-19T17:01:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -89,7 +89,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-06-19T15:49:54-05:00</lastmod>
+        <lastmod>2024-06-19T17:01:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -114,7 +114,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias</loc>
-        <lastmod>2024-06-19T15:49:54-05:00</lastmod>
+        <lastmod>2024-06-19T17:01:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -142,7 +142,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/mantenimiento-impresoras-termicas</loc>
-        <lastmod>2024-06-19T15:49:54-05:00</lastmod>
+        <lastmod>2024-06-19T17:01:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -167,7 +167,7 @@
     
       <url>
         <loc>http://localhost:4000/productos</loc>
-        <lastmod>2024-06-19T15:49:54-05:00</lastmod>
+        <lastmod>2024-06-19T17:01:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -192,7 +192,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-06-19T15:49:54-05:00</lastmod>
+        <lastmod>2024-06-19T17:01:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -220,7 +220,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-06-19T15:49:54-05:00</lastmod>
+        <lastmod>2024-06-19T17:01:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -243,120 +243,6 @@
     
   
     
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/productos/stickers-holograficos</loc>
-        <lastmod>2024-06-19T15:49:54-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/stickers-holograficos-de-seguridad.jpg</image:loc>
-            <image:title>Stickers holográficos genéricos y personalizados</image:title>
-            <image:caption>Fotografía de productos de holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/stickers-holograficos-de-seguridad.webp</image:loc>
-            <image:title>Stickers holográficos genéricos y personalizados</image:title>
-            <image:caption>Fotografía de productos de holographic</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sello-color-personalizado.webp</image:loc>
-              <image:title>Adhesivo de seguridad holográfico</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sellos-seguridad-personalizados.webp</image:loc>
-              <image:title>Etiqueta hologramas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/servicio-platinum.webp</image:loc>
-              <image:title>Sticker holográfico seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-generico.webp</image:loc>
-              <image:title>Sticker de seguridad holograma</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-personalizado.webp</image:loc>
-              <image:title>Adhesivo holografico</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-proteccion-marca.webp</image:loc>
-              <image:title>Sticker holografico antifalsificacion</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/stickers-personalizados.webp</image:loc>
-              <image:title>Sellos holográficos</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/stikcer-seguridad.webp</image:loc>
-              <image:title>Pegatina holografica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-4.webp</image:loc>
-              <image:title>Holograma seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-19.webp</image:loc>
-              <image:title>Sticker seguridad de colores</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiquetas-void.mp4</video:content_loc>
-              <video:title>Stickers holográficos genéricos y personalizados</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/sticker-evidencia.mp4</video:content_loc>
-              <video:title>Stickers holográficos genéricos y personalizados</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiqueta-void-cnr.mp4</video:content_loc>
-              <video:title>Stickers holográficos genéricos y personalizados</video:title>
-            </video:video>
-          
-        
-      </url>
     
   
     

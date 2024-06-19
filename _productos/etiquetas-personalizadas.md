@@ -8,10 +8,10 @@ hero: img/sellos-personalizados.webp
 jpg: img/sellos-personalizados.jpg
 alt: Fotografía de adhesivos personalizados
 enlaces:
-  - La seguridad de las etiquetas personalizadas: '#enlace1'
-  - Etiquetas personalizadas con Tamper Evident: '#enlace2'
-  - Cómo personalizamos tu impresión: '#enlace3'
-  - Tamaños y colores de la impresión personalizada: '#enlace4'
+  - Conoce el servicio de hologramas personalizadas: '#personalizacion'
+  - Características de los hologramas personalizadas: '#caracteristicas'
+  - Etiquetas personalizadas con Tamper Evident: '#como-funciona'
+  - Tamaños y colores de la impresión personalizada: '#colores'
 puntos-dolor:
   - Holograma personalizado: "img/holograma-exclusivo.webp"
   - Destaca tu marca: "img/nosotros/foto-de-stiker-holografico-15.webp"
@@ -37,12 +37,11 @@ fotos:
 ## Personaliza tus etiquetas holográficas con el desarrollo de Holographic
 
 **Nuestras etiquetas personalizadas contienen la información que tu empresa necesita**. Dicha información puede ser: logos, textos, códigos de barras y consecutivos.
+{:id="personalizacion"}
 
 La impresión en este tipo de stickers personalizados puede ser realizada en color negro, azul, gris, rojo, verde y blanco.
 
 Son **ideales para consumos desde 1000 unidades hasta 50.000 unidades**.
-
->La característica principal de estas etiquetas es que **el diseño personalizado y las medidas de seguridad nunca se afectarán al momento del corte**. Es la diferencia principal con los hologramas genéricos.
 
 {% include slider.html %}
 
@@ -50,12 +49,14 @@ Son **ideales para consumos desde 1000 unidades hasta 50.000 unidades**.
 
 Nuestros hologramas contienen elementos de diferenciación y protección sobre sus productos para prevenir posibles falsificaciones y adulteraciones.
 
+>La característica principal de estas etiquetas es que **el diseño personalizado y las medidas de seguridad nunca se afectarán al momento del corte**. Es la diferencia principal con los hologramas genéricos.
+
 ### ¿Quieres que con tus sellos personalizadas tus productos resalten sobre la competencia?
 
 Nuestros hologramas personalizados son piezas holográficas con diseños exclusivos únicos en el mercado. Como verás en la siguiente sección, su variedad de elementos de seguridad todo un conjunto de herramientas antifalsificación. Adicionalmente, le agregan un toque único en su diseño para llamar la atención de tus clientes.
 {:id="enlace1"}
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="caracteristicas"}
 
 ## Las etiquetas holográficas personalizadas son un desarrollo de Holographic con muchos elementos de seguridad
 
@@ -73,7 +74,7 @@ Nuestros hologramas personalizados son piezas holográficas con diseños exclusi
 * **05 - Efecto 4 canales o capas**: Se diseña 4 capas con diferentes imágenes o textos, con el efecto flip-flop. El resultado es una imagen que aparece y la otra desaparece si se observa desde diferentes ángulos.
 
 >**Estos stickers personalizados tienen la capacidad de difractar la luz**. Estos agrega una visualización difícil de copiar con impresiones convencionales y minimiza la capacidad de falsificación.
-{:id="enlace2"}
+{:id="como-funciona"}
 
 ## Etiquetas personalizadas con evidencia de despegado (Tamper Evident)
 
@@ -103,7 +104,7 @@ Para ellos contamos con **evidencia de panal de abejas**, la cual queda sobre la
   Esta tecnología permite crear imágenes visibles e imágenes encubiertas en los hologramas a partir de pixeles que en conjunto crean las imágenes de los hologramas.
 * ***Nivel 3***  
   Plantilla Holográfica exclusiva de Holographic, no se comercializa sin impresión, lo cual proporciona seguridad y confianza.
-{:class="productos_beneficios bg" style="padding: 20px;" id="enlace3"}
+{:class="productos_beneficios bg" style="padding: 20px;"}
 
 ## ¿Cómo es la impresión de los hologramas personalizados?
 
@@ -135,7 +136,7 @@ Algunos de nuestros clientes tienen ciertas **regulaciones que les impiden cubri
 Estas son ideales para ser aplicadas en la industria farmacéutica, cosméticos, productos de uso personal y en aplicaciones con documentos.
 
 Al igual que los hologramas de color, también pueden ser impresos en color negro, escala de grises o a color.
-{:id="enlace4"}
+{:id="colores"}
 
 ## Tamaños y colores disponibles para las etiquetas de seguridad personalizadas
 
