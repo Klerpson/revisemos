@@ -98,3 +98,8 @@ details p{
   box-shadow: var(--shadow);
   border-radius: var(--radius);
 }
+
+.relacionados{
+  box-shadow: var(--shadow);
+  padding: 1em;
+}

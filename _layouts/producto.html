@@ -15,14 +15,9 @@ layout: default
     {% endfor %}
   </div>
 </section>
-{% if page.cantidad %}
 <main class="wrapper flow">
   {{content}}
 </main>
-{% else %}
-{{content}}
-{% endif %}
-{% if page.cantidad %}
 <section class="wrapper title">
   <h2>También te puede interesar estos productos recomendados por Holographic</h2>
 </section>
@@ -48,12 +43,7 @@ layout: default
     <a href="{{'productos/bobinas-papel-holografico'|relative_url}}" title="Bobinas o rollos de hologramas" class="boton boton_2">Ahorra con nuestros rollos de stickers</a>
   </div>
 </section>
-{% endif %}
-<section class="title flow wrapper">
-  {% include carousel.html %}
-  <h2>Conoce más productos de Holographic en Colombia</h2>
-  <a href="{{'productos' | relative_url}}" title="Catálogo de productos holográficos y marcación de Holographic S.A.S." class="boton boton_1" target="_blank" rel="nofollow noopener">Conoce todos los productos</a>
-</section>
+
 <a href="#">
   {% include boton-up.html %}
 </a>

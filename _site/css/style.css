@@ -561,7 +561,7 @@ nav .icono-nav .line {
   padding: 4em 0 1em;
   display: grid;
   gap: 20px;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 164px), 1fr));
   place-items: center;
   border-top: dotted 2px var(--gris);
   border-bottom: dotted 2px var(--gris);
@@ -571,7 +571,7 @@ nav .icono-nav .line {
   display: grid;
   place-items: center;
   text-align: center;
-  max-width: 200px;
+  max-width: 164px;
   gap: 1em;
   }
   
@@ -587,6 +587,7 @@ nav .icono-nav .line {
 .home_gallery article h3{
   margin: 0;
   color: var(--accion);
+  font-size: 20px;
 }
 
 .home_gallery article a,
@@ -818,6 +819,10 @@ details p{
   border-radius: var(--radius);
 }
 
+.relacionados{
+  box-shadow: var(--shadow);
+  padding: 1em;
+}
 .carousel_container{
   width: 100%;
   overflow: hidden;
@@ -925,8 +930,9 @@ details p{
 .blog_gallery{
   display: grid;
   gap: 3em;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 440px), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 600px), 1fr));
   padding: 2em 0;
+  place-items: start;
 }
 
 .blog_gallery article{
@@ -934,7 +940,6 @@ details p{
   flex-wrap: wrap;
   gap: 1em;
   align-items: center;
-  justify-content: center;
 
   & img{
     box-shadow: var(--shadow);

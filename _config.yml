@@ -25,3 +25,11 @@ compress_html:
     blanklines: false
     profile: false
     startings: []
+
+collections:
+  productos:
+    output: true
+    permalink: /productos/:path
+  posts:
+    output: true
+    permalink: /blog/:slug

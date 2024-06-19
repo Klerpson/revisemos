@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
+        <lastmod>2024-06-19T08:06:04-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -35,91 +35,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/productos/rollo-papel-holografico</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/rollos-papel-holografico.jpg</image:loc>
-            <image:title>Consigue tu rollo de papel holográfico con nosotros</image:title>
-            <image:caption>Fotografía de una etiqueta VOID</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/rollos-papel-holografico.webp</image:loc>
-            <image:title>Consigue tu rollo de papel holográfico con nosotros</image:title>
-            <image:caption>Fotografía de una etiqueta VOID</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/bobina-papel-holografico.webp</image:loc>
-              <image:title>Foto de bobina de papel holográfico</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/rollo-holografico-adhesivo.webp</image:loc>
-              <image:title>Foto de hologramas en bobina</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/hologramas-por-rollo.webp</image:loc>
-              <image:title>Bobina de papel con hologramas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/rollo-cinta-holografica.webp</image:loc>
-              <image:title>Rollo de papel holografico</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/bobina-o-rollo-de-stickers.webp</image:loc>
-              <image:title>Bobina papel de hologramas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/rollo-papel-holografico.webp</image:loc>
-              <image:title>Imagen de una bobina de hologramas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/hologramas-en-rollo.webp</image:loc>
-              <image:title>Hoja de holograma en rollo</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/bobinas-holograficas.webp</image:loc>
-              <image:title>Foto de bobina de hologramas</image:title>
-            </image:image>
-          
-          
-        
-        
-      </url>
-    
-  
-    
-      <url>
         <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
+        <lastmod>2024-06-19T08:06:04-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -143,105 +60,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/productos/cintas-de-seguridad</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/cintas-seguridad.jpg</image:loc>
-            <image:title>Cintas Inviolables | Protección Segura con Evidencia</image:title>
-            <image:caption>Fotografía de una cinta con evidencia de manipulación</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/cintas-seguridad.webp</image:loc>
-            <image:title>Cintas Inviolables | Protección Segura con Evidencia</image:title>
-            <image:caption>Fotografía de una cinta con evidencia de manipulación</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-seguridad-rastro.webp</image:loc>
-              <image:title>Cinta adhesiva de seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-seguridad-evidencia.webp</image:loc>
-              <image:title>Cinta de seguridad con evidencia</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-seguridad-standard.webp</image:loc>
-              <image:title>Cinta de seguridad de colores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-seguridad-void.webp</image:loc>
-              <image:title>Cinta de seguridad con evidencia</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/quienes-somos.webp</image:loc>
-              <image:title>Cinta personalizada de seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-24.webp</image:loc>
-              <image:title>Cinta de seguridad sellando puerta</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-seguridad-colores.webp</image:loc>
-              <image:title>Cinta de colores de seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-de-embalaje-de-colores.webp</image:loc>
-              <image:title>Cinta de embalaje con colores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-seguridad-premium-personalizadas.webp</image:loc>
-              <image:title>Cinta personalizada de seguridad con evidencia</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-domicilio.webp</image:loc>
-              <image:title>Cinta para domicilios</image:title>
-            </image:image>
-          
-          
-        
-        
-      </url>
-    
-  
-    
-      <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
+        <lastmod>2024-06-19T08:06:04-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -264,835 +84,12 @@
     
   
     
-      <url>
-        <loc>http://localhost:4000/productos/stickers-holograficos/estampillas-para-licores</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/estampilla-para-licores.jpg</image:loc>
-            <image:title>Estampillas para licores: etiqueta de impuestos y rentas</image:title>
-            <image:caption>Fotografía de stickers holográficos para botellas de licor</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/estampilla-para-licores.webp</image:loc>
-            <image:title>Estampillas para licores: etiqueta de impuestos y rentas</image:title>
-            <image:caption>Fotografía de stickers holográficos para botellas de licor</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-personalizado.webp</image:loc>
-              <image:title>Estampilla personalizada para botellas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/estampilla-platinum.webp</image:loc>
-              <image:title>Estampilla para licores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/estampilla-qr.webp</image:loc>
-              <image:title>QR para licores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-holografico.webp</image:loc>
-              <image:title>Botella con etiqueta holográfica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-26.webp</image:loc>
-              <image:title>Tapa botella con etiqueta</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-1.webp</image:loc>
-              <image:title>Adhesivo de seguridad para licores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-holografico-botellas.webp</image:loc>
-              <image:title>Sellos holográficos para botellas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/adhesivo-holografico-licor.webp</image:loc>
-              <image:title>Adhesivo holográfico para licor</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-qr-licores.webp</image:loc>
-              <image:title>Etiqueta qr para licores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-19.webp</image:loc>
-              <image:title>Sticker seguridad de colores</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/holograma-personalizado.mp4</video:content_loc>
-              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiqueta-holografica-botellla-licor.mp4</video:content_loc>
-              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/sticker-holografico-botella-licor.mp4</video:content_loc>
-              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/servicios/etikit-app</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/etikit-logo.png</image:loc>
-            <image:title>Etikit mantén el control de tus mercancía | Holographic</image:title>
-            <image:caption>Logotipo de la aplicación Etiki de trazabilidad Holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/etikit-logo.webp</image:loc>
-            <image:title>Etikit mantén el control de tus mercancía | Holographic</image:title>
-            <image:caption>Logotipo de la aplicación Etiki de trazabilidad Holographic</image:caption>
-          </image:image>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/productos/etiquetas-papel-impresion-termica</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/etiquetas-papel-impresion.jpg</image:loc>
-            <image:title>Etiquetas de papel adhesivo para impresión térmica</image:title>
-            <image:caption>Fotografía de adhesivos blancos para impresión</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/etiquetas-papel-impresion.webp</image:loc>
-            <image:title>Etiquetas de papel adhesivo para impresión térmica</image:title>
-            <image:caption>Fotografía de adhesivos blancos para impresión</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/adhesivo-codigo-de-barras.webp</image:loc>
-              <image:title>Sticker para impresión térmica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-trazabilidad-marcado.webp</image:loc>
-              <image:title>Adhesivo de papel blanco</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-void-blancas.webp</image:loc>
-              <image:title>Imprimir etiquetas de papel</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-codigo-barras.webp</image:loc>
-              <image:title>Etiqueta para código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/impresora-codigo-barras.webp</image:loc>
-              <image:title>Etiquetas para impresión térmica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-de-cera-negra.webp</image:loc>
-              <image:title>Cinta de cera para transferencia negra</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/rollo-con-etiquetas-de-papel.webp</image:loc>
-              <image:title>Rollos de etiquetas de papel</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/rollos-de-sticker-de-papel.webp</image:loc>
-              <image:title>Rollos de stickers de papel</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/papel-adhesivo-para-impresora-termica.webp</image:loc>
-              <image:title>Papel adhesivo para impresora termica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-blancas.webp</image:loc>
-              <image:title>Etiquetas de papel blancas</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiquetas-papel-blanco.mp4</video:content_loc>
-              <video:title>Etiquetas de papel adhesivo para impresión térmica</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiquetas-blancas.mp4</video:content_loc>
-              <video:title>Etiquetas de papel adhesivo para impresión térmica</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiqueta-void.mp4</video:content_loc>
-              <video:title>Etiquetas de papel adhesivo para impresión térmica</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/productos/stickers-holograficos/personalizadas</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/sellos-personalizados.jpg</image:loc>
-            <image:title>Stickers holográficos y etiquetas adhesivas personalizadas</image:title>
-            <image:caption>Fotografía de adhesivos personalizados</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/sellos-personalizados.webp</image:loc>
-            <image:title>Stickers holográficos y etiquetas adhesivas personalizadas</image:title>
-            <image:caption>Fotografía de adhesivos personalizados</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-seguridad-personalizados.webp</image:loc>
-              <image:title>Adhesivo de seguridad personalizado</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/adhesivo-personalizado.webp</image:loc>
-              <image:title>Adhesivo personalizado</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sellos-seguridad-personalizados.webp</image:loc>
-              <image:title>Etiqueta holográfica personalizada</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/pegatina-personalizada.webp</image:loc>
-              <image:title>Pegatina personalizada</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/stickers-personalizados.webp</image:loc>
-              <image:title>Stickers personalizados</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/calcomania-personalizada.webp</image:loc>
-              <image:title>Calcomanía personalizada</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/holograma-a-color-personalizado.webp</image:loc>
-              <image:title>Sticker a color personalizado</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/adhesivo-color-personalizado.webp</image:loc>
-              <image:title>Adhesivo a color personalizado</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sello-color-personalizado.webp</image:loc>
-              <image:title>Sello a color personalizado</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-plata-personalizado.webp</image:loc>
-              <image:title>Sticker transparente personalizado</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/adhesivo-premium.mp4</video:content_loc>
-              <video:title>Stickers holográficos y etiquetas adhesivas personalizadas</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/holograma-personalizado.mp4</video:content_loc>
-              <video:title>Stickers holográficos y etiquetas adhesivas personalizadas</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/marcacion-activo-fijo.mp4</video:content_loc>
-              <video:title>Stickers holográficos y etiquetas adhesivas personalizadas</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/productos/stickers-holograficos/platinum</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/stickers-platinum.jpg</image:loc>
-            <image:title>Holographic: Servicio de Stickers Holográficos Platinum</image:title>
-            <image:caption>Fotografía de stickers platinum</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/stickers-platinum.webp</image:loc>
-            <image:title>Holographic: Servicio de Stickers Holográficos Platinum</image:title>
-            <image:caption>Fotografía de stickers platinum</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/servicio-premium.webp</image:loc>
-              <image:title>Holograma de seguridad platinum</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/servicio-stickers-platinum.webp</image:loc>
-              <image:title>Foto del servicio de stickers paltinum</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-platinum.webp</image:loc>
-              <image:title>Foto de sticker platinum</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-holografico-licor.webp</image:loc>
-              <image:title>Estampilla de licor platinum</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/estampilla-platinum.webp</image:loc>
-              <image:title>Imagen de sticker platinum</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/adhesivo-platinum.webp</image:loc>
-              <image:title>Adhesivo a color platinum</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-platinum-seguridad.webp</image:loc>
-              <image:title>Stickers platinum de seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/codigo-barras-platinum.webp</image:loc>
-              <image:title>Sello platinum</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/holograma-a-color-personalizado.webp</image:loc>
-              <image:title>Sticker a color platinum</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-19.webp</image:loc>
-              <image:title>Sticker platinum</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/holograma-platinum.mp4</video:content_loc>
-              <video:title>Holographic: Servicio de Stickers Holográficos Platinum</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/sticker-platinum.mp4</video:content_loc>
-              <video:title>Holographic: Servicio de Stickers Holográficos Platinum</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/adhesivo-platinum.mp4</video:content_loc>
-              <video:title>Holographic: Servicio de Stickers Holográficos Platinum</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/productos/stickers-holograficos/premium</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/holograma-premium.jpg</image:loc>
-            <image:title>Holographic: Stickers Holográficos Premium antifalsificación</image:title>
-            <image:caption>Fotografía de stickers premium</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/holograma-premium.webp</image:loc>
-            <image:title>Holographic: Stickers Holográficos Premium antifalsificación</image:title>
-            <image:caption>Fotografía de stickers premium</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/servicio-hologramas-premium.webp</image:loc>
-              <image:title>Sticker premium personalizado</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/servicio-premium-de-stickers.webp</image:loc>
-              <image:title>Foto del servicio de stickers premium</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-21.webp</image:loc>
-              <image:title>Foto de sticker premium</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/stickers-premium.webp</image:loc>
-              <image:title>Estampilla premium</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/holograma-premium-holographic.webp</image:loc>
-              <image:title>Imagen de sticker premium</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/adhesivo-premium.webp</image:loc>
-              <image:title>Adhesivo a color premium</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sello-premium.webp</image:loc>
-              <image:title>Sello premium</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/servicio-adhesivos-premium.webp</image:loc>
-              <image:title>Stickers premium de seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/servicio-stickers-holograficos-premium.webp</image:loc>
-              <image:title>Sticker a color premium</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-evidencia-premium.webp</image:loc>
-              <image:title>Sticker premium</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/servicio-premium.mp4</video:content_loc>
-              <video:title>Holographic: Stickers Holográficos Premium antifalsificación</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/stickers-premium.mp4</video:content_loc>
-              <video:title>Holographic: Stickers Holográficos Premium antifalsificación</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/adhesivos-premium.mp4</video:content_loc>
-              <video:title>Holographic: Stickers Holográficos Premium antifalsificación</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/productos/etiquetas-void</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/etiquetas-void-holographic.jpg</image:loc>
-            <image:title>Etiquetas de marcación VOID de Holographic</image:title>
-            <image:caption>Fotografía de una etiqueta VOID</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/etiquetas-void-holographic.webp</image:loc>
-            <image:title>Etiquetas de marcación VOID de Holographic</image:title>
-            <image:caption>Fotografía de una etiqueta VOID</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-void-blancas.webp</image:loc>
-              <image:title>Adhesivo de seguridad blanco</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-void-blanca.webp</image:loc>
-              <image:title>Etiqueta void blanca</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-void-evidencia.webp</image:loc>
-              <image:title>Etiqueta void con evidencia</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-seguridad-void-en-contenedor.webp</image:loc>
-              <image:title>Cinta de seguridad void</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-void-sin-evidencia.webp</image:loc>
-              <image:title>Foto de etiquetas void</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-void-rastro.webp</image:loc>
-              <image:title>Imagen de pegatinas de seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-seguridad-void.webp</image:loc>
-              <image:title>Cinta void</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-void-para-computador.webp</image:loc>
-              <image:title>Sticker de seguridad void</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/holograma-void.webp</image:loc>
-              <image:title>Foto de cintas void</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/rollo-etiquetas-void.webp</image:loc>
-              <image:title>Imagen de etiqueta seguridad void</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiquetas-void.mp4</video:content_loc>
-              <video:title>Etiquetas de marcación VOID de Holographic</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/sticker-evidencia.mp4</video:content_loc>
-              <video:title>Etiquetas de marcación VOID de Holographic</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiqueta-void-cnr.mp4</video:content_loc>
-              <video:title>Etiquetas de marcación VOID de Holographic</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/productos/impresoras-termicas-y-de-transferencia</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/impresora-termica-y-lector-codigo.jpg</image:loc>
-            <image:title>Compra tu impresora térmica o lector de códigos</image:title>
-            <image:caption>Fotografía de productos de holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/impresora-termica-y-lector-codigo.webp</image:loc>
-            <image:title>Compra tu impresora térmica o lector de códigos</image:title>
-            <image:caption>Fotografía de productos de holographic</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sello-color-personalizado.webp</image:loc>
-              <image:title>Adhesivo de seguridad holográfico</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sellos-seguridad-personalizados.webp</image:loc>
-              <image:title>Etiqueta hologramas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/servicio-platinum.webp</image:loc>
-              <image:title>Sticker holográfico seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-generico.webp</image:loc>
-              <image:title>Sticker de seguridad holograma</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-personalizado.webp</image:loc>
-              <image:title>Adhesivo holografico</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-proteccion-marca.webp</image:loc>
-              <image:title>Sticker holografico antifalsificacion</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/stickers-personalizados.webp</image:loc>
-              <image:title>Sellos holográficos</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/stikcer-seguridad.webp</image:loc>
-              <image:title>Pegatina holografica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-4.webp</image:loc>
-              <image:title>Holograma seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-19.webp</image:loc>
-              <image:title>Sticker seguridad de colores</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiquetas-void.mp4</video:content_loc>
-              <video:title>Compra tu impresora térmica o lector de códigos</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/sticker-evidencia.mp4</video:content_loc>
-              <video:title>Compra tu impresora térmica o lector de códigos</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiqueta-void-cnr.mp4</video:content_loc>
-              <video:title>Compra tu impresora térmica o lector de códigos</video:title>
-            </video:video>
-          
-        
-      </url>
     
   
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
+        <lastmod>2024-06-19T08:06:04-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1117,7 +114,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
+        <lastmod>2024-06-19T08:06:04-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1140,126 +137,12 @@
     
   
     
-      <url>
-        <loc>http://localhost:4000/productos/lectores-de-codigos-de-barras</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/impresora-termica-y-lector-codigo.jpg</image:loc>
-            <image:title>Compra tu impresora térmica o lector de códigos</image:title>
-            <image:caption>Fotografía de productos de holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/impresora-termica-y-lector-codigo.webp</image:loc>
-            <image:title>Compra tu impresora térmica o lector de códigos</image:title>
-            <image:caption>Fotografía de productos de holographic</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sello-color-personalizado.webp</image:loc>
-              <image:title>Adhesivo de seguridad holográfico</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sellos-seguridad-personalizados.webp</image:loc>
-              <image:title>Etiqueta hologramas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/servicio-platinum.webp</image:loc>
-              <image:title>Sticker holográfico seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-generico.webp</image:loc>
-              <image:title>Sticker de seguridad holograma</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-personalizado.webp</image:loc>
-              <image:title>Adhesivo holografico</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-proteccion-marca.webp</image:loc>
-              <image:title>Sticker holografico antifalsificacion</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/stickers-personalizados.webp</image:loc>
-              <image:title>Sellos holográficos</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/stikcer-seguridad.webp</image:loc>
-              <image:title>Pegatina holografica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-4.webp</image:loc>
-              <image:title>Holograma seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-19.webp</image:loc>
-              <image:title>Sticker seguridad de colores</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiquetas-void.mp4</video:content_loc>
-              <video:title>Compra tu impresora térmica o lector de códigos</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/sticker-evidencia.mp4</video:content_loc>
-              <video:title>Compra tu impresora térmica o lector de códigos</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiqueta-void-cnr.mp4</video:content_loc>
-              <video:title>Compra tu impresora térmica o lector de códigos</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
     
   
     
       <url>
         <loc>http://localhost:4000/productos/mantenimiento-impresoras-termicas</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
+        <lastmod>2024-06-19T08:06:04-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1283,122 +166,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/proteccion-mercancia.jpg</image:loc>
-            <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
-            <image:caption>Fotografía de adhesivos personalizados</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/proteccion-mercancia.webp</image:loc>
-            <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
-            <image:caption>Fotografía de adhesivos personalizados</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sellos-seguridad-personalizados.webp</image:loc>
-              <image:title>Etiqueta hologramas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/servicio-platinum.webp</image:loc>
-              <image:title>Sticker holográfico seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/trazabilidad-codigo-de-barras.webp</image:loc>
-              <image:title>Vinilo para etiquetas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-void-rastro.webp</image:loc>
-              <image:title>Imagen de pegatinas de seguridad</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-void-para-computador.webp</image:loc>
-              <image:title>Sticker de seguridad void</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-void-blancas.webp</image:loc>
-              <image:title>Adhesivo de seguridad blanco</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/stickers-personalizados.webp</image:loc>
-              <image:title>Sellos holográficos</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/marcacion-con-codigo-de-barras.webp</image:loc>
-              <image:title>Marcación con código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-codigo-barras.webp</image:loc>
-              <image:title>Etiqueta código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-19.webp</image:loc>
-              <image:title>Sticker seguridad de colores</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/sticker-evidencia.mp4</video:content_loc>
-              <video:title>Protege tus activos fijos con etiquetas de marcación</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/sticker-qr.mp4</video:content_loc>
-              <video:title>Protege tus activos fijos con etiquetas de marcación</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/marcacion-activo-fijo.mp4</video:content_loc>
-              <video:title>Protege tus activos fijos con etiquetas de marcación</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-      <url>
         <loc>http://localhost:4000/productos</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
+        <lastmod>2024-06-19T08:06:04-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1423,7 +192,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
+        <lastmod>2024-06-19T08:06:04-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1451,7 +220,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
+        <lastmod>2024-06-19T08:06:04-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1478,236 +247,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/productos/stickers-holograficos/genericos</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/etiquetas-papel-impresion.jpg</image:loc>
-            <image:title>Sticker holográfico más rápidos y más accesibles</image:title>
-            <image:caption>Fotografía de stickers holográficos genéricos</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/etiquetas-papel-impresion.webp</image:loc>
-            <image:title>Sticker holográfico más rápidos y más accesibles</image:title>
-            <image:caption>Fotografía de stickers holográficos genéricos</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/adhesivo-codigo-de-barras.webp</image:loc>
-              <image:title>Sticker para impresión térmica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-trazabilidad-marcado.webp</image:loc>
-              <image:title>Adhesivo de papel blanco</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-void-blancas.webp</image:loc>
-              <image:title>Imprimir etiquetas de papel</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-codigo-barras.webp</image:loc>
-              <image:title>Etiqueta para código de barras</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/impresora-codigo-barras.webp</image:loc>
-              <image:title>Etiquetas para impresión térmica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/cinta-de-cera-negra.webp</image:loc>
-              <image:title>Cinta de cera para transferencia negra</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/rollo-con-etiquetas-de-papel.webp</image:loc>
-              <image:title>Rollos de etiquetas de papel</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/rollos-de-sticker-de-papel.webp</image:loc>
-              <image:title>Rollos de stickers de papel</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/papel-adhesivo-para-impresora-termica.webp</image:loc>
-              <image:title>Papel adhesivo para impresora termica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiquetas-blancas.webp</image:loc>
-              <image:title>Etiquetas de papel blancas</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiquetas-papel-blanco.mp4</video:content_loc>
-              <video:title>Sticker holográfico más rápidos y más accesibles</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiquetas-blancas.mp4</video:content_loc>
-              <video:title>Sticker holográfico más rápidos y más accesibles</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiqueta-void.mp4</video:content_loc>
-              <video:title>Sticker holográfico más rápidos y más accesibles</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/industrias/stickers-antifalsificacion-para-licoreras</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/estampilla-para-licores.jpg</image:loc>
-            <image:title>Estampillas para licores: etiqueta de impuestos y rentas</image:title>
-            <image:caption>Fotografía de stickers holográficos para botellas de licor</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/estampilla-para-licores.webp</image:loc>
-            <image:title>Estampillas para licores: etiqueta de impuestos y rentas</image:title>
-            <image:caption>Fotografía de stickers holográficos para botellas de licor</image:caption>
-          </image:image>
-        
-        
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-personalizado.webp</image:loc>
-              <image:title>Estampilla personalizada para botellas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/estampilla-platinum.webp</image:loc>
-              <image:title>Estampilla para licores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/estampilla-qr.webp</image:loc>
-              <image:title>QR para licores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-holografico.webp</image:loc>
-              <image:title>Botella con etiqueta holográfica</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-26.webp</image:loc>
-              <image:title>Tapa botella con etiqueta</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-1.webp</image:loc>
-              <image:title>Adhesivo de seguridad para licores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/sticker-holografico-botellas.webp</image:loc>
-              <image:title>Sellos holográficos para botellas</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/adhesivo-holografico-licor.webp</image:loc>
-              <image:title>Adhesivo holográfico para licor</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/etiqueta-qr-licores.webp</image:loc>
-              <image:title>Etiqueta qr para licores</image:title>
-            </image:image>
-          
-          
-          
-            <image:image>
-              <image:loc>http://localhost:4000/img/nosotros/foto-de-stiker-holografico-19.webp</image:loc>
-              <image:title>Sticker seguridad de colores</image:title>
-            </image:image>
-          
-          
-        
-        
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/holograma-personalizado.mp4</video:content_loc>
-              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/etiqueta-holografica-botellla-licor.mp4</video:content_loc>
-              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
-            </video:video>
-          
-            <video:video>
-              <video:content_loc>http://localhost:4000/videos/sticker-holografico-botella-licor.mp4</video:content_loc>
-              <video:title>Estampillas para licores: etiqueta de impuestos y rentas</video:title>
-            </video:video>
-          
-        
-      </url>
-    
-  
-    
-      <url>
         <loc>http://localhost:4000/productos/stickers-holograficos</loc>
-        <lastmod>2024-06-18T19:54:13-05:00</lastmod>
+        <lastmod>2024-06-19T08:06:04-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -1824,7 +365,49 @@
   
   
     <url>
-      <loc>http://localhost:4000/mantenimiento-preventivo-de-impresoras-termicas</loc>
+      <loc>http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</loc>
+      <lastmod>2024-06-18T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/proteccion-mercancia.jpg</image:loc>
+          <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
+          <image:caption>Fotografía de adhesivos personalizados</image:caption>
+        </image:image>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/proteccion-mercancia.webp</image:loc>
+          <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
+          <image:caption>Fotografía de adhesivos personalizados</image:caption>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</loc>
+      <lastmod>2024-06-17T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/proteccion-mercancia.jpg</image:loc>
+          <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
+          <image:caption>Fotografía de adhesivos personalizados</image:caption>
+        </image:image>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/proteccion-mercancia.webp</image:loc>
+          <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
+          <image:caption>Fotografía de adhesivos personalizados</image:caption>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/mantenimiento-preventivo-de-impresoras-termicas</loc>
       <lastmod>2024-06-11T00:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
@@ -1845,7 +428,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/etiquetas-holograficas-con-codigos-qr</loc>
+      <loc>http://localhost:4000/blog/etiquetas-holograficas-con-codigos-qr</loc>
       <lastmod>2024-06-10T00:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
@@ -1866,7 +449,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/cintas-de-seguridad-caracteristicas-funciones</loc>
+      <loc>http://localhost:4000/blog/cintas-de-seguridad-caracteristicas-funciones</loc>
       <lastmod>2024-06-04T00:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
@@ -1887,7 +470,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/codigos-de-barras</loc>
+      <loc>http://localhost:4000/blog/codigos-de-barras</loc>
       <lastmod>2024-05-18T00:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>

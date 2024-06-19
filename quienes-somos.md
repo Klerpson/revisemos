@@ -12,20 +12,20 @@ alt: Logotipo de Holographic S.A.S.
 
 ### Nuestra historia
 
-En **Holographic**, nos especializamos en proteger la autenticidad de tus productos y salvaguardar tu marca contra la falsificación. Nuestra travesía comenzó en 2011 en Bogotá, con una visión clara: ofrecer soluciones innovadoras y efectivas en seguridad holográfica y trazabilidad.
+En Holographic nos especializamos en **proteger la autenticidad de tus productos y salvaguardar tu marca contra la falsificación**. Nuestra travesía comenzó en 2011 en Bogotá, con una visión clara: ofrecer soluciones innovadoras y efectivas en seguridad holográfica y trazabilidad.
 
 A lo largo de más de una década, hemos crecido y evolucionado, alcanzando importantes hitos que reflejan nuestro compromiso con la excelencia.
 
-Desde nuestros inicios, hemos obtenido la certificación ISO 9001:2015, un testimonio de nuestra dedicación a la calidad y la mejora continua. Este logro subraya nuestro esfuerzo por mantener altos estándares en cada aspecto de nuestro negocio, desde la investigación y desarrollo hasta la producción y el servicio al cliente.
+Desde nuestros inicios, **hemos obtenido la certificación ISO 9001:2015**, un testimonio de nuestra dedicación a la calidad y la mejora continua. Este logro subraya nuestro esfuerzo por mantener altos estándares en cada aspecto de nuestro negocio, desde la investigación y desarrollo hasta la producción y el servicio al cliente.
 
 ### Qué hacemos en Holographic S.A.S.
 
-La falsificación es una amenaza constante en muchos sectores, y sabemos que proteger tus productos es crucial para mantener la confianza de tus clientes. En **Holographic**, ofrecemos una variedad de soluciones diseñadas para proporcionar esa seguridad:
+La falsificación es una amenaza constante en muchos sectores, y sabemos que proteger tus productos es crucial para mantener la confianza de tus clientes. Por esta razón [Holographic ofrece una variedad de soluciones](/) diseñadas para proporcionar esa seguridad:
 
-- **Hologramas Antifalsificación**: Hologramas personalizados que no solo aseguran la autenticidad, sino que también refuerzan la imagen de tu marca.
-- **Etiquetas de Seguridad VOID**: Etiquetas que revelan mensajes de seguridad cuando se intentan despegar, proporcionando una clara evidencia de manipulación.
-- **Cintas de Seguridad**: Cintas adhesivas con propiedades de seguridad avanzadas, ideales para sellar envíos y productos de alto valor.
-- **Soluciones de Trazabilidad**: Sistemas que permiten rastrear el recorrido de tus productos a través de la cadena de suministro, garantizando transparencia y control total.
+- **Hologramas Antifalsificación**: [Hologramas personalizados]({{'productos/stickers-holograficos/personalizados' | relative_url}} "Hologramas personalizados"){:target="_blank"} que no solo aseguran la autenticidad, sino que también refuerzan la imagen de tu marca.
+- **Etiquetas de Seguridad VOID**: Etiquetas que revelan mensajes de seguridad cuando se intentan despegar, proporcionando una clara [evidencia de manipulación con la marca VOID]({{'productos/etiquetas-void' | relative_url}} "Etiquetas adhesivas VOID"){:target="_blank"}.
+- **Cintas de Seguridad**: [Cintas adhesivas con propiedades de seguridad avanzadas]({{'productos/cintas-de-seguridad' | relative_url}} "Cintas de seguridad"){:target="_blank"}, ideales para sellar envíos y productos de alto valor.
+- **Soluciones de Trazabilidad**: Sistemas que permiten [rastrear el recorrido de tus productos]({{'industrias/marcacion-y-trazabilidad-de-activos-fijos' | relative_url}} "Marcación interna"){:target="_blank"} a través de la cadena de suministro, garantizando transparencia y control total.
 
 #### Tabla comparativa de nuestras soluciones
 
@@ -38,9 +38,9 @@ La falsificación es una amenaza constante en muchos sectores, y sabemos que pro
 
 ### Nuestros clientes
 
-Atendemos a empresas en industrias altamente susceptibles a la falsificación, donde la seguridad y la integridad del producto son fundamentales. Nuestros clientes incluyen:
+Atendemos a empresas en [industrias altamente susceptibles a la falsificación]({{'industrias' | relative_url}} "Industrias clientes de Holographic"){:target="_blank"}, donde la seguridad y la integridad del producto son fundamentales. Nuestros clientes incluyen:
 
-- **Licoreras**: Protegemos marcas premium contra la falsificación y el fraude, asegurando que cada botella en el mercado sea genuina.
+- **Licoreras**: Protegemos marcas premium contra la falsificación y el fraude, [asegurando que cada botella en el mercado sea genuina]({{'productos/stickers-holograficos/licores' | relative_url}} "Estampillas licores"){:target="_blank"}.
 - **Productos Farmacéuticos**: Garantizamos que los medicamentos lleguen al consumidor final sin alteraciones, protegiendo la salud pública.
 - **Cosméticos**: Salvaguardamos la autenticidad de productos de belleza, evitando riesgos asociados con imitaciones.
 - **Repuestos Automotores**: Aseguramos que cada pieza y repuesto en el mercado es original, manteniendo la seguridad de los vehículos.
@@ -60,10 +60,10 @@ Invertimos continuamente en investigación y desarrollo para estar a la vanguard
 ### Testimonios de quienes cuidan sus activos con Holographic S.A.S.
 
 > "Muy buen servicio, atención al cliente y excelentes productos." - [Makrotoner & suministros S.A.S.](https://maps.app.goo.gl/YbVBTLeNmiJvaYtv5){:rel="nofollow noopener noreferrer" target="_blank"}
+
 > "Buenos productos y buen servicio al cliente. Recomendados!" - [Rediserv LTDA](https://maps.app.goo.gl/hRrJU5x1ZSq2dpfL6){:rel="nofollow noopener noreferrer" target="_blank"}
-> "Cuando hablamos de un proveedor serio, hablamos de Holographic SAS, una empresa bogotana, tecnolÓgicamente a la vanguardia, capaz de atender y satisfacer al cliente más complicado.  
-La calidez y la profesionalidad de su personal técnico / comercial, hacen de esta empresa uno de los mejores proveedores de Laboratorios San Roque. La calidad de sus trabajos no tiene iguales en Colombia, asi como la respuesta comercial, siempre a la altura de la situación. Una relación precio / calidad difícil de conseguir hoy en dia.  
-Gracias Holographic SAS por ser parte de nuestro éxito!" - [Laboratorios San Roque S.A.S.](https://maps.app.goo.gl/sutrokKsuywJVntt5){:rel="nofollow noopener noreferrer" target="_blank"}
+
+> "Cuando hablamos de un proveedor serio, hablamos de Holographic SAS, una empresa bogotana, tecnolÓgicamente a la vanguardia, capaz de atender y satisfacer al cliente más complicado. La calidez y la profesionalidad de su personal técnico / comercial, hacen de esta empresa uno de los mejores proveedores de Laboratorios San Roque. La calidad de sus trabajos no tiene iguales en Colombia, asi como la respuesta comercial, siempre a la altura de la situación. Una relación precio / calidad difícil de conseguir hoy en dia. Gracias Holographic SAS por ser parte de nuestro éxito!" - [Laboratorios San Roque S.A.S.](https://maps.app.goo.gl/sutrokKsuywJVntt5){:rel="nofollow noopener noreferrer" target="_blank"}
 
 ### Conoce al equipo de Holographic
 
@@ -87,4 +87,4 @@ Contáctanos hoy mismo para una consulta personalizada y descubre cómo podemos 
 
 Gracias por conocer más sobre nosotros. En **Holographic**, estamos dedicados a proporcionarte la tranquilidad de saber que tus productos están seguros y auténticos.
 
-[Conoce nuestros productos]({{'productos' | relative_url }} "Catálogo Holographic"){:class="boton boton_2"}
+[Conoce nuestros productos]({{'productos' | relative_url }} "Catálogo Holographic"){:class="boton boton_1"}

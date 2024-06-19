@@ -5,16 +5,40 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Jun 2024 19:54:13 -0500</pubDate>
-    <lastBuildDate>Tue, 18 Jun 2024 19:54:13 -0500</lastBuildDate>
+    <pubDate>Wed, 19 Jun 2024 08:06:04 -0500</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2024 08:06:04 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Protege tus activos fijos con etiquetas de marcación</title>
+        <description>Utiliza las etiquetas holográficas y de papel de Holographic para simplificar el proceso de seguimiento de los activos de tu negocio</description>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</link>
+        <guid isPermaLink="true">http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</guid>
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Protege tus activos fijos con etiquetas de marcación</title>
+        <description>Utiliza las etiquetas holográficas y de papel de Holographic para simplificar el proceso de seguimiento de los activos de tu negocio</description>
+        <pubDate>Mon, 17 Jun 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</link>
+        <guid isPermaLink="true">http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</guid>
+        
+        
+        
+        
+      </item>
     
       <item>
         <title>Mantenimiento preventivo en impresoras térmicas. Hazlo tú</title>
         <description>Realizar el mantenimiento preventivo de tu impresora térmica te va a ahorra mucho dinero. Son unos pasos sencillos. Aprende cómo hacerlo con Holographic</description>
         <pubDate>Tue, 11 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mantenimiento-preventivo-de-impresoras-termicas</link>
-        <guid isPermaLink="true">http://localhost:4000/mantenimiento-preventivo-de-impresoras-termicas</guid>
+        <link>http://localhost:4000/blog/mantenimiento-preventivo-de-impresoras-termicas</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/mantenimiento-preventivo-de-impresoras-termicas</guid>
         
         
         
@@ -27,8 +51,8 @@
         <title>Hologramas con códigos QR: Marca y controla tus activos</title>
         <description>Las etiquetas con código de barras se utilizan en industrias para los productos y activos fijos. En Holographic fabricamos los que necesitas</description>
         <pubDate>Mon, 10 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/etiquetas-holograficas-con-codigos-qr</link>
-        <guid isPermaLink="true">http://localhost:4000/etiquetas-holograficas-con-codigos-qr</guid>
+        <link>http://localhost:4000/blog/etiquetas-holograficas-con-codigos-qr</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-holograficas-con-codigos-qr</guid>
         
         
         
@@ -41,8 +65,8 @@
         <title>Características y funciones de las cintas de seguridad</title>
         <description>¿Conoces qué características o funciones tiene una cinta de seguridad? Van más allá de dejar una evidencia de despegue. Aprende más con Holographic</description>
         <pubDate>Tue, 04 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/cintas-de-seguridad-caracteristicas-funciones</link>
-        <guid isPermaLink="true">http://localhost:4000/cintas-de-seguridad-caracteristicas-funciones</guid>
+        <link>http://localhost:4000/blog/cintas-de-seguridad-caracteristicas-funciones</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/cintas-de-seguridad-caracteristicas-funciones</guid>
         
         
         
@@ -55,8 +79,8 @@
         <title>Códigos de barras: sigue y controla tus productos y activos</title>
         <description>Las etiquetas con código de barras se utilizan en industrias para los productos y activos fijos. En Holographic fabricamos los que necesitas</description>
         <pubDate>Sat, 18 May 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/codigos-de-barras</link>
-        <guid isPermaLink="true">http://localhost:4000/codigos-de-barras</guid>
+        <link>http://localhost:4000/blog/codigos-de-barras</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/codigos-de-barras</guid>
         
         
         

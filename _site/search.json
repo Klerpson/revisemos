@@ -1,23 +1,33 @@
 [
   
     {
+      "title"    : "Protege tus activos fijos con etiquetas de marcación",
+      "url"      : "/industrias/marcacion-y-trazabilidad-de-activos-fijos"
+    } ,
+  
+    {
+      "title"    : "Protege tus activos fijos con etiquetas de marcación",
+      "url"      : "/industrias/marcacion-y-trazabilidad-de-activos-fijos"
+    } ,
+  
+    {
       "title"    : "Mantenimiento preventivo en impresoras térmicas. Hazlo tú",
-      "url"      : "/mantenimiento-preventivo-de-impresoras-termicas"
+      "url"      : "/blog/mantenimiento-preventivo-de-impresoras-termicas"
     } ,
   
     {
       "title"    : "Hologramas con códigos QR: Marca y controla tus activos",
-      "url"      : "/etiquetas-holograficas-con-codigos-qr"
+      "url"      : "/blog/etiquetas-holograficas-con-codigos-qr"
     } ,
   
     {
       "title"    : "Características y funciones de las cintas de seguridad",
-      "url"      : "/cintas-de-seguridad-caracteristicas-funciones"
+      "url"      : "/blog/cintas-de-seguridad-caracteristicas-funciones"
     } ,
   
     {
       "title"    : "Códigos de barras: sigue y controla tus productos y activos",
-      "url"      : "/codigos-de-barras"
+      "url"      : "/blog/codigos-de-barras"
     } 
   
   ,
@@ -49,30 +59,8 @@
   
     {
     
-    "title"    : "Consigue tu rollo de papel holográfico con nosotros",
-    "url"      : "/productos/rollo-papel-holografico"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
     "title"    : "Catálogo de productos de Holographic en Colombia",
     "url"      : "/catalogo"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Cintas Inviolables | Protección Segura con Evidencia",
-    "url"      : "/productos/cintas-de-seguridad"
     
     } ,
 
@@ -92,94 +80,6 @@
   
   
     {
-    
-    "title"    : "Estampillas para licores: etiqueta de impuestos y rentas",
-    "url"      : "/productos/stickers-holograficos/estampillas-para-licores"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Etikit mantén el control de tus mercancía | Holographic",
-    "url"      : "/servicios/etikit-app"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Etiquetas de papel adhesivo para impresión térmica",
-    "url"      : "/productos/etiquetas-papel-impresion-termica"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Stickers holográficos y etiquetas adhesivas personalizadas",
-    "url"      : "/productos/stickers-holograficos/personalizadas"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Holographic: Servicio de Stickers Holográficos Platinum",
-    "url"      : "/productos/stickers-holograficos/platinum"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Holographic: Stickers Holográficos Premium antifalsificación",
-    "url"      : "/productos/stickers-holograficos/premium"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Etiquetas de marcación VOID de Holographic",
-    "url"      : "/productos/etiquetas-void"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Compra tu impresora térmica o lector de códigos",
-    "url"      : "/productos/impresoras-termicas-y-de-transferencia"
     
     } ,
 
@@ -208,17 +108,6 @@
   
   
   
-  
-    {
-    
-    "title"    : "Compra tu impresora térmica o lector de códigos",
-    "url"      : "/productos/lectores-de-codigos-de-barras"
-    
-    } ,
-
-  
-  
-  
     
     {
       
@@ -235,17 +124,6 @@
     
     "title"    : "Hacemos el mantenimiento y reparación de impresoras térmicas",
     "url"      : "/productos/mantenimiento-impresoras-termicas"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Protege tus activos fijos con etiquetas de marcación",
-    "url"      : "/industrias/marcacion-y-trazabilidad-de-activos-fijos"
     
     } ,
 
@@ -295,28 +173,6 @@
   
   
     {
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Sticker holográfico más rápidos y más accesibles",
-    "url"      : "/productos/stickers-holograficos/genericos"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Estampillas para licores: etiqueta de impuestos y rentas",
-    "url"      : "/industrias/stickers-antifalsificacion-para-licoreras"
     
     } ,
 
