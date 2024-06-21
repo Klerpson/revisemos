@@ -31,18 +31,18 @@ stickers:
     title: Etiqueta VOID
 
 hologramas:
-  - img: img/holograma-adhesivo-personalizado.webp
-    alt: Holograma personalizado para empresas
-    nombre: Holograma Personalizado
-    p: Etiquetas desarrolladas con un diseño holográfico exclusivo
-    url: "productos/etiquetas-personalizadas"
-    title: Holograma personalizado
+  - img: img/sticker-personalizado.webp
+    alt: Estampilla para licores
+    nombre: Estampillas de licores
+    p: Estampillas de licores para impuestos y rentas
+    url: "productos/estampillas-para-licores"
+    title: Estampillas licores
   - img: img/servicio-premium.webp
     alt: Servicio de stickers holográficos platinum
-    nombre: Stickers Platinum
-    p: Destaca de tu competencia y asegura tus productos
+    nombre: Stickers para vehículos
+    p: Sticker de seguridad para verificación vehicular
     url: "servicios/etiquetas-platinum"
-    title: Cinta Seguridad
+    title: Etiqueta de seguridad para vehículos
   - img: img/stickers-personalizados.webp
     alt: Etiqueta de seguridad premium
     nombre: Stickers Premium

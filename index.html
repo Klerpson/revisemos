@@ -8,21 +8,9 @@ hero: img/sticker-holographic.webp
 jpg: img/sticker-holographic.png
 alt: Rollo de stickers holográficos
 ---
-<section class="wrapper flow">
-  <h2 class="title">Ve directo a la solución que buscas con los stickers holográficos y las etiquetas de marcación</h2>
-  <div class="home_gallery">
-    <a href="#antifalsificacion" class="boton boton_1">Hologramas antifalsificación</a>
-    <a href="#seguridad" class="boton boton_1">Etiquetas holográficas de seguridad</a>
-    <a href="#cintas" class="boton boton_1">Cintas de seguridad para envíos</a>
-    <a href="#trazabilidad" class="boton boton_1">Suministros para trazabilidad interna</a>
-    <a href="#papel" class="boton boton_1">Etiquetas de papel por rollos</a>
-  </div>
-</section>
 <main class="wrapper flow">
   <h2>¿Necesitas stickers holográficos para proteger tu mercancía o activos?</h2>
-  <p>Te presentamos los <strong>stickers holográficos antifalsificación y de seguridad</strong> que más <i class="resaltar">ayudan a nuestros clientes a no perder dinero</i> en sus productos, activos, mercancías, etc.</p>
-  <p>Los adhesivos holográficos son la solución avanzada para empresas que buscan <strong>diferenciar y proteger sus productos contra falsificaciones y adulteraciones</strong>.</p>
-  <h3>Protege tus productos y eleva la calidad de tu marca con nuestros stickers holográficos</h3>
+  
   <div class="bloques" id="antifalsificacion">
     <div class="bloque_big bg1">
       <h2>Etiquetas holográficas antifalsificación: no más robos ni pérdidas</h2>
@@ -40,26 +28,47 @@ alt: Rollo de stickers holográficos
       <img src="{{'img/sticker-platinum.webp'|relative_url}}" alt="Etiqueta holográfica de seguridad" loading="lazy" width="180" height="225" title="Foto de sticker holográfico platinum">
       <a href="{{'productos/etiquetas-platinum' | relative_url}}" title="Stickers platinum" class="boton boton_2">Conoce los stickers Platinum</a>
     </div>
-    <div class="bloque_small bg3">
-      <h3>Stickers holográficos Premium: más exclusividad</h3>
-      <img src="{{'img/nosotros/foto-de-stiker-holografico-21.webp'|relative_url}}" alt="Adhesivo holográfico con evidencia" loading="lazy" width="180" height="225" title="Foto de sticker holográfico premium">
-      <a href="{{'productos/etiquetas-premium' | relative_url}}" title="Stickers premium" class="boton boton_2">Conoce los stickers Premium</a>
-    </div>
     <div class="bloque_small bg5">
-      <h3>Estampillas de licores para impuestos y rentas</h3>
-      <img src="{{'img/sticker-personalizado.webp'|relative_url}}" alt="Etiqueta para licores" loading="lazy" width="180" height="225" title="Foto de estampillas de licores">
-      <a href="{{'productos/estampillas-para-licores' | relative_url}}" title="Estampillas para botellas" class="boton boton_2">Conoce las estampillas de licores</a>
+      <h3>Etiquetas de seguridad VOID con evidencia de despegado</h3>
+      <img src="{{'img/adhesivo-con-evidencia.webp'|relative_url}}" alt="Etiquetas de seguridad VOID" loading="lazy" width="180" height="225" title="Foto de etiqueta VOID">
+      <a href="{{'productos/etiquetas-void' | relative_url}}" title="Stickers VOID" class="boton boton_2">Conoce las etiquetas VOID</a>
     </div>
     <div class="bloque_small bg6">
-      <h3>Stickers holográficos de seguridad vehicular</h3>
-      <img src="{{'img/servicio-premium.webp'|relative_url}}" alt="Sticker holográfico vehicular" loading="lazy" width="180" height="225" title="Foto de holograma vehicular">
-      <a href="{{'productos/etiquetas-seguridad-vehicular' | relative_url}}" title="Etiqueta de holograma vehicular" class="boton boton_2">Conoce el sticker holográfico vehicular</a>
+      <h3>Etiquetas para impresión térmica o de transferencia</h3>
+      <img src="{{'img/rollos-de-sticker-de-papel.webp'|relative_url}}" alt="Sticker de papel para imprimir" loading="lazy" width="180" height="225" title="Foto de etiquetas de papel">
+      <a href="{{'productos/etiquetas-de-papel' | relative_url}}" title="Rollos de etiquetas de papel" class="boton boton_2">Conoce las etiquetas de papel</a>
+    </div>
+    <div class="bloque_big bg3">
+      <h3>Stickers holográficos Premium: más exclusividad</h3>
+      <video autoplay muted loop playsinline preload="auto">
+        <source src="{{ 'videos/sticker-premium.mp4' | relative_url}}" type="video/mp4">
+        Tu navegador no soporta la etiqueta de video.
+    </video>
+      <a href="{{'productos/etiquetas-premium' | relative_url}}" title="Stickers premium" class="boton boton_2">Conoce los stickers Premium</a>
     </div>
   </div>
 </main>
-
+<section class="wrapper flow">
+  <h2>En Holographic ayudamos a todas las industrias que necesitan etiquetas adhesivas holográficos y de trazabilidad</h2>
+  <p>Con nuestra tecnología podemos asumir el reto de <strong>proteger y optimizar el control de tus activos fijos o de tu mercancía</strong> en cualquier industria.</p>
+  <p>Consigue con nosotros desde etiquetas convencionales hasta diseños personalizados. En cualquier tamaño, tipo de papel y para cualquier necesidad.</p>
+  <a href="{{'industrias'|relative_url}}" class="boton boton_1" target="_blank">Mira algunos casos de uso</a>
+  <div class="home_gallery">
+    {% for item in site.data.home.hologramas %}
+    <article class="flow">
+      <img src="{{item.img|relative_url}}" alt="{{item.alt}}" loading="lazy" width="180" height="225">
+      <a href="{{item.url|relative_url}}" title="{{item.title}}" class="boton boton_2">{{item.nombre}}</a>
+      <p>{{item.p}}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+<!-- 
 <section class="wrapper flow" id="stickers-holograficos-especializados">
-  <h2>Nuestros stickers holográficos especializados personalizadas y con más tecnología</h2>
+  <h2>Nuestros stickers holográficos especializados personalizados y con más tecnología</h2>
+  <p>Te presentamos los <strong>stickers holográficos antifalsificación y de seguridad</strong> que más <i class="resaltar">ayudan a nuestros clientes a no perder dinero</i> en sus productos, activos, mercancías, etc.</p>
+  <p>Los adhesivos holográficos son la solución avanzada para empresas que buscan <strong>diferenciar y proteger sus productos contra falsificaciones y adulteraciones</strong>.</p>
+  <h3>Protege tus productos y eleva la calidad de tu marca con nuestros stickers holográficos</h3>
   <p>En Holographic no solo imprimimos <a href="{{'productos/sticker-generico' | relative_url}}" title="Holograma genérico">stickers holográficos genéricos</a>. Nos especializamos en hacer <strong>stickers holográficos con un desarrollo tecnológico más avanzado</strong>.</p>
   <h3>Los servicios de sticker holográfico adhesivo más pedidos en Holographic</h3>
   <h4>Hologramas Platinum</h4>
@@ -70,15 +79,7 @@ alt: Rollo de stickers holográficos
   <p><a href="{{'productos/etiquetas-personalizadas' | relative_url}}">Nuestros hologramas personalizados</a> cuentan con diseños únicos adaptados a tus necesidades, ofreciendo una herramienta poderosa para proteger tus productos contra falsificaciones y adulteraciones.</p>
   <a href="{{site.whatsapp}}" title="Sello personalizado" class="boton boton_1" rel="nofollow noopener no referrer" target="_blank">Asesórate gratis</a>
   
-  <div class="home_gallery">
-    {% for item in site.data.home.hologramas %}
-    <article class="flow">
-      <img src="{{item.img|relative_url}}" alt="{{item.alt}}" loading="lazy" width="180" height="225">
-      <a href="{{item.url|relative_url}}" title="{{item.title}}" class="boton boton_2">{{item.nombre}}</a>
-      <p>{{item.p}}</p>
-    </article>
-    {% endfor %}
-  </div>
+  
   
   <h2>Los usos más comunes de nuestros stickers holográficos en la industria</h2>
   <p>Los stickers de seguridad holográficos se utilizan ampliamente en diversos sectores debido a sus características únicas de seguridad y autenticidad. Algunos de los usos más comunes incluyen:</p>
@@ -92,13 +93,21 @@ alt: Rollo de stickers holográficos
   <p>Las <strong>botellas de licor originales</strong> a menudo llevan stickers holográficos para demostrar que son originales y no pirateadas.</p>
 </section>
 
+
+<div class="bloque_small bg5">
+      <h3>Estampillas de licores para impuestos y rentas</h3>
+      <img src="{{'img/sticker-personalizado.webp'|relative_url}}" alt="Etiqueta para licores" loading="lazy" width="180" height="225" title="Foto de estampillas de licores">
+      <a href="{{'productos/estampillas-para-licores' | relative_url}}" title="Estampillas para botellas" class="boton boton_2">Conoce las estampillas de licores</a>
+    </div>
+-->
+
 <section class="wrapper flow" id="seguridad">
   <h2>¿Buscas etiquetas holográficas y de papel para mejorar el control de tus productos?</h2>
   <p>Fabricamos stickers holográficos y etiquetas de papel donde no necesitas invertir en personalización.</p>
   <p>Te ofrecen seguridad y protección utilizando la evidencia de despegado. <strong>Si necesitas un producto más rápido y con menos personalización</strong>, estas son las soluciones perfectas.</p>
   <div class="bloques">
     <div class="bloque_big bg2">
-      <h2>Etiquetas de seguridad: controla inventarios y garantías</h2>
+      <h2>Cintas y Etiquetas de seguridad: controla inventarios y garantías</h2>
       <p>Nuestros clientes tienen una excelente variedad de opciones para conseguir sellos, etiquetas y adhesivos de seguridad, con <strong>impresiones más rápidas que cumplen muy bien con las funciones de seguridad, sin necesidad de invertir tanto</strong> en marca o personalización.</p>
       <img src="{{'img/proteccion-mercancia.webp'|relative_url}}" alt="Holograma de seguridad" loading="lazy" width="600" height="340" title="Stickers de seguridad y trazabilidad">
     </div>
@@ -114,6 +123,11 @@ alt: Rollo de stickers holográficos
     </div>
     <div class="bloque_small bg4">
       <h3>Adhesivos holográficos y papel para garantías</h3>
+      <img src="{{'img/nosotros/foto-de-stiker-holografico-13.webp'|relative_url}}" alt="Etiqueta para licores" loading="lazy" width="180" height="225" title="Foto de estampillas de licores">
+      <a href="{{'industrias/etiquetas-para-licores' | relative_url}}" title="Estampillas para botellas" class="boton boton_2">Conoce las etiquetas de garantías</a>
+    </div>
+    <div class="bloque_small bg3">
+      <h3>Cintas de seguridad para envíos de mercancías</h3>
       <img src="{{'img/nosotros/foto-de-stiker-holografico-13.webp'|relative_url}}" alt="Etiqueta para licores" loading="lazy" width="180" height="225" title="Foto de estampillas de licores">
       <a href="{{'industrias/etiquetas-para-licores' | relative_url}}" title="Estampillas para botellas" class="boton boton_2">Conoce las etiquetas de garantías</a>
     </div>
@@ -269,12 +283,7 @@ alt: Rollo de stickers holográficos
 
 {% include carousel.html %}
 
-<section class="wrapper flow">
-  <h2>En Holographic ayudamos a todas las industrias que necesitan etiquetas adhesivas holográficos y de trazabilidad</h2>
-  <p>Con nuestra tecnología podemos asumir el reto de <strong>proteger y optimizar el control de tus activos fijos o de tu mercancía</strong> en cualquier industria.</p>
-  <p>Consigue con nosotros desde etiquetas convencionales hasta diseños personalizados. En cualquier tamaño, tipo de papel y para cualquier necesidad.</p>
-  <a href="{{'industrias'|relative_url}}" class="boton boton_1" target="_blank">Mira algunos casos de uso</a>
-</section>
+
 
 {% include testimonios.html %}
 
