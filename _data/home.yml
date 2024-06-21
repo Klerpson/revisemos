@@ -41,26 +41,26 @@ hologramas:
     alt: Servicio de stickers holográficos platinum
     nombre: Stickers para vehículos
     p: Sticker de seguridad para verificación vehicular
-    url: "servicios/etiquetas-platinum"
+    url: "productos/etiquetas-seguridad-vehicular"
     title: Etiqueta de seguridad para vehículos
-  - img: img/stickers-personalizados.webp
-    alt: Etiqueta de seguridad premium
-    nombre: Stickers Premium
-    p: Personaliza tu etiqueta con hologramas antifalsificación
-    url: "servicios/etiquetas-premium"
-    title: Etiqueta seguridad premium
-  - img: img/bobina-papel-holografico.webp
-    alt: Bobina de papel holográfico
-    nombre: Rollo papel holográfico
-    p: Consigue el rollo de adhesivo holográfico para mayor rendimiento
-    url: "productos/bobinas-papel-holografico"
-    title: Rollo adhesivo holográfico
-  - img: img/sticker-holografico-licor.webp
-    alt: Sticker holográfico de licores
-    nombre: Estampilla de licores
-    p: Ejemplo de una industria beneficiada por stickers holográficos
-    url: "industrias/estampilla-para-licores"
-    title: Etiqueta holografica de licores
+  - img: img/trazabilidad-codigo-de-barras.webp
+    alt: Etiqueta de trazabilidad interna
+    nombre: Trazabilidad interna
+    p: Etiquetas y hologramas para la trazabilidad
+    url: "blog/trazabilidad-interna"
+    title: Trazabilidad interna de activos
+  - img: img/sello-trazabilidad.webp
+    alt: Marcación activos
+    nombre: Marcación de activos fijos
+    p: Protege tus activos fijos con etiquetas y stickers
+    url: "blog/marcacion-activos-fijos"
+    title: Etiquetas para activos fijos
+  - img: img/nosotros/foto-de-stiker-holografico-14.webp
+    alt: Sticker para garantías
+    nombre: Etiquetas de garantía
+    p: Stickers para no perder dinero en garantías
+    url: "blog/etiquetas-para-garantias"
+    title: Adhesivos para garantías
 
 impresoras:
   - img: img/etiquetas-blancas.webp

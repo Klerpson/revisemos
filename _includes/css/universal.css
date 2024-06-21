@@ -16,6 +16,26 @@
   --fuenteTexto: 'Karma', serif;
   --radius: 8px;
   --shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.42);
+
+  --principalB: #26436f;
+  --accionB: #b12240;
+  --secundarioB: #20314b;
+  --clr1B: #e9d337;
+  --clr2B: rgb(224, 0, 120);
+  --clr3B: #bf0e1a;
+  --clr4B: #579adc;
+  --clr5B: #4e8a3f;
+  --clr6B: #96bd3d;
+
+  --principalC: hsl(216, 49%, 59%);
+  --accionC: hsl(347, 68%, 71%);
+  --secundarioC: hsl(216, 40%, 51%);
+  --clr1C: hsl(53, 80%, 86%);
+  --clr2C: hsl(328, 100%, 74%);
+  --clr3C: hsl(356, 86%, 70%);
+  --clr4C: hsl(210, 66%, 90%);
+  --clr5C: hsl(108, 37%, 69%);
+  --clr6C: hsl(78, 51%, 79%);
 }
 
 *,
@@ -141,7 +161,7 @@ table {
 table tr {
   border-bottom: 2px dotted var(--principal);
   display: flex;
-  padding: 1.2em 0;
+  padding: 1.2em;
   flex-wrap: wrap;
   gap: 1em;
   width: 100%;
@@ -348,6 +368,50 @@ lord-icon{
 }
 .bg7{
   background-color: var(--clr7);
+}
+
+.bg1B{
+  background-color: var(--clr1B);
+}
+.bg2B{
+  background-color: var(--clr2B);
+}
+.bg3B{
+  background-color: var(--clr3B);
+}
+.bg4B{
+  background-color: var(--clr4B);
+}
+.bg5B{
+  background-color: var(--clr5B);
+}
+.bg6B{
+  background-color: var(--clr6B);
+}
+.bg7B{
+  background-color: var(--principalB);
+}
+
+.bg1C{
+  background-color: var(--clr1C);
+}
+.bg2C{
+  background-color: var(--clr2C);
+}
+.bg3C{
+  background-color: var(--clr3C);
+}
+.bg4C{
+  background-color: var(--clr4C);
+}
+.bg5C{
+  background-color: var(--clr5C);
+}
+.bg6C{
+  background-color: var(--clr6C);
+}
+.bg7C{
+  background-color: var(--principalC);
 }
 
 .title{

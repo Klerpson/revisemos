@@ -1,10 +1,11 @@
 ---
-layout: industria
-permalink: industrias/marcacion-y-trazabilidad-de-activos-fijos
+layout: post
 title: "Protege tus activos fijos con etiquetas de marcación"
 description: "Utiliza las etiquetas holográficas y de papel de Holographic para simplificar el proceso de seguimiento de los activos de tu negocio"
 h1: Marcación de activos fijos con etiquetas de papel y stickers holográficos 
 intro: Personaliza y protege tus productos con stickers holográficos y etiquetas adhesivas únicas.
+autor: Hernando - Holographic
+category: "Seguridad"
 hero: img/proteccion-mercancia.webp
 jpg: img/proteccion-mercancia.jpg
 alt: Fotografía de adhesivos personalizados

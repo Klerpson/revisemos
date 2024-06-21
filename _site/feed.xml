@@ -5,19 +5,21 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jun 2024 20:38:08 -0500</pubDate>
-    <lastBuildDate>Thu, 20 Jun 2024 20:38:08 -0500</lastBuildDate>
+    <pubDate>Fri, 21 Jun 2024 12:52:45 -0500</pubDate>
+    <lastBuildDate>Fri, 21 Jun 2024 12:52:45 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
     
       <item>
         <title>Protege tus activos fijos con etiquetas de marcación</title>
         <description>Utiliza las etiquetas holográficas y de papel de Holographic para simplificar el proceso de seguimiento de los activos de tu negocio</description>
         <pubDate>Tue, 18 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</link>
-        <guid isPermaLink="true">http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</guid>
+        <link>http://localhost:4000/blog/marcacion-activos-fijos</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/marcacion-activos-fijos</guid>
         
         
         
+        
+        <category>Seguridad</category>
         
       </item>
     
@@ -25,11 +27,13 @@
         <title>Protege tus activos fijos con etiquetas de marcación</title>
         <description>Utiliza las etiquetas holográficas y de papel de Holographic para simplificar el proceso de seguimiento de los activos de tu negocio</description>
         <pubDate>Mon, 17 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</link>
-        <guid isPermaLink="true">http://localhost:4000/industrias/marcacion-y-trazabilidad-de-activos-fijos</guid>
+        <link>http://localhost:4000/blog/trazabilidad-interna</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/trazabilidad-interna</guid>
         
         
         
+        
+        <category>Seguridad</category>
         
       </item>
     
