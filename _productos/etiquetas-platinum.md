@@ -40,6 +40,7 @@ Etiquetas con un diseño holográfico exclusivo, propiedad del cliente.
 Utilizamos diferentes tecnologías de origen. Se pueden fabricar mezclando dos tipos de materiales adhesivos, dependiendo de las necesidades de seguridad y su función. **Son hechas a la medida que requiere el producto final**.
 
 Son **ideales para consumos de más de 50.000 unidades**.
+{:class="resaltar"}
 
 [Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
 
@@ -70,7 +71,13 @@ Es la tecnología de generación de más alta seguridad, no se mide en dpi, ya q
 
 La más alta resolución en imágenes holográficas, imágenes nano ópticas. Se alcanzan tamaños de 300 nm, estructuras visuales 3D con una apariencia increíblemente real. Imágenes encubiertas que requieren equipos especializados para identificarla, por lo cual son imposibles de falsificar.
 
-Este producto de **los hologramas platinum cuenta con un nivel de seguridad NIVEL 5** y es completamente personalizable.
+Este producto de **los hologramas platinum de Holographic cuenta con un nivel de seguridad NIVEL 5** y es completamente personalizable.
+
+## Evita la falsificación y aumenta el impacto de tu marca al mismo tiempo
+
+Escríbenos y comencemos el desarrollo de los adhesivos Platinum para tu empresa.
+
+Con nuestra experiencia y el conocimiento que tienes de tu gremio, vamos a ofrecerte **más seguridad para la inversión de tu mercancía. Y ahora ganarás más rentabilidad al evitar pérdidas** por la falta de honestidad de tu mercado. ¿Comenzamos?
 
 [Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
 

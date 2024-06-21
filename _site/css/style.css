@@ -214,6 +214,7 @@ iframe{
   color: var(--accion);
   padding: 4px;
   font-weight: 700;
+  max-width: max-content;
 }
 
 .add {
