@@ -34,6 +34,8 @@ fotos:
   - Sello a color personalizado: img/sello-color-personalizado.webp
   - Sticker transparente personalizado: img/sticker-plata-personalizado.webp
 ---
+{% include pedido.html %}
+
 ## Personaliza tus etiquetas holográficas con el desarrollo de Holographic
 
 **Nuestras etiquetas personalizadas contienen la información que tu empresa necesita**. Dicha información puede ser: logos, textos, códigos de barras y consecutivos.

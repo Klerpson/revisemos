@@ -1,0 +1,30 @@
+<div class="container_pedidos title">
+    <h3>Pide tus Etiquetas Personalizadas de Seguridad según estas características</h3>
+    <form id="orderForm">
+        <div class="form-group">
+            <label for="size">Escoge el tamaño primero:</label>
+            <select id="size" required>
+                <option value="">Seleccione un tamaño</option>
+                <option value="13X10 mm">13X10 mm</option>
+                <option value="22x15 mm">22x15 mm</option>
+                <option value="36x23 mm">36x23 mm</option>
+                <option value="48x20 mm">48x20 mm</option>
+                <option value="46x17 mm">46x17 mm</option>
+                <option value="47x22 mm">47x22 mm</option>
+                <option value="47x25 mm">47x25 mm</option>
+                <option value="70x10 mm">70x10 mm</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="color">Ahora escoge un color:</label>
+            <select id="color" required>
+                <option value="">Seleccione un color</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="quantity">Cantidad (mínimo 1000)</label>
+            <input type="number" id="quantity" min="1000" required>
+        </div>
+        <button type="button" onclick="sendOrder()" class="boton boton_1">Envíanos tu pedido de etiquetas</button>
+    </form>
+</div>
