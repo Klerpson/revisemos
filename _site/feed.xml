@@ -5,9 +5,23 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Jun 2024 22:27:55 -0500</pubDate>
-    <lastBuildDate>Fri, 21 Jun 2024 22:27:55 -0500</lastBuildDate>
+    <pubDate>Sat, 22 Jun 2024 13:17:29 -0500</pubDate>
+    <lastBuildDate>Sat, 22 Jun 2024 13:17:29 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Protege tus activos fijos con etiquetas de marcación</title>
+        <description>Utiliza las etiquetas holográficas y de papel de Holographic para simplificar el proceso de seguimiento de los activos de tu negocio</description>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/marcacion-activos-fijos</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/marcacion-activos-fijos</guid>
+        
+        
+        
+        
+        <category>Seguridad</category>
+        
+      </item>
     
       <item>
         <title>Protege tus activos fijos con etiquetas de marcación</title>
@@ -20,6 +34,20 @@
         
         
         <category>Seguridad</category>
+        
+      </item>
+    
+      <item>
+        <title>Colecciona estampillas de licor</title>
+        <description>Realizar el mantenimiento preventivo de tu impresora térmica te va a ahorra mucho dinero. Son unos pasos sencillos. Aprende cómo hacerlo con Holographic</description>
+        <pubDate>Sun, 16 Jun 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/etiquetas-para-garantias</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-para-garantias</guid>
+        
+        
+        
+        
+        <category>Mantenimiento</category>
         
       </item>
     

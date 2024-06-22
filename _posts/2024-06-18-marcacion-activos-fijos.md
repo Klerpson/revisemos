@@ -34,7 +34,6 @@ fotos:
   - Marcación con código de barras: img/marcacion-con-codigo-de-barras.webp
   - Etiqueta código de barras: img/etiqueta-codigo-barras.webp
   - Sticker seguridad de colores: img/nosotros/foto-de-stiker-holografico-19.webp
-published: no
 ---
 ## ¿Te gustaría simplificar el proceso de seguimiento de los activos de tu negocio? Te mostramos cómo utilizan las empresas las etiquetas para activos fijos
 

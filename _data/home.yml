@@ -78,7 +78,7 @@ impresoras:
   - img: img/codigo-barras-etiqueta.webp
     alt: Etiqueta para códigos de barras
     nombre: Etiquetas para códigos
-    p: Etiquetas de papel con códigos de barras
+    p: Etiquetas de papel con códigos de barras para marcación
     url: "productos/etiquetas-de-papel"
     title: Etiquetas de papel para impresora térmica
   - img: img/nosotros/foto-de-stiker-holografico-11.webp
@@ -87,9 +87,3 @@ impresoras:
     p: Imprime y marca tus activos con etiquetas con evidencia de despegue
     url: "productos/etiquetas-de-papel"
     title: Evident Tamper
-  - img: img/holograma-qr.webp
-    alt: Etiqueta holográfica
-    nombre: Marca con hologramas
-    p: Utiliza adhesivos con más tecnología de marcado y seguridad
-    url: "productos/stickers-holograficos"
-    title: Adhesivo holográfico

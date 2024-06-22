@@ -1,8 +1,8 @@
 :root {
   /*** COLORES ***/
   --principal: #42434d;
-  --accion: #3b3a34;
-  --secundario: #e5e5e5;
+  --accion: #579adc;
+  --secundario: #26436f;
   --clr1: #e2cdac;
   --clr2: #e9e7db;
   --clr3: #ddaea3;
@@ -10,7 +10,7 @@
   --clr5: #bfced1;
   --clr6: #b7c9bf;
   --clr7: #5f8ba3;
-  --gris: #dfdfdf;
+  --gris: #e9e9e9;
   --grisFuentes: #3f3f4a;
   --fuenteTitulos: 'Montserrat', sans-serif;
   --fuenteTexto: 'Karma', serif;
@@ -102,10 +102,14 @@ blockquote {
 
 a {
   text-decoration: none;
-  color: var(--clr7);
+  color: var(--accion);
   font-weight: 700;
   font-family: var(--fuenteTitulos);
-  transition: all 0.2s ease-in;
+  transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+a:hover:not(.boton){
+  color: var(--secundario);
 }
 
 hr {
@@ -167,6 +171,10 @@ table tr {
   width: 100%;
 }
 
+table tr:nth-child(even){
+  background-color: var(--gris);
+}
+
 table th {
   font-weight: 900;
 }
@@ -190,6 +198,10 @@ iframe{
   margin-inline: auto;
 }
 
+button{
+  border: none;
+}
+
 .wrapper {
   width: min(calc(100% - 20px), 1400px);
   margin-inline: auto;
@@ -211,7 +223,7 @@ iframe{
 
 .resaltar {
   background-color: var(--clr2);
-  color: var(--accion);
+  color: var(--clr7);
   padding: 4px;
   font-weight: 700;
   max-width: max-content;
@@ -229,7 +241,7 @@ iframe{
   display: block;
   border-radius: var(--radius);
   text-decoration: none;
-  padding: 12px 20px;
+  padding: 16px 20px;
   width: min(100%, 360px);
   text-align: center;
   font-weight: 700;
@@ -245,8 +257,8 @@ iframe{
 }
 
 .boton_1{
-  background: rgb(86,142,163);
-  background: linear-gradient(90deg, rgba(86,142,163,1) 3%, rgba(104,195,212,1) 48%, rgba(86,142,163,1) 90%);
+  background: rgb(38,67,111);
+background: linear-gradient(90deg, rgba(38,67,111,1) 3%, rgba(87,154,220,1) 48%, rgba(38,67,111,1) 90%);
   color: #fefefe;
   box-shadow: var(--shadow);
 }
@@ -259,8 +271,8 @@ iframe{
 
 .boton_2 {
   background: linear-gradient(120deg, #e5e5e5 30%, #f0f0f0 38%, #f0f0f0 40%, #e5e5e5 48%);
-  color: var(--clr7);
-  box-shadow: 0 0 4px var(--clr7);
+  color: var(--accion);
+  box-shadow: 0 0 4px var(--accion);
   margin: 0 auto;
 }
 
@@ -545,12 +557,10 @@ nav {
   transition: all .10s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   padding: 8px 16px;
   border-radius: var(--radius);
-  border: 3.6px solid var(--secundario);
   margin: 0 auto;
   text-align:center;
   font-size: 18px;
-  color: var(--clr7);
-  box-shadow: 0 0 4px var(--clr7);
+  color: var(--accion);
 }
 
 .navegacion .boton{
@@ -657,7 +667,6 @@ nav .icono-nav .line {
 
 .home_gallery article h3{
   margin: 0;
-  color: var(--accion);
   font-size: 20px;
 }
 
@@ -706,10 +715,6 @@ nav .icono-nav .line {
 .entradas{
   display: grid;
   gap: 32px;
-}
-
-.entradas p{
-  max-width: 600px;
 }
 
 .entradas div article h3{
@@ -794,6 +799,7 @@ nav .icono-nav .line {
   display: flex;
   gap: 2em;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .pagina > article {
@@ -806,12 +812,6 @@ nav .icono-nav .line {
   display: grid;
   gap: 1em;
   align-content: start;
-}
-
-@media screen and (min-width: 800px) {
-  .pagina {
-    flex-direction: row-reverse;
-  }
 }
 
 .landing_grid {
@@ -881,7 +881,7 @@ details p {
   display: flex;
   gap: 2em;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .videos video {
@@ -1165,6 +1165,10 @@ details p {
 }
 
 @media screen and (width >=800px) {
+  .pagina {
+    flex-direction: row-reverse;
+  }
+
   .boton-whatsapp::before {
     content: "Pedidos";
     font-size: 14px;
@@ -1191,6 +1195,11 @@ details p {
     grid-column: span 2;
   }
   
+  .pagina aside {
+    align-self: baseline;
+    position: sticky;
+    top: 120px;
+  }
 }
 
 @media screen and (width >= 1200px) {

@@ -2,7 +2,7 @@
 layout: producto
 title: "Stickers holográficos y etiquetas adhesivas personalizadas"
 description: "Destaca tus productos con stickers holográficos y etiquetas adhesivas personalizadas. Diseños exclusivos que cautivan. ¡Solicita una cotización ahora!"
-h1: Servicio de stickers holográficos personalizadas 
+h1: Stickers holográficos personalizados 
 intro: Personaliza y protege tus productos con stickers holográficos y etiquetas adhesivas únicas.
 hero: img/sellos-personalizados.webp
 jpg: img/sellos-personalizados.jpg
@@ -35,36 +35,36 @@ fotos:
   - Sticker transparente personalizado: img/sticker-plata-personalizado.webp
 ---
 {% include pedido.html %}
+{:id="personalizacion"}
 
 ## Personaliza tus etiquetas holográficas con el desarrollo de Holographic
 
 **Nuestras etiquetas personalizadas contienen la información que tu empresa necesita**. Dicha información puede ser: logos, textos, códigos de barras y consecutivos.
-{:id="personalizacion"}
 
-La impresión en este tipo de stickers personalizados puede ser realizada en color negro, azul, gris, rojo, verde y blanco.
+La impresión en este tipo de stickers personalizados puede ser realizada en [color negro, azul, gris, rojo, verde y blanco](#colores).
 
 Son **ideales para consumos desde 1000 unidades hasta 50.000 unidades**.
+{:class="resaltar"}
 
 {% include slider.html %}
 
 ### ¿Requieres proteger tus productos de los falsificadores con adhesivos personalizados?
 
-Nuestros hologramas contienen elementos de diferenciación y protección sobre sus productos para prevenir posibles falsificaciones y adulteraciones.
+[Los hologramas de Holographic](/) contienen elementos de diferenciación y protección sobre sus productos para prevenir posibles falsificaciones y adulteraciones.
 
 >La característica principal de estas etiquetas es que **el diseño personalizado y las medidas de seguridad nunca se afectarán al momento del corte**. Es la diferencia principal con los hologramas genéricos.
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="caracteristicas"}
 
 ### ¿Quieres que con tus sellos personalizadas tus productos resalten sobre la competencia?
 
 Nuestros hologramas personalizados son piezas holográficas con diseños exclusivos únicos en el mercado. Como verás en la siguiente sección, su variedad de elementos de seguridad todo un conjunto de herramientas antifalsificación. Adicionalmente, le agregan un toque único en su diseño para llamar la atención de tus clientes.
-{:id="enlace1"}
-
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="caracteristicas"}
 
 ## Las etiquetas holográficas personalizadas son un desarrollo de Holographic con muchos elementos de seguridad
 
 ### ¿Cuáles son las características de los hologramas personalizados?
 
 Nuestros hologramas personalizados son piezas holográficas con diseños exclusivos únicos en el mercado. Los utilizan las empresas como elementos de diferenciación y protección sobre sus productos, y previenen posibles falsificaciones y adulteraciones.
+{:id="enlace1"}
 
 ![Imagen de un sticker holográfico explicando sus partes]({{'img/stikcer-personalizado-explicado.webp' | relative_url}} "Sello personalizado Holographic"){:loading="lazy"}
 ![Desarrollo de holograma personalizado]({{'img/desarrollo-holograma-personalizado.webp' | relative_url}} "Sello personalizado Holographic"){:loading="lazy"}
@@ -90,13 +90,11 @@ Al retirarse de la superficie **se evidencian hexágonos dispuestos modularmente
 
 *No deja marca en la superficie si no en la etiqueta.*
 
-Algunos de nuestros clientes desean tener la característica TAMPER EVIDENT. Sin embargo, no quieren que en la superficie quede la evidencia.
-
-{% include videos.html %}
-
-Para ellos contamos con **evidencia de panal de abejas**, la cual queda sobre la etiqueta dejando la superficie limpia. No son reutilizables y, al igual que las anteriores, se evidencia cualquier intento de apertura.
+Algunos de nuestros clientes desean tener la característica TAMPER EVIDENT. Sin embargo, no quieren que en la superficie quede la evidencia. Para ellos contamos con **evidencia de panal de abejas**, la cual queda sobre la etiqueta dejando la superficie limpia. No son reutilizables y, al igual que las anteriores, se evidencia cualquier intento de apertura.
 
 [Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+
+{% include videos.html %}
 
 ## Niveles de Seguridad de los stickers personalizados
 
@@ -121,7 +119,7 @@ Sobre nuestros hologramas personalizados, podemos **incluir tu información, seg
 
 ### Impresión de etiquetas personalizadas a color
 
-Si crees que tu mensaje se transmite mejor utilizando colores, podemos evaluar con nuestro equipo profesional en diseño esta posibilidad.
+Si crees que tu mensaje se transmite mejor [utilizando colores](#colores), podemos evaluar con nuestro equipo profesional en diseño esta posibilidad.
 
 ## Impresión de los etiquetas personalizadas transparentes
 
@@ -152,3 +150,5 @@ Al igual que los hologramas de color, también pueden ser impresos en color negr
 | 47x22 mm | Patrón registrado | Rectangular | Dorado, Plateado, Turquesa, Azul cielo |
 | 47x25 mm | Impresión código de barras | Rectangular | Dorado, Plateado, Turquesa, Azul cielo |
 | 70x10 mm | Patrón registrado | Rectangular | Dorado, Plateado, Turquesa |
+
+[Haz un pedido según la medida](#personalizacion){:class="boton boton_1"}

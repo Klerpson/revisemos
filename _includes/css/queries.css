@@ -7,6 +7,10 @@
 }
 
 @media screen and (width >=800px) {
+  .pagina {
+    flex-direction: row-reverse;
+  }
+
   .boton-whatsapp::before {
     content: "Pedidos";
     font-size: 14px;
@@ -33,6 +37,11 @@
     grid-column: span 2;
   }
   
+  .pagina aside {
+    align-self: baseline;
+    position: sticky;
+    top: 120px;
+  }
 }
 
 @media screen and (width >= 1200px) {

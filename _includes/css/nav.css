@@ -41,12 +41,10 @@ nav {
   transition: all .10s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   padding: 8px 16px;
   border-radius: var(--radius);
-  border: 3.6px solid var(--secundario);
   margin: 0 auto;
   text-align:center;
   font-size: 18px;
-  color: var(--clr7);
-  box-shadow: 0 0 4px var(--clr7);
+  color: var(--accion);
 }
 
 .navegacion .boton{

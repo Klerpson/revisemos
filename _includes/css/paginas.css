@@ -3,6 +3,7 @@
   display: flex;
   gap: 2em;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .pagina > article {
@@ -15,12 +16,6 @@
   display: grid;
   gap: 1em;
   align-content: start;
-}
-
-@media screen and (min-width: 800px) {
-  .pagina {
-    flex-direction: row-reverse;
-  }
 }
 
 .landing_grid {
@@ -90,7 +85,7 @@ details p {
   display: flex;
   gap: 2em;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .videos video {

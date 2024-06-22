@@ -19,24 +19,20 @@ alt: Fotografía de productos de holographic
     </article>
     {% endfor %}
   </div>
-  <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
 </section>
 
 <main class="entradas wrapper">
   <h2>Consigue los stickers y suministros de Holographic que aumentan la seguridad y el control de tu empresa</h2>
-  <p>¿Están falsificando tu mercancía? ¿Tu mercancía se está perdiendo en el camino o en su bodega?</p>
-  <h3>Así es como te podemos ayudar desde Holographic S.A.S. ⏬</h3>
+  <p>¿Están falsificando tu mercancía? ¿Tu mercancía se está perdiendo en el camino o en su bodega? <strong>Así es como te podemos ayudar desde Holographic S.A.S.</strong></p>
   <div class="blog_gallery">
-    {% for caso in site.pages %}
-     {% if caso.layout == "producto" %}
+    {% for caso in site.productos %}
     <article>
       <img src="{{caso.hero|relative_url}}" alt="{{caso.alt}}" loading="lazy" width="280" height="180">
       <div>
-        <a href="{{caso.url|relative_url}}" title="{{caso.title}}"><h4>{{caso.h1}}</h4></a>
+        <a href="{{caso.url|relative_url}}" title="{{caso.title}}"><h3>{{caso.h1}}</h3></a>
         <p>{{caso.intro}}</p>
       </div>
     </article>
-      {% endif %}
     {% endfor %}
   </div>
 </main>
