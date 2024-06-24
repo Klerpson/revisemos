@@ -71,3 +71,7 @@ header{
   flex: 1 0 480px;
   max-width: 100%;
 }
+
+.landing_header .logo{
+  width: min(100%, 240px);
+}
