@@ -12,7 +12,7 @@ layout: default
   <div class="home_gallery">
     {% for items in page.puntos-dolor %}
     {% for item in items %}
-    <article class="flow">
+    <article class="flow article">
       <img src="{{item[1]|relative_url}}" alt="{{item[0]}}" loading="lazy" width="180" height="225">
       <h4>{{item[0]}}</h4>
     </article>

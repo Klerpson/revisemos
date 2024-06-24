@@ -553,7 +553,7 @@ nav .icono-nav .line {
   border-bottom: dotted 2px var(--gris);
 }
 
-.home_gallery div{
+.home_gallery .article{
   display: grid;
   place-items: center;
   text-align: center;
@@ -561,8 +561,8 @@ nav .icono-nav .line {
   gap: 1em;
   }
   
-  .home_gallery div img,
-  .home_gallery div video{
+  .home_gallery .article img,
+  .home_gallery .article video{
   box-shadow: var(--shadow);
   width: 180px;
   height: 225px;
@@ -570,13 +570,13 @@ nav .icono-nav .line {
   object-fit: cover;
 }
 
-.home_gallery div h3{
+.home_gallery .article h3{
   margin: 0;
   font-size: 20px;
 }
 
-.home_gallery div a,
-.home_gallery div p{
+.home_gallery .article a,
+.home_gallery .article p{
   font-size: 18px;
 }
 
@@ -726,7 +726,7 @@ nav .icono-nav .line {
 
   & h2{
     text-align: center;
-    margin: 3em auto;
+    margin: 3em auto 1em;
   }
 
   & .home_gallery{
@@ -845,6 +845,7 @@ details p {
 .relacionados {
   box-shadow: var(--shadow);
   padding: 1em;
+  border-radius: var(--radius);
 }
 
 /* PEDIR STICKERS PERSONAILZADOS */
@@ -1063,7 +1064,6 @@ details p {
 }
 /* SHARE */
 .share{
-  background-color: var(--clr5);
   padding: 1em;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
@@ -1092,7 +1092,7 @@ details p {
 
 #share-buttons>div>svg {
   height: 20px;
-  fill: white;
+  fill: var(--principal);
   margin-top: 10px;
   transition: all .3s cubic-bezier(0.075, 0.82, 0.165, 1);
 }
@@ -1164,7 +1164,6 @@ details p {
 
   .header_bloque {
     grid-template-areas: "div img";
-    grid-template-columns: min(100%, 480px) auto;
     place-items: center;
   }
 

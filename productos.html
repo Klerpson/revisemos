@@ -13,7 +13,7 @@ alt: Fotografía de productos de holographic
   <h2>Los productos que más solicitan las empresas para asegurar su mercancía</h2>
   <div class="home_gallery">
     {% for item in site.data.home.stickers limit: 3 %}
-    <div class="flow">
+    <div class="article flow">
       <img src="{{item.img|relative_url}}" alt="{{item.alt}}" loading="lazy" width="180" height="225">
       <p>{{item.p}}</p>
     </div>
@@ -26,7 +26,7 @@ alt: Fotografía de productos de holographic
   <p>¿Están falsificando tu mercancía? ¿Tu mercancía se está perdiendo en el camino o en su bodega? <strong>Así es como te podemos ayudar desde Holographic S.A.S.</strong></p>
   <div class="blog_gallery">
     {% for caso in site.productos %}
-    <article>
+    <article class="article">
       <img src="{{caso.hero|relative_url}}" alt="{{caso.alt}}" loading="lazy" width="280" height="180">
       <div>
         <a href="{{caso.url|relative_url}}" title="{{caso.title}}"><h3>{{caso.h1}}</h3></a>

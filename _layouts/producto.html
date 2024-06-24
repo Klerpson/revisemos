@@ -7,7 +7,7 @@ layout: default
   <div class="home_gallery">
     {% for item in page.puntos-dolor %}
     {% for punto in item %}
-    <article class="flow">
+    <article class="flow article">
       <img src="{{punto[1]|relative_url}}" alt="Fotografías de {{page.title}}" loading="lazy" width="180" height="225">
       <h3>{{punto[0]}}</h3>
     </article>

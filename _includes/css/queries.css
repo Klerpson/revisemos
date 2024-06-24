@@ -56,7 +56,6 @@
 
   .header_bloque {
     grid-template-areas: "div img";
-    grid-template-columns: min(100%, 480px) auto;
     place-items: center;
   }
 

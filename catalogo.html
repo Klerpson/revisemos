@@ -12,10 +12,10 @@ alt: Fotografía de productos de holographic
   <h2>Los productos que más solicitan las empresas para asegurar su mercancía</h2>
   <div class="home_gallery">
     {% for item in site.data.home.stickers %}
-    <article class="flow">
+    <div class="flow article">
       <img src="{{item.img|relative_url}}" alt="{{item.alt}}" loading="lazy" width="180" height="225">
       <p>{{item.p}}</p>
-    </article>
+    </div>
     {% endfor %}
   </div>
   <a href="{{site.whatsapp}}%20:%20{{page.h1 | url_encode }}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
@@ -38,10 +38,10 @@ alt: Fotografía de productos de holographic
   <!-- PRIMER PRODUCTO DEL CATALOGO -->
   <section class="flow">
     <div class="bloques">
-      <div class="bloque_small bg2">
+      <div class="bloque_small bg">
         <p>Etiquetas con diseño holográfico exclusivo, propiedad del cliente. Estas se pueden fabricar mezclando dos tipos de materiales adhesivos, dependiendo de las necesidades de seguridad y su función.</p>
       </div>
-      <div class="bloque_big bg7">
+      <div class="bloque_big bg_marca">
         <h3>Servicio de hologramas platinum</h3>
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/sticker-platinum-con-holograma.webm' | relative_url}}" type="video/webm">
@@ -49,15 +49,15 @@ alt: Fotografía de productos de holographic
           Tu navegador no soporta la etiqueta de video.
         </video>
       </div>
-      <div class="bloque_small bg3">
-        <img src="{{'img/logo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
+      <div class="bloque_small bg">
+        <img src="{{'img/logotipo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
         <p>Los hologramas platinum son ideales para consumos de más de 50.000 unidades. Estas etiquetas implican el uso de diferentes tecnologías de origen o fuentes.</p>
       </div>
-      <div class="bloque_big bg4">
+      <div class="bloque_big bg">
         <h4>Este producto platinum cuenta con un nivel de seguridad NIVEL 5</h4>
         <p>La más alta resolución en imágenes holográficas, imágenes nano ópticas. <strong>Se alcanzan tamaños de 300 nm, estructuras visuales 3D con una apariencia increíblemente real</strong>. Imágenes encubiertas que requieren equipos especializados para identificarla, por lo cual son imposibles de falsificar.</p>
       </div>
-      <div class="bloque_small bg1">
+      <div class="bloque_small bg">
         <h4>Sticker recomendado en las industrias</h4>
         <ul>
           <li>🏥 Farmacéuticas</li>
@@ -66,36 +66,36 @@ alt: Fotografía de productos de holographic
           <li>🍾 Licores</li>
         </ul>
       </div>
-      <div class="bloque_small bg5">
+      <div class="bloque_small bg">
         <h4>Escríbenos y solicita tu servicio de Stickers Platinum</h4>
-        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
       </div>
     </div>
     <h3>Estos son los Hologramas Platinum que podrás conseguir con Holographic</h3>
     <div class="home_gallery">
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/servicio-premium.webp'|relative_url}}" alt="Fotografías de un sticker holográfico y flexográfico" loading="lazy" width="180" height="225">
         <h4>Evita que adulteren tu mercancía</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/holograma-platinum.mp4' | relative_url}}" type="video/mp4">
           Tu navegador no soporta la etiqueta de video.
         </video>
         <h4>Diseños que no se puede copiar o falsificar</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/sticker-platinum.mp4' | relative_url}}" type="video/mp4">
           Tu navegador no soporta la etiqueta de video.
         </video>
         <h4>Con tecnología que evita la manipulación</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/stikcer-seguridad.webp'|relative_url}}" alt="Imagen de un sticker de seguridad" loading="lazy" width="180" height="225">
         <h4>Holografía y flexografía para más seguridad</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/servicio-platinum.webp'|relative_url}}" alt="Imagen de un sticker de seguridad con doble tinta" loading="lazy" width="180" height="225">
         <h4>Etiquetas imposibles de adulterar</h4>
       </article>
@@ -107,10 +107,10 @@ alt: Fotografía de productos de holographic
   <!-- SEGUNDO PRODUCTO DEL CATALOGO -->
   <section class="flow">
     <div class="bloques">
-      <div class="bloque_small bg2">
+      <div class="bloque_small bg">
         <p>Etiquetas con un diseño holográfico exclusivo de propiedad del cliente, son utilizados en diferentes industrias y productos. <strong>Ideales para consumos de más de 100.000 unidades</strong></p>
       </div>
-      <div class="bloque_big bg7">
+      <div class="bloque_big bg_marca">
         <h3>Servicio de Hologramas Premium</h3>
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/sticker-premium.webm' | relative_url}}" type="video/webm">
@@ -118,15 +118,15 @@ alt: Fotografía de productos de holographic
           Tu navegador no soporta la etiqueta de video.
         </video>
       </div>
-      <div class="bloque_small bg3">
-        <img src="{{'img/logo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
+      <div class="bloque_small bg">
+        <img src="{{'img/logotipo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
         <p>Este producto se enfoca en el bienestar del consumidor y su interés por recibir un producto genuino, de calidad y sin adulteración.</p>
       </div>
-      <div class="bloque_big bg4">
+      <div class="bloque_big bg">
         <h4>Este producto platinum cuenta con un nivel de seguridad NIVEL 5</h4>
         <p>La más alta resolución en imágenes holográficas, imágenes nano ópticas. <strong>Se alcanzan tamaños de 300 nm, estructuras visuales 3D con una apariencia increíblemente real</strong>. Imágenes encubiertas que requieren equipos especializados para identificarla, por lo cual son imposibles de falsificar.</p>
       </div>
-      <div class="bloque_small bg1">
+      <div class="bloque_small bg">
         <h4>Sticker recomendado en las industrias</h4>
         <ul>
           <li>🏥 Farmacéuticas</li>
@@ -138,33 +138,33 @@ alt: Fotografía de productos de holographic
           <li>📱 Tecnológicas</li>
         </ul>
       </div>
-      <div class="bloque_small bg5">
+      <div class="bloque_small bg">
         <h4>Escríbenos y solicita tu servicio de Stickers Premium</h4>
-        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
       </div>
     </div>
     <h3>Estos son los Hologramas Premium que podrás conseguir con Holographic</h3>
     <div class="home_gallery">
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/pegatina-holografica.webp'|relative_url}}" alt="Foto de un holograma con código de barras" loading="lazy" width="180" height="225">
         <h4>Hologramas y códigos de barras al tiempo</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/holograma-premium.mp4' | relative_url}}" type="video/mp4">
           Tu navegador no soporta la etiqueta de video.
         </video>
         <h4>Hologramas con desarrollos exclusivos</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/nosotros/foto-de-stiker-holografico-19.webp'|relative_url}}" alt="Imagen de un sticker con logo de la empresa" loading="lazy" width="180" height="225">
         <h4>Protección y branding al mismo tiempo</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/nosotros/foto-de-stiker-holografico-21.webp'|relative_url}}" alt="Imagen rollo de adhesivos holográficos" loading="lazy" width="180" height="225">
         <h4>Hologramas con más elementos de seguridad</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/adhesivo-premium.mp4' | relative_url}}" type="video/mp4">
           Tu navegador no soporta la etiqueta de video.
@@ -179,16 +179,16 @@ alt: Fotografía de productos de holographic
   <!-- TERCER PRODUCTO DEL CATALOGO -->
   <section class="flow">
     <div class="bloques">
-      <div class="bloque_small bg2">
+      <div class="bloque_small bg">
         <h2>Los hologramas personalizados para tu marca</h2>
         <p>Etiquetas desarrolladas con un diseño holográfico exclusivo establecido por HoloGraphic. Sobre este tipo de hologramas <strong>se imprime la información requerida por el cliente</strong>.</p>
       </div>
-      <div class="bloque_big bg4">
+      <div class="bloque_big bg_marca">
         <h4>Este desarrollo de Holographic tiene muchos elementos de seguridad</h4>
         <img src="{{'img/stikcer-personalizado-explicado.webp' | relative_url}}" alt="Imagen de un sticker holográfico explicando sus partes" loading="lazy">
       </div>
-      <div class="bloque_small bg3">
-        <img src="{{'img/logo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
+      <div class="bloque_small bg">
+        <img src="{{'img/logotipo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
         <ol>
           <li><strong>Efecto degradado</strong></li>
           <li><strong>Patrón de línea geométricas</strong></li>
@@ -197,7 +197,7 @@ alt: Fotografía de productos de holographic
           <li><strong>Efecto 4 canales o capas</strong></li>
         </ol>
       </div>
-      <div class="bloque_big bg7">
+      <div class="bloque_big bg">
         <h3>Servicio de Hologramas Personalizados</h3>
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/sticker-personalizado.webm' | relative_url}}" type="video/webm">
@@ -205,7 +205,7 @@ alt: Fotografía de productos de holographic
           Tu navegador no soporta la etiqueta de video.
         </video>
       </div>
-      <div class="bloque_small bg1">
+      <div class="bloque_small bg">
         <h4>Sticker recomendado en las industrias</h4>
         <ul>
           <li>🏥 Farmacéuticas</li>
@@ -218,33 +218,33 @@ alt: Fotografía de productos de holographic
           <li>🎓 Académicas o de educación</li>
         </ul>
       </div>
-      <div class="bloque_small bg5">
+      <div class="bloque_small bg">
         <h4>Escríbenos y solicita tu servicio de Stickers Personalizados</h4>
-        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
       </div>
     </div>
     <h3>Estos son los Hologramas Personalizados que podrás conseguir con Holographic</h3>
     <div class="home_gallery">
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/nosotros/foto-de-stiker-holografico-1.webp'|relative_url}}" alt="Fotografías de una botella de licor con estampilla" loading="lazy" width="180" height="225">
         <h4>Protege tu mercancía de adulteraciones</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/holograma-personalizado.mp4' | relative_url}}" type="video/mp4">
           Tu navegador no soporta la etiqueta de video.
         </video>
         <h4>Hologramas con evidencia de despegue</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/holograma-exclusivo.webp'|relative_url}}" alt="Imagen de un sticker de seguridad exclusivo" loading="lazy" width="180" height="225">
         <h4>Hologramas con más elementos de seguridad</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/holograma-personalizado.webp'|relative_url}}" alt="Imagen de un sticker con logos" loading="lazy" width="180" height="225">
         <h4>Personalización con logo de la empresa</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/adhesivo-personalizado.mp4' | relative_url}}" type="video/mp4">
           Tu navegador no soporta la etiqueta de video.
@@ -261,10 +261,10 @@ alt: Fotografía de productos de holographic
   <!-- CUARTO PRODUCTO DEL CATALOGO -->
   <section class="flow">
     <div class="bloques">
-      <div class="bloque_small bg2">
+      <div class="bloque_small bg">
         <p>Las etiquetas VOID, forman parte de la familia de adhesivos de seguridad que <strong>marca una evidencia de despegado sobre la superficie donde ha sido instalada</strong>. La evidencia es un texto que permite identificar claramente cuando este ha sido removido total o parcialmente.</p>
       </div>
-      <div class="bloque_big bg4">
+      <div class="bloque_big bg">
         <h4>Etiquetas VOID de seguridad no reutilizables</h4>
         <ul>
           <li>✓ Escoge entre dos referencias de color: gris de aspecto metalizado o blanco brillante.</li>
@@ -272,8 +272,8 @@ alt: Fotografía de productos de holographic
           <li>✓ Su presentación es en rollos, compatibles con las principales marcas de impresoras de etiquetas de transferencia térmica.</li>
         </ul>
       </div>
-      <div class="bloque_small bg3">
-        <img src="{{'img/logo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
+      <div class="bloque_small bg">
+        <img src="{{'img/logotipo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
         <ul>
           <li>✓ Imprime logos</li>
           <li>✓ Imprime consecutivos</li>
@@ -288,7 +288,7 @@ alt: Fotografía de productos de holographic
           <li>* Presentación rollos</li>
         </ul>
       </div>
-      <div class="bloque_big bg7">
+      <div class="bloque_big bg_marca">
         <h4>Etiquetas de seguridad o con evidencia de despegue tipo VOID</h4>
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/etiqueta-void.webm' | relative_url}}" type="video/webm">
@@ -296,7 +296,7 @@ alt: Fotografía de productos de holographic
           Tu navegador no soporta la etiqueta de video.
         </video>
       </div>
-      <div class="bloque_small bg1">
+      <div class="bloque_small bg">
         <h4>Sticker recomendado en las industrias</h4>
         <ul>
           <li>🏥 Farmacéuticas</li>
@@ -308,30 +308,30 @@ alt: Fotografía de productos de holographic
           <li>🎓 Académicas o de educación</li>
         </ul>
       </div>
-      <div class="bloque_small bg5">
+      <div class="bloque_small bg">
         <h4>Escríbenos y solicita tus Etiquetas VOID</h4>
-        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
       </div>
     </div>
     <h3>Estos son las Etiquetas VOID que podrás conseguir con Holographic</h3>
     <div class="home_gallery">
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/etiquetas-void-blancas.webp'|relative_url}}" alt="Imagen de sticker VOID" loading="lazy" width="180" height="225">
         <h4>Utiliza los stickers VOID blancos</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/sello-seguridad-void.webp'|relative_url}}" alt="Foto de un dispositivo con adhesivo VOID plateado" loading="lazy" width="180" height="225">
         <h4>Protégete de reclamos injustos</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/etiquetas-void-blanca.webp'|relative_url}}" alt="Fotos de sticker VOID de marcación" loading="lazy" width="180" height="225">
         <h4>Utiliza nuestros rollos de impresión</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/holograma-void.webp'|relative_url}}" alt="Foto de sticker VOID con evidencia de despegue" loading="lazy" width="180" height="225">
         <h4>Marca tu mercancía con estilo</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/adhesivo-con-evidencia.webp'|relative_url}}" alt="Sticker VOID despegado dejando rastro" loading="lazy" width="180" height="225">
         <h4>Descubre la mercancía manipulada</h4>
       </article>
@@ -343,24 +343,24 @@ alt: Fotografía de productos de holographic
   <!-- QUINTO PRODUCTO DEL CATALOGO -->
   <section class="flow">
     <div class="bloques">
-      <div class="bloque_small bg2">
+      <div class="bloque_small bg">
         <p>Los hologramas genéricos, son etiquetas de seguridad que al despegarse dejan una evidencia de apertura. Son utilizados por empresas que requieren una <strong>solución al instante de protección de contenido o seguridad sin incluir su marca propia</strong></p>
       </div>
-      <div class="bloque_big bg4">
+      <div class="bloque_big bg">
         <h4>Etiquetas Genéricas de Holographic</h4>
         <p>Disponibles en <strong>tamaños desde 13x10mm hasta 50mm cuadrados</strong>.</p>
         <p>Se pueden imprimir en formatos rectangulares y circulares, con diseños propios de Holographic</p>
         <p>Disponibles en colores <strong>plateado, dorado y transparente</strong>.</p>
         <p>Stickers holográficos que están al alcance para impresiones que no requieren de una gran inversión en marca, diseño y tiempo.</p>
       </div>
-      <div class="bloque_small bg3">
-        <img src="{{'img/logo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
+      <div class="bloque_small bg">
+        <img src="{{'img/logotipo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
         <ul>
           <li>✓ La disponibilidad de este material es inmediata y sin restricciones.</li>
           <li>✓ Etiquetas holográficas con patrones no registrados (patrones repetitivos) y sin marcación propia por tiempo o recursos.</li>
         </ul>
       </div>
-      <div class="bloque_big bg7">
+      <div class="bloque_big bg_marca">
         <h4>Etiquetas de seguridad o con evidencia de despegue tipo VOID</h4>
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/etiqueta-holografica-generica.webm' | relative_url}}" type="video/webm">
@@ -368,7 +368,7 @@ alt: Fotografía de productos de holographic
           Tu navegador no soporta la etiqueta de video.
         </video>
       </div>
-      <div class="bloque_small bg1">
+      <div class="bloque_small bg">
         <h4>Sticker recomendado en las industrias</h4>
         <ul>
           <li>🏥 Farmacéuticas</li>
@@ -379,26 +379,26 @@ alt: Fotografía de productos de holographic
           <li>📱 Tecnológicas</li>
         </ul>
       </div>
-      <div class="bloque_small bg5">
+      <div class="bloque_small bg">
         <h4>Escríbenos y solicita tus Etiquetas Genéricas de Holographic</h4>
-        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
       </div>
     </div>
     <h3>Estos son las Etiquetas Genéricas de Holographic que podrás conseguir</h3>
     <div class="home_gallery">
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/hologramas-generico.webp'|relative_url}}" alt="Foto de rollo de hologramas" loading="lazy" width="180" height="225">
         <h4>Hologramas con diseño de Holographic</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/stickers-holographic.webp'|relative_url}}" alt="Foto de mercancía con hologramas" loading="lazy" width="180" height="225">
         <h4>Mercancía con stickers holográficos</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/sticker-generico.webp'|relative_url}}" alt="Imagen de sticker con diseño standard" loading="lazy" width="180" height="225">
         <h4>Diseños standard con holograma</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/adhesivos-holograficos-standard.webp'|relative_url}}" alt="Foto de stickers holográficos standard" loading="lazy" width="180" height="225">
         <h4>Stickers genéricos con evidencia</h4>
       </article>
@@ -410,23 +410,23 @@ alt: Fotografía de productos de holographic
   <!-- SEXTO PRODUCTO DEL CATALOGO -->
   <section class="flow">
     <div class="bloques">
-      <div class="bloque_small bg2">
+      <div class="bloque_small bg">
         <p>Lleva control y trazabilidad de los bienes y activos de tu empresa. En Holographic reconocemos la importancia y el valor que estos representan.</p>
       </div>
-      <div class="bloque_big bg4">
+      <div class="bloque_big bg">
         <h4>Marcación de activos fijos y trazabilidad</h4>
         <p>Resolvemos tu necesidad de marcación de los elementos adquiridos para el uso interno de la compañía. De esta manera podrás <strong>identificar, controlar y asignar cada elemento de manera ágil y organizada</strong>.</p>
         <p>Somos proveedores de etiquetas de seguridad hechas a la medida de tus necesidades con diferentes alternativas.</p>
       </div>
-      <div class="bloque_small bg3">
-        <img src="{{'img/logo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
+      <div class="bloque_small bg_marca">
+        <img src="{{'img/logotipo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
         <ul>
           <li>✓ Etiqueta de seguridad para equipos médicos</li>
           <li>✓ Etiquetas de seguridad para alquiler de equipos</li>
           <li>✓ Etiquetas de seguridad para repuestos y autopartes</li>
         </ul>
       </div>
-      <div class="bloque_big bg7">
+      <div class="bloque_big bg">
         <h4>Mantén el control sobre tus activos con stickers holográficos y de marcación</h4>
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/marcacion-activo-fijo.webm' | relative_url}}" type="video/webm">
@@ -434,7 +434,7 @@ alt: Fotografía de productos de holographic
           Tu navegador no soporta la etiqueta de video.
         </video>
       </div>
-      <div class="bloque_small bg1">
+      <div class="bloque_small bg">
         <h4>Sticker recomendado en las industrias</h4>
         <ul>
           <li>🏥 Farmacéuticas</li>
@@ -446,30 +446,30 @@ alt: Fotografía de productos de holographic
           <li>🛵 Domicilios o restaurantes</li>
         </ul>
       </div>
-      <div class="bloque_small bg5">
+      <div class="bloque_small bg">
         <h4>Consigue tus Etiquetas de Marcación y Trazabilidad</h4>
-        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
       </div>
     </div>
     <h3>Estos son las Etiquetas de Marcación y Trazabilidad de Holographic que podrás conseguir</h3>
     <div class="home_gallery">
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/nosotros/foto-de-stiker-holografico-16.webp'|relative_url}}" alt="Impresiones de marcación" loading="lazy" width="180" height="225">
         <h4>Hologramas con diseño de Holographic</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/etiqueta-void-para-computador.webp'|relative_url}}" alt="Foto de computador protegido con un sticker" loading="lazy" width="180" height="225">
         <h4>Activos con adhesivos de trazabilidad</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/sello-trazabilidad.webp'|relative_url}}" alt="Stickers de trazabilidad" loading="lazy" width="180" height="225">
         <h4>Marcación de productos internos</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/hologramas-autopartes.webp'|relative_url}}" alt="Foto de autopartes con hologramas" loading="lazy" width="180" height="225">
         <h4>Autopartes protegidas con stickers</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/sellos-trazabilidad.webp'|relative_url}}" alt="Foto de sellos de trazabilidad" loading="lazy" width="180" height="225">
         <h4>Mantén el control de tus activos</h4>
       </article>
@@ -481,23 +481,23 @@ alt: Fotografía de productos de holographic
   <!-- SÉPTIMO PRODUCTO DEL CATALOGO -->
   <section class="flow">
     <div class="bloques">
-      <div class="bloque_small bg2">
+      <div class="bloque_small bg">
         <p><strong>¿Están sus productos protegidos para evitar reclamaciones por garantías?</strong> En Holographic conocemos las necesidades de nuestros clientes y los retos que enfrentan.</p>
       </div>
-      <div class="bloque_big bg4">
+      <div class="bloque_big bg">
         <h4>Etiquetas con evidencia para Garantías de producto</h4>
         <p>Es muy común que los equipos sean vulnerados una vez entregados o enviados a su destino. Esto ocasiona pérdidas económicas.</p>
         <p>Las empresas deben asumir costos por reparaciones y repuestos nuevos, obligadas a cumplir con las garantías solicitadas. Pero, ¿cómo saber realmente si el daño ocasionado se dio efectivamente por un defecto en sus componentes o se dio por una mala manipulación de los equipos? <strong>Con adhesivos de garantía y seguridad</strong>.</p>
       </div>
-      <div class="bloque_small bg3">
-        <img src="{{'img/logo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
+      <div class="bloque_small bg">
+        <img src="{{'img/logotipo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
         <ul>
           <li>✓ Ideal para equipos en venta, alquilados, entregados en consignación o en arrendamiento.</li>
           <li>✓ Etiqueta de seguridad para equipos médicos</li>
           <li>✓ Etiquetas de seguridad para repuestos y autopartes</li>
         </ul>
       </div>
-      <div class="bloque_big bg7">
+      <div class="bloque_big bg_marca">
         <h4>Evita perder dinero por reclamos injustificados</h4>
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/sticker-evidencia.webm' | relative_url}}" type="video/webm">
@@ -505,37 +505,37 @@ alt: Fotografía de productos de holographic
           Tu navegador no soporta la etiqueta de video.
         </video>
       </div>
-      <div class="bloque_small bg1">
+      <div class="bloque_small bg">
         <h4>Sticker recomendado en las industrias</h4>
         <ul>
           <li>🚗 Repuestos y autopartes</li>
           <li>📱 Tecnológicas</li>
         </ul>
       </div>
-      <div class="bloque_small bg5">
+      <div class="bloque_small bg">
         <h4>Consigue tus Etiquetas y Hologramas para Garantías</h4>
-        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
       </div>
     </div>
     <h3>Estos son las Etiquetas y Hologramas para Garantías de Holographic que podrás conseguir</h3>
     <div class="home_gallery">
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/sello-garantia.webp'|relative_url}}" alt="Sello de garantía" loading="lazy" width="180" height="225">
         <h4>Evita la manipulación inapropiada</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/sello-seguridad-void.webp'|relative_url}}" alt="Foto de un equipo con sello de garantía" loading="lazy" width="180" height="225">
         <h4>Solo asume garantías justificadas</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/stickers-holograficos-de-seguridad.webp'|relative_url}}" alt="Stickers holográficos de garantía" loading="lazy" width="180" height="225">
         <h4>Responde solo por sellos originales</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/etiquetas-void-evidencia.webp'|relative_url}}" alt="Foto de equipo con sticker de garantía" loading="lazy" width="180" height="225">
         <h4>No pierdas dinero en garantías</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/nosotros/foto-de-stiker-holografico-13.webp'|relative_url}}" alt="Foto de holograma de garantía" loading="lazy" width="180" height="225">
         <h4>Evita pérdidas con sellos de garantía</h4>
       </article>
@@ -549,11 +549,11 @@ alt: Fotografía de productos de holographic
   <!-- OCTAVO PRODUCTO DEL CATALOGO -->
   <section class="flow">
     <div class="bloques">
-      <div class="bloque_small bg2">
+      <div class="bloque_small bg_marca">
         <h4>Cintas para protección de contenidos y espacios</h4>
         <img src="{{'img/cinta-seguridad-rastro.webp' | relative_url}}" alt="Cinta de seguridad con evidencia" loading="lazy">
       </div>
-      <div class="bloque_big bg4">
+      <div class="bloque_big bg">
         <h4>Evita perder parte de tu mercancía en el transporte o distribución. Garantiza la inocuidad de tu producto.</h4>
         <ul>
           <li>✓ Cinta Premium con marca del cliente y evidencia de despegue.</li>
@@ -563,15 +563,15 @@ alt: Fotografía de productos de holographic
           <li>✓ Cintas para domicilios personalizadas.</li>
         </ul>
       </div>
-      <div class="bloque_small bg3">
-        <img src="{{'img/logo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
+      <div class="bloque_small bg">
+        <img src="{{'img/logotipo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
         <p>Contamos con cintas de <strong>Seguridad con tecnología Tamper Evident</strong>, para contribuir a nuestros clientes en la mitigación del riesgo de pérdida de unidades valiosas durante el transporte.</p>
       </div>
-      <div class="bloque_big bg7">
+      <div class="bloque_big bg">
         <h4>Que nadie manipule tus envíos de mercancía gracias a tus cintas de seguridad</h4>
         <img src="{{'img/cintas-seguridad.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
       </div>
-      <div class="bloque_small bg1">
+      <div class="bloque_small bg">
         <h4>Sticker recomendado en las industrias</h4>
         <ul>
           <li>🚚 Transporte o logística</li>
@@ -583,30 +583,30 @@ alt: Fotografía de productos de holographic
           <li>🫙 Agroindustriales</li>
         </ul>
       </div>
-      <div class="bloque_small bg5">
+      <div class="bloque_small bg">
         <h4>Consigue nuestra cinta de seguridad para tus envíos</h4>
-        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
       </div>
     </div>
     <h3>Estas son las Cinas de Seguridad de Holographic que podrás conseguir</h3>
     <div class="home_gallery">
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/cinta-seguridad-premium.webp'|relative_url}}" alt="Cinta de seguridad con evidencia" loading="lazy" width="180" height="225">
         <h4>Protege tus envíos a domicilio</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/cintas-de-seguridad.webp'|relative_url}}" alt="Foto de cintas de seguridad" loading="lazy" width="180" height="225">
         <h4>Revisa las manipulaciones de tus empaques</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/cintas-domicilios.webp'|relative_url}}" alt="Imagen con cintas para domicilios" loading="lazy" width="180" height="225">
         <h4>Asegura que los pedidos lleguen bien</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/cinta-seguridad-standard.webp'|relative_url}}" alt="Cintas de seguridad standard" loading="lazy" width="180" height="225">
         <h4>Cintas de seguridad standard</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/cinta-evidencia-despegue.webp'|relative_url}}" alt="Foto de cinta con evidencia de despegue" loading="lazy" width="180" height="225">
         <h4>Nadie podrá manipular sin dejar evidencia</h4>
       </article>
@@ -620,11 +620,11 @@ alt: Fotografía de productos de holographic
   <!-- NOVENO PRODUCTO DEL CATALOGO -->
   <section class="flow">
     <div class="bloques">
-      <div class="bloque_small bg2">
+      <div class="bloque_small bg_marca">
         <h4>Mantenimiento profesional de impresoras</h4>
         <img src="{{'img/reparacion-impresoras.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
       </div>
-      <div class="bloque_big bg1">
+      <div class="bloque_big bg">
         <h4>Ofrecemos un acompañamiento profesional de postventa a todos los equipos que comercializamos.</h4>
         <ul>
           <li>✓ Venta de impresoras de las mejores marcas.</li>
@@ -634,15 +634,15 @@ alt: Fotografía de productos de holographic
           <li>✓ Configuración y capacitación en software de impresión Bartender.</li>
         </ul>
       </div>
-      <div class="bloque_small bg3">
-        <img src="{{'img/logo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
+      <div class="bloque_small bg">
+        <img src="{{'img/logotipo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
         <p>Contamos con cintas de <strong>Seguridad con tecnología Tamper Evident</strong>, para contribuir a nuestros clientes en la mitigación del riesgo de pérdida de unidades valiosas durante el transporte.</p>
       </div>
-      <div class="bloque_big bg7">
+      <div class="bloque_big bg">
         <h4>Que nadie manipule tus envíos de mercancía gracias a tus cintas de seguridad</h4>
         <img src="{{'img/mantenimiento-impresoras.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
       </div>
-      <div class="bloque_small bg4">
+      <div class="bloque_small bg">
         <h4>Trabajamos con impresoras de marcas como:</h4>
         <ul>
           <li>🖨️ Honeywell</li>
@@ -653,9 +653,9 @@ alt: Fotografía de productos de holographic
           <li>🖨️ BarTender</li>
         </ul>
       </div>
-      <div class="bloque_small bg5">
+      <div class="bloque_small bg">
         <h4>Pregunta por nuestros servicios de mantenimiento de impresoras de etiquetas y marcación</h4>
-        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
       </div>
     </div>
   </section>
@@ -664,11 +664,11 @@ alt: Fotografía de productos de holographic
   <!-- DECIMO PRODUCTO DEL CATALOGO -->
   <section class="flow">
     <div class="bloques">
-      <div class="bloque_small bg2">
+      <div class="bloque_small bg">
         <h4>Etiquetas blancas de impresión</h4>
         <p>Las etiquetas de papel hacen parte de un suministro importante para las compañías que requieren <strong>llevar una trazabilidad de los inventarios de sus mercancías o productos</strong>.</p>
       </div>
-      <div class="bloque_big bg1">
+      <div class="bloque_big bg">
         <h4>Materiales disponibles en las siguientes aplicaciones de impresión</h4>
         <ul>
           <li>✓ Transferencia</li>
@@ -681,11 +681,11 @@ alt: Fotografía de productos de holographic
           <li>✓ Estampadas y pre-corte</li>
         </ul>
       </div>
-      <div class="bloque_small bg3">
-        <img src="{{'img/logo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
+      <div class="bloque_small bg">
+        <img src="{{'img/logotipo.webp' | relative_url}}" alt="Logo holographic" loading="lazy">
         <p>Son utilizadas en la impresión de códigos de barras lineal o QR, consecutivos, referencias, lotes, caducidad, y para control logístico, documental e informativo.</p>
       </div>
-      <div class="bloque_big bg7">
+      <div class="bloque_big bg_marca">
         <h4>Etiquetas de impresión térmica o de transferencia</h4>
         <video autoplay muted loop playsinline preload="auto">
           <source src="{{ 'videos/etiquetas-blancas.webm' | relative_url}}" type="video/webm">
@@ -693,7 +693,7 @@ alt: Fotografía de productos de holographic
           Tu navegador no soporta la etiqueta de video.
         </video>
       </div>
-      <div class="bloque_small bg4">
+      <div class="bloque_small bg">
         <h4>Etiquetas recomendadas en las industrias</h4>
         <ul>
           <li>🚚 Transporte o logística</li>
@@ -706,30 +706,30 @@ alt: Fotografía de productos de holographic
           <li>🫙 Agroindustriales</li>
         </ul>
       </div>
-      <div class="bloque_small bg5">
+      <div class="bloque_small bg">
         <h4>Consigue las etiquetas blancas que necesitas</h4>
-        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_2" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
+        <a href="{{site.whatsapp}}" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Asesórate gratis</a>
       </div>
     </div>
     <h3>Estas son las etiquetas de impresión al por mayor de Holographic</h3>
     <div class="home_gallery">
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/etiquetas-trazabilidad-marcado.webp'|relative_url}}" alt="Etiquetas para imprimir con impresora térmica" loading="lazy" width="180" height="225">
         <h4>Etiquetas de impresión térmica</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/nosotros/foto-de-stiker-holografico-10.webp'|relative_url}}" alt="Rollos de etiqueta de impresión" loading="lazy" width="180" height="225">
         <h4>Etiquetas y códigos de marcación</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/nosotros/foto-de-stiker-holografico-23.webp'|relative_url}}" alt="Etiquetas impresas a color" loading="lazy" width="180" height="225">
         <h4>Etiquetas adhesivas para marcas</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/etiqueta-blanca-para-holograma.webp'|relative_url}}" alt="Foto de etiqueta blanca de impresión" loading="lazy" width="180" height="225">
         <h4>Etiqueta blanca impresa con hologramas</h4>
       </article>
-      <article class="flow">
+      <article class="flow article">
         <img src="{{'img/etiquetas-blancas.webp'|relative_url}}" alt="Foto de etiquetas blancas" loading="lazy" width="180" height="225">
         <h4>Diferentes tamaños de impresión</h4>
       </article>

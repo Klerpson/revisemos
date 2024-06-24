@@ -8,7 +8,7 @@
   border-bottom: dotted 2px var(--gris);
 }
 
-.home_gallery div{
+.home_gallery .article{
   display: grid;
   place-items: center;
   text-align: center;
@@ -16,8 +16,8 @@
   gap: 1em;
   }
   
-  .home_gallery div img,
-  .home_gallery div video{
+  .home_gallery .article img,
+  .home_gallery .article video{
   box-shadow: var(--shadow);
   width: 180px;
   height: 225px;
@@ -25,13 +25,13 @@
   object-fit: cover;
 }
 
-.home_gallery div h3{
+.home_gallery .article h3{
   margin: 0;
   font-size: 20px;
 }
 
-.home_gallery div a,
-.home_gallery div p{
+.home_gallery .article a,
+.home_gallery .article p{
   font-size: 18px;
 }
 

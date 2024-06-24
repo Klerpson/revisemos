@@ -1,6 +1,5 @@
 /* SHARE */
 .share{
-  background-color: var(--clr5);
   padding: 1em;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
@@ -29,7 +28,7 @@
 
 #share-buttons>div>svg {
   height: 20px;
-  fill: white;
+  fill: var(--principal);
   margin-top: 10px;
   transition: all .3s cubic-bezier(0.075, 0.82, 0.165, 1);
 }

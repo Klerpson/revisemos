@@ -100,6 +100,7 @@ details p {
 .relacionados {
   box-shadow: var(--shadow);
   padding: 1em;
+  border-radius: var(--radius);
 }
 
 /* PEDIR STICKERS PERSONAILZADOS */

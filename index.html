@@ -53,7 +53,7 @@ alt: Rollo de stickers holográficos
   <p>Consigue con nosotros desde etiquetas convencionales hasta diseños personalizados. En cualquier tamaño, tipo de papel y para cualquier necesidad.</p>
   <div class="home_gallery">
     {% for item in site.data.home.hologramas %}
-    <div class="flow">
+    <div class="flow article">
       <img src="{{item.img|relative_url}}" alt="{{item.alt}}" loading="lazy" width="180" height="225">
       <a href="{{item.url|relative_url}}" title="{{item.title}}" class="boton boton_1">{{item.nombre}}</a>
       <p>{{item.p}}</p>
@@ -171,7 +171,7 @@ alt: Rollo de stickers holográficos
   </p>
   <div class="home_gallery">
     {% for item in site.data.home.impresiones %}
-    <div class="flow">
+    <div class="article flow">
       <img src="{{item.img|relative_url}}" alt="{{item.alt}}" loading="lazy" width="180" height="225">
       <a href="{{item.url|relative_url}}" title="{{item.title}}" class="boton boton_1">{{item.nombre}}</a>
       <p>{{item.p}}</p>
