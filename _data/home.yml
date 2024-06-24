@@ -3,7 +3,7 @@ stickers:
     alt: Servicio personalizado para empresas
     nombre: Etiquetas Platinum
     p: Etiquetas desarrolladas con un diseño holográfico exclusivo
-    url: "servicios/etiquetas-platinum"
+    url: "productos/etiquetas-platinum"
     title: Holograma personalizado
   - img: img/cinta-seguridad.webp
     alt: Cintad de seguridad para mercancía
@@ -15,7 +15,7 @@ stickers:
     alt: Adhesivo holográfico de seguridad
     nombre: Etiquetas premium
     p: Solución de etiquetas adhesivas premium con más tecnología
-    url: "servicios/etiquetas-premium"
+    url: "productos/etiquetas-premium"
     title: Holograma premium
   - img: img/etiquetas-void.webp
     alt: Sticker VOID de seguridad
@@ -45,7 +45,7 @@ hologramas:
     title: Etiqueta de seguridad para vehículos
   - img: img/trazabilidad-codigo-de-barras.webp
     alt: Etiqueta de trazabilidad interna
-    nombre: Trazabilidad interna
+    nombre: Etiquetas de trazabilidad interna
     p: Etiquetas y hologramas para la trazabilidad
     url: "blog/trazabilidad-interna"
     title: Trazabilidad interna de activos
