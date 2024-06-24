@@ -52,6 +52,8 @@ Si eres proveedor de repuestos o autopartes, el uso de las etiquetas de segurida
 
 Ya no tienes que preocuparte por verificar si una garantía es válida o corresponde a un producto vendido por tu negocio.
 
+{% include relacionados.html %}
+
 ## Ventajas de la utilización de los sellos de garantía en tus productos
 
 - **Seguridad y prevención contra falsificaciones**:

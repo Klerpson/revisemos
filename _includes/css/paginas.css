@@ -89,6 +89,7 @@ details p {
 }
 
 .videos video {
+  margin: 2em 0 0;
   width: min(100%, 400px);
   -o-object-fit: cover;
   object-fit: cover;

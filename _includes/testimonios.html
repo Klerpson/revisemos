@@ -1,22 +1,21 @@
 <section class="wrapper">
   <div class="bloques">
-    <div class="flow bloque_big bg5">
+    <div class="flow bloque_big bg">
       <h2>Holographic S.A.S. imprime stickers o sellos holográficos de seguridad y trazabilidad para tu mercancía</h2>
       <p>Desde el año 1992 <strong>protegemos la mercancía y los activos de nuestros clientes con etiquetas, sellos, adhesivos, calcomanías, cintas, y stickers holográficos y de seguridad</strong>.</p>
       <h4>Haz clic en las siguientes opiniones para ver más</h4>
       {% for item in site.data.testimonios %}
-      <a href="https://www.google.com/maps/place/Holographic+SAS/@4.6798402,-74.0854897,17z/data=!4m8!3m7!1s0x8e3f84611ffb09f9:0x7b6a02cff7359a5d!8m2!3d4.6798402!4d-74.0829094!9m1!1b1!16s%2Fg%2F11g69y83tw?entry=ttu" rel="nofollow noopener noreferrer" target="_blank" >
-        <img src="{{ item.img | relative_url }}" alt="{{item.alt}}" loading="lazy" width="343" height="134">
-      </a>
-        {% endfor %}
+      <img src="{{ item.img | relative_url }}" alt="{{item.alt}}" loading="lazy" width="552">
+      {% endfor %}
+      <a href="https://www.google.com/maps/place/Holographic+SAS/@4.6798402,-74.0854897,17z/data=!4m8!3m7!1s0x8e3f84611ffb09f9:0x7b6a02cff7359a5d!8m2!3d4.6798402!4d-74.0829094!9m1!1b1!16s%2Fg%2F11g69y83tw?entry=ttu" rel="nofollow noopener noreferrer" target="_blank" class="boton boton_1">Ver más testimonios</a>
     </div>
-    <div class="bloque_big bg1">
+    <div class="bloque_big bg_marca">
       <img src="{{'img/holographic_team.webp'|relative_url}}" alt="Helado GurCoff" loading="lazy" width="600">
       <p>Nuestra impresión de stickers para clientes en Bogotá, Medellín, Barranquilla, Santa Marta, Cali, Bucaramanga, etc; <strong>reduce drásticamente las falsificaciones y la pérdida de mercancía</strong> en sus envíos.</p>
       <h4>Holographic tiene certificación ISO 9001:2015</h4>
       <img src="{{'img/certificacion-iso-9001.webp' | relative_url}}" alt="Sello de certificación ISO 9001 de Holographic" title="Certificación ISO 9001">
       <p>Recibe nuestra asesoría gratuita y pide tus stickers personalizados. Haz clic aquí para más información </p>
-      <a href="{{site.whatsapp}}" class="boton boton_2">Asesórate gratis</a>
+      <a href="{{site.whatsapp}}" class="boton boton_1">Asesórate gratis</a>
       <p><a href="tel:+573165285933">+57 316 528 5933</a> | <a href="tel:+573165285933">+57 316 528 5933</a></p>
     </div>
   </div>

@@ -1,5 +1,5 @@
 ---
-layout: industria
+layout: post
 title: "Protege tus activos fijos con etiquetas de marcación"
 description: "Utiliza las etiquetas holográficas y de papel de Holographic para simplificar el proceso de seguimiento de los activos de tu negocio"
 h1: Marcación de activos fijos con etiquetas de papel y stickers holográficos 

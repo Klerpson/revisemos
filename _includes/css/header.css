@@ -1,6 +1,5 @@
 header{
   margin-top: 2em;
-  min-height: 80dvh;
 }
 
 .header_mini_bloque{
@@ -9,11 +8,8 @@ header{
   text-align: center;
 }
 
-.header_mini_bloque span{
-  font-size: 1.6em;
-  color: var(--clr7);
-  font-weight: 900;
-  font-family: var(--fuenteTitulos);
+.header_mini_bloque h2{
+  font-size: clamp(1.125rem, 1.034rem + 0.45vw, 1.375rem);
 }
 
 .header_mini_bloque li{
@@ -22,8 +18,8 @@ header{
 }
 
 .header_bloque{
-  background: rgb(106,147,169);
-  background: linear-gradient(66deg, rgba(106,147,169,1) 40%, rgba(117,155,175,0.36318277310924374) 100%);
+  background: rgb(38,67,111);
+  background: linear-gradient(126deg, rgba(38,67,111,1) 7%, rgba(136,151,175,1) 85%, rgba(254,254,254,1) 100%);
   color: white;
 }
 
