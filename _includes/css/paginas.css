@@ -7,7 +7,7 @@
 }
 
 .pagina > article {
-  flex: 1 0 480px;
+  flex: 1 0 400px;
   max-width: 100%;
 }
 

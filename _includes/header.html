@@ -16,23 +16,23 @@
     {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
   </div>
   
-{% when "pagina" %}
-<header class="post_header wrapper">
-<img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
-<div class="header_bloque  flow">
-  <h1>{{page.h1}}</h1>
-  <p>➡️ {{page.intro}}</p>
-</div>
+  {% when "pagina" %}
+  <header class="post_header wrapper">
+    <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
+    <div class="header_bloque flow">
+      <h1>{{page.h1}}</h1>
+    </div>
+    {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
 
 {% when "post" %}
 <header class="post_header wrapper">
   <div class="bg flow">
     <h1>{{page.h1}}</h1>
     <p>{{page.description}}</p>
-    <small>Autor: {{page.autor}} | Temática: <a href="{{page.category | remove: '#' | relative_url }}">{{page.category}}</a></small>
+    <small>Autor: {{page.autor}} | Temática: {{page.category}}</small>
     <small><b>📍Estás aquí: </b><a href="/" title="Página de inicio">Inicio</a>/<a href="{{'blog' | relative_url}}" title="Blog Holographic">Blog</a>/{{page.title}}</small>
   </div>
-  <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" width="600" height="340">
+  <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340">
 
 {% else %}
 <header class="bloques wrapper">

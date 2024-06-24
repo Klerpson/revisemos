@@ -11,12 +11,6 @@ stickers:
     p: No pierdas más mercancía con nuestras cintas de seguridad
     url: "productos/cintas-de-seguridad"
     title: Cinta Seguridad
-  - img: img/adhesivo-con-evidencia.webp
-    alt: Etiqueta de seguridad con evidencia de despegue
-    nombre: Adhesivos con evidencia
-    p: Etiquetas de seguridad que dejan una evidencia de apertura
-    url: "productos/stickers-holograficos"
-    title: Etiqueta seguridad evidencia
   - img: img/holograma-premium.webp
     alt: Adhesivo holográfico de seguridad
     nombre: Etiquetas premium
@@ -29,6 +23,12 @@ stickers:
     p: Adhesivos de seguridad que marca una evidencia de despegado
     url: "productos/etiquetas-void/"
     title: Etiqueta VOID
+  - img: img/adhesivo-con-evidencia.webp
+    alt: Etiqueta de seguridad con evidencia de despegue
+    nombre: Adhesivos con evidencia
+    p: Etiquetas de seguridad que dejan una evidencia de apertura
+    url: "productos/stickers-holograficos"
+    title: Etiqueta seguridad evidencia
 
 hologramas:
   - img: img/sticker-personalizado.webp

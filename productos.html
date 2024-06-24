@@ -12,11 +12,11 @@ alt: Fotografía de productos de holographic
 <section class="wrapper flow">
   <h2>Los productos que más solicitan las empresas para asegurar su mercancía</h2>
   <div class="home_gallery">
-    {% for item in site.data.home.stickers limit: 4 %}
-    <article class="flow">
+    {% for item in site.data.home.stickers limit: 3 %}
+    <div class="flow">
       <img src="{{item.img|relative_url}}" alt="{{item.alt}}" loading="lazy" width="180" height="225">
       <p>{{item.p}}</p>
-    </article>
+    </div>
     {% endfor %}
   </div>
 </section>
