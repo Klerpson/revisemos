@@ -769,13 +769,13 @@ nav .icono-nav .line {
 
 .landing_grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 360px), 1fr));
   grid-auto-rows: auto;
   gap: 2em;
   padding: 2em 0;
 }
 
-.landing_grid article {
+.landing_grid .article {
   display: grid;
   text-align: center;
   place-content: start;

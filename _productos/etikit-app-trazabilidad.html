@@ -17,10 +17,10 @@ puntos-dolor:
   <div class="landing_grid">
     {% for item in page.puntos-dolor %}
     {% for punto in item %}
-    <article class="flow">
+    <div class="flow article">
       <img src="{{punto[1]|relative_url}}" alt="Fotografías de {{page.title}}" loading="lazy" width="180" height="225">
       <p>{{punto[0]}}</p>
-    </article>
+    </div>
     {% endfor %}
     {% endfor %}
   </div>
@@ -33,43 +33,59 @@ puntos-dolor:
   <h2>La pregunta lógica: ¿Qué es Etikit?</h2>
   <p>Tecnología puesta al servicio de las empresas y consumidores. Brindamos soluciones tecnológicas anti falsificación, protección de marca y trazabilidad de productos.</p>
   <p>Comprometidos con la autenticidad y legalidad de los productos, la protección de marcas y el bienestar de los consumidores, para lo cual contamos con un equipo de trabajo altamente capacitado y brindar un excelente servicio.</p>
-  <ul class="productos_beneficios">
-    <li>
-      <h3>Previene falsificaciones y adulteraciones</h3>
-      <ul>
-        <li>✓ Alertas de falsificación</li>
-        <li>✓ Prevenir y contrarrestar la falsificación</li>
-        <li>✓ Prevenir la adulteración de productos originales</li>
-        <li>✓ Prevenir el uso de productos caducados</li>
-      </ul>
-    </li>
-    <li>
-      <h3>Valida la autenticidad de los productos</h3>
-      <ul>
-        <li>✓ Validación</li>
-        <li>✓ Acceso a información de valor</li>
-        <li>✓ Seguridad</li>
-        <li>✓ Confianza</li>
-      </ul>
-    </li>
-    <li>
-      <h3>Mensajería directa fabricante - consumidor*</h3>
-      <ul>
-        <li>✓ Marketing</li>
-        <li>✓ Fidelización</li>
-        <li>✓ Información de valor</li>
-        <li>✓ Recalls</li>
-      </ul>
-    </li>
-    <li>
-      <h3>Maximiza la efectividad operativa y comercial</h3>
-      <ul>
-        <li>✓ Tendencias de consumo por área geográfica</li>
-        <li>✓ Tendencias de consumo por temporada</li>
-        <li>✓ Alertas de falsificación y compras de productos</li>
-      </ul>
-    </li>
-  </ul>
+  <table>
+    <thead>
+      <tr>
+        <th>Beneficio</th>
+        <th>Características</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Previene falsificaciones y adulteraciones</td>
+        <td>
+          <ul>
+            <li>✓ Alertas de falsificación</li>
+            <li>✓ Prevenir y contrarrestar la falsificación</li>
+            <li>✓ Prevenir la adulteración de productos originales</li>
+            <li>✓ Prevenir el uso de productos caducados</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Valida la autenticidad de los productos</td>
+        <td>
+          <ul>
+            <li>✓ Validación</li>
+            <li>✓ Acceso a información de valor</li>
+            <li>✓ Seguridad</li>
+            <li>✓ Confianza</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Mensajería directa fabricante - consumidor*</td>
+        <td>
+          <ul>
+            <li>✓ Marketing</li>
+            <li>✓ Fidelización</li>
+            <li>✓ Información de valor</li>
+            <li>✓ Recalls</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Maximiza la efectividad operativa y comercial</td>
+        <td>
+          <ul>
+            <li>✓ Tendencias de consumo por área geográfica</li>
+            <li>✓ Tendencias de consumo por temporada</li>
+            <li>✓ Alertas de falsificación y compras de productos</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
   <a href="{{site.whatsapp}}%20la%20app%20de%20etikit" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Conoce más la app</a>
 
 </section>
@@ -77,32 +93,32 @@ puntos-dolor:
   <h2>Tutorial de la Aplicación Etik-it</h2>
 </section>
 <main class="bloques wrapper">
-  <div class="bloque_small bg2">
+  <div class="bloque_small bg_marca">
     <h3>Paso 1: Descarga de la Aplicación</h3>
     <img src="{{'img/etikit-logo.webp'|relative_url}}" alt="Logo Etikit" loading="lazy">
     <p>Descarga la aplicación Etik-it desde <a href="https://play.google.com/store">Google Play</a> o <a href="https://www.apple.com/app-store/">Apple Store</a>. Acepta los permisos necesarios, incluyendo la ubicación geográfica.</p>
   </div>
-  <div class="bloque_small bg3">
+  <div class="bloque_small bg">
     <h3>Paso 2: Iniciación de la Aplicación</h3>
     <p>Al abrir la aplicación, aparecerá un mensaje indicando que realices la lectura.</p>
   </div>
-  <div class="bloque_small bg4">
+  <div class="bloque_small bg">
     <h3>Paso 3: Captura de Código QR</h3>
     <p>La cámara se abrirá automáticamente para capturar el código QR.</p>
   </div>
-  <div class="bloque_small bg5">
+  <div class="bloque_small bg">
     <h3>Paso 4: Ejemplo de Código</h3>
     <p>En la plataforma se incluirá la información relevante del producto o servicio y se generará un código encriptado que solo se puede leer con la aplicación Etik-it.</p>
   </div>
-  <div class="bloque_small bg6">
+  <div class="bloque_small bg">
     <h3>Paso 5: Lectura del Código</h3>
     <p>Utiliza la cámara para leer el código QR. Si el código está caducado, la aplicación lo indicará.</p>
   </div>
-  <div class="bloque_small bg7">
+  <div class="bloque_small bg">
     <h3>Paso 6: Producto Comprado</h3>
     <p>La plataforma muestra ejemplos de productos comprados, con un dashboard para gestionar categorías, productos, lotes, y más.</p>
   </div>
-  <div class="bloque_small bg1">
+  <div class="bloque_small bg">
     <h3>Paso 7: Generación de Códigos Únicos</h3>
     <p>Se pueden generar colas para impresión y crear archivos con códigos únicos encriptados.</p>
   </div>
@@ -115,8 +131,6 @@ puntos-dolor:
   <h2>Escríbenos y pide una prueba de Etikit</h2>
   <p>La aplicación Etik-it es una herramienta potente para la gestión y verificación de productos y servicios a través de códigos QR encriptados.</p>
   <a href="{{site.whatsapp}}%20la%20app%20de%20etikit" title="Contáctanos" class="boton boton_1" target="_blank" rel="nofollow noopener">Conoce más la app</a>
-
-</div>
 </section>
 <footer class="wrapper">
   <p>&copy; 2024 Etik-it. Todos los derechos reservados.</p>
