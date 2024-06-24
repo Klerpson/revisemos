@@ -18,10 +18,10 @@
   
   {% when "pagina" %}
   <header class="post_header wrapper">
-    <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
     <div class="header_bloque flow">
       <h1>{{page.h1}}</h1>
     </div>
+    <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
     {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
 
 {% when "post" %}
