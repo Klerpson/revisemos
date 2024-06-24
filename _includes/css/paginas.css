@@ -90,7 +90,7 @@ details p {
 
 .videos video {
   margin: 2em 0 0;
-  width: min(100%, 400px);
+  width: min(100%, 396px);
   -o-object-fit: cover;
   object-fit: cover;
   box-shadow: var(--shadow);

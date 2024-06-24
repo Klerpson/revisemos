@@ -29,12 +29,12 @@ La falsificación es una amenaza constante en muchos sectores, y sabemos que pro
 
 #### Tabla comparativa de nuestras soluciones
 
-| Característica                | Hologramas Antifalsificación | Etiquetas de Seguridad VOID | Cintas de Seguridad | Soluciones de Trazabilidad |
+| ℹ️ Característica                  | 🚫 Hologramas Antifalsificación | 🖨️ Etiquetas de Seguridad VOID | 📦 Cintas de Seguridad | 📋 Soluciones de Trazabilidad |
 |-------------------------------|------------------------------|-----------------------------|---------------------|----------------------------|
-| Protección Contra Falsificación | Alta                         | Media                        | Alta                | Media                      |
-| Evidencia de Manipulación     | No                            | Sí                           | Sí                  | No                         |
-| Personalización               | Alta                          | Media                        | Media               | Alta                       |
-| Aplicación                    | Productos físicos             | Productos y embalajes        | Envíos y productos  | Toda la cadena de suministro |
+| ℹ️ Protección Contra Falsificación | 🚫 Alta                          | 🖨️ Media                        | 📦 Alta                | 📋 Media                      |
+| ℹ️ Evidencia de Manipulación       | 🚫 No                            | 🖨️ Sí                           | 📦 Sí                  | 📋 No                         |
+| ℹ️ Personalización                 | 🚫 Alta                          | 🖨️ Media                        | 📦 Media               | 📋 Alta                       |
+| ℹ️ Aplicación                      | 🚫 Productos físicos             | 🖨️ Productos y embalajes        | 📦 Envíos y productos  | 📋 Toda la cadena de suministro |
 
 ### Nuestros clientes
 
@@ -59,11 +59,11 @@ Invertimos continuamente en investigación y desarrollo para estar a la vanguard
 
 ### Testimonios de quienes cuidan sus activos con Holographic S.A.S.
 
-> "Muy buen servicio, atención al cliente y excelentes productos." - [Makrotoner & suministros S.A.S.](https://maps.app.goo.gl/YbVBTLeNmiJvaYtv5){:rel="nofollow noopener noreferrer" target="_blank"}
+> "Muy buen servicio, atención al cliente y excelentes productos." - [Makrotoner & suministros S.A.S.]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
 
-> "Buenos productos y buen servicio al cliente. Recomendados!" - [Rediserv LTDA](https://maps.app.goo.gl/hRrJU5x1ZSq2dpfL6){:rel="nofollow noopener noreferrer" target="_blank"}
+> "Buenos productos y buen servicio al cliente. Recomendados!" - [Rediserv LTDA]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
 
-> "Cuando hablamos de un proveedor serio, hablamos de Holographic SAS, una empresa bogotana, tecnolÓgicamente a la vanguardia, capaz de atender y satisfacer al cliente más complicado. La calidez y la profesionalidad de su personal técnico / comercial, hacen de esta empresa uno de los mejores proveedores de Laboratorios San Roque. La calidad de sus trabajos no tiene iguales en Colombia, asi como la respuesta comercial, siempre a la altura de la situación. Una relación precio / calidad difícil de conseguir hoy en dia. Gracias Holographic SAS por ser parte de nuestro éxito!" - [Laboratorios San Roque S.A.S.](https://maps.app.goo.gl/sutrokKsuywJVntt5){:rel="nofollow noopener noreferrer" target="_blank"}
+> "Cuando hablamos de un proveedor serio, hablamos de Holographic SAS, una empresa bogotana, tecnolÓgicamente a la vanguardia, capaz de atender y satisfacer al cliente más complicado. La calidez y la profesionalidad de su personal técnico / comercial, hacen de esta empresa uno de los mejores proveedores de Laboratorios San Roque. La calidad de sus trabajos no tiene iguales en Colombia, asi como la respuesta comercial, siempre a la altura de la situación. Una relación precio / calidad difícil de conseguir hoy en dia. Gracias Holographic SAS por ser parte de nuestro éxito!" - [Laboratorios San Roque S.A.S.]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
 
 ### Conoce al equipo de Holographic
 
