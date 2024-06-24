@@ -720,6 +720,50 @@ nav .icono-nav .line {
 .entradas div article h3{
   text-align: left;
 }
+
+/* SECCIÓN DE PREGUNTAS FRECUENTES */
+
+.faqs .bloques .bloque_small{
+  align-self: start;
+}
+
+.faq-title {
+  font-family: var(--fuenteTitulos);
+  display: block;
+  cursor: pointer;
+  padding: 10px;
+  background-color: var(--principal);
+  color: white;
+  border: 1px solid var(--principal);
+  border-radius: 5px;
+  margin: 10px 0;
+  font-size: 1.1em;
+}
+
+.faq-toggle {
+  display: none;
+}
+
+.faq-content {
+  padding: 0 10px;
+  border: 1px solid var(--principal);
+  border-top: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+}
+
+.faq-toggle:checked + .faq-title + .faq-content {
+  max-height: 400px;
+  padding: 10px;
+}
+
+.faq-title:hover {
+  border: 1px solid var(--accion);
+  background-color: var(--accion);
+}
+
+
 .footer{
   display: flex;
   flex-wrap: wrap;
@@ -1203,6 +1247,7 @@ details p {
 }
 
 @media screen and (width >= 1200px) {
+
   .header_bloque div{
     grid-area: div;
   }

@@ -45,6 +45,7 @@
 }
 
 @media screen and (width >= 1200px) {
+
   .header_bloque div{
     grid-area: div;
   }
