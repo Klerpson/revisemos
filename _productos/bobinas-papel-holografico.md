@@ -29,7 +29,7 @@ fotos:
 ---
 [Pide tus rollos holográficos]( {{site.whatsapp}}%20:%20{{page.h1}} "Pide tus rollos holográficos" ){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
 
-## Obtén más innovación y seguridad con nuestras bobinas de papel holográfico
+## Las bobinas de papel holográfico de Holographic son perfectas para tu empresa proveedora de stickers holográficos
 {:id="holographic"}
 
 Los rollos adhesivos holográficos que [distribuimos en Holographic](/) son un recurso indispensable en una gran variedad de sectores industriales y de marketing. Tiene una gran capacidad única de combinar seguridad con atractivo visual.

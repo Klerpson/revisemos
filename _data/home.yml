@@ -45,7 +45,7 @@ hologramas:
     title: Etiqueta de seguridad para vehículos
   - img: img/trazabilidad-codigo-de-barras.webp
     alt: Etiqueta de trazabilidad interna
-    nombre: Etiquetas de trazabilidad interna
+    nombre: Etiquetas de trazabilidad 
     p: Etiquetas y hologramas para la trazabilidad
     url: "blog/trazabilidad-interna"
     title: Trazabilidad interna de activos
