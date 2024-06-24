@@ -105,9 +105,7 @@ details p {
 
 /* PEDIR STICKERS PERSONAILZADOS */
 .container_pedidos {
-  max-width: 600px;
   margin: auto;
-  background: white;
   padding: 24px;
   border-radius: var(--radius);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -118,6 +116,12 @@ details p {
     flex-wrap: wrap;
     padding-top: 2em;
     justify-content: center;
+    align-items: start;
+  }
+
+  & .boton{
+    margin: 0;
+    align-self: center;
   }
 }
 .container_pedidos .form-group {

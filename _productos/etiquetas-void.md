@@ -18,10 +18,10 @@ videos:
   - videos/sticker-evidencia.mp4
   - videos/etiqueta-void-cnr.mp4
 enlaces:
-  - Qué son las etiquetas VOID: '#enlace1'
-  - Uso de las etiquetas VOID: '#enlace2'
-  - Beneficios de las etiquetas VOID: '#enlace3'
-  - Tipos de etiquetas VOID: '#enlace4'
+  - Qué son las etiquetas VOID: '#que-son'
+  - Uso de las etiquetas VOID: '#uso'
+  - Tipos de etiquetas VOID: '#tipos'
+  - Ventajas de las etiquetas VOID: '#ventajas'
 fotos:
   - Adhesivo de seguridad blanco: img/etiquetas-void-blancas.webp
   - Etiqueta void blanca: img/etiquetas-void-blanca.webp
@@ -37,6 +37,7 @@ fotos:
 [Consigue tus etiquetas VOID]({{site.whatsapp}}%20:%20{{page.h1}} "Etiquetas VOID Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
 
 ## ¿Qué son las etiquetas VOID de seguridad?
+{:id="que-son"}
 
 Las etiquetas VOID son un tipo de [sticker de seguridad que fabricamos en Holographic](/) y tienen el propósito de proteger tu mercancía y tu dinero. **Con la etiqueta de seguridad VOID siempre sabrás cuándo tus productos fueron manipulados**.
 
@@ -54,6 +55,7 @@ Con las etiquetas y las cintas VOID podrás evitar pagar reclamos innecesarios o
   En una gran variedad de productos, desde dispositivos electrónicos hasta documentos sensibles y embalajes de mercancías.
 
 ## ¿Cómo funcionan las etiquetas VOID que puedes conseguir en Holographic?
+{:id="uso"}
 
 {% include videos.html %}
 
@@ -61,6 +63,7 @@ Las etiquetas VOID de seguridad **tienen la característica de dejar la evidenci
 
 1. La etiqueta VOID se adhiere firmemente a la superficie y se destruye si alguien intenta quitarla.
 2. Una vez que se retira, esta **deja el patrón de palabras: “VOID”**, u otro mensaje similar en la superficie del producto y en la etiqueta misma, lo que **indica claramente que se ha manipulado el adhesivo**.
+{:id="tipos"}
 
 ## Las 2 clases de etiquetas VOID más solicitadas en Holographic
 
@@ -114,6 +117,7 @@ Algunos de los usos más frecuentes para las etiquetas VOID personalizadas son:
 > [Asesórate gratis sobre las eiiquetas VOID]({{site.whatsapp}}%20:%20{{page.h1}} "Pide etiquetas VOID"){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
 
 ## ¿Cuáles son las ventajas de utilizar etiquetas VOID en tu empresa?
+{:id="ventajas"}
 
 Estos son algunos beneficios de utilizar los adhesivos VOID en tus productos o contenedores:
 
