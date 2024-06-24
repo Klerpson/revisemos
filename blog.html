@@ -16,7 +16,7 @@ alt: Imagen del logo del blog de Holographic
     {% for post in site.posts %}
     <article>
       <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="280" height="180">
-      <div>
+      <div class="flow">
         <a href="{{post.url|relative_url}}" title="{{post.title}}"><h4>{{post.h1}}</h4></a>
         <p>{{post.intro}}</p>
         <small>{{post.date | date: "%d-%m-%Y"}}</small>

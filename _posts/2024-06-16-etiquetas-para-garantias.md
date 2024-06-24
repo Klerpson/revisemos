@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Colecciona estampillas de licor"
+title: "Etiquetas de garantía: Consíguelas con Holographic"
 description: Realizar el mantenimiento preventivo de tu impresora térmica te va a ahorra mucho dinero. Son unos pasos sencillos. Aprende cómo hacerlo con Holographic
 autor: Hernando - Holographic
 category: "Mantenimiento"
-h1: Evitas costosas reparaciones con el mantenimiento preventivo de tu impresora térmica
-jpg: img/blog/mantenimiento-preventivo-impresoras.jpg
-hero: img/blog/mantenimiento-preventivo-impresoras.webp
+h1: Consigue etiquetas de seguridad para la garantía de tus productos con Holographic
+intro: Las etiquetas de seguridad te ahorrarán gastos innecesarios al regular las garantías que ofrece tu empresa. ¡Conócelas!
+jpg: img/proteccion-mercancias.jpg
+hero: img/proteccion-mercancia.webp
 alt: Foto de impresoras térmicas en buen estado
 ---
 ***Hoy te explicamos:***

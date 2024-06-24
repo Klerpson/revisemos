@@ -166,6 +166,22 @@ alt: Rollo de stickers holográficos
 {% include testimonios.html %}
 
 <section class="wrapper flow">
+  <h2>Soluciones de Holographic para tus necesidades de marcación y trazabilidad</h2>
+  <p>
+    En HOLOGRAPHIC.COM.CO, entendemos que mantener la eficiencia y la calidad en tus operaciones es esencial. Por eso, ofrecemos una gama completa de suministros y servicios para satisfacer todas tus necesidades de impresión y escaneo. ¿Necesitas equipos confiables para gestionar tus etiquetas y códigos de barras? ¡Tenemos todo lo que buscas!
+  </p>
+  <div class="home_gallery">
+    {% for item in site.data.home.impresiones %}
+    <article class="flow">
+      <img src="{{item.img|relative_url}}" alt="{{item.alt}}" loading="lazy" width="180" height="225">
+      <a href="{{item.url|relative_url}}" title="{{item.title}}" class="boton boton_1">{{item.nombre}}</a>
+      <p>{{item.p}}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="wrapper flow">
   <h2>Aprende más de protección de mercancías y trazabilidad con <span class="resaltar">adhesivos holográficos y de impresión</span></h2>
   <p>Investigamos, preparamos y te compartimos toda las información necesaria para proteger tus activos con sellos y adhesivos. Con esta información podrás entender mejor <strong>las ventajas de utilizar estas herramientas de antifalsificación de productos y trazabilidad de envíos y mercancía</strong>.</p>
   <h3>Haz clic en el artículo que te ayudará a proteger y controlar tus productos</h3>

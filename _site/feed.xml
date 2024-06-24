@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jun 2024 07:27:30 -0500</pubDate>
-    <lastBuildDate>Mon, 24 Jun 2024 07:27:30 -0500</lastBuildDate>
+    <pubDate>Mon, 24 Jun 2024 07:53:52 -0500</pubDate>
+    <lastBuildDate>Mon, 24 Jun 2024 07:53:52 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
     
       <item>
@@ -38,7 +38,7 @@
       </item>
     
       <item>
-        <title>Colecciona estampillas de licor</title>
+        <title>Etiquetas de garantía: Consíguelas con Holographic</title>
         <description>Realizar el mantenimiento preventivo de tu impresora térmica te va a ahorra mucho dinero. Son unos pasos sencillos. Aprende cómo hacerlo con Holographic</description>
         <pubDate>Sun, 16 Jun 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/etiquetas-para-garantias</link>

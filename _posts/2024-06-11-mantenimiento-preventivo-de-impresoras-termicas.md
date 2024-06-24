@@ -90,4 +90,4 @@ Si los problemas persisten o si no te sientes cómodo resolviéndolos por ti mis
 
 Y recuerda: en Colombia puedes aprovechar el mantenimiento profesional de impresoras térmicas que te ofrece Holographic S.A.S.
 
-[Programa un mantenimiento]({{ 'servicios/mantenimiento-impresoras-termicas' | relative_url }}){:class="boton boton_2" target="_blank"}
+[Programa un mantenimiento]({{ 'contacto' | relative_url }}){:class="boton boton_1" target="_blank"}
