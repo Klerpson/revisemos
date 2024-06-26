@@ -101,6 +101,10 @@ details p {
   box-shadow: var(--shadow);
   padding: 1em;
   border-radius: var(--radius);
+
+  h2{
+    margin: 0;
+  }
 }
 
 /* PEDIR STICKERS PERSONAILZADOS */

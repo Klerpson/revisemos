@@ -8,6 +8,7 @@ h1: Evitas costosas reparaciones con el mantenimiento preventivo de tu impresora
 jpg: img/blog/mantenimiento-preventivo-impresoras.jpg
 hero: img/blog/mantenimiento-preventivo-impresoras.webp
 alt: Foto de impresoras térmicas en buen estado
+published: no
 ---
 ***Hoy te explicamos:***
 

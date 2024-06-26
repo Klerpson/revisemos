@@ -32,6 +32,7 @@ fotos:
   - Rollos de stickers de papel: img/rollos-de-sticker-de-papel.webp
   - Papel adhesivo para impresora térmica: img/papel-adhesivo-para-impresora-termica.webp
   - Etiquetas de papel blancas: img/etiquetas-blancas.webp
+published: no
 ---
 [Pide tus etiquetas de papel]({{site.whatsapp}}%20:%20{{page.h1 }}){:class="boton boton_1" target="_blank" rel="nofollow noopener" title="Pide tu etiquetas de papel de impresión térmica"}
 

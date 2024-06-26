@@ -129,7 +129,7 @@ ol li::marker {
   padding: 4px;
   font-size: 2em;
   font-weight: bolder;
-  color: var(--principal);
+  color: var(--acento);
   vertical-align: middle;
 }
 

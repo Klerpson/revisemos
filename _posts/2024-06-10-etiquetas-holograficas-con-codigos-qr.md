@@ -36,287 +36,77 @@ fotos:
   - Etiqueta qr de seguridad: img/nosotros/foto-de-stiker-holografico-11.webp
 ---
 
-<section class="wrapper flow" id="codigos-qr-para-empresa">
-  <h2>Con los stickers de código QR optimizas la gestión de tus inventarios y la información de tus productos</h2>
-  <p>Las etiquetas con código QR son ideales empresas que buscan una forma eficiente y versátil de transmitir información con altos estándares de seguridad y control.</p>
-  <h3>Utiliza los códigos QR de Holographic y dale un toque de calidad a tu empresa</h3>
-  <p>El significado de QR hace referencia a la abreviatura de la palabra <strong>Quick Response (Respuesta Rápida)</strong>.</p>
-  <p><strong>Nuestros stickers QR te permiten codificar información de manera segura</strong >, desde textos simples hasta enlaces web, números de teléfono, direcciones de correo electrónico y mucho más.</p>
+## Con los stickers de código QR optimizas la gestión de tus inventarios y la información de tus productos
+
+Las etiquetas con código QR son ideales empresas que buscan una forma eficiente y versátil de transmitir información con altos estándares de seguridad y control.
+
+### Utiliza los códigos QR de Holographic y dale un toque de calidad a tu empresa
+
+El significado de QR hace referencia a la abreviatura de la palabra **Quick Response (Respuesta Rápida)**.
+
+**Nuestros stickers QR te permiten codificar información de manera segura**, desde textos simples hasta enlaces web, números de teléfono, direcciones de correo electrónico y mucho más.
+
+## Tipos de etiquetas con código QR más solicitadas por clientes Holographic
+
+  | Tipo de Código QR | Características | Beneficios | Ventajas |
+  |---|---|---|---|
+  | **Holograma con Código QR Estándar** | Matriz cuadrada con módulos negros y blancos<br>Puede almacenar hasta 7,089 caracteres numéricos o 4,296 alfanuméricos<br>Versátil y ampliamente reconocido<br>Usado para URLs, textos, y datos binarios | Alta capacidad de almacenamiento<br>Corrección de errores |                                                                |
+  | **Etiqueta QR Dinámico** | Permite actualizar el contenido después de la creación del código sin cambiar el diseño | Flexibilidad para cambiar la información almacenada (como URLs) | Costos de impresión reducidos, ya que no es necesario generar nuevos códigos para cada cambio |
+  | **Sticker micro código QR** | Versión más pequeña del QR estándar<br>Menos capacidad de almacenamiento | Ideal para productos pequeños o donde el espacio es limitado | Menor tamaño físico sin perder funcionalidad básica |
+  | **Holograma QR de colores** | Usa colores en lugar del tradicional blanco y negro | Atractivo visualmente<br>Puede alinearse con la marca | Mejora la estética y el reconocimiento de marca |
+  | **Holograma QR con logotipo** | Incorpora un logotipo o imagen en el centro del código | Refuerza la identidad de marca | Aumenta la confianza y el atractivo para los consumidores |
+
+  ¿Qué esperas? Entérate de cuál es la mejor manera de utilizar el código QR en tus productos con [Holographic Ecuador](/){:target="_blank"}.
+
+  [Obtén tus stickers holográficos]({{'productos/stickers-holograficos' | relative_url}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1"}
+
+  {% include videos.html %}
+
+## Algunas de las aplicaciones más innovadoras de los hologramas con códigos QR
+  
+### Marketing y publicidad con hologramas QR
+
+  **Promociones e información de productos**: El código QR para marketing, se puede incorporar en stickers y pegatinas que se colocan en productos o vallas publicitarias. Los usuarios pueden acceder a promociones exclusivas, información adicional sobre el producto o incluso realizar una compra en línea directamente desde el código QR.
+
+  **Campañas interactivas**: La publicidad con códigos QR tanto en anuncios impresos como digitales se puede utilizar para llevar a los usuarios a experiencias de realidad virtual o incluso a juegos y concursos interactivos para aumentar el engagement.
+
+### Hologramas QR para retail y comercio
+
+  **Probadores virtuales**: Los clientes pueden escanear códigos QR para ver cómo les quedaría la ropa mediante un probador virtual, mejorando la experiencia de compra.
+
+  **Etiquetas de precio dinámicas**: El código QR para comercio permite mostrar los precios actualizados en tiempo real, ofertas especiales o descuentos cuando son escaneados.
+
+### Stickers con códigos QR para transporte y logística
+
+  **Gestión de flotas**: Las etiquetas QR en vehículos ayudan a registrar el mantenimiento, seguimiento de rutas y monitoreo del uso.
+
+  **Rastreo de paquetes**: Clientes pueden escanear códigos QR en paquetes para obtener información de seguimiento en tiempo real y detalles de entrega.
+
+### Etiquetas QR para la industria de licores
+
+  **Detalles del producto**: Los códigos QR son una herramienta valiosa para las empresas de licores, ya que mejoran la experiencia del cliente al proporcionar información detallada sobre los productos, como el origen y las notas de cata. Además, facilitan campañas interactivas que incluyen recetas y promociones exclusivas.
+
+  **Verificación de autenticidad**: El uso de códigos QR en licores ayuda a verificar la autenticidad de las botellas, combatiendo la falsificación, y optimizan la logística y la gestión de inventarios mediante un seguimiento eficiente a lo largo de la cadena de suministro.
+
+  [Obtén tus stickers holográficos]({{'productos/stickers-holograficos' | relative_url}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1"}
+
   {% include slider.html %}
 
-  <h2>Tipos de etiquetas con código QR más solicitadas por clientes Holographic</h2>
-  <table>
-    <thead>
-      <tr>
-        <th>Tipo de Código QR</th>
-        <th>Características</th>
-        <th>Beneficios</th>
-        <th>Ventajas</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Holograma con Código QR Estándar</strong></td>
-        <td>
-          <ul>
-            <li>Matriz cuadrada con módulos negros y blancos</li>
-            <li>
-              Puede almacenar hasta 7,089 caracteres numéricos o 4,296
-              alfanuméricos
-            </li>
-            <li>Versátil y ampliamente reconocido</li>
-            <li>Usado para URLs, textos, y datos binarios</li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>Alta capacidad de almacenamiento</li>
-            <li>Corrección de errores</li>
-          </ul>
-        </td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><strong>Etiqueta QR Dinámico</strong></td>
-        <td>
-          <ul>
-            <li>
-              Permite actualizar el contenido después de la creación del código
-              sin cambiar el diseño
-            </li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>
-              Flexibilidad para cambiar la información almacenada (como URLs)
-            </li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>
-              Costos de impresión reducidos, ya que no es necesario generar
-              nuevos códigos para cada cambio
-            </li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Sticker micro código QR</strong></td>
-        <td>
-          <ul>
-            <li>Versión más pequeña del QR estándar</li>
-            <li>Menos capacidad de almacenamiento</li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>
-              Ideal para productos pequeños o donde el espacio es limitado
-            </li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>Menor tamaño físico sin perder funcionalidad básica</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Holograma QR de colores</strong></td>
-        <td>
-          <ul>
-            <li>Usa colores en lugar del tradicional blanco y negro</li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>Atractivo visualmente</li>
-            <li>Puede alinearse con la marca</li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>Mejora la estética y el reconocimiento de marca</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Holograma QR con logotipo</strong></td>
-        <td>
-          <ul>
-            <li>Incorpora un logotipo o imagen en el centro del código</li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>Refuerza la identidad de marca</li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>Aumenta la confianza y el atractivo para los consumidores</li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <p>¿Qué esperas? Descubre la mejor manera de utilizar el código QR en tus productos</p>
-  <a
-    href="{{'productos/stickers-holograficos' | relative_url}}"
-    title="Etiquetas holográficas"
-    class="boton boton_1"
-    target="_blank"
-    >Obtén tus stickers holográficos</a
+## Beneficios de usar códigos QR para gestionar tus activos y mercancía
+
+  1. **Facilidad de acceso a información**: Los códigos QR permiten a los clientes acceder rápidamente a información relevante sobre productos, servicios o promociones.
+  2. **Interacción con clientes**: Proporcionan una forma interactiva de comunicarse con los clientes, ofreciendo contenido adicional, encuestas, promociones especiales, etc.
+  3. **Seguimiento de campañas**: Permiten realizar un seguimiento efectivo de la efectividad de las campañas de marketing al rastrear la cantidad de veces que se escanean y se accede a los códigos QR.
+  4. **Versatilidad**: Se pueden utilizar en una variedad de materiales de marketing, como folletos, carteles, embalajes de productos, etc.
+  5. **Reducción de costos**: Son una forma económica de proporcionar información adicional sin la necesidad de imprimir materiales adicionales.
+  6. **Mejora la experiencia del cliente**: Al proporcionar acceso rápido a información útil, los códigos QR mejoran la experiencia general del cliente.
+  7. **Recopilación de datos**: Permiten recopilar datos sobre las preferencias y comportamientos de los clientes, lo que puede ser útil para la segmentación de mercado y la personalización de servicios.
+  8. **Promoción de la marca**: Al integrar códigos QR en materiales de marketing, se puede aumentar la visibilidad de la marca y generar interés en los productos o servicios.
+  9. **Facilita el proceso de pago**: Los códigos QR pueden utilizarse para facilitar el proceso de pago, especialmente en entornos de comercio electrónico o pagos móviles.
+  10. **Adaptabilidad tecnológica**: Los códigos QR son compatibles con la mayoría de los teléfonos inteligentes y no requieren la instalación de ninguna aplicación adicional, lo que los hace accesibles para una amplia audiencia.
+
+  > ¡No esperes más para aprovechar el poder de los códigos QR en tu negocio!
   >
-</section>
-<section class="wrapper">{% include videos.html %}</section>
-<section class="wrapper flow" id="hologramas-con-qr">
-  <h2>Algunas de las aplicaciones más innovadoras de los hologramas con códigos QR</h2>
-
-  <h3>Marketing y publicidad con hologramas QR</h3>
-
-  <p><b>Promociones e información de productos</b>: El código QR para marketing, se puede incorporar en stickers y pegatinas que se colocan en productos o vallas publicitarias. Los usuarios pueden acceder a promociones exclusivas, información adicional sobre el producto o incluso realizar una compra en línea directamente desde el código QR.</p>
-  <p><b>Campañas interactivas</b>: La publicidad con códigos QR tanto en anuncios impresos como digitales se puede utilizar para llevar a los usuarios a experiencias de realidad virtual o incluso a juegos y concursos interactivos para aumentar el engagement.</p>
-
-  <h3>Hologramas QR para retail y comercio</h3>
-
-  <p><b>Probadores virtuales</b>: Los clientes pueden escanear códigos QR para ver cómo les quedaría la ropa mediante un probador virtual, mejorando la experiencia de compra.</p>
-  <p><b>Etiquetas de precio dinámicas</b>: El código QR para comercio permite mostrar los precios actualizados en tiempo real, ofertas especiales o descuentos cuando son escaneados.</p>
-
-  <h3>Stickers con códigos QR para transporte y logística</h3>
-
-  <p><b>Gestión de flotas</b>: Las etiquetas QR en vehículos ayudan a registrar el mantenimiento, seguimiento de rutas y monitoreo del uso.</p>
-  <p><b>Rastreo de paquetes</b>: Clientes pueden escanear códigos QR en paquetes para obtener información de seguimiento en tiempo real y detalles de entrega.</p>
-
-  <h3>Etiquetas QR para la industria de licores</h3>
-
-  <p><b>Detalles del producto</b>: Los códigos QR son una herramienta valiosa para las empresas de licores, ya que mejoran la experiencia del cliente al proporcionar información detallada sobre los productos, como el origen y las notas de cata. Además, facilitan campañas interactivas que incluyen recetas y promociones exclusivas.</p>
-  <p><b>Verificación de autenticidad</b>: El uso de códigos QR en licores ayuda a verificar la autenticidad de las botellas, combatiendo la falsificación, y optimizan la logística y la gestión de inventarios mediante un seguimiento eficiente a lo largo de la cadena de suministro.</p>
-
-  <a
-    href="{{'productos/stickers-holograficos' | relative_url}}"
-    title="Etiquetas holográficas"
-    class="boton boton_1"
-    target="_blank"
-    >Obtén tus stickers holográficos</a
+  > Empieza a integrarlos en tus productos, estrategias de marketing y operaciones comerciales para aumentar la eficiencia, mejorar la experiencia del cliente y llevar tu negocio al siguiente nivel.
   >
-</section>
-<section class="wrapper title">
-  <h2>Además de nuestros sticker con código de barras puedes preguntar por estos complementos</h2>
-</section>
-<section class="bloques wrapper">
-  <div class="bloque_small bg4">
-    <h3>Impresoras térmicas y de transferencia</h3>
-    <img
-      src="{{'img/impresora-codigo-barras.webp'|relative_url}}"
-      alt="Impresora códigos de barras"
-      loading="lazy"
-      width="180"
-      height="225"
-    />
-    <a
-      href="{{'productos/impresoras-termicas-y-lectores-de-codigos' | relative_url}}"
-      title="Impresoras térmicas"
-      class="boton boton_2"
-      >Consigue tu impresora térmica</a
-    >
-  </div>
-  <div class="bloque_small bg2">
-    <h3>Stickers holográficos antifalsificación</h3>
-    <img
-      src="{{'img/sticker-proteccion-marca.webp'|relative_url}}"
-      alt="Sticker para proteger marca"
-      loading="lazy"
-      width="180"
-      height="225"
-    />
-    <a
-      href="{{'productos/stickers-holograficos/' | relative_url}}"
-      title="Sello protección de marca"
-      class="boton boton_2"
-      >Stickers holográficos para tu marca</a
-    >
-  </div>
-  <div class="bloque_small bg3">
-    <h3>Cinta de seguridad para transporte</h3>
-    <img
-      src="{{'img/cinta-seguridad-evidencia.webp'|relative_url}}"
-      alt="Cinta seguridad para transporte con evidencia"
-      loading="lazy"
-      width="180"
-      height="225"
-    />
-    <a
-      href="{{'productos/cintas-de-seguridad/' | relative_url}}"
-      title="Cinta seguridad evidencia"
-      class="boton boton_2"
-      >Cinta de seguridad para tus mercancías</a
-    >
-  </div>
-  <div class="bloque_small bg5">
-    <h3>Bobina o rollos de stickers holográficos</h3>
-    <img
-      src="{{'img/bobina-o-rollo-de-stickers.webp'|relative_url}}"
-      alt="Rollos de stickers de seguridad"
-      loading="lazy"
-      width="180"
-      height="225"
-    />
-    <a
-      href="{{'productos/rollo-papel-holografico' | relative_url}}"
-      title="Bobinas o rollos de hologramas"
-      class="boton boton_2"
-      >Ahorra con nuestros rollos de stickers</a
-    >
-  </div>
-</section>
-<section class="wrapper flow" id="codigos-qr-para-marcar-activos">
-  <h2>Beneficios de usar códigos QR para gestionar tus activos y mercancía</h2>
-  <ol>
-    <li>
-      <b>Facilidad de acceso a información</b>: Los códigos QR permiten a los clientes acceder rápidamente a información relevante sobre productos, servicios o promociones.
-    </li>
-    <li>
-      <b>Interacción con clientes</b>: Proporcionan una forma interactiva de comunicarse con los clientes, ofreciendo contenido adicional, encuestas, promociones especiales, etc.
-    </li>
-    <li>
-      <b>Seguimiento de campañas</b>: Permiten realizar un seguimiento efectivo de la efectividad de las campañas de marketing al rastrear la cantidad de veces que se escanean y se accede a los códigos QR.
-    </li>
-    <li>
-      <b>Versatilidad</b>: Se pueden utilizar en una variedad de materiales de marketing, como folletos, carteles, embalajes de productos, etc.
-    </li>
-    <li>
-      <b>Reducción de costos</b>: Son una forma económica de proporcionar información adicional sin la necesidad de imprimir materiales adicionales.
-    </li>
-    <li>
-      <b>Mejora la experiencia del cliente</b>: Al proporcionar acceso rápido a información útil, los códigos QR mejoran la experiencia general del cliente.
-    </li>
-    <li>
-      <b>Recopilación de datos</b>: Permiten recopilar datos sobre las preferencias y comportamientos de los clientes, lo que puede ser útil para la segmentación de mercado y la personalización de servicios.
-    </li>
-    <li>
-      <b>Promoción de la marca</b>: Al integrar códigos QR en materiales de marketing, se puede aumentar la visibilidad de la marca y generar interés en los productos o servicios.
-    </li>
-    <li>
-      <b>Facilita el proceso de pago</b>: Los códigos QR pueden utilizarse para facilitar el proceso de pago, especialmente en entornos de comercio electrónico o pagos móviles.
-    </li>
-    <li>
-      <b>Adaptabilidad tecnológica</b>: Los códigos QR son compatibles con la mayoría de los teléfonos inteligentes y no requieren la instalación de ninguna aplicación adicional, lo que los hace accesibles para una amplia audiencia.
-    </li>
-  </ol>
-
-  <blockquote>
-    ¡No esperes más para aprovechar el poder de los códigos QR en tu negocio!
-    <br />
-    Empieza a integrarlos en tus productos, estrategias de marketing y operaciones comerciales para aumentar la eficiencia, mejorar la experiencia del cliente y llevar tu negocio al siguiente nivel.
-    <a
-    href="{{'productos/stickers-holograficos' | relative_url}}"
-    title="Etiquetas holográficas"
-    class="boton boton_1"
-    target="_blank"
-    >Obtén tus stickers holográficos</a
-  >
-  </blockquote>
-</section>
+  > [Obtén tus stickers holográficos]({{'productos/stickers-holograficos' | relative_url}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1"}

@@ -129,7 +129,7 @@ ol li::marker {
   padding: 4px;
   font-size: 2em;
   font-weight: bolder;
-  color: var(--principal);
+  color: var(--acento);
   vertical-align: middle;
 }
 
@@ -850,6 +850,10 @@ details p {
   box-shadow: var(--shadow);
   padding: 1em;
   border-radius: var(--radius);
+
+  h2{
+    margin: 0;
+  }
 }
 
 /* PEDIR STICKERS PERSONAILZADOS */
