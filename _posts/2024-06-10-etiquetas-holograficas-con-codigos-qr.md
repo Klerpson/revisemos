@@ -4,7 +4,7 @@ title: "Hologramas con códigos QR: Marca y controla tus activos"
 description: "Las etiquetas con código de barras se utilizan en industrias para los productos y activos fijos. En Holographic fabricamos los que necesitas"
 h1: Hologramas y etiquetas con códigos QR
 autor: Diana - Holographic
-category: "Mantenimiento"
+category: "Antifalsificación"
 intro: Almacena y lee los datos de tu negocio de manera rápida y segura con el holograma QR
 hero: img/codigo-qr.webp
 jpg: img/codigo-qr.jpg
