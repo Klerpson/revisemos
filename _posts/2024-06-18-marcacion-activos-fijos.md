@@ -1,39 +1,33 @@
 ---
 layout: post
 title: "Protege tus activos fijos con etiquetas de marcación"
-description: "Utiliza las etiquetas holográficas y de papel de Holographic para simplificar el proceso de seguimiento de los activos de tu negocio"
+description: "Utiliza las etiquetas holográficas y de seguridad de Holographic para simplificar el proceso de marcación de activos de tu negocio"
 h1: Marcación de activos fijos con etiquetas de papel y stickers holográficos 
 intro: Personaliza y protege tus productos con stickers holográficos y etiquetas adhesivas únicas.
 autor: Hernando - Holographic
 category: "Seguridad"
-hero: img/proteccion-mercancia.webp
-jpg: img/proteccion-mercancia.jpg
-alt: Fotografía de adhesivos personalizados
-enlaces:
-  - Marcación con hologramas de seguridad: '#hologramas-de-seguridad'
-  - Protección de activos con etiquetas VOID: '#etiquetas-void'
-  - Vinilos protectores de etiquetas: '#vinilo-para-etiquetas'
-puntos-dolor:
-  - Holograma personalizado: "img/holograma-exclusivo.webp"
-  - Destaca tu marca: "img/nosotros/foto-de-stiker-holografico-15.webp"
-  - Protege y destaca a la vez: "img/holograma-personalizado.webp"
-  - Personaliza y controla: "img/nosotros/foto-de-stiker-holografico-2.webp"
-  - Sticker holográficos de seguridad: "img/pegatina-holografica.webp"
+hero: img/blog/marcacion-activos-fijos.webp
+jpg: img/blog/marcacion-activos-fijos.jpg
+alt: Fotografía de activos con etiquetas de marcación
 videos:
   - videos/sticker-evidencia.mp4
   - videos/sticker-qr.mp4
   - videos/marcacion-activo-fijo.mp4
 ---
-## ¿Te gustaría simplificar el proceso de seguimiento de los activos de tu negocio? Te mostramos cómo utilizan las empresas las etiquetas para activos fijos
+## Marcación de activos con Holographic
+
+- [Etiquetas para el inventario de tus activos fijos](#nuestras-etiquetas-para-inventario-de-activos-fijos)
+- [Ventajas de marcar tus activos fijos con Holographic](#aprovecha-los-beneficios-de-aplicar-las-etiquetas-de-marcación-de-activos-fijos-con-holographic)
+
+## Así utilizan las empresas las etiquetas para activos fijos de Holographic
 
 Sabemos que los bienes y activos de tu empresa son muy importantes y representan un gran valor para ti. Por eso, en Holographic queremos apoyarte con la marcación de los inventarios de activos fijos de tu compañía.
 
 Con nuestros adhesivos para marcado y trazabilidad puedes identificar, controlar y asignar a cada elemento un código.
-{:id="hologramas-de-seguridad"}
-
-## Nuestras etiquetas para inventario de activos fijos
 
   {% include videos.html %}
+
+## Nuestras etiquetas para inventario de activos fijos
 
 ### Hologramas de Seguridad
 
@@ -43,7 +37,7 @@ Son ideales cuando se busca una alternativa distinta a las placas para marcar o 
 
 Además de su atractivo visual, estos hologramas **ofrecen la posibilidad de incluir códigos de barras** para una mayor eficacia en el seguimiento de activos. Nuestros etiquetas con códigos de marcación son ampliamente utilizados por nuestros clientes que buscan **marcar sus activos de una manera que combina seguridad, funcionalidad y diseño**.
 
-[Conoce las etiquetas personalizadas]({{ 'servicios/etiquetas-personalizadas' | relative_url }} "Stickers holográficos personalizados"){:class="boton boton_2" target="_blank"}
+[Conoce las etiquetas personalizadas]({{ 'servicios/etiquetas-personalizadas' | relative_url }} "Stickers holográficos personalizados"){:class="boton boton_1" target="_blank"}
 
 >Las diferentes tecnologías que tenemos en Holographic nos permiten incluir muchos elementos de seguridad dentro del holograma de cada sticker, haciéndolos imposibles de copiar o reemplazar.
 {:id="etiquetas-void"}
@@ -56,7 +50,7 @@ Su **manipulación es fácil y cuentan con una resistencia excepcional**, lo que
 
 Están disponibles en diferentes tamaños para adaptarse a las necesidades específicas de cada activo.
 
-[Conoce las etiquetas VOID]({{ 'productos/etiquetas-void' | relative_url }} "Etiquetas VOID"){:class="boton boton_2" target="_blank"}
+[Conoce las etiquetas VOID]({{ 'productos/etiquetas-void' | relative_url }} "Etiquetas VOID"){:class="boton boton_1" target="_blank"}
 
 ### Protector de vinilo transparente
 
@@ -78,8 +72,6 @@ Su transparencia permite una **lectura clara de la información**, mientras que 
 * 70mm X 35mm
 * 100mm X 50mm
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
-
 ## Aprovecha los beneficios de aplicar las etiquetas de marcación de activos fijos con Holographic
 
 * Olvídate de los errores: **Elimina la tediosa tarea de registrar manualmente** la información de tus activos.
@@ -92,4 +84,4 @@ Su transparencia permite una **lectura clara de la información**, mientras que 
 
 Prueba las etiquetas para control de activos fijos que tenemos para ti en Holographic.
 
-[Conoce las etiquetas holográficas]({{ 'productos/stickers-holograficos' | relative_url }} "Etiquetas holográficas"){:class="boton boton_2" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
