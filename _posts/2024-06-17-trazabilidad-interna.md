@@ -27,6 +27,12 @@ La trazabilidad internas es la capacidad de **seguir y rastrear todo el recorrid
 
 Esto incluye el seguimiento de los insumos utilizados, el registro de los procesos de fabricación, la identificación de lotes y fechas de vencimiento, y el control de la calidad de los productos.
 
+- [Paso a paso para implementar la trazabilidad interna](#cómo-implementar-un-sistema-de-trazabilidad-interna-en-tu-empresa)
+- [Selecciona el software correcto para la trazabilidad de tus productos](#software-de-trazabilidad-interna-herramientas-para-mejorar-tu-gestión)
+- [La trazabilidad interna en la industria alimentaria del Ecuador](#trazabilidad-interna-en-la-industria-alimentaria-requisitos-y-normativas)
+- [La trazabilidad interna en la industria farmacéutica del Ecuador](#trazabilidad-interna-en-el-sector-farmacéutico-importancia-y-regulaciones)
+- [Apóyate en Holographic para implementar la trazabilidad de tu mercancía](#trazabilidad-interna-y-cadena-de-valor-optimiza-tus-procesos-con-holographic)
+
 ## Beneficios de la trazabilidad interna
 
 ### 1. Mejora de la eficiencia en los procesos internos de la empresa
