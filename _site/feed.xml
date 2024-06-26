@@ -5,9 +5,37 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jun 2024 11:25:52 -0500</pubDate>
-    <lastBuildDate>Wed, 26 Jun 2024 11:25:52 -0500</lastBuildDate>
+    <pubDate>Wed, 26 Jun 2024 12:18:25 -0500</pubDate>
+    <lastBuildDate>Wed, 26 Jun 2024 12:18:25 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Cajas Inviolables: El Poder de la Cinta de Seguridad</title>
+        <description>La cinta tamper evident aumenta la seguridad de tus envíos. Protege tu mercancía con tecnología que evidencia cualquier intento de manipulación</description>
+        <pubDate>Tue, 25 Jun 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/cintas-para-envios-mercancia</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/cintas-para-envios-mercancia</guid>
+        
+        
+        
+        
+        <category>Seguridad</category>
+        
+      </item>
+    
+      <item>
+        <title>Protege Domicilios con Stickers y Cintas de Seguridad</title>
+        <description>Protege y personaliza tus envíos con stickers y cintas de seguridad. Aprende a crear domicilios únicos que fidelizan a tus clientes.</description>
+        <pubDate>Mon, 24 Jun 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/adhesivos-para-domicilios</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/adhesivos-para-domicilios</guid>
+        
+        
+        
+        
+        <category>Seguridad</category>
+        
+      </item>
     
       <item>
         <title>Cáscara de Huevo vs Etiquetas Holográficas - Holographic</title>
@@ -118,34 +146,6 @@
         
         
         <category>Antifalsificación</category>
-        
-      </item>
-    
-      <item>
-        <title>Hologramas con códigos QR: Marca y controla tus activos</title>
-        <description>Las etiquetas con código de barras se utilizan en industrias para los productos y activos fijos. En Holographic fabricamos los que necesitas</description>
-        <pubDate>Mon, 10 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/etiquetas-holograficas-con-codigos-qr</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-holograficas-con-codigos-qr</guid>
-        
-        
-        
-        
-        <category>Antifalsificación</category>
-        
-      </item>
-    
-      <item>
-        <title>Características y funciones de las cintas de seguridad</title>
-        <description>¿Conoces qué características o funciones tiene una cinta de seguridad? Van más allá de dejar una evidencia de despegue. Aprende más con Holographic</description>
-        <pubDate>Tue, 04 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/cintas-de-seguridad-caracteristicas-funciones</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/cintas-de-seguridad-caracteristicas-funciones</guid>
-        
-        
-        
-        
-        <category>Seguridad</category>
         
       </item>
     

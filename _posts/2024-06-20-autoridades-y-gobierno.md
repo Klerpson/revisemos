@@ -29,6 +29,8 @@ En Holographic, diseñamos estos elementos de seguridad con los más altos está
 
 ## Alternativas de cintas y etiquetas de seguridad profesionales
 
+![Sello de seguridad]({{'img/blog/sello-seguridad-autoridades.webp' | relative_url }} "Puerta sellada con cinta de seguridad")
+
 ### Cintas de seguridad policiales
 
 Las cintas policiales son herramientas esenciales para **delimitar áreas de acceso restringido y garantizar la seguridad** en escenas de crimen y eventos públicos.

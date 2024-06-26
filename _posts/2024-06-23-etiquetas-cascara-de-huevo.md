@@ -8,7 +8,7 @@ autor: Diana - Holographic
 category: "Antifalsificación"
 hero: img/blog/cascara-de-huevo.webp
 jpg: img/blog/cascara-de-huevo.jpg
-alt: Fotografía de etiqueta de seguridad vehicular
+alt: Fotografía de etiqueta cáscara de huevo
 videos:
   - videos/holograma-platinum.mp4
   - videos/holograma-con-patron-no-registrado.mp4

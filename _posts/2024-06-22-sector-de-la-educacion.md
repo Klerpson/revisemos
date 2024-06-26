@@ -8,7 +8,7 @@ autor: Diana - Holographic
 category: "Antifalsificación"
 hero: img/blog/diploma-con-sticker-de-seguridad.webp
 jpg: img/blog/diploma-con-sticker-de-seguridad.jpg
-alt: Fotografía de etiqueta de seguridad vehicular
+alt: Foto de diploma con holograma de autenticación
 videos:
   - videos/servicio-premium.mp4
   - videos/stickers-premium.mp4
@@ -38,7 +38,7 @@ Por esta razón, es necesario implementar una solución de anti-falsificación s
 
 Los hologramas de seguridad **se adecúan perfectamente a las exigencias del entorno educativo actual**. Son difíciles de copiar o imitar, por lo que aseguran la veracidad de diplomas y certificados, proporcionando confianza a los empleadores y garantizando que los estudiantes sean reconocidos por sus logros académicos.
 
-![Diplomas de insitución educativa con holograma de seguridad]({{'img/blog/diplomas-con-hologramas.webp' | relative_url }} "Diploma con Holograma")
+![Diplomas de institución educativa con holograma de seguridad]({{'img/blog/diplomas-con-hologramas.webp' | relative_url }} "Diploma con Holograma")
 
 ## Aplicaciones de las etiquetas holográficas para el sector educativo
 
