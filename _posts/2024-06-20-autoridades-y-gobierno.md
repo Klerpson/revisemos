@@ -17,7 +17,7 @@ videos:
 ## Etiquetas de seguridad, cintas y stickers holográficos para las autoridades
 
 - [Alternativas de cintas y etiquetas para autoridades](#alternativas-de-cintas-y-etiquetas-de-seguridad-profesionales)
-- [Ventajas de marcar tus activos fijos con Holographic](#aprovecha-los-beneficios-de-aplicar-las-etiquetas-de-marcación-de-activos-fijos-con-holographic)
+- [Ventajas de marcar tus activos fijos con Holographic](#beneficios-los-hologramas-y-etiquetas-de-seguridad-para-autoridades-de-holographic)
 
 ## Conoce nuestros códigos y cintas para autoridades y gobierno
 

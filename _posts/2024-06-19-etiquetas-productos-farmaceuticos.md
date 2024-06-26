@@ -16,8 +16,9 @@ videos:
 ---
 ## Marcación de activos con Holographic
 
-- [Etiquetas para el inventario de tus activos fijos](#nuestras-etiquetas-para-inventario-de-activos-fijos)
-- [Ventajas de marcar tus activos fijos con Holographic](#aprovecha-los-beneficios-de-aplicar-las-etiquetas-de-marcación-de-activos-fijos-con-holographic)
+- [Qué son las etiquetas para medicamentos](#en-qué-consisten-las-etiquetas-para-medicamentos)
+- [Ejemplos de etiquetas del sector farmacéuticos](#ejemplos-de-etiquetas-holográficas-para-productos-farmacéuticos)
+- [Por qué debes proteger los productos farmacéuticos con hologramas](#importancia-de-los-hologramas-de-medicamentos-en-la-industria)
   
 ## ¿Tu negocio está en la industria farmacéutica y necesitas una herramienta para garantizar la seguridad y proteger tu marca?
 

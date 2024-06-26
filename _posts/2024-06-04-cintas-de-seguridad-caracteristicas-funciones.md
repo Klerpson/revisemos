@@ -12,8 +12,8 @@ alt: Foto de una cinta de seguridad personalizada
 ---
 ***Aquí te compartimos:***
 
-1. [Cómo funciona una cinta de seguridad](#funciones-de-las-cintas-de-seguridad-en-tus-productos)
-2. [Las características que debe tener una cinta de seguridad](#características-principales-de-las-cintas-de-seguridad)
+1. [Cómo funciona una cinta de seguridad](#funciones-de-las-cintas-de-seguridad-en-tus-productos-y-activos)
+2. [Las características que debe tener una cinta de seguridad](#características-principales-de-las-cintas-de-seguridad-que-fabricamos-en-holographic)
 3. [Cómo usar de forma correcta las cintas de seguridad](#uso-correcto-de-la-cinta-de-seguridad-en-tus-empaques)
 
 Las cintas de seguridad son un tipo de [cinta adhesiva utilizada para proteger los productos en el embalaje]({{'productos/cintas-de-seguridad' | relative_url}} "Cintas con evidencia"){:target="_blank"}.

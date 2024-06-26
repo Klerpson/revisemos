@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-06-26T09:00:43-05:00</lastmod>
+        <lastmod>2024-06-26T11:25:52-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -36,7 +36,7 @@
     
       <url>
         <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2024-06-26T09:00:43-05:00</lastmod>
+        <lastmod>2024-06-26T11:25:52-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -61,7 +61,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-06-26T09:00:43-05:00</lastmod>
+        <lastmod>2024-06-26T11:25:52-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -89,7 +89,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-06-26T09:00:43-05:00</lastmod>
+        <lastmod>2024-06-26T11:25:52-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -114,7 +114,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias</loc>
-        <lastmod>2024-06-26T09:00:43-05:00</lastmod>
+        <lastmod>2024-06-26T11:25:52-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -142,7 +142,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/mantenimiento-impresoras-termicas</loc>
-        <lastmod>2024-06-26T09:00:43-05:00</lastmod>
+        <lastmod>2024-06-26T11:25:52-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -167,7 +167,7 @@
     
       <url>
         <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2024-06-26T09:00:43-05:00</lastmod>
+        <lastmod>2024-06-26T11:25:52-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -192,7 +192,7 @@
     
       <url>
         <loc>http://localhost:4000/productos</loc>
-        <lastmod>2024-06-26T09:00:43-05:00</lastmod>
+        <lastmod>2024-06-26T11:25:52-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -217,7 +217,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-06-26T09:00:43-05:00</lastmod>
+        <lastmod>2024-06-26T11:25:52-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -242,7 +242,7 @@
     
       <url>
         <loc>http://localhost:4000/recursos-gratuitos</loc>
-        <lastmod>2024-06-26T09:00:43-05:00</lastmod>
+        <lastmod>2024-06-26T11:25:52-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -274,6 +274,48 @@
     
   
   
+  
+    <url>
+      <loc>http://localhost:4000/blog/etiquetas-cascara-de-huevo</loc>
+      <lastmod>2024-06-23T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/cascara-de-huevo.jpg</image:loc>
+          <image:title>Cáscara de Huevo vs Etiquetas Holográficas - Holographic</image:title>
+          <image:caption>Fotografía de etiqueta de seguridad vehicular</image:caption>
+        </image:image>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/cascara-de-huevo.webp</image:loc>
+          <image:title>Cáscara de Huevo vs Etiquetas Holográficas - Holographic</image:title>
+          <image:caption>Fotografía de etiqueta de seguridad vehicular</image:caption>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/sector-de-la-educacion</loc>
+      <lastmod>2024-06-22T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/diploma-con-sticker-de-seguridad.jpg</image:loc>
+          <image:title>Hologramas en Certificados: Seguridad en la Educación</image:title>
+          <image:caption>Fotografía de etiqueta de seguridad vehicular</image:caption>
+        </image:image>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/diploma-con-sticker-de-seguridad.webp</image:loc>
+          <image:title>Hologramas en Certificados: Seguridad en la Educación</image:title>
+          <image:caption>Fotografía de etiqueta de seguridad vehicular</image:caption>
+        </image:image>
+      
+    </url>
   
     <url>
       <loc>http://localhost:4000/blog/autoridades-y-gobierno</loc>

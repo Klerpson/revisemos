@@ -12,8 +12,8 @@ alt: Foto de impresoras térmicas en buen estado
 ---
 ## Las etiquetas holográficas para las licoreras del Ecuador
 
-1. [Cómo funcionan los adhesivos holográficos para distribuidores de licor](#así-funcionan-los-dhesivos-holográficos-con-los-que-evitamos-pérdidas-a-los-distribuidores-ecuatorianos-de-licor)
-2. [Qué distribuidores utilizan los hologramas para botellas de licor](#diferentes-gremios-que-utilizan-los-hologramas-para-botellas-de-licor)
+- [Cómo funcionan los adhesivos holográficos para distribuidores de licor](#así-funcionan-los-adhesivos-holográficos-con-los-que-evitamos-pérdidas-a-los-distribuidores-ecuatorianos-de-licor)
+- [Qué distribuidores utilizan los hologramas para botellas de licor](#diferentes-gremios-que-utilizan-los-hologramas-para-botellas-de-licor)
 
 ## De qué manera las etiquetas holográficas protegen tu mercancía en la industria de licores
 
