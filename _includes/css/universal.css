@@ -77,8 +77,8 @@ blockquote {
 }
 
 a {
-  text-decoration: none;
   color: var(--principal);
+  text-decoration-thickness: 2.8px;
   font-weight: 900;
   font-family: var(--fuenteTitulos);
   transition: all .5s cubic-bezier(0.175, 0.885, 0.32, 1.275);

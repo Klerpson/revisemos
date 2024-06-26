@@ -26,6 +26,10 @@ fotos:
   - Imagen de una bobina de hologramas: img/rollo-papel-holografico.webp
   - Hoja de holograma en rollo: img/hologramas-en-rollo.webp
   - Foto de bobina de hologramas: img/bobinas-holograficas.webp
+videos:
+  - videos/bobina-hologramas.mp4
+  - videos/rollo-hologramas.mp4
+  - videos/rollo-holografico.mp4
 ---
 [Pide tus rollos holográficos]( {{site.whatsapp}}%20:%20{{page.h1}} "Pide tus rollos holográficos" ){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
 
@@ -65,6 +69,8 @@ Las soluciones rollos de papel pueden ser útiles en sectores como farmacéutico
 
 Estas bobinas pueden encontrarse en presentaciones como **la bobina de papel elegante** para usos corporativos. O **la bobina de papel industrial** para grandes demandas de producción. Además, **el vinilo holográfico para impresión** se ha convertido en una opción popular para la creación de gráficos publicitarios y decorativos. Y los **estampados holográficos al calor** son de los más solicitados.
 {:id="ventajas"}
+
+{% include videos.html %}
 
 ## La superioridad de nuestros rollos de papel holográfico
 

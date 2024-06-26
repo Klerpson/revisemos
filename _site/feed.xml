@@ -5,9 +5,23 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jun 2024 14:01:41 -0500</pubDate>
-    <lastBuildDate>Wed, 26 Jun 2024 14:01:41 -0500</lastBuildDate>
+    <pubDate>Wed, 26 Jun 2024 14:43:14 -0500</pubDate>
+    <lastBuildDate>Wed, 26 Jun 2024 14:43:14 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>¿Que es un Holograma de Seguridad? Conoce los de Holographic</title>
+        <description>Qué es un holograma de seguridad y cómo funciona. Aprende sobre sus aplicaciones en protección de documentos y productos. Guía completa con ejemplos.</description>
+        <pubDate>Wed, 26 Jun 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/que-es-holograma-seguridad</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/que-es-holograma-seguridad</guid>
+        
+        
+        
+        
+        <category>Seguridad</category>
+        
+      </item>
     
       <item>
         <title>Cinta de Cera y Resina para Impresión Térmica</title>
@@ -132,20 +146,6 @@
         
         
         <category>Seguridad</category>
-        
-      </item>
-    
-      <item>
-        <title>Utiliza etiquetas holográficas para botellas de licor</title>
-        <description>Las adulteración de botellas de licor cada vez es peor. Con nuestras etiquetas holográficas aumentas la seguridad y reduces las pérdidas ¡Averigua más!</description>
-        <pubDate>Fri, 14 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/hologramas-para-licores</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/hologramas-para-licores</guid>
-        
-        
-        
-        
-        <category>Antifalsificación</category>
         
       </item>
     
