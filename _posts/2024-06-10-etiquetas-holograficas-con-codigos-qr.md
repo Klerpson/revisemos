@@ -6,23 +6,13 @@ h1: Hologramas y etiquetas con códigos QR
 autor: Diana - Holographic
 category: "Antifalsificación"
 intro: Almacena y lee los datos de tu negocio de manera rápida y segura con el holograma QR
-hero: img/codigo-qr.webp
-jpg: img/codigo-qr.jpg
+hero: img/blog/etiqueta-qr.webp
+jpg: img/blog/etiqueta-qr.jpg
 alt: Fotografía de un holograma QR
-puntos-dolor:
-  - Etiqueta QR de marcado de activos: "img/nosotros/foto-de-stiker-holografico-16.webp"
-  - Adhesivo de seguridad con QR: "img/nosotros/foto-de-stiker-holografico-11.webp"
-  - Activos con stickers con código QR: "img/sticker-plata-personalizado.webp"
-  - Hologramas con códigos QR: "img/rollo-cinta-holografica.webp"
-  - Evidencia de despegue en sticker QR: "img/etiqueta-qr.webp"
 videos:
   - videos/holograma-personalizado.mp4
   - videos/sticker-qr.mp4
   - videos/etiqueta-qr.mp4
-enlaces:
-  - Los códigos QR que ofrece Holographic a tu empresa: "#codigos-qr-para-empresa"
-  - Etiquetas holográficas con códigos QR: "#hologramas-con-qr"
-  - Ventajas de los códigos QR en la marcación de activos: "#codigos-qr-para-marcar-activos"
 fotos:
   - Foto de holograma qr: img/holograma-qr.webp
   - Sticker holográfico con qr: img/sticker-holografico-qr.webp
@@ -35,6 +25,11 @@ fotos:
   - Trazabilidad con código qr: img/etiqueta-qr.webp
   - Etiqueta qr de seguridad: img/nosotros/foto-de-stiker-holografico-11.webp
 ---
+## Etiquetas QR: Holographic te ayuda
+
+- [Variedad de códigos QR](#tipos-de-etiquetas-con-código-qr-más-solicitadas-por-clientes-holographic)
+- [Formas de utilizar códigos QR](#algunas-de-las-aplicaciones-más-innovadoras-de-los-hologramas-con-códigos-qr)
+- [Las ventajas que te motivarán a utilizar códigos QR](#beneficios-de-usar-códigos-qr-para-gestionar-tus-activos-y-mercancía)
 
 ## Con los stickers de código QR optimizas la gestión de tus inventarios y la información de tus productos
 

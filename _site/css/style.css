@@ -1015,6 +1015,7 @@ details p {
 
   & img{
     box-shadow: var(--shadow);
+    object-fit: cover;
   }
 
   & div{
@@ -1028,7 +1029,6 @@ details p {
 }
 
 .post_header{
-  min-height: 50dvh;
   padding-top: 4em;
   display: flex;
   flex-wrap: wrap;
@@ -1040,9 +1040,9 @@ details p {
 .post_header > div{
   border-radius: var(--radius);
   flex: 1 0 520px;
-  display: grid;
   max-width: 100%;
   padding: 40px;
+  display: grid;
 }
 
 .post_header div h1{
@@ -1052,10 +1052,6 @@ details p {
 .post_header small,
 .post_header p{
   font-weight: 900;
-}
-
-.post_header small a{
-  font-size: 100%;
 }
 
 .post_header img{

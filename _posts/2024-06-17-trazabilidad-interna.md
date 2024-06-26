@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Protege tus activos fijos con etiquetas de marcación"
+title: "Trazabilidad interna: toda una guía paso a paso"
 description: "Con la trazabilidad interna mejora la gestión de inventarios, reducir costos en la cadena de suministro. Mira cómo hacerlo con Holographic."
-h1: Marcación de activos fijos con etiquetas de papel y stickers holográficos 
-intro: Identifica de manera rápida y eficiente problemas y fallas en la producción, y cumple con las normativas y regulaciones del sector.
+h1: Ejecuta tu plan de trazabilidad interna con esta súper gúia de Holographic
+intro: La trazabilidad internas es la capacidad de seguir y rastrear los productos, desde su origen hasta su destino final.
 autor: Hernando - Holographic
 category: "Seguridad"
 hero: img/blog/trazabilidad-interna-holographic.webp
@@ -22,8 +22,6 @@ fotos:
   - Sticker seguridad de colores: img/nosotros/foto-de-stiker-holografico-19.webp
 ---
 ## La trazabilidad interna juega un papel fundamental en la eficiencia y calidad de los procesos de producción
-
-La trazabilidad internas es la capacidad de **seguir y rastrear todo el recorrido de los productos dentro de la empresa**, desde su origen hasta su destino final.
 
 Esto incluye el seguimiento de los insumos utilizados, el registro de los procesos de fabricación, la identificación de lotes y fechas de vencimiento, y el control de la calidad de los productos.
 
@@ -150,7 +148,7 @@ El objetivo es la rápida **identificación de cualquier problema o contaminaci�
 
 **Ecuador ha implementado diversas medidas y regulaciones para garantizar la trazabilidad de alimentos**, con el fin de asegurar la calidad y seguridad alimentaria. Aquí te dejo un resumen de las principales normativas y requerimientos:
 
-### Normativas y Requerimientos en Ecuador para la Trazabilidad de Alimentos
+### Normativas y requerimientos en Ecuador para la trazabilidad de alimentos
 
 1. **Agencia Nacional de Regulación, Control y Vigilancia Sanitaria (ARCSA)**:
    - La ARCSA es la entidad encargada de regular y controlar la calidad de los productos alimenticios en Ecuador. Sus normativas aseguran que los productos cumplan con los estándares de seguridad alimentaria.
@@ -161,7 +159,7 @@ El objetivo es la rápida **identificación de cualquier problema o contaminaci�
 4. **Sistema de Información Nacional de la Calidad de Alimentos (SICNA)**:
    - Es una plataforma que permite el registro y control de la información relacionada con la calidad de los alimentos. Facilita la trazabilidad al centralizar los datos sobre la producción y distribución de productos alimenticios.
 
-### Implementación de la Trazabilidad en las Empresas Alimentarias
+### Implementación de la trazabilidad en las empresas alimentarias
 
 Para cumplir con estas regulaciones, las empresas deben implementar sistemas de trazabilidad que incluyan:
 
@@ -174,7 +172,7 @@ Para cumplir con estas regulaciones, las empresas deben implementar sistemas de 
 4. **Auditorías y Verificaciones**:
    - Realización de auditorías internas y externas para asegurar el cumplimiento de las normativas de trazabilidad y seguridad alimentaria.
 
-### Beneficios de la Trazabilidad
+### Beneficios de la trazabilidad
 
 1. **Seguridad Alimentaria**:
    - Permite identificar y retirar rápidamente productos contaminados o defectuosos.
@@ -183,10 +181,10 @@ Para cumplir con estas regulaciones, las empresas deben implementar sistemas de 
 3. **Optimización de Procesos**:
    - Mejora la eficiencia en la gestión de la cadena de suministro y reduce costos asociados con la producción y distribución.
 
-### Tabla de Requisitos Técnicos para la Trazabilidad de Alimentos
+### Tabla de Requisitos Técnicos para la trazabilidad de Alimentos
 
-| Requisito                       | Descripción                                                                                           |
-|---------------------------------|-------------------------------------------------------------------------------------------------------|
+| Requisito | Descripción |
+|-----------|-------------|
 | Identificación de Lotes         | Cada lote debe ser identificado con un código único que permita su seguimiento y rastreo.             |
 | Registro de Insumos             | Documentación detallada de los proveedores y los insumos utilizados en cada lote de producción.       |
 | Fecha de Producción             | Registro de la fecha de producción para cada lote de alimentos.                                        |
@@ -195,6 +193,8 @@ Para cumplir con estas regulaciones, las empresas deben implementar sistemas de 
 | Auditorías y Verificaciones     | Realización de auditorías periódicas para asegurar el cumplimiento de las normativas y la calidad del producto. |
 
 Con estas normativas y prácticas, Ecuador busca asegurar que los alimentos producidos y comercializados en el país sean seguros, de alta calidad y confiables para los consumidores.
+
+{% include relacionados.html %}
 
 ## Trazabilidad interna en el sector farmacéutico: importancia y regulaciones
 
@@ -206,7 +206,7 @@ En el sector farmacéutico, la trazabilidad interna desempeña un papel crucial 
 
 Estos procesos ayudan al cumplimiento de las normativas y regulaciones específicas del sector, garantizando que los medicamentos se fabriquen y distribuyan de acuerdo con los estándares más altos de calidad y seguridad.
 
-### Normativas y Requerimientos en Ecuador para la Trazabilidad en el Sector Farmacéutico
+### Normativas y Requerimientos en Ecuador para la trazabilidad en el Sector farmacéutico
 
 1. **Agencia Nacional de Regulación, Control y Vigilancia Sanitaria (ARCSA)**:
    - La ARCSA regula y controla la calidad y seguridad de los medicamentos en Ecuador. Sus normativas aseguran que los productos farmacéuticos cumplan con los estándares necesarios para proteger la salud pública.
@@ -217,7 +217,7 @@ Estos procesos ayudan al cumplimiento de las normativas y regulaciones específi
 4. **Buenas Prácticas de Manufactura (BPM)**:
    - Establece los estándares de calidad y seguridad que deben cumplir los fabricantes de medicamentos. Las BPM incluyen disposiciones sobre la trazabilidad para asegurar el control y la calidad a lo largo de todo el proceso de producción y distribución.
 
-### Implementación de la Trazabilidad en las Empresas Farmacéuticas
+### Implementación de la trazabilidad en las empresas farmacéuticas
 
 Para cumplir con estas regulaciones, las empresas deben implementar sistemas de trazabilidad que incluyan:
 
@@ -230,7 +230,7 @@ Para cumplir con estas regulaciones, las empresas deben implementar sistemas de 
 4. **Auditorías y Verificaciones**:
    - Realización de auditorías internas y externas para asegurar el cumplimiento de las normativas de trazabilidad y seguridad farmacéutica.
 
-### Beneficios de la Trazabilidad del sector farmacéutico del Ecuador
+### Beneficios de la trazabilidad del sector farmacéutico del Ecuador
 
 1. **Seguridad del Paciente**:
    - Permite identificar y retirar rápidamente medicamentos contaminados o defectuosos.
@@ -239,7 +239,7 @@ Para cumplir con estas regulaciones, las empresas deben implementar sistemas de 
 3. **Optimización de Procesos**:
    - Mejora la eficiencia en la gestión de la cadena de suministro y reduce costos asociados con la producción y distribución.
 
-### Tabla de Requisitos Técnicos para la Trazabilidad en el Sector Farmacéutico
+### Tabla de requisitos técnicos para la trazabilidad en el sector farmacéutico
 
 | Requisito | Descripción |
 |--------|-----------------|
@@ -250,7 +250,7 @@ Para cumplir con estas regulaciones, las empresas deben implementar sistemas de 
 | Control de Procesos             | Seguimiento de todas las etapas del proceso de producción, desde la recepción de insumos hasta el producto final. |
 | Auditorías y Verificaciones     | Realización de auditorías periódicas para asegurar el cumplimiento de las normativas y la calidad del producto. |
 
-### Importancia de la Trazabilidad en el Sector Farmacéutico
+### Importancia de la trazabilidad en el sector farmacéutico
 
 1. **Reducción de Riesgos**:
    - La trazabilidad ayuda a reducir el riesgo de falsificación y tráfico ilegal de medicamentos.
@@ -259,7 +259,7 @@ Para cumplir con estas regulaciones, las empresas deben implementar sistemas de 
 3. **Mejora Continua**:
    - Facilita la identificación de posibles fallas y la implementación de mejoras continuas en los procesos de producción y distribución.
 
-### Normativas y Regulaciones Específicas de la trazabilidad farmacéutica
+### Normativas y regulaciones específicas de la trazabilidad farmacéutica
 
 1. **Buenas Prácticas de Distribución (BPD)**:
    - Establecen los requisitos para la distribución adecuada de medicamentos, asegurando que mantengan su calidad y seguridad desde el fabricante hasta el consumidor final.
@@ -278,7 +278,7 @@ En resumen, la trazabilidad en el sector farmacéutico en Ecuador es fundamental
 
 ### Diferencias entre trazabilidad interna y trazabilidad externa
 
-| Característica          | Trazabilidad Interna                    | Trazabilidad Externa                     |
+| Característica          | trazabilidad Interna                    | trazabilidad Externa                     |
 |-------------------------|-----------------------------------------|------------------------------------------|
 | Enfoque                 | Seguimiento dentro de la empresa        | Seguimiento en la cadena de suministro   |
 | Objetivo                | Eficiencia y calidad de procesos internos| Transparencia para proveedores y clientes|

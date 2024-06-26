@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-06-25T23:54:46-05:00</lastmod>
+        <lastmod>2024-06-26T08:52:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -36,7 +36,7 @@
     
       <url>
         <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2024-06-25T23:54:46-05:00</lastmod>
+        <lastmod>2024-06-26T08:52:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -61,7 +61,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-06-25T23:54:46-05:00</lastmod>
+        <lastmod>2024-06-26T08:52:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -89,7 +89,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-06-25T23:54:46-05:00</lastmod>
+        <lastmod>2024-06-26T08:52:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -114,7 +114,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias</loc>
-        <lastmod>2024-06-25T23:54:46-05:00</lastmod>
+        <lastmod>2024-06-26T08:52:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -142,7 +142,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/mantenimiento-impresoras-termicas</loc>
-        <lastmod>2024-06-25T23:54:46-05:00</lastmod>
+        <lastmod>2024-06-26T08:52:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -167,7 +167,7 @@
     
       <url>
         <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2024-06-25T23:54:46-05:00</lastmod>
+        <lastmod>2024-06-26T08:52:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -192,7 +192,7 @@
     
       <url>
         <loc>http://localhost:4000/productos</loc>
-        <lastmod>2024-06-25T23:54:46-05:00</lastmod>
+        <lastmod>2024-06-26T08:52:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -217,7 +217,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-06-25T23:54:46-05:00</lastmod>
+        <lastmod>2024-06-26T08:52:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -242,7 +242,7 @@
     
       <url>
         <loc>http://localhost:4000/recursos-gratuitos</loc>
-        <lastmod>2024-06-25T23:54:46-05:00</lastmod>
+        <lastmod>2024-06-26T08:52:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -276,6 +276,48 @@
   
   
     <url>
+      <loc>http://localhost:4000/blog/autoridades-y-gobierno</loc>
+      <lastmod>2024-06-20T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/holograma-autoridades.jpg</image:loc>
+          <image:title>Seguridad en Documentos: De Hologramas a Etiquetas QR</image:title>
+          <image:caption>Fotografía de holograma para documentos</image:caption>
+        </image:image>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/holograma-autoridades.webp</image:loc>
+          <image:title>Seguridad en Documentos: De Hologramas a Etiquetas QR</image:title>
+          <image:caption>Fotografía de holograma para documentos</image:caption>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/etiquetas-productos-farmaceuticos</loc>
+      <lastmod>2024-06-19T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/etiqueta-medicamentos.jpg</image:loc>
+          <image:title>Etiquetas Holográficas para Medicamentos - Máxima Seguridad</image:title>
+          <image:caption>Fotografía de medicamento con etiqueta holográfica</image:caption>
+        </image:image>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/etiqueta-medicamentos.webp</image:loc>
+          <image:title>Etiquetas Holográficas para Medicamentos - Máxima Seguridad</image:title>
+          <image:caption>Fotografía de medicamento con etiqueta holográfica</image:caption>
+        </image:image>
+      
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/blog/marcacion-activos-fijos</loc>
       <lastmod>2024-06-18T00:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
@@ -304,14 +346,14 @@
       
         <image:image>
           <image:loc>http://localhost:4000/img/blog/trazabilidad-interna-holographic.jpg</image:loc>
-          <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
+          <image:title>Trazabilidad interna: toda una guía paso a paso</image:title>
           <image:caption>Imagen de un trabajo ejecutando la trazabilidad interna</image:caption>
         </image:image>
       
       
         <image:image>
           <image:loc>http://localhost:4000/img/blog/trazabilidad-interna-holographic.webp</image:loc>
-          <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
+          <image:title>Trazabilidad interna: toda una guía paso a paso</image:title>
           <image:caption>Imagen de un trabajo ejecutando la trazabilidad interna</image:caption>
         </image:image>
       
@@ -324,14 +366,14 @@
       <priority>1.0</priority>
       
         <image:image>
-          <image:loc>http://localhost:4000/img/proteccion-mercancias.jpg</image:loc>
+          <image:loc>http://localhost:4000/img/etiqueta-garantia.jpg</image:loc>
           <image:title>Etiquetas de garantía: Consíguelas con Holographic</image:title>
           <image:caption>Foto de dispositivo con una etiqueta de garantía</image:caption>
         </image:image>
       
       
         <image:image>
-          <image:loc>http://localhost:4000/img/proteccion-mercancia.webp</image:loc>
+          <image:loc>http://localhost:4000/img/etiqueta-garantia.webp</image:loc>
           <image:title>Etiquetas de garantía: Consíguelas con Holographic</image:title>
           <image:caption>Foto de dispositivo con una etiqueta de garantía</image:caption>
         </image:image>
@@ -366,14 +408,14 @@
       <priority>1.0</priority>
       
         <image:image>
-          <image:loc>http://localhost:4000/img/codigo-qr.jpg</image:loc>
+          <image:loc>http://localhost:4000/img/blog/etiqueta-qr.jpg</image:loc>
           <image:title>Hologramas con códigos QR: Marca y controla tus activos</image:title>
           <image:caption>Fotografía de un holograma QR</image:caption>
         </image:image>
       
       
         <image:image>
-          <image:loc>http://localhost:4000/img/codigo-qr.webp</image:loc>
+          <image:loc>http://localhost:4000/img/blog/etiqueta-qr.webp</image:loc>
           <image:title>Hologramas con códigos QR: Marca y controla tus activos</image:title>
           <image:caption>Fotografía de un holograma QR</image:caption>
         </image:image>

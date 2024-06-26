@@ -28,11 +28,11 @@
 <header class="post_header wrapper">
   <div class="bg flow">
     <h1>{{page.h1}}</h1>
-    <p>{{page.description}}</p>
+    <p>{{page.intro}}</p>
     <small>Autor: {{page.autor}} | Temática: {{page.category}}</small>
     <small><b>📍Estás aquí: </b><a href="/" title="Página de inicio">Inicio</a>/<a href="{{'blog' | relative_url}}" title="Blog Holographic">Blog</a>/{{page.title}}</small>
   </div>
-  <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340">
+    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340">
 
 {% else %}
 <header class="bloques wrapper">

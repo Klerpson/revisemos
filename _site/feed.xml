@@ -5,9 +5,37 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Jun 2024 23:54:46 -0500</pubDate>
-    <lastBuildDate>Tue, 25 Jun 2024 23:54:46 -0500</lastBuildDate>
+    <pubDate>Wed, 26 Jun 2024 08:52:58 -0500</pubDate>
+    <lastBuildDate>Wed, 26 Jun 2024 08:52:58 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Seguridad en Documentos: De Hologramas a Etiquetas QR</title>
+        <description>De hologramas a códigos de barras y QR: una guía completa sobre seguridad en documentos. Aprende a identificar y utilizar estas tecnologías.</description>
+        <pubDate>Thu, 20 Jun 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/autoridades-y-gobierno</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/autoridades-y-gobierno</guid>
+        
+        
+        
+        
+        <category>Antifalsificación</category>
+        
+      </item>
+    
+      <item>
+        <title>Etiquetas Holográficas para Medicamentos - Máxima Seguridad</title>
+        <description>Protege tus medicamentos con etiquetas holográficas. Calidad y seguridad garantizadas para tus productos farmacéuticos con Holographic</description>
+        <pubDate>Wed, 19 Jun 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/etiquetas-productos-farmaceuticos</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-productos-farmaceuticos</guid>
+        
+        
+        
+        
+        <category>Antifalsificación</category>
+        
+      </item>
     
       <item>
         <title>Protege tus activos fijos con etiquetas de marcación</title>
@@ -24,7 +52,7 @@
       </item>
     
       <item>
-        <title>Protege tus activos fijos con etiquetas de marcación</title>
+        <title>Trazabilidad interna: toda una guía paso a paso</title>
         <description>Con la trazabilidad interna mejora la gestión de inventarios, reducir costos en la cadena de suministro. Mira cómo hacerlo con Holographic.</description>
         <pubDate>Mon, 17 Jun 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/trazabilidad-interna</link>

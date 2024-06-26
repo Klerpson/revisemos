@@ -27,7 +27,7 @@ A lo largo de los años, las estampillas y etiquetas de licor han evolucionado, 
 
 Actualmente, **existen diferentes tipos de estampillas y etiquetas de licores**, con diseños y características distintas según el país y la marca.
 
-## Así funcionan los dhesivos holográficos con los que evitamos pérdidas a los distribuidores ecuatorianos de licor
+## Así funcionan los adhesivos holográficos con los que evitamos pérdidas a los distribuidores ecuatorianos de licor
 
 | **Características de las estampillas**    | **Detalles técnicos**      | **Beneficios para la industria licorera**      |
 |-------------|---------------|-------------|

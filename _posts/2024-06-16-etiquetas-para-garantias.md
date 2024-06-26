@@ -6,15 +6,14 @@ autor: Hernando - Holographic
 category: "Seguridad"
 h1: Consigue etiquetas de seguridad para la garantía de tus productos con Holographic
 intro: Las etiquetas de seguridad te ahorrarán gastos innecesarios al regular las garantías que ofrece tu empresa. ¡Conócelas!
-jpg: img/proteccion-mercancias.jpg
-hero: img/proteccion-mercancia.webp
+jpg: img/etiqueta-garantia.jpg
+hero: img/etiqueta-garantia.webp
 alt: Foto de dispositivo con una etiqueta de garantía
 ---
 ## Controla las garantías en tu empresa con etiquetas de seguridad
 
-1. [4 sencillos pasos para cuidar la impresora](#1-inspección-visual-de-la-impresora-térmica)
-2. [Como solucionar los problemas de tu impresora](#solución-de-problemas-comunes-en-impresoras-térmicas)
-3. [Los mejores en mantenimiento de impresoras térmicas](#el-mejor-servicio-técnico-para-impresoras-térmicas-lo-encuentras-en-holographic)
+- [Variedad de etiquetas de garantía](#conoce-algunas-de-las-etiquetas-de-garantía-holographic)
+- [Aprovecha los beneficios de los hologramas para garantías](#ventajas-de-la-utilización-de-los-sellos-de-garantía-en-tus-productos)
 
 ## Las etiquetas de garantía protegen tus productos y te evitan reclamaciones innecesarias
 

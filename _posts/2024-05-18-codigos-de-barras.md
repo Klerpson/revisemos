@@ -9,20 +9,10 @@ category: "Seguridad"
 hero: "img/etiquetas-void-holographic.webp"
 jpg: "img/etiquetas-void-holographic.jpg"
 alt: Fotografía de una etiqueta VOID
-puntos-dolor:
-  - Código de barras con holograma: "img/pegatina-holografica.webp"
-  - Trazabilidad con códigos de barras: "img/stickers-codigos-barras.webp"
-  - Activos con códigos de barras: "img/nosotros/foto-de-stiker-holografico-25.webp"
-  - Etiqueta con códigos de barras: "img/codigo-barras-etiqueta.webp"
-  - Sello de trazabilidad: "img/sellos-trazabilidad.webp"
 videos:
   - videos/marcacion-activo-fijo.mp4
   - videos/codigo-barra-holograma.mp4
   - videos/codigos-de-barras-holografico.mp4
-enlaces:
-  - Cómo funcionan los códigos de barras: '#que-son-los-codigos-de-barras'
-  - Códigos de barras para activos fijos: '#codigos-de-barras-para-activos-fijos'
-  - Usos de los códigos de barras: '#usos-codigos-de-barras'
 fotos:
   - Cinta de código de barras: img/cinta-codigo-de-barras.webp
   - Etiqueta código de barras: img/etiqueta-codigo-barras.webp
@@ -85,7 +75,7 @@ En este cuadro comparativo te mostramos todas **características y ventajas de l
 
 ## Los tipos de etiquetas holográficas con código de barras más solicitadas en Holographic
 
-### Código de Barras 1D
+### Código de barras 1D
 
 **Características:**
 
@@ -100,7 +90,7 @@ En este cuadro comparativo te mostramos todas **características y ventajas de l
 - Amplio soporte en hardware y software.
 - Ideal para aplicaciones de etiquetado simple como precios e inventarios.
 
-### Código de Barras 2D
+### Código de barras 2D
 
 **Características:**
 
@@ -115,7 +105,7 @@ En este cuadro comparativo te mostramos todas **características y ventajas de l
 - Capacidad para manejar redundancia y corrección de errores.
 - Ideal para aplicaciones que requieren mucha información como envíos, identificación de productos y aplicaciones de marketing.
 
-### Código de Barras RFID (Identificación por Radiofrecuencia)
+### Código de barras RFID (Identificación por Radiofrecuencia)
 
 **Características:**
 
@@ -131,7 +121,7 @@ En este cuadro comparativo te mostramos todas **características y ventajas de l
 
 {% include relacionados.html %}
 
-### Código de Barras BIDI
+### Código de barras BIDI
 
 **Características:**
 
@@ -146,7 +136,7 @@ En este cuadro comparativo te mostramos todas **características y ventajas de l
 - Facilita la lectura en dispositivos móviles y cámaras de baja resolución.
 - Común en aplicaciones de verificación y autenticación de documentos.
 
-### Código de Barras Databar
+### Código de barras Databar
 
 **Características:**
 

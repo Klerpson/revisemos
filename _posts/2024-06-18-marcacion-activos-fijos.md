@@ -29,7 +29,7 @@ Con nuestros adhesivos para marcado y trazabilidad puedes identificar, controlar
 
 ## Nuestras etiquetas para inventario de activos fijos
 
-### Hologramas de Seguridad
+### Hologramas de seguridad para marcación de activos fijos
 
 Nuestras **etiquetas para marcar equipos y mercancía brindan una solución exclusiva y estéticamente atractiva** para el control de activos.
 
@@ -42,7 +42,7 @@ Además de su atractivo visual, estos hologramas **ofrecen la posibilidad de inc
 >Las diferentes tecnologías que tenemos en Holographic nos permiten incluir muchos elementos de seguridad dentro del holograma de cada sticker, haciéndolos imposibles de copiar o reemplazar.
 {:id="etiquetas-void"}
 
-### Etiquetas Poliéster VOID
+### Etiquetas de poliéster VOID
 
 Las Etiquetas Poliéster VOID son una opción tradicional pero altamente eficaz para la marcación de activos fijos. Estas etiquetas presentan una **evidencia de despegado VOID**, lo que asegura su alto nivel de seguridad.
 
@@ -52,10 +52,9 @@ Están disponibles en diferentes tamaños para adaptarse a las necesidades espec
 
 [Conoce las etiquetas VOID]({{ 'productos/etiquetas-void' | relative_url }} "Etiquetas VOID"){:class="boton boton_1" target="_blank"}
 
-### Protector de vinilo transparente
+### Protector de vinilo transparente para etiquetas
 
 Para aquellas situaciones en las que la información impresa en las etiquetas necesita una protección adicional, ofrecemos el Protector de vinilo transparente.
-{:id="vinilo-para-etiquetas"}
 
 Estas etiquetas están **diseñadas para proteger la información impresa** contra la abrasión y el contacto con sustancias solventes, lo que las hace perfectas para su uso en activos que están expuestos a la intemperie o a condiciones de trabajo agresivas.
 
@@ -63,22 +62,24 @@ Su transparencia permite una **lectura clara de la información**, mientras que 
 
 #### Algunas de nuestras medidas disponibles en protectores de vinilo para etiquetas
 
-* 24mm X 18mm
-* 32mm X 15mm
-* 32mm X 25mm
-* 46mm X 17mm
-* 50mm X 25mm
-* 30mm X 60mm
-* 70mm X 35mm
-* 100mm X 50mm
+- 24mm X 18mm
+- 32mm X 15mm
+- 32mm X 25mm
+- 46mm X 17mm
+- 50mm X 25mm
+- 30mm X 60mm
+- 70mm X 35mm
+- 100mm X 50mm
+
+{% include relacionados.html %}
 
 ## Aprovecha los beneficios de aplicar las etiquetas de marcación de activos fijos con Holographic
 
-* Olvídate de los errores: **Elimina la tediosa tarea de registrar manualmente** la información de tus activos.
-* Haz seguimiento a tus activos sin complicaciones: **Simplifica la gestión y control de tus bienes**.
-* Adiós a los costos innecesarios: **Reduce gastos** relacionados con la pérdida y sustracción de activos.
-* Localiza tus activos al instante: **Agiliza la transferencia de activos** de un departamento a otro o cuando sea necesario.
-* No pierdas más tiempo buscando: **Minimiza considerablemente el tiempo de búsqueda** de tus activos.
+- Olvídate de los errores: **Elimina la tediosa tarea de registrar manualmente** la información de tus activos.
+- Haz seguimiento a tus activos sin complicaciones: **Simplifica la gestión y control de tus bienes**.
+- Adiós a los costos innecesarios: **Reduce gastos** relacionados con la pérdida y sustracción de activos.
+- Localiza tus activos al instante: **Agiliza la transferencia de activos** de un departamento a otro o cuando sea necesario.
+- No pierdas más tiempo buscando: **Minimiza considerablemente el tiempo de búsqueda** de tus activos.
 
 ¿Listo para elevar la calidad y aumentar el control de los activos de tu negocio?
 
