@@ -40,8 +40,7 @@ Para garantizar los ingresos departamentales, es esencial que las estampillas de
 
 En la industria del licor, se utilizan diversas variantes de estampillas y etiquetas para garantizar la autenticidad y proteger contra la falsificación. Algunos de los tipos más comunes incluyen:
 
-- **[Estampillas de papel]({{'productos/etiquetas-papel-impresion-termica' | relative_url}} "Etiquetas de papel")**, que se adhieren a la botella.
-- **[Etiquetas de holograma]({{'productos/stickers-holograficos' | relative_url}} "Etiquetas holográficas")**, que tienen elementos visuales que cambian de forma y color según el ángulo de visión.
+- **[Etiquetas de holograma]({% post_url 2024-06-26-que-es-holograma-seguridad %} "Etiquetas holográficas")**, que tienen elementos visuales que cambian de forma y color según el ángulo de visión.
 - **Etiquetas inteligentes**, que incorporan tecnologías como códigos QR o chips RFID para verificar la autenticidad del contenido.
 
 Nuestras estampillas abarcan una variedad de tecnologías que se combinan con una fuerte autenticación del producto, características holográficas y no holográficas. Resolvemos necesidades específicas del cliente y protegemos los ingresos y tarifas de impuestos.
