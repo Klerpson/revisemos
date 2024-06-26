@@ -79,7 +79,7 @@ Son un tipo de etiquetas de seguridad de color blanco, que muestran una doble ev
 
 [Las cintas de seguridad]({{'productos/cintas-de-seguridad' | relative_url}} "Cintas de seguridad"){:target="_blank"} VOID para contenedores son elaboradas en material poliéster de seguridad plastificado, el cual permite evidenciar su apertura por medio de una frase de *ABIERTO OPEN* o *VOID*.
 
-Se suelen agregar a las **cintas VOID información como consecutivos, [códigos de barras]({% post_url 2024-05-18-codigos-de-barras %} "Códigos QR"){:target="_blank"}, [códigos QR]({% post_url 2024-06-10-etiquetas-holograficas-con-codigos-qr %} "Códigos QR"){:target="_blank"}, logos e información de contacto relevante**.
+Se suelen agregar a las **cintas VOID información como consecutivos, [códigos de barras]({% post_url 2024-05-18-codigos-de-barras %} "Códigos QR"){:target="_blank"}, [códigos QR]({% post_url 2024-06-10-etiquetas-con-codigos-qr %} "Códigos QR"){:target="_blank"}, logos e información de contacto relevante**.
 
 | Nombre               | Tipos                       | Detalles                                                                 |
 |----------------------|-----------------------------|--------------------------------------------------------------------------|

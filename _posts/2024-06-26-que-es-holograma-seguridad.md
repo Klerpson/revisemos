@@ -49,7 +49,7 @@ La particularidad de **los hologramas de seguridad** radica en su capacidad para
 
 Además, los hologramas pueden incorporar elementos de seguridad adicionales como microtextos e imágenes en relieve.
 
-Existen diferentes tipos de hologramas de seguridad. Algunos ejemplos son los hologramas 2D que generan una ilusión de profundidad y los [hologramas QR]({% post_url 2024-06-10-etiquetas-holograficas-con-codigos-qr %} "Etiquetas QR"){:target="_blank"} que combinan un código QR con un holograma para generar un nivel adicional de autenticación.
+Existen diferentes tipos de hologramas de seguridad. Algunos ejemplos son los hologramas 2D que generan una ilusión de profundidad y los [hologramas QR]({% post_url 2024-06-10-etiquetas-con-codigos-qr %} "Etiquetas QR"){:target="_blank"} que combinan un código QR con un holograma para generar un nivel adicional de autenticación.
 
 ## Algunas aplicaciones de los hologramas de seguridad
 

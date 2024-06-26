@@ -52,7 +52,7 @@ Estas etiquetas están diseñadas específicamente para cierto tipo de empresa o
 
 Estas etiquetas incluyen tanto un elemento holográfico como un código de barras, lo que facilita su lectura y seguimiento en la cadena de suministro.
 
-Algunos ejemplos de los códigos para medicamentos disponibles son: código de barras zebra, [código QR]({% post_url 2024-06-10-etiquetas-holograficas-con-codigos-qr %}){:target="_blank"}, código ean y código datamatrix de farmacia.
+Algunos ejemplos de los códigos para medicamentos disponibles son: código de barras zebra, [código QR]({% post_url 2024-06-10-etiquetas-con-codigos-qr %}){:target="_blank"}, código ean y código datamatrix de farmacia.
 
 ### Etiquetas farmacéuticas con números de serie únicos
 

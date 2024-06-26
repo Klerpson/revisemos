@@ -56,7 +56,7 @@ Las estampillas para las botellas de licor que fabricamos en Holographic son **i
 ![Estampilla para licor personalizada]({{'img/estampilla-de-licor-personalizada.webp' | relative_url}} "Estampilla licores")
 ![Estampilla para botellas licor]({{'img/estampilla-licores-impuestos.webp' | relative_url}} "Estampilla botellas")
 
-1. **Código QR con numeración alfanumérica**: [Código legible que consiste en cuadros blancos y negros]({% post_url 2024-06-10-etiquetas-holograficas-con-codigos-qr %} "Códigos QR"){:target="_blank"}. Estos códigos QR se usan para almacenar URLs u otra información. *Son fácilmente identificables por lectores de códigos de barras o por aplicaciones* de teléfonos inteligentes.
+1. **Código QR con numeración alfanumérica**: [Código legible que consiste en cuadros blancos y negros]({% post_url 2024-06-10-etiquetas-con-codigos-qr %} "Códigos QR"){:target="_blank"}. Estos códigos QR se usan para almacenar URLs u otra información. *Son fácilmente identificables por lectores de códigos de barras o por aplicaciones* de teléfonos inteligentes.
 2. **Patrón labrado sobre la estampilla**: Patrón de líneas geométricas con alta resolución. *Genera cambios visuales diseñados con un software especial* único para brindar mós seguridad.
 3. **Imagen invisible UV (Función encubierta en la estampilla)**: Se crea una imagen con tinta UV y *solo se puede ver con luz UV*.
 4. **Logo en policromía**: Logotipo e imágenes que generan una variedad de colores de impresión (CMYK).
