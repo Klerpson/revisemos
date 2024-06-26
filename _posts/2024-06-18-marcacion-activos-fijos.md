@@ -23,17 +23,6 @@ videos:
   - videos/sticker-evidencia.mp4
   - videos/sticker-qr.mp4
   - videos/marcacion-activo-fijo.mp4
-fotos:
-  - Etiqueta hologramas: img/sellos-seguridad-personalizados.webp
-  - Sticker holográfico seguridad: img/servicio-platinum.webp
-  - Vinilo para etiquetas: img/trazabilidad-codigo-de-barras.webp
-  - Imagen de pegatinas de seguridad: img/etiquetas-void-rastro.webp
-  - Sticker de seguridad void: img/etiqueta-void-para-computador.webp
-  - Adhesivo de seguridad blanco: img/etiquetas-void-blancas.webp
-  - Sellos holográficos: img/stickers-personalizados.webp
-  - Marcación con código de barras: img/marcacion-con-codigo-de-barras.webp
-  - Etiqueta código de barras: img/etiqueta-codigo-barras.webp
-  - Sticker seguridad de colores: img/nosotros/foto-de-stiker-holografico-19.webp
 ---
 ## ¿Te gustaría simplificar el proceso de seguimiento de los activos de tu negocio? Te mostramos cómo utilizan las empresas las etiquetas para activos fijos
 
@@ -68,8 +57,6 @@ Su **manipulación es fácil y cuentan con una resistencia excepcional**, lo que
 Están disponibles en diferentes tamaños para adaptarse a las necesidades específicas de cada activo.
 
 [Conoce las etiquetas VOID]({{ 'productos/etiquetas-void' | relative_url }} "Etiquetas VOID"){:class="boton boton_2" target="_blank"}
-
-{% include slider.html %}
 
 ### Protector de vinilo transparente
 

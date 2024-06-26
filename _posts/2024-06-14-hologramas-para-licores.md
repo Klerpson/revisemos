@@ -6,8 +6,8 @@ autor: Hernando - Holographic
 category: "Antifalsificación"
 h1: Cuida tu mercancía de licores con las etiquetas holográficas para botellas
 intro: Evita falsificaciones y aumenta la reputación de tu marca licorera con etiquetas holográficas.
-jpg: img/blog/mantenimiento-preventivo-impresoras.jpg
-hero: img/blog/mantenimiento-preventivo-impresoras.webp
+jpg: img/blog/holograma-para-licores.jpg
+hero: img/blog/holograma-para-licores.webp
 alt: Foto de impresoras térmicas en buen estado
 ---
 ## Las etiquetas holográficas para las licoreras del Ecuador

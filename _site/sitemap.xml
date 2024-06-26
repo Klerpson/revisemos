@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-06-25T22:41:38-05:00</lastmod>
+        <lastmod>2024-06-25T23:43:51-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -36,7 +36,7 @@
     
       <url>
         <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2024-06-25T22:41:38-05:00</lastmod>
+        <lastmod>2024-06-25T23:43:51-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -61,7 +61,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-06-25T22:41:38-05:00</lastmod>
+        <lastmod>2024-06-25T23:43:51-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -89,7 +89,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-06-25T22:41:38-05:00</lastmod>
+        <lastmod>2024-06-25T23:43:51-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -114,7 +114,7 @@
     
       <url>
         <loc>http://localhost:4000/industrias</loc>
-        <lastmod>2024-06-25T22:41:38-05:00</lastmod>
+        <lastmod>2024-06-25T23:43:51-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -142,7 +142,7 @@
     
       <url>
         <loc>http://localhost:4000/productos/mantenimiento-impresoras-termicas</loc>
-        <lastmod>2024-06-25T22:41:38-05:00</lastmod>
+        <lastmod>2024-06-25T23:43:51-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -167,7 +167,7 @@
     
       <url>
         <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2024-06-25T22:41:38-05:00</lastmod>
+        <lastmod>2024-06-25T23:43:51-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -192,7 +192,7 @@
     
       <url>
         <loc>http://localhost:4000/productos</loc>
-        <lastmod>2024-06-25T22:41:38-05:00</lastmod>
+        <lastmod>2024-06-25T23:43:51-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -217,7 +217,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-06-25T22:41:38-05:00</lastmod>
+        <lastmod>2024-06-25T23:43:51-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -242,7 +242,7 @@
     
       <url>
         <loc>http://localhost:4000/recursos-gratuitos</loc>
-        <lastmod>2024-06-25T22:41:38-05:00</lastmod>
+        <lastmod>2024-06-25T23:43:51-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -303,16 +303,16 @@
       <priority>1.0</priority>
       
         <image:image>
-          <image:loc>http://localhost:4000/img/proteccion-mercancia.jpg</image:loc>
+          <image:loc>http://localhost:4000/img/blog/trazabilidad-interna-holographic.jpg</image:loc>
           <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
-          <image:caption>Fotografía de adhesivos personalizados</image:caption>
+          <image:caption>Imagen de un trabajo ejecutando la trazabilidad interna</image:caption>
         </image:image>
       
       
         <image:image>
-          <image:loc>http://localhost:4000/img/proteccion-mercancia.webp</image:loc>
+          <image:loc>http://localhost:4000/img/blog/trazabilidad-interna-holographic.webp</image:loc>
           <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
-          <image:caption>Fotografía de adhesivos personalizados</image:caption>
+          <image:caption>Imagen de un trabajo ejecutando la trazabilidad interna</image:caption>
         </image:image>
       
     </url>
@@ -326,14 +326,14 @@
         <image:image>
           <image:loc>http://localhost:4000/img/proteccion-mercancias.jpg</image:loc>
           <image:title>Etiquetas de garantía: Consíguelas con Holographic</image:title>
-          <image:caption>Foto de impresoras térmicas en buen estado</image:caption>
+          <image:caption>Foto de dispositivo con una etiqueta de garantía</image:caption>
         </image:image>
       
       
         <image:image>
           <image:loc>http://localhost:4000/img/proteccion-mercancia.webp</image:loc>
           <image:title>Etiquetas de garantía: Consíguelas con Holographic</image:title>
-          <image:caption>Foto de impresoras térmicas en buen estado</image:caption>
+          <image:caption>Foto de dispositivo con una etiqueta de garantía</image:caption>
         </image:image>
       
     </url>
@@ -345,14 +345,14 @@
       <priority>1.0</priority>
       
         <image:image>
-          <image:loc>http://localhost:4000/img/blog/mantenimiento-preventivo-impresoras.jpg</image:loc>
+          <image:loc>http://localhost:4000/img/blog/holograma-para-licores.jpg</image:loc>
           <image:title>Utiliza etiquetas holográficas para botellas de licor</image:title>
           <image:caption>Foto de impresoras térmicas en buen estado</image:caption>
         </image:image>
       
       
         <image:image>
-          <image:loc>http://localhost:4000/img/blog/mantenimiento-preventivo-impresoras.webp</image:loc>
+          <image:loc>http://localhost:4000/img/blog/holograma-para-licores.webp</image:loc>
           <image:title>Utiliza etiquetas holográficas para botellas de licor</image:title>
           <image:caption>Foto de impresoras térmicas en buen estado</image:caption>
         </image:image>

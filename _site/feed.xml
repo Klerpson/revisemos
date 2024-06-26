@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Jun 2024 22:41:38 -0500</pubDate>
-    <lastBuildDate>Tue, 25 Jun 2024 22:41:38 -0500</lastBuildDate>
+    <pubDate>Tue, 25 Jun 2024 23:43:51 -0500</pubDate>
+    <lastBuildDate>Tue, 25 Jun 2024 23:43:51 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
     
       <item>
@@ -25,7 +25,7 @@
     
       <item>
         <title>Protege tus activos fijos con etiquetas de marcación</title>
-        <description>Utiliza las etiquetas holográficas y de papel de Holographic para simplificar el proceso de seguimiento de los activos de tu negocio</description>
+        <description>Con la trazabilidad interna mejora la gestión de inventarios, reducir costos en la cadena de suministro. Mira cómo hacerlo con Holographic.</description>
         <pubDate>Mon, 17 Jun 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/trazabilidad-interna</link>
         <guid isPermaLink="true">http://localhost:4000/blog/trazabilidad-interna</guid>
@@ -39,7 +39,7 @@
     
       <item>
         <title>Etiquetas de garantía: Consíguelas con Holographic</title>
-        <description>Realizar el mantenimiento preventivo de tu impresora térmica te va a ahorra mucho dinero. Son unos pasos sencillos. Aprende cómo hacerlo con Holographic</description>
+        <description>Utiliza etiquetas de garantía para evitar pérdidas en tu empresa por reclamos injustificados. Aumenta el control y la seguridad de tu mercancía.</description>
         <pubDate>Sun, 16 Jun 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/etiquetas-para-garantias</link>
         <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-para-garantias</guid>
@@ -47,7 +47,7 @@
         
         
         
-        <category>Mantenimiento</category>
+        <category>Seguridad</category>
         
       </item>
     
