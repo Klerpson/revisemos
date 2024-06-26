@@ -6,9 +6,13 @@ h1: "¿Utilizas hologramas de seguridad? Aprovecha la tecnología antifalsificac
 intro: "Etiquetas holográficas: más que estética. Explora ejemplos de autenticación en productos y documentos."
 autor: Hernando - Holographic
 category: "Seguridad"
-hero: img/blog/cintas-resina-cera.webp
-jpg: img/blog/cintas-resina-cera.jpg
-alt: Fotografía de cintas de cera
+hero: img/blog/stickers-holograficos.webp
+jpg: img/blog/stickers-holograficos.jpg
+alt: Fotografía de un sticker holográfico
+videos:
+  - videos/marcacion-activo-fijo.mp4
+  - videos/sticker-platinum.mp4
+  - videos/adhesivos-premium.mp4
 ---
 ## Conoce los hologramas de seguridad y cómo mejorarán la protección de tus productos
 
@@ -30,6 +34,8 @@ A lo largo de la historia, han evolucionado para convertirse en una medida de se
 [Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
 
 ## ¿Cómo funciona un holograma?
+
+{% include videos.html %}
 
 Cómo mencionamos antes, **los hologramas se basan en los principios físicos de interferencia y difracción de la luz**.
 
@@ -66,6 +72,8 @@ A continuación, te mostramos algunas de las alternativas para etiquetas con hol
 | [Hologramas Premium]({{'productos/etiquetas-premium' | relative_url }} "Etiqueta holográfica premium"){:target="_blank"} | - Seguridad media<br>- Buen equilibrio entre costo y protección<br>- Personalizables | - Imágenes tridimensionales<br>- Menos elementos de seguridad adicionales<br>- Durabilidad media | - Nivel de seguridad superior<br>- **Menor costo que el Platinum** |
 | [Hologramas Personalizadas]({{'productos/etiquetas-personalizadas' | relative_url }} "Etiqueta holográfica personalizadas"){:target="_blank"} | - Alta flexibilidad en el diseño<br>- Adaptables a las necesidades del cliente<br>- Protección básica contra falsificaciones | - Imágenes tridimensionales<br>- Personalización según requerimientos específicos<br>- Elementos de seguridad básicos | - **Mayor flexibilidad en el diseño**<br>- Protección básica, menos elementos de seguridad adicionales |
 | [Hologramas Genérico]({{'productos/sticker-generico' | relative_url }} "Etiqueta holográfica génerico"){:target="_blank"} | - Costo bajo<br>- Fácil implementación<br>- Protección mínima | - Elementos gráficos simples<br>- Sin elementos de seguridad avanzados<br>- Baja durabilidad | - **Menor costo**<br>- Con patrones repetidos |
+
+{% include relacionados.html %}
 
 ## Solicita tus stickers holográficos y evita las falsificaciones con la tecnología más avanzadas de etiquetas de seguridad
 

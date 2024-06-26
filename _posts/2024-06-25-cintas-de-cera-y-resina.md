@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cinta de Cera y Resina para Impresión Térmica"
-description: "la cinta de cera y resina se utilizan para la impresión térmica de transferencia. Conoce sus detalles, las características, aplicaciones y ventajas"
+description: "La cinta de cera y resina se utilizan para la impresión térmica de transferencia. Conoce sus detalles, las características, aplicaciones y ventajas"
 h1: "Cinta de cera y cintas de resina: entre la calidad y la durabilidad"
 intro: "Las cintas de transferencia térmica tienen variedades y distintas ventajas. ¡Conócelas!"
 autor: Hernando - Holographic
