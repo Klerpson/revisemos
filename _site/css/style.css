@@ -1140,7 +1140,7 @@ details p {
 
 @media screen and (width >= 1024px) {
   .bloques > div {
-    padding: 40px 20px;
+    padding: 56px 20px;
   }
 
   .bloque_big {
