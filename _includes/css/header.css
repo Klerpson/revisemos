@@ -24,8 +24,9 @@ header{
 }
 
 .header_bloque img,
+.header_bloque video,
 .landing_header img{
-  width: min(100%, 480px);
+  width: min(100%, 560px);
   margin-inline: auto;
 }
 

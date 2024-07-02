@@ -5,15 +5,18 @@
 <header class="bloques wrapper">
   <div class="header_mini_bloque bg">
     <h2>Proteja su marca y sus productos con hologramas antifalsificación</h2>
-    <img src="{{'img/certificacion-iso-9001.webp' | relative_url}}" alt="Sello de certificación ISO 9001 de Holographic" title="Certificación ISO 9001">
+    <img src="{{'img/sticker-holografico-azul-turquesa.webp' | relative_url}}" alt="Sticker de Holographic" title="Etiqueta de seguridad">
   </div>
   <div class="header_bloque bloque_big">
     <div>
       <p>{{page.intro}}</p>
       <h1>{{page.h1}}</h1>
+      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
     </div>
-    <img src="{{page.hero | relative_url }}" alt="{{page.alt}}" width="600" title="Etiqueta de seguridad de Holographic">
-    {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
+    <video autoplay muted loop playsinline preload="auto">
+      <source src="{{ 'videos/sticker-premium.mp4' | relative_url}}" type="video/mp4">
+      Tu navegador no soporta la etiqueta de video.
+    </video>
   </div>
   
   {% when "pagina" %}

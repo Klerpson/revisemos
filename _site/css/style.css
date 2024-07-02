@@ -321,7 +321,7 @@ lord-icon{
   display: grid;
   gap: 1em;
   grid-auto-flow: dense;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 600px), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 600px), 1fr));
 }
 
 .bloques > div{
@@ -401,8 +401,9 @@ header{
 }
 
 .header_bloque img,
+.header_bloque video,
 .landing_header img{
-  width: min(100%, 480px);
+  width: min(100%, 560px);
   margin-inline: auto;
 }
 
@@ -1167,13 +1168,14 @@ details p {
     grid-area: div;
   }
 
-  .header_bloque img {
+  .header_bloque img,
+  .header_bloque video {
     grid-area: img;
   }
 
   .header_bloque {
-    grid-template-areas: "div img";
-    place-items: center;
+    grid-template-areas: 
+    "div img";
   }
 
   .header_bloque.bloque_big {
