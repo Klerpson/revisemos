@@ -18,9 +18,10 @@ puntos-dolor:
   - Agrega seguridad a tus productos con hologramas: "img/sello-holografico.webp"
   - Utiliza stickers holográficos con Evident Tamper: "img/holograma-antifalsificacion.webp"
 videos:
-  - videos/holograma-con-patron-no-registrado.mp4
-  - videos/sticker-holografico-generico.mp4
+  - videos/etiqueta-generica.mp4
+  - videos/sticker-generico.mp4
   - videos/adhesivo-holografico-sin-personalizar.mp4
+  - videos/etiqueta-holografica.mp4
 ---
 [**Pide tus stickers genéricos**]({{site.whatsapp}}%20:%20{{page.h1 }}){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
 
