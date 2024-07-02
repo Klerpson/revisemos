@@ -21,6 +21,7 @@ videos:
   - videos/servicio-premium.mp4
   - videos/stickers-premium.mp4
   - videos/adhesivos-premium.mp4
+  - videos/holograma-premium.mp4
 fotos:
   - Sticker premium personalizado: "img/servicio-hologramas-premium.webp"
   - Foto del servicio de stickers premium: img/servicio-premium-de-stickers.webp

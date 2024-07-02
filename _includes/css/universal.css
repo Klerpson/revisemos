@@ -181,7 +181,7 @@ button{
 .wrapper {
   width: min(calc(100% - 20px), 1280px);
   margin-inline: auto;
-  padding: 5rem 0;
+  padding: 4rem 0;
 }
 
 .content {
