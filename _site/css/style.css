@@ -396,8 +396,8 @@ header{
 }
 
 .header_bloque{
-  /* background: rgb(38,67,111);
-  background: linear-gradient(126deg, rgba(38,67,111,1) 7%, rgba(136,151,175,1) 85%, rgba(254,254,254,1) 100%); */
+  background: rgb(38,67,111);
+  background: linear-gradient(126deg, rgba(38,67,111,1) 7%, rgba(136,151,175,1) 85%, rgba(254,254,254,1) 100%);
   color: white;
 }
 
