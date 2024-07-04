@@ -8,7 +8,7 @@ hero: img/contacto-holographic.webp
 jpg: img/contacto-holographic.jpg
 alt: Imagen de íconos para contactar con Holographic
 ---
-## Más de 40 años solucionando las pérdidas de nuestros empresarios colombianos
+## Más de 40 años solucionando las pérdidas de nuestros empresarios ecuatorianos
 
 Recibe la asesoría y el acompañamiento de parte de nuestros profesionales en Holographic. Escribe tus dudas, solicitudes y comentarios.
 
@@ -23,8 +23,7 @@ Recibe nuestra atención personalizada con soluciones y productos a la medida de
 
 ### Contáctanos por estos medios
 
-* ![PBX de Holographic]({{'img/pbx.svg' | relative_url }}) **P.B.X en Bogotá**: 👉 [(60) +1 756 1613](tel:6017561613){:rel="nofollow noopener noreferrer" target="_blank"}
-* ![Línea de celular de Holographic]({{'img/celular.svg' | relative_url }}) **Líneas de celular**: 👉 [(+57) 316 528 5933](tel:+573165285933){:rel="nofollow noopener noreferrer" target="_blank"} - 👉 [(+57) 315 338 88803](tel:+573153388880){:rel="nofollow noopener noreferrer" target="_blank"}
+* ![Líneas de celular de Holographic]({{'img/celular.svg' | relative_url }}) **Líneas de celular**: 👉 [{{site.telefono}}](tel:{{site.telefono}}){:rel="nofollow noopener noreferrer" target="_blank"} - 👉 [+593999664859](tel:+593999664859){:rel="nofollow noopener noreferrer" target="_blank"}
 * ![Horarios de Holographic]({{'img/horario.svg' | relative_url }}) **Horarios de atención**: Lunes a viernes: 7:00 am. a
 5:30 pm. - Sábado y Domingo: Cerrado
 
