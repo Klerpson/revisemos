@@ -1,24 +1,22 @@
 ---
 layout: pagina
-title: "Somos Holographic S.A.S. y estamos para asegurar tu mercancía y activos"
-h1: Somos Holographic S.A.S sirviéndote desde 2011
-intro: Tu solución de etiquetas de seguridad y marcación en Colombia
+title: "Somos Holographic y estamos para asegurar tu mercancía y activos"
+h1: Somos Holographic sirviéndote desde Quito Ecuador
+intro: Tu solución de etiquetas de seguridad y marcación en Ecuador
 description: Ven y conocer quiénes somos en la heladería GurCoff y cómo hemos logrado ser los mejores de la zona donde abrimos nuestras sucursales
 hero: img/quienes-somos.webp
 jpg: img/quienes-somos.jpg
-alt: Logotipo de Holographic S.A.S.
+alt: Logotipo de Holographic
 ---
-## Liderando en soluciones anti-falsificación y de trazabilidad en Colombia
+## Liderando en soluciones anti-falsificación y de trazabilidad en Ecuador
 
 ### Nuestra historia
 
-En Holographic nos especializamos en **proteger la autenticidad de tus productos y salvaguardar tu marca contra la falsificación**. Nuestra travesía comenzó en 2011 en Bogotá, con una visión clara: ofrecer soluciones innovadoras y efectivas en seguridad holográfica y trazabilidad.
+En Holographic nos especializamos en **proteger la autenticidad de tus productos y salvaguardar tu marca contra la falsificación**. Nuestra travesía comienza este 2024 en Quito, con una visión clara: ofrecer soluciones innovadoras y efectivas en seguridad holográfica y trazabilidad.
 
 A lo largo de más de una década, hemos crecido y evolucionado, alcanzando importantes hitos que reflejan nuestro compromiso con la excelencia.
 
-Desde nuestros inicios, **hemos obtenido la certificación ISO 9001:2015**, un testimonio de nuestra dedicación a la calidad y la mejora continua. Este logro subraya nuestro esfuerzo por mantener altos estándares en cada aspecto de nuestro negocio, desde la investigación y desarrollo hasta la producción y el servicio al cliente.
-
-### Qué hacemos en Holographic S.A.S.
+### Qué hacemos en Holographic
 
 La falsificación es una amenaza constante en muchos sectores, y sabemos que proteger tus productos es crucial para mantener la confianza de tus clientes. Por esta razón [Holographic ofrece una variedad de soluciones](/) diseñadas para proporcionar esa seguridad:
 
@@ -57,13 +55,13 @@ Nuestra filosofía se basa en la innovación constante.
 
 Invertimos continuamente en investigación y desarrollo para estar a la vanguardia de las tecnologías de seguridad. Este enfoque nos permite ofrecer soluciones que no solo cumplen con los estándares actuales, sino que también anticipan y responden a futuros desafíos en seguridad y trazabilidad.
 
-### Testimonios de quienes cuidan sus activos con Holographic S.A.S.
+### Testimonios de quienes cuidan sus activos con Holographic
 
-> "Muy buen servicio, atención al cliente y excelentes productos." - [Makrotoner & suministros S.A.S.]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
+> "Muy buen servicio, atención al cliente y excelentes productos." - [Makrotoner & suministros]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
 
 > "Buenos productos y buen servicio al cliente. Recomendados!" - [Rediserv LTDA]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
 
-> "Cuando hablamos de un proveedor serio, hablamos de Holographic SAS, una empresa bogotana, tecnolÓgicamente a la vanguardia, capaz de atender y satisfacer al cliente más complicado. La calidez y la profesionalidad de su personal técnico / comercial, hacen de esta empresa uno de los mejores proveedores de Laboratorios San Roque. La calidad de sus trabajos no tiene iguales en Colombia, asi como la respuesta comercial, siempre a la altura de la situación. Una relación precio / calidad difícil de conseguir hoy en dia. Gracias Holographic SAS por ser parte de nuestro éxito!" - [Laboratorios San Roque S.A.S.]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
+> "Cuando hablamos de un proveedor serio, hablamos de Holographic SAS, una empresa bogotana, tecnolÓgicamente a la vanguardia, capaz de atender y satisfacer al cliente más complicado. La calidez y la profesionalidad de su personal técnico / comercial, hacen de esta empresa uno de los mejores proveedores de Laboratorios San Roque. La calidad de sus trabajos no tiene iguales en Ecuador, asi como la respuesta comercial, siempre a la altura de la situación. Una relación precio / calidad difícil de conseguir hoy en dia. Gracias Holographic SAS por ser parte de nuestro éxito!" - [Laboratorios San Roque]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
 
 ### Conoce al equipo de Holographic
 
@@ -71,7 +69,7 @@ El corazón de **Holographic** es nuestro equipo de expertos apasionados y dedic
 
 Cada miembro de nuestro equipo aporta una valiosa experiencia y un compromiso inquebrantable con la seguridad y la innovación.
 
-#### Trabajamos juntos para diseñar y entregar soluciones que superan las expectativas de nuestros clientes.
+#### Trabajamos juntos para diseñar y entregar soluciones que superan las expectativas de nuestros clientes
 
 Nuestros ingenieros y técnicos están constantemente capacitados en las últimas tecnologías y tendencias del mercado, asegurando que nuestras soluciones estén siempre un paso adelante en la lucha contra la falsificación.
 
