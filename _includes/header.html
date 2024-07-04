@@ -8,15 +8,15 @@
     <img src="{{'img/sticker-holografico-azul-turquesa.webp' | relative_url}}" alt="Sticker de Holographic" title="Etiqueta de seguridad">
   </div>
   <div class="header_bloque bloque_big">
+    <video autoplay muted loop playsinline preload="auto">
+      <source src="{{ 'videos/sticker-premium.mp4' | relative_url}}" type="video/mp4">
+      Tu navegador no soporta la etiqueta de video.
+    </video>
     <div>
       <p>{{page.intro}}</p>
       <h1>{{page.h1}}</h1>
       {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
     </div>
-    <video autoplay muted loop playsinline preload="auto">
-      <source src="{{ 'videos/sticker-premium.mp4' | relative_url}}" type="video/mp4">
-      Tu navegador no soporta la etiqueta de video.
-    </video>
   </div>
   
   {% when "pagina" %}

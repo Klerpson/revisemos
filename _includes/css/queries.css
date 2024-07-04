@@ -50,8 +50,7 @@
     grid-area: div;
   }
 
-  .header_bloque img,
-  .header_bloque video {
+  .header_bloque img {
     grid-area: img;
   }
 

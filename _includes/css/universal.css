@@ -325,6 +325,7 @@ lord-icon{
 }
 
 .bloques > div{
+  position: relative;
   padding: 32px;
   display: grid;
   gap: 1em;
@@ -333,7 +334,7 @@ lord-icon{
   border-radius: var(--radius);
 }
 
-.bloques div video{
+.bloques div video:not(.header_bloque video){
   width: min(100%, 600px);
   border-radius: var(--radius);
 }
