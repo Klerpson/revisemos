@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
-    <lastBuildDate>Thu, 11 Jul 2024 11:56:49 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2024 14:20:24 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v3.9.5</generator>
     
@@ -45,7 +45,7 @@
             Venir a GurCoff es pasar un ratico delicioso. Esos es esta sección. Un ratico para decirte gracias regalándote mucho de nosotros para ayudarte
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
         <link>http://localhost:4000/blog</link>
         <guid isPermaLink="true">http://localhost:4000/blog</guid>
         
@@ -61,7 +61,7 @@
             ¿Qué tipo de juego de pensar o didáctico estás buscando? Encuéntralo entre nuestras categorías de juegos fabricados por FelizMente
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
         <link>http://localhost:4000/categorias</link>
         <guid isPermaLink="true">http://localhost:4000/categorias</guid>
         
@@ -79,7 +79,7 @@
             Nuestro club es un grupo de asesoría profesional que te llevará al mismo alto nivel de nuestra heladería. ¿Ya eres socio del club? Disfruta. ¿Aún no? 🤔 ¿Por qué?
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
         <link>http://localhost:4000/clubgurcoff</link>
         <guid isPermaLink="true">http://localhost:4000/clubgurcoff</guid>
         
@@ -95,7 +95,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
         <link>http://localhost:4000/feed.xml</link>
         <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
         
@@ -113,7 +113,7 @@
             Compra juegos de pensar, juegos didácticos y juegos para la memoria. Y los gozan tanto niños como adultos. ¿Quieres comprar un juego de mesa hoy? Escríbenos
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
         <link>http://localhost:4000/</link>
         <guid isPermaLink="true">http://localhost:4000/</guid>
         
@@ -131,7 +131,7 @@
             Ya eres socio o socia del #clubgurcoff. Ahora, aprovecha muy bien lo que hacemos cada semana para ayudarte a llegar lejos, tal como lo hicimos nosotros
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
         <link>http://localhost:4000/ofertas</link>
         <guid isPermaLink="true">http://localhost:4000/ofertas</guid>
         
@@ -149,7 +149,7 @@
             Ven y conocer quiénes somos en la heladería GurCoff y cómo hemos logrado ser los mejores de la zona donde abrimos nuestras sucursales
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
         <link>http://localhost:4000/quienes-somos</link>
         <guid isPermaLink="true">http://localhost:4000/quienes-somos</guid>
         
@@ -165,7 +165,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
         <link>http://localhost:4000/search.json</link>
         <guid isPermaLink="true">http://localhost:4000/search.json</guid>
         
@@ -181,7 +181,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
         <link>http://localhost:4000/sitemap.xml</link>
         <guid isPermaLink="true">http://localhost:4000/sitemap.xml</guid>
         
@@ -197,7 +197,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
         <link>http://localhost:4000/css/style.css</link>
         <guid isPermaLink="true">http://localhost:4000/css/style.css</guid>
         
