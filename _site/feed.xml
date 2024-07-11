@@ -1,151 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title></title>
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Jul 2024 11:29:34 -0500</pubDate>
-    <lastBuildDate>Thu, 04 Jul 2024 11:29:34 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2024 11:56:49 -0500</lastBuildDate>
+    <language>es-CO</language>
     <generator>Jekyll v3.9.5</generator>
     
+    
       <item>
-        <title>¿Que es un Holograma de Seguridad? Conoce los de Holographic</title>
-        <description>Qué es un holograma de seguridad y cómo funciona. Aprende sobre sus aplicaciones en protección de documentos y productos. Guía completa con ejemplos.</description>
-        <pubDate>Wed, 26 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/que-es-holograma-seguridad</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/que-es-holograma-seguridad</guid>
+        <title>La mejor ensalada de frutas en Pitalito | GurCoff</title>
+        <description>
+          <![CDATA[
+            
+            <img src="http://localhost:4000/img/juego-agilizate.webp" alt="Foto de Ensaladas de frutas Pitalito" />
+            
+            Ensaladas de frutas en Pitalito hay muchas. Las consigues a domicilio y de diferentes precios. Pero ninguna como la que disfrutas en GurCoff.
+          ]]>
+        </description>
+        <pubDate>Mon, 01 Jul 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/ensaladas-de-frutas-pitalito</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/ensaladas-de-frutas-pitalito</guid>
+        
+        <dc:creator>Andrés GurCoff</dc:creator>
+        
+        
+        <category>#raticogurcoff</category>
         
         
         
-        
-        <category>Seguridad</category>
         
       </item>
     
       <item>
-        <title>Cinta de Cera y Resina para Impresión Térmica</title>
-        <description>La cinta de cera y resina se utilizan para la impresión térmica de transferencia. Conoce sus detalles, las características, aplicaciones y ventajas</description>
-        <pubDate>Tue, 25 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/cintas-de-cera-y-resina</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/cintas-de-cera-y-resina</guid>
+        <title>#raticogurcoff es un regalo de nuestra heladería para decirte GRACIAS</title>
+        <description>
+          <![CDATA[
+            
+            <img src="http://localhost:4000/img/raticogurcoff.webp" alt="Fotografía de un vaso GurCoff" />
+            
+            Venir a GurCoff es pasar un ratico delicioso. Esos es esta sección. Un ratico para decirte gracias regalándote mucho de nosotros para ayudarte
+          ]]>
+        </description>
+        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <link>http://localhost:4000/blog</link>
+        <guid isPermaLink="true">http://localhost:4000/blog</guid>
         
         
-        
-        
-        <category>Seguridad</category>
         
       </item>
     
       <item>
-        <title>Protege Domicilios con Stickers y Cintas de Seguridad</title>
-        <description>Protege y personaliza tus envíos con stickers y cintas de seguridad. Aprende a crear domicilios únicos que fidelizan a tus clientes.</description>
-        <pubDate>Mon, 24 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/adhesivos-para-domicilios</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/adhesivos-para-domicilios</guid>
+        <title>Categorías de los juegos de FelizMente que estás buscando</title>
+        <description>
+          <![CDATA[
+            
+            ¿Qué tipo de juego de pensar o didáctico estás buscando? Encuéntralo entre nuestras categorías de juegos fabricados por FelizMente
+          ]]>
+        </description>
+        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <link>http://localhost:4000/categorias</link>
+        <guid isPermaLink="true">http://localhost:4000/categorias</guid>
         
         
-        
-        
-        <category>Seguridad</category>
         
       </item>
     
       <item>
-        <title>Cáscara de Huevo vs Etiquetas Holográficas - Holographic</title>
-        <description>Las etiquetas y pegatinas cáscara de huevo transforman tu papelería. Mira aplicaciones únicas y diseños. Y porqué perdieron utilidad. Más aquí.</description>
-        <pubDate>Sun, 23 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/etiquetas-cascara-de-huevo</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-cascara-de-huevo</guid>
+        <title>#clubgurcoff | Ahora eres parte de nuestros socios GurCoff</title>
+        <description>
+          <![CDATA[
+            
+            <img src="http://localhost:4000/img/clubgurcoff.webp" alt="Fotografía del club gurcofff" />
+            
+            Nuestro club es un grupo de asesoría profesional que te llevará al mismo alto nivel de nuestra heladería. ¿Ya eres socio del club? Disfruta. ¿Aún no? 🤔 ¿Por qué?
+          ]]>
+        </description>
+        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <link>http://localhost:4000/clubgurcoff</link>
+        <guid isPermaLink="true">http://localhost:4000/clubgurcoff</guid>
         
         
-        
-        
-        <category>Antifalsificación</category>
         
       </item>
     
       <item>
-        <title>Hologramas en Certificados: Seguridad en la Educación</title>
-        <description>Los hologramas revolucionan la seguridad de los carros. Conoce esta tecnología innovadora y cómo está cambiando la protección vehicular.</description>
-        <pubDate>Sat, 22 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/sector-de-la-educacion</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/sector-de-la-educacion</guid>
+        <title></title>
+        <description>
+          <![CDATA[
+            
+            
+          ]]>
+        </description>
+        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <link>http://localhost:4000/feed.xml</link>
+        <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
         
         
-        
-        
-        <category>Antifalsificación</category>
         
       </item>
     
       <item>
-        <title>Etiquetas Para Alimentos: Protege al Consumidor</title>
-        <description>Las etiquetas de los productos alimenticios proporcionan información vital sobre los ingredientes, el valor nutricional y los posibles alérgenos</description>
-        <pubDate>Thu, 20 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/etiquetas-para-alimentos</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-para-alimentos</guid>
+        <title>FelizMente - Juegos de pensar para niños y adultos</title>
+        <description>
+          <![CDATA[
+            
+            <img src="http://localhost:4000/img/juego-agilizate.webp" alt="Agilizate Juego" />
+            
+            Compra juegos de pensar, juegos didácticos y juegos para la memoria. Y los gozan tanto niños como adultos. ¿Quieres comprar un juego de mesa hoy? Escríbenos
+          ]]>
+        </description>
+        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <link>http://localhost:4000/</link>
+        <guid isPermaLink="true">http://localhost:4000/</guid>
         
         
-        
-        
-        <category>Antifalsificación</category>
         
       </item>
     
       <item>
-        <title>Seguridad en Documentos: De Hologramas a Etiquetas QR</title>
-        <description>De hologramas a códigos de barras y QR: una guía completa sobre seguridad en documentos. Aprende a identificar y utilizar estas tecnologías.</description>
-        <pubDate>Thu, 20 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/autoridades-y-gobierno</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/autoridades-y-gobierno</guid>
+        <title>#clubgurcoff | Te damos la bienvenida a nuestros socios GurCoff</title>
+        <description>
+          <![CDATA[
+            
+            <img src="http://localhost:4000/img/bienvenida.webp" alt="Fotografía de un productos premium en GurCoff" />
+            
+            Ya eres socio o socia del #clubgurcoff. Ahora, aprovecha muy bien lo que hacemos cada semana para ayudarte a llegar lejos, tal como lo hicimos nosotros
+          ]]>
+        </description>
+        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <link>http://localhost:4000/ofertas</link>
+        <guid isPermaLink="true">http://localhost:4000/ofertas</guid>
         
         
-        
-        
-        <category>Antifalsificación</category>
         
       </item>
     
       <item>
-        <title>Etiquetas Holográficas para Medicamentos - Máxima Seguridad</title>
-        <description>Protege tus medicamentos con etiquetas holográficas. Calidad y seguridad garantizadas para tus productos farmacéuticos con Holographic</description>
-        <pubDate>Wed, 19 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/etiquetas-productos-farmaceuticos</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-productos-farmaceuticos</guid>
+        <title>Heladería GurCoff: recetas únicas y la atención que te mereces</title>
+        <description>
+          <![CDATA[
+            
+            <img src="http://localhost:4000/img/gurcoff-vaso.webp" alt="Fotografía de un vaso GurCoff" />
+            
+            Ven y conocer quiénes somos en la heladería GurCoff y cómo hemos logrado ser los mejores de la zona donde abrimos nuestras sucursales
+          ]]>
+        </description>
+        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <link>http://localhost:4000/quienes-somos</link>
+        <guid isPermaLink="true">http://localhost:4000/quienes-somos</guid>
         
         
-        
-        
-        <category>Antifalsificación</category>
         
       </item>
     
       <item>
-        <title>Protege tus activos fijos con etiquetas de marcación</title>
-        <description>Utiliza las etiquetas holográficas y de seguridad de Holographic para simplificar el proceso de marcación de activos de tu negocio</description>
-        <pubDate>Tue, 18 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/marcacion-activos-fijos</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/marcacion-activos-fijos</guid>
+        <title></title>
+        <description>
+          <![CDATA[
+            
+            
+          ]]>
+        </description>
+        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <link>http://localhost:4000/search.json</link>
+        <guid isPermaLink="true">http://localhost:4000/search.json</guid>
         
         
-        
-        
-        <category>Seguridad</category>
         
       </item>
     
       <item>
-        <title>Trazabilidad interna: toda una guía paso a paso</title>
-        <description>Con la trazabilidad interna mejora la gestión de inventarios, reducir costos en la cadena de suministro. Mira cómo hacerlo con Holographic.</description>
-        <pubDate>Mon, 17 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/trazabilidad-interna</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/trazabilidad-interna</guid>
+        <title></title>
+        <description>
+          <![CDATA[
+            
+            
+          ]]>
+        </description>
+        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <link>http://localhost:4000/sitemap.xml</link>
+        <guid isPermaLink="true">http://localhost:4000/sitemap.xml</guid>
         
         
         
+      </item>
+    
+      <item>
+        <title></title>
+        <description>
+          <![CDATA[
+            
+            
+          ]]>
+        </description>
+        <pubDate>Thu, 11 Jul 2024 11:56:49 -0500</pubDate>
+        <link>http://localhost:4000/css/style.css</link>
+        <guid isPermaLink="true">http://localhost:4000/css/style.css</guid>
         
-        <category>Seguridad</category>
+        
         
       </item>
     

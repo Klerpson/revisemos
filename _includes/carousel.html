@@ -1,18 +1,18 @@
 <div class="carousel_container">
   <div class="carousel">  
-    {% for item in site.data.fotos %}
-    <div class="item">
-      <a href="{{site.instagram}}" title="instagram Holographic" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="{{item.img|relative_url}}" loading="lazy" alt="{{item.alt}}" width="180" height="226">
+    {% for item in site.data.fotos-contacto %}
+    <article class="item">
+      <a href="{{'categorias' | relative_url}}" title="Catálogo del juego agilizate">
+        <img src="{{item.img}}" loading="lazy" alt="{{item.alt}}">
       </a>
-    </div>
-    {% endfor %}
-    {% for item in site.data.fotos %}
-    <div class="item">
-      <a href="{{site.instagram}}" title="instagram Holographic" rel="nofollow noopener noreferrer" target="_blank">
-        <img src="{{item.img|relative_url}}" loading="lazy" alt="{{item.alt}}" width="180" height="226">
-      </a>
-    </div>
-    {% endfor %}
+  </article>
+  {% endfor %}
+  {% for item in site.data.fotos-contacto %}
+  <article class="item">
+    <a href="{{'categorias' | relative_url}}" title="Catálogo del juego agilizate">
+      <img src="{{item.img}}" loading="lazy" alt="{{item.alt}}">
+    </a>
+  </article>
+  {% endfor %}
   </div> 
 </div>

@@ -3,97 +3,28 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-  {% for page in site.pages %}
-    {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.url contains '.css' or page.noindex %}
-    {% else %}
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  {% assign all_pages = site.html_pages %}
+  {% if site.posts %}{% assign all_pages = all_pages | concat: site.posts %}{% endif %}
+  {% if site.destinos %}{% assign all_pages = all_pages | concat: site.destinos %}{% endif %}
+  {% if site.terminales %}{% assign all_pages = all_pages | concat: site.terminales %}{% endif %}
+  {% if site.without-plugin %}{% assign all_pages = all_pages | concat: site.without-plugin %}{% endif %}
+  {% for page in all_pages %}
+    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex == true %}
       <url>
-        <loc>{{ page.url | absolute_url }}</loc>
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        {% if page.jpg %}
-          <image:image>
-            <image:loc>{{ page.jpg | absolute_url }}</image:loc>
-            <image:title>{{ page.title }}</image:title>
-            <image:caption>{{ page.alt }}</image:caption>
-          </image:image>
-        {% endif %}
+        <loc>{{ page.url | absolute_url | remove: "index.html" }}</loc>
+        <lastmod>{% if page.date %}{{ page.date | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</lastmod>
+        <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+        <priority>{% if page.priority %}{{ page.priority }}{% else %}0.8{% endif %}</priority>
         {% if page.hero %}
-          <image:image>
-            <image:loc>{{ page.hero | absolute_url }}</image:loc>
-            <image:title>{{ page.title }}</image:title>
-            <image:caption>{{ page.alt }}</image:caption>
-          </image:image>
-        {% endif %}
-        {% if page.fotos %}
-          {% for fotos in page.fotos %}
-          {% for foto in fotos %}
-            <image:image>
-              <image:loc>{{ foto[1] | absolute_url }}</image:loc>
-              <image:title>{{ foto[0] }}</image:title>
-            </image:image>
-          {% endfor %}
-          {% endfor %}
-        {% endif %}
-        {% if page.videos %}
-          {% for video in page.videos %}
-            <video:video>
-              <video:content_loc>{{ video | absolute_url }}</video:content_loc>
-              <video:title>{{ page.title }}</video:title>
-            </video:video>
-          {% endfor %}
+        <image:image>
+          <image:loc>{{ site.url }}/{{ page.hero }}</image:loc>
+          <image:title>{% if page.alt %}{{ page.alt }}{% else %}{{ page.title }}{% endif %}</image:title>
+        </image:image>
         {% endif %}
       </url>
-    {% endif %}
-  {% endfor %}
-  
-  {% for post in site.posts %}
-    <url>
-      <loc>{{ post.url | absolute_url }}</loc>
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      {% if post.jpg %}
-        <image:image>
-          <image:loc>{{ post.jpg | absolute_url }}</image:loc>
-          <image:title>{{ post.title }}</image:title>
-          <image:caption>{{ post.alt }}</image:caption>
-        </image:image>
-      {% endif %}
-      {% if post.hero %}
-        <image:image>
-          <image:loc>{{ post.hero | absolute_url }}</image:loc>
-          <image:title>{{ post.title }}</image:title>
-          <image:caption>{{ post.alt }}</image:caption>
-        </image:image>
-      {% endif %}
-    </url>
-  {% endfor %}
-  
-  {% for page in site.without-plugin %}
-    <url>
-      <loc>{{ page.url | absolute_url }}</loc>
-      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      {% if page.jpg %}
-        <image:image>
-          <image:loc>{{ page.jpg | absolute_url }}</image:loc>
-          <image:title>{{ page.title }}</image:title>
-          <image:caption>{{ page.alt }}</image:caption>
-        </image:image>
-      {% endif %}
-      {% if page.hero %}
-        <image:image>
-          <image:loc>{{ page.hero | absolute_url }}</image:loc>
-          <image:title>{{ page.title }}</image:title>
-          <image:caption>{{ page.alt }}</image:caption>
-        </image:image>
-      {% endif %}
-    </url>
+    {% endunless %}
   {% endfor %}
 </urlset>

@@ -1,0 +1,45 @@
+---
+layout: default
+title: "Categorías de los juegos de FelizMente que estás buscando"
+h1: "Juegos de madera, cartas, rubik y más fabricados por FelizMente"
+description: "¿Qué tipo de juego de pensar o didáctico estás buscando? Encuéntralo entre nuestras categorías de juegos fabricados por FelizMente"
+---
+  <main class="blog-gallery wrapper flow">
+    <h2>🎫 Busca información sobre rutas y empresas que te llevarán a tu destino</h2>
+    <p>Sólo haz <b>clic en el departamento que necesitas.</b> La página filtrará por ti los juegos que ofrecen sus pasajes.</p>
+
+    <div class="blog-tags">
+      <button data-name="all" class="active">Todos</button>
+      {% capture filtered_categories_array %}{% for item in site.juegos %}{{ item.category }}|{% endfor %}{% endcapture %}
+      {% for item in site.juegos %}
+          {% assign filtered_cat = item.category | append: '|' %}
+          {% if filtered_categories_array contains filtered_cat %}
+          <button data-name="{{ item.category}}">{{ item.category | capitalize }}</button>
+          {% endif %}
+          {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
+      {% endfor %}
+    </div>
+    <section class="posts">
+    {% capture filtered_categories_array %}{% for item in site.juegos %}{{ item.category }}|{% endfor %}{% endcapture %}
+    {% for item in site.juegos %}
+    {% assign filtered_cat = item.category | append: '|' %}
+      {% if filtered_categories_array contains filtered_cat %}
+      <div class="post" data-name="{{ item.category }}">
+        <h3>Pasajes en {{ item.category | capitalize }}</h3>
+        <div class="home_gallery">
+          {% for destino in site.juegos %}
+          {% if destino.category contains item.category %}
+          <article>
+            <img src="{{site.baseurl}}/img/{{destino.hero}}" alt="{{destino.alt}}" loading="lazy" width="112" height="112">
+            <a href="{{site.baseurl}}{{ destino.url }}"><h4>{{ destino.h1 }}</h4></a>
+          </article>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+      {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
+    {% endfor %}
+  </section>
+
+</main>

@@ -1,27 +1,36 @@
 ---
 layout: pagina
-title: "Blog de Holographic: expertos en seguridad y trazabilidad de envíos"
-description: En Holographic te informamos como proteger tu mercancía, tus activos, ¡tu negocio! Entra y aprende a evitar falsificaciones y a aumentar tus ingresos
-h1: "La biblioteca <span class='resaltar'>que te enseña a proteger tu empresa de falsificaciones y pérdidas</span> está en nuestro blog"
-intro: Blog de Holographic S.A.S.
-hero: img/blog.webp
-jpg: img/blog.jpg
-alt: Imagen del logo del blog de Holographic 
+title: "#raticogurcoff es un regalo de nuestra heladería para decirte GRACIAS"
+description: Venir a GurCoff es pasar un ratico delicioso. Esos es esta sección. Un ratico para decirte gracias regalándote mucho de nosotros para ayudarte
+h1: "Pasa con nosotros <span class='resaltar'>un #raticoGurCoff en esta sección especial</span> de nuestro blog"
+hero: img/raticogurcoff.webp
+jpg: img/raticogurcoff.jpg
+alt: Fotografía de un vaso GurCoff
 ---
-<main class="entradas wrapper">
-  <h2>El blog de Holographic está pensado para ayudarte</h2>
-  <p>Hemos aprendido y seguimos aprendiendo lo que más podemos sobre <strong>adhesivos, hologramas, cintas de seguridad, mercancías, envíos, falsificación y protección</strong>, entre otros.</p>
-  <h3>Haz clic en los siguientes artículos del blog de Holographic ⏬</h3>
-  <div class="blog_gallery">
+<main class="entradas">
+  <h2>☕ Un <span class="resaltar">#raticogurcoff</span> es una nuestra forma de decirte gracias. Tú nos has apoyado y nos ayudaste a crecer. <b>Ahora es nuestro turno de darte todo lo que podamos de nuestra parte</b></h2>
+  <p>Con esta sección podrás crecer y avanzar en:</p>
+  <ul>
+    <li><strong>Emprendimiento</strong></li>
+    <li><strong>Estilo de vida</strong></li>
+    <li><strong>Aplicaciones</strong></li>
+    <li><strong>Publicidad</strong></li>
+    <li>¡Y todo lo que te ayude tanto como a nosotros!</li>
+  </ul>
+  <h3>Haz clic en los siguientes artículos ⏬</h3>
+  <div class="home_gallery">
     {% for post in site.posts %}
-    <article class="article">
-      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="280" height="180">
-      <div class="flow">
-        <a href="{{post.url|relative_url}}" title="{{post.title}}"><h4>{{post.h1}}</h4></a>
-        <p>{{post.intro}}</p>
-        <small>{{post.date | date: "%d-%m-%Y"}}</small>
+    {% if post.category == "#raticogurcoff" %}
+    <article>
+      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}">
+      <div>
+        <h4>{{post.h1}}</h4>
+        <a href="{{post.url|relative_url}}" title="{{post.title}}">Leer más</a>
       </div>
     </article>
+    {% endif %}
     {% endfor %}
+    <div class="add">
+    </div>
   </div>
 </main>

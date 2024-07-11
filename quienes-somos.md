@@ -1,88 +1,75 @@
 ---
-layout: pagina
-title: "Somos Holographic y estamos para asegurar tu mercancía y activos"
-h1: Somos Holographic sirviéndote desde Quito Ecuador
-intro: Tu solución de etiquetas de seguridad y marcación en Ecuador
+layout: post
+title: "Heladería GurCoff: recetas únicas y la atención que te mereces"
+h1: Somos tu <span class="resaltar">heladería favorita</span>. Aquí te contamos cómo lo logramos
 description: Ven y conocer quiénes somos en la heladería GurCoff y cómo hemos logrado ser los mejores de la zona donde abrimos nuestras sucursales
-hero: img/quienes-somos.webp
-jpg: img/quienes-somos.jpg
-alt: Logotipo de Holographic
+hero: img/gurcoff-vaso.webp
+jpg: img/gurcoff-vaso.jpg
+alt: Fotografía de un vaso GurCoff
 ---
-## Liderando en soluciones anti-falsificación y de trazabilidad en Ecuador
+¿Conoces nuestra historia y cómo seguimos creciendo? Ven y **descubre por qué GurCoff es la heladería número uno en Pitalito y San Agustín**.
 
-### Nuestra historia
+## Desde el 2019 somos tus favoritos en San Agustín Huila
 
-En Holographic nos especializamos en **proteger la autenticidad de tus productos y salvaguardar tu marca contra la falsificación**. Nuestra travesía comienza este 2024 en Quito, con una visión clara: ofrecer soluciones innovadoras y efectivas en seguridad holográfica y trazabilidad.
+La Heladería GurCoff es una bendición al esfuerzo de una gran familia. Desde el comienzo nos esforzamos por **ser una marca reconocida**.
 
-A lo largo de más de una década, hemos crecido y evolucionado, alcanzando importantes hitos que reflejan nuestro compromiso con la excelencia.
+Y aquí es donde tú entras en la escena: **escuchándote** fuimos mejorando y mejorando *productos, presentación, atención, sistemas*, etc. Junto a ti, poco a poco 2 jóvenes emprendedores, con el apoyo de sus padres, fueron escalando, puliendo, mejorando, elevando, haciendo maravillas con la heladería. 
 
-### Qué hacemos en Holographic
+### El lugar que te atrae tanto en las tardes de San Agustín
 
-La falsificación es una amenaza constante en muchos sectores, y sabemos que proteger tus productos es crucial para mantener la confianza de tus clientes. Por esta razón [Holographic ofrece una variedad de soluciones](/) diseñadas para proporcionar esa seguridad:
+La sede de San Agustín es una esquina encantadora. **El ambiente del pueblito más la decoración fresca y limpia**, hace que este punto sea tan especial.
 
-- **Hologramas Antifalsificación**: [Hologramas personalizados]({{'productos/stickers-holograficos/personalizados' | relative_url}} "Hologramas personalizados"){:target="_blank"} que no solo aseguran la autenticidad, sino que también refuerzan la imagen de tu marca.
-- **Etiquetas de Seguridad VOID**: Etiquetas que revelan mensajes de seguridad cuando se intentan despegar, proporcionando una clara [evidencia de manipulación con la marca VOID]({{'productos/etiquetas-void' | relative_url}} "Etiquetas adhesivas VOID"){:target="_blank"}.
-- **Cintas de Seguridad**: [Cintas adhesivas con propiedades de seguridad avanzadas]({{'productos/cintas-de-seguridad' | relative_url}} "Cintas de seguridad"){:target="_blank"}, ideales para sellar envíos y productos de alto valor.
-- **Soluciones de Trazabilidad**: Sistemas que permiten [rastrear el recorrido de tus productos]({{'industrias/marcacion-y-trazabilidad-de-activos-fijos' | relative_url}} "Marcación interna"){:target="_blank"} a través de la cadena de suministro, garantizando transparencia y control total.
+Aquí fue donde comenzó GurCoff, y hasta el día de hoy sigue siendo una excelente escapada para pasar una tarde deliciosa.
 
-#### Tabla comparativa de nuestras soluciones
+## Los sabores de helado GurCoff que han hecho historia en la zona
 
-| ℹ️ Característica                  | 🚫 Hologramas Antifalsificación | 🖨️ Etiquetas de Seguridad VOID | 📦 Cintas de Seguridad | 📋 Soluciones de Trazabilidad |
-|-------------------------------|------------------------------|-----------------------------|---------------------|----------------------------|
-| ℹ️ Protección Contra Falsificación | 🚫 Alta                          | 🖨️ Media                        | 📦 Alta                | 📋 Media                      |
-| ℹ️ Evidencia de Manipulación       | 🚫 No                            | 🖨️ Sí                           | 📦 Sí                  | 📋 No                         |
-| ℹ️ Personalización                 | 🚫 Alta                          | 🖨️ Media                        | 📦 Media               | 📋 Alta                       |
-| ℹ️ Aplicación                      | 🚫 Productos físicos             | 🖨️ Productos y embalajes        | 📦 Envíos y productos  | 📋 Toda la cadena de suministro |
+Nuestros helados son más que un postre; son una experiencia. Cada sabor ha sido cuidadosamente seleccionado para garantizar que te enamores desde el primer bocado.
 
-### Nuestros clientes
+>Te lo prometemos: No hay un sabor igual a las recetas de yogur y vainilla de GurCoff
 
-Atendemos a empresas en [industrias altamente susceptibles a la falsificación]({{'industrias' | relative_url}} "Industrias clientes de Holographic"){:target="_blank"}, donde la seguridad y la integridad del producto son fundamentales. Nuestros clientes incluyen:
+Después de escuchar a los más sabios, y de estudiar como si su vida dependiera de esas clases, también **lograron estabilizar y establecer firmemente la calidad de nuestro helado en 3 aspectos importantes**:
 
-- **Licoreras**: Protegemos marcas premium contra la falsificación y el fraude, [asegurando que cada botella en el mercado sea genuina]({{'productos/stickers-holograficos/licores' | relative_url}} "Estampillas licores"){:target="_blank"}.
-- **Productos Farmacéuticos**: Garantizamos que los medicamentos lleguen al consumidor final sin alteraciones, protegiendo la salud pública.
-- **Cosméticos**: Salvaguardamos la autenticidad de productos de belleza, evitando riesgos asociados con imitaciones.
-- **Repuestos Automotores**: Aseguramos que cada pieza y repuesto en el mercado es original, manteniendo la seguridad de los vehículos.
+1. Sabores que caracterizaran a la heladería
+2. Texturas suaves pero con la cremosidad correcta
+3. Consistencia en el proceso para que siempre encuentres el mismo producto que te encanta
 
-### Nuestro compromiso
+Para esta tarea, contratamos una excelente profesional. Ella llevó nuestras recetas al siguiente nivel. Probamos helado hasta cansarnos. Pero logramos **los sabores que sabemos que nos diferencian y nos hacen los mejores**.
 
-Nuestro compromiso no se detiene en la entrega de productos de alta calidad.
+Aquí hay una tabla descriptiva de nuestros sabores:
 
->En **Holographic**, creemos en construir relaciones a largo plazo con nuestros clientes, basadas en la confianza y el servicio excepcional.
+| Sabor | Descripción | Disponible en |
+| ----- | ----- | ----- |
+| Vainilla | Receta única de GurCoff con vainilla real y un toque de dulce sutil. No es empalagoso ni satura de dulce tu antojito. Y con nuestro café natural de la zona, hacen un producto único en todo el Huila conocido como affogato | **Pitalito y San Agustín** |
+| Yogur | Receta GurCoff con el toque ácido y espesito, como el yogur natural. Es el más bajo en azúcar de las 2 recetas. Tenemos clientes diabéticos que disfrutan de este postre y quienes nos cuentan que es el único helado que no les hace daño. Y es el más solicitado por todos ustedes. | **Pitalito y San Agustín** |
+| Ambos combinados | El punto de cada receta genera una combinación especial. Juntos son un distintivo de nuestra heladería inigualable | **Pitalito y San Agustín** |
 
-Nos esforzamos por entender las necesidades únicas de cada cliente y ofrecer soluciones personalizadas que se adapten perfectamente a sus requerimientos.
+[👉 Descubre Nuestro Menú](https://wa.me/c/573026370737){:class="boton boton_1" rel="nofollow noopener noreferrer" target="_blank"}
 
-Nuestra filosofía se basa en la innovación constante.
+## La expansión de GurCoff hacia Pitalito
 
-Invertimos continuamente en investigación y desarrollo para estar a la vanguardia de las tecnologías de seguridad. Este enfoque nos permite ofrecer soluciones que no solo cumplen con los estándares actuales, sino que también anticipan y responden a futuros desafíos en seguridad y trazabilidad.
+Gracias a nuestro éxito en **San Agustín, Huila**, y al trabajo continua de toda la familia, hemos abierto una nueva sede en **Pitalito**. Ahora puedes disfrutar de nuestros helados irresistibles en una **sede campestre preparada para comer bien rico, y para que tus hijos puedan correr y pasarla bien rico**.
 
-### Testimonios de quienes cuidan sus activos con Holographic
+Comenzamos poco a poco dentro de la ciudad. Pero descubrimos analizando el mercado que a ti te encanta salir, buscar un espacio donde recuperes tu paz y llegues a casa con la sensación de descanso y relajación. Entonces, **hicimos que la heladería GurCoff de Pitalito sea la respuesta a tu deseo de despejarte y relajarte a las afueras de la ciudad**.
 
-> "Muy buen servicio, atención al cliente y excelentes productos." - [Makrotoner & suministros]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
+[👉 El GurCoff más cercano](https://www.google.com/maps/search/GurCoff+pitalito/@1.8857139,-76.4292126,11z?entry=ttu){:rel="nofollow noopener noreferrer" target="_blank" class="boton boton_1"}
 
-> "Buenos productos y buen servicio al cliente. Recomendados!" - [Rediserv LTDA]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
+### Tu opinión es importante para nosotros
 
-> "Cuando hablamos de un proveedor serio, hablamos de Holographic SAS, una empresa bogotana, tecnolÓgicamente a la vanguardia, capaz de atender y satisfacer al cliente más complicado. La calidez y la profesionalidad de su personal técnico / comercial, hacen de esta empresa uno de los mejores proveedores de Laboratorios San Roque. La calidad de sus trabajos no tiene iguales en Ecuador, asi como la respuesta comercial, siempre a la altura de la situación. Una relación precio / calidad difícil de conseguir hoy en dia. Gracias Holographic SAS por ser parte de nuestro éxito!" - [Laboratorios San Roque]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
+Estamos comprometidos con la mejora continua y tu opinión es vital para nosotros. Aquí hay algunas formas en las que puedes contribuir:
 
-### Conoce al equipo de Holographic
+- **Encuestas de satisfacción**: Por favor cuéntanos si podemos mejorar en algo. Queremos ser siempre tu opción favorita. Y escuchándote es como lo hemos logrado. ¿Te gustaría felicitarnos? ¿Tienes una sugerencia para nosotros? *Haz clic en el botón de WhatsApp de la derecha de tu pantalla y cuéntanos*.
+- **Comentarios en redes sociales**: [Síguenos en Instagram]({{site.instagram}}){:rel="nofollow noopener noreferrer" target="_blank"} o también en [Facebook]({{site.facebook}}){:rel="nofollow noopener noreferrer" target="_blank"} y comparte tu experiencia GurCoff.
 
-El corazón de **Holographic** es nuestro equipo de expertos apasionados y dedicados.
+----
 
-Cada miembro de nuestro equipo aporta una valiosa experiencia y un compromiso inquebrantable con la seguridad y la innovación.
+## GurCoff es un lugar para relajarse y disfrutar
 
-#### Trabajamos juntos para diseñar y entregar soluciones que superan las expectativas de nuestros clientes
+Desde el principio, nos esforzamos por crear espacios que además de servir helados deliciosos, también sean una escapada muy agradable para ti, tus amigos y tu familia.
 
-Nuestros ingenieros y técnicos están constantemente capacitados en las últimas tecnologías y tendencias del mercado, asegurando que nuestras soluciones estén siempre un paso adelante en la lucha contra la falsificación.
+Aquí te contamos algunas razones por las que las sedes de GurCoff son el lugar perfecto para relajarse:
 
-### Contáctanos
+* **Ambiente Agradable**: Te va a encantar sentir la gran comodidad y el espacio que *te obligará a pasar un buen rato allí*.
+* **Excelente Servicio al Cliente**: A todos nos encanta que nos atiendan bien. Y así te sentirás con nuestro personal. Todos nuestros procesos están preparados para que cuando salgas a casa, *sientas que pasaste la mejor parte de tu día en GurCoff*.
+* **Ubicación Estratégica**: Fácil acceso y estacionamiento para que tu visita sea cómoda y no te preocupes por tu vehículo. Tu familia, o tú mismo, podrás acceder a nuestras sedes, aún si tienes algún impedimento que dificulte tu movilidad.
 
-No permitas que la falsificación amenace tu negocio. Estamos aquí para ayudarte a proteger tus productos con soluciones de seguridad avanzadas.
-
-Contáctanos hoy mismo para una consulta personalizada y descubre cómo podemos ayudarte a salvaguardar tu marca y productos.
-
-[Escríbenos por WhatsApp]({{site.whatsapp}}) y obtén una respuesta inmediata.
-
----
-
-Gracias por conocer más sobre nosotros. En **Holographic**, estamos dedicados a proporcionarte la tranquilidad de saber que tus productos están seguros y auténticos.
-
-[Conoce nuestros productos]({{'productos' | relative_url }} "Catálogo Holographic"){:class="boton boton_1"}
+Deseamos que esta información te haya dado una visión completa de lo que GurCoff tiene para ofrecerte. Si estás en **Pitalito o San Agustín, Huila**, te invitamos a visitarnos y experimentar todo lo que hemos preparado para ti.

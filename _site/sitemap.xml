@@ -1,215 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
-    
+  
+  
+  
+  
+  
     
   
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-07-04T11:29:34-05:00</lastmod>
+        <lastmod>2024-07-11T11:56:49-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <priority>0.8</priority>
         
-          <image:image>
-            <image:loc>http://localhost:4000/img/blog.jpg</image:loc>
-            <image:title>Blog de Holographic: expertos en seguridad y trazabilidad de envíos</image:title>
-            <image:caption>Imagen del logo del blog de Holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/blog.webp</image:loc>
-            <image:title>Blog de Holographic: expertos en seguridad y trazabilidad de envíos</image:title>
-            <image:caption>Imagen del logo del blog de Holographic</image:caption>
-          </image:image>
-        
-        
+        <image:image>
+          <image:loc>http://localhost:4000/img/raticogurcoff.webp</image:loc>
+          <image:title>Fotografía de un vaso GurCoff</image:title>
+        </image:image>
         
       </url>
     
   
     
       <url>
-        <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2024-07-04T11:29:34-05:00</lastmod>
+        <loc>http://localhost:4000/categorias</loc>
+        <lastmod>2024-07-11T11:56:49-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/productos-holographic.jpg</image:loc>
-            <image:title>Catálogo de productos de Holographic en Colombia</image:title>
-            <image:caption>Fotografía de productos de holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/productos-holographic.webp</image:loc>
-            <image:title>Catálogo de productos de Holographic en Colombia</image:title>
-            <image:caption>Fotografía de productos de holographic</image:caption>
-          </image:image>
-        
-        
+        <priority>0.8</priority>
         
       </url>
     
   
     
       <url>
-        <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-07-04T11:29:34-05:00</lastmod>
+        <loc>http://localhost:4000/clubgurcoff</loc>
+        <lastmod>2024-07-11T11:56:49-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <priority>0.8</priority>
         
-          <image:image>
-            <image:loc>http://localhost:4000/img/contacto-holographic.jpg</image:loc>
-            <image:title>Contacta con Holographic y encuentra la solución que buscas</image:title>
-            <image:caption>Imagen de íconos para contactar con Holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/contacto-holographic.webp</image:loc>
-            <image:title>Contacta con Holographic y encuentra la solución que buscas</image:title>
-            <image:caption>Imagen de íconos para contactar con Holographic</image:caption>
-          </image:image>
-        
-        
+        <image:image>
+          <image:loc>http://localhost:4000/img/clubgurcoff.webp</image:loc>
+          <image:title>Fotografía del club gurcofff</image:title>
+        </image:image>
         
       </url>
-    
-  
-    
     
   
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-07-04T11:29:34-05:00</lastmod>
+        <lastmod>2024-07-11T11:56:49-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <priority>0.8</priority>
         
-          <image:image>
-            <image:loc>http://localhost:4000/img/sticker-holographic.png</image:loc>
-            <image:title>Etiquetas de Seguridad y Holográficas para Empresas</image:title>
-            <image:caption>Rollo de stickers holográficos</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/sticker-holographic.webp</image:loc>
-            <image:title>Etiquetas de Seguridad y Holográficas para Empresas</image:title>
-            <image:caption>Rollo de stickers holográficos</image:caption>
-          </image:image>
-        
-        
+        <image:image>
+          <image:loc>http://localhost:4000/img/juego-agilizate.webp</image:loc>
+          <image:title>Agilizate Juego</image:title>
+        </image:image>
         
       </url>
     
   
     
-      <url>
-        <loc>http://localhost:4000/industrias</loc>
-        <lastmod>2024-07-04T11:29:34-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/industrias-holographic.jpg</image:loc>
-            <image:title>En Holographic ayudamos a proteger industrias enteras</image:title>
-            <image:caption>Fotografía de un negocio en las oficinas de Holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/industrias-holographic.webp</image:loc>
-            <image:title>En Holographic ayudamos a proteger industrias enteras</image:title>
-            <image:caption>Fotografía de un negocio en las oficinas de Holographic</image:caption>
-          </image:image>
-        
-        
-        
-      </url>
-    
-  
-    
-    
   
     
       <url>
-        <loc>http://localhost:4000/productos/mantenimiento-impresoras-termicas</loc>
-        <lastmod>2024-07-04T11:29:34-05:00</lastmod>
+        <loc>http://localhost:4000/ofertas</loc>
+        <lastmod>2024-07-11T11:56:49-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <priority>0.8</priority>
         
-          <image:image>
-            <image:loc>http://localhost:4000/img/mantenimiento-impresoras.jpg</image:loc>
-            <image:title>Hacemos el mantenimiento y reparación de impresoras térmicas</image:title>
-            <image:caption>Fotografía de adhesivos personalizados</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/mantenimiento-impresoras.webp</image:loc>
-            <image:title>Hacemos el mantenimiento y reparación de impresoras térmicas</image:title>
-            <image:caption>Fotografía de adhesivos personalizados</image:caption>
-          </image:image>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2024-07-04T11:29:34-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/blog.jpg</image:loc>
-            <image:title>Preguntas frecuentes sobre los stickers de de Holographic</image:title>
-            <image:caption>Fotografía de un vaso GurCoff</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/blog.webp</image:loc>
-            <image:title>Preguntas frecuentes sobre los stickers de de Holographic</image:title>
-            <image:caption>Fotografía de un vaso GurCoff</image:caption>
-          </image:image>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/productos</loc>
-        <lastmod>2024-07-04T11:29:34-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/productos-holographic.jpg</image:loc>
-            <image:title>Estos productos de Holographic en Colombia están a tu alcance</image:title>
-            <image:caption>Fotografía de productos de holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/productos-holographic.webp</image:loc>
-            <image:title>Estos productos de Holographic en Colombia están a tu alcance</image:title>
-            <image:caption>Fotografía de productos de holographic</image:caption>
-          </image:image>
-        
-        
+        <image:image>
+          <image:loc>http://localhost:4000/img/bienvenida.webp</image:loc>
+          <image:title>Fotografía de un productos premium en GurCoff</image:title>
+        </image:image>
         
       </url>
     
@@ -217,379 +86,31 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-07-04T11:29:34-05:00</lastmod>
+        <lastmod>2024-07-11T11:56:49-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <priority>0.8</priority>
         
-          <image:image>
-            <image:loc>http://localhost:4000/img/quienes-somos.jpg</image:loc>
-            <image:title>Somos Holographic y estamos para asegurar tu mercancía y activos</image:title>
-            <image:caption>Logotipo de Holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/quienes-somos.webp</image:loc>
-            <image:title>Somos Holographic y estamos para asegurar tu mercancía y activos</image:title>
-            <image:caption>Logotipo de Holographic</image:caption>
-          </image:image>
-        
-        
+        <image:image>
+          <image:loc>http://localhost:4000/img/gurcoff-vaso.webp</image:loc>
+          <image:title>Fotografía de un vaso GurCoff</image:title>
+        </image:image>
         
       </url>
     
   
     
       <url>
-        <loc>http://localhost:4000/recursos-gratuitos</loc>
-        <lastmod>2024-07-04T11:29:34-05:00</lastmod>
+        <loc>http://localhost:4000/blog/ensaladas-de-frutas-pitalito</loc>
+        <lastmod>2024-07-01T00:00:00-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <priority>0.8</priority>
         
-          <image:image>
-            <image:loc>http://localhost:4000/img/recursos-gratis.jpg</image:loc>
-            <image:title>Recursos Gratis de Trazabilidad y Marcación | Holographic</image:title>
-            <image:caption>Imagen de los recursos gratis de Holographic</image:caption>
-          </image:image>
-        
-        
-          <image:image>
-            <image:loc>http://localhost:4000/img/recursos-gratis.webp</image:loc>
-            <image:title>Recursos Gratis de Trazabilidad y Marcación | Holographic</image:title>
-            <image:caption>Imagen de los recursos gratis de Holographic</image:caption>
-          </image:image>
-        
-        
+        <image:image>
+          <image:loc>http://localhost:4000/img/juego-agilizate.webp</image:loc>
+          <image:title>Foto de Ensaladas de frutas Pitalito</image:title>
+        </image:image>
         
       </url>
     
-  
-    
-    
-  
-    
-    
-  
-    
-    
-  
-  
-  
-    <url>
-      <loc>http://localhost:4000/blog/que-es-holograma-seguridad</loc>
-      <lastmod>2024-06-26T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/stickers-holograficos.jpg</image:loc>
-          <image:title>¿Que es un Holograma de Seguridad? Conoce los de Holographic</image:title>
-          <image:caption>Fotografía de un sticker holográfico</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/stickers-holograficos.webp</image:loc>
-          <image:title>¿Que es un Holograma de Seguridad? Conoce los de Holographic</image:title>
-          <image:caption>Fotografía de un sticker holográfico</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/cintas-de-cera-y-resina</loc>
-      <lastmod>2024-06-25T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/cintas-resina-cera.jpg</image:loc>
-          <image:title>Cinta de Cera y Resina para Impresión Térmica</image:title>
-          <image:caption>Fotografía de cintas de cera</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/cintas-resina-cera.webp</image:loc>
-          <image:title>Cinta de Cera y Resina para Impresión Térmica</image:title>
-          <image:caption>Fotografía de cintas de cera</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/adhesivos-para-domicilios</loc>
-      <lastmod>2024-06-24T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/cintas-seguridad-domicilios.jpg</image:loc>
-          <image:title>Protege Domicilios con Stickers y Cintas de Seguridad</image:title>
-          <image:caption>Fotografía de cintas de seguridad para domicilios</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/cintas-seguridad-domicilios.webp</image:loc>
-          <image:title>Protege Domicilios con Stickers y Cintas de Seguridad</image:title>
-          <image:caption>Fotografía de cintas de seguridad para domicilios</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/etiquetas-cascara-de-huevo</loc>
-      <lastmod>2024-06-23T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/cascara-de-huevo.jpg</image:loc>
-          <image:title>Cáscara de Huevo vs Etiquetas Holográficas - Holographic</image:title>
-          <image:caption>Fotografía de etiqueta cáscara de huevo</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/cascara-de-huevo.webp</image:loc>
-          <image:title>Cáscara de Huevo vs Etiquetas Holográficas - Holographic</image:title>
-          <image:caption>Fotografía de etiqueta cáscara de huevo</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/sector-de-la-educacion</loc>
-      <lastmod>2024-06-22T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/diploma-con-sticker-de-seguridad.jpg</image:loc>
-          <image:title>Hologramas en Certificados: Seguridad en la Educación</image:title>
-          <image:caption>Foto de diploma con holograma de autenticación</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/diploma-con-sticker-de-seguridad.webp</image:loc>
-          <image:title>Hologramas en Certificados: Seguridad en la Educación</image:title>
-          <image:caption>Foto de diploma con holograma de autenticación</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/etiquetas-para-alimentos</loc>
-      <lastmod>2024-06-20T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/etiquetas-para-alimentos.jpg</image:loc>
-          <image:title>Etiquetas Para Alimentos: Protege al Consumidor</image:title>
-          <image:caption>Foto de holograma para alimentos</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/etiquetas-para-alimentos.webp</image:loc>
-          <image:title>Etiquetas Para Alimentos: Protege al Consumidor</image:title>
-          <image:caption>Foto de holograma para alimentos</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/autoridades-y-gobierno</loc>
-      <lastmod>2024-06-20T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/holograma-autoridades.jpg</image:loc>
-          <image:title>Seguridad en Documentos: De Hologramas a Etiquetas QR</image:title>
-          <image:caption>Fotografía de holograma para documentos</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/holograma-autoridades.webp</image:loc>
-          <image:title>Seguridad en Documentos: De Hologramas a Etiquetas QR</image:title>
-          <image:caption>Fotografía de holograma para documentos</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/etiquetas-productos-farmaceuticos</loc>
-      <lastmod>2024-06-19T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/etiqueta-medicamentos.jpg</image:loc>
-          <image:title>Etiquetas Holográficas para Medicamentos - Máxima Seguridad</image:title>
-          <image:caption>Fotografía de medicamento con etiqueta holográfica</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/etiqueta-medicamentos.webp</image:loc>
-          <image:title>Etiquetas Holográficas para Medicamentos - Máxima Seguridad</image:title>
-          <image:caption>Fotografía de medicamento con etiqueta holográfica</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/marcacion-activos-fijos</loc>
-      <lastmod>2024-06-18T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/marcacion-activos-fijos.jpg</image:loc>
-          <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
-          <image:caption>Fotografía de activos con etiquetas de marcación</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/marcacion-activos-fijos.webp</image:loc>
-          <image:title>Protege tus activos fijos con etiquetas de marcación</image:title>
-          <image:caption>Fotografía de activos con etiquetas de marcación</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/trazabilidad-interna</loc>
-      <lastmod>2024-06-17T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/trazabilidad-interna-holographic.jpg</image:loc>
-          <image:title>Trazabilidad interna: toda una guía paso a paso</image:title>
-          <image:caption>Imagen de un trabajo ejecutando la trazabilidad interna</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/trazabilidad-interna-holographic.webp</image:loc>
-          <image:title>Trazabilidad interna: toda una guía paso a paso</image:title>
-          <image:caption>Imagen de un trabajo ejecutando la trazabilidad interna</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/etiquetas-para-garantias</loc>
-      <lastmod>2024-06-16T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/etiqueta-garantia.jpg</image:loc>
-          <image:title>Etiquetas de garantía: Consíguelas con Holographic</image:title>
-          <image:caption>Foto de dispositivo con una etiqueta de garantía</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/etiqueta-garantia.webp</image:loc>
-          <image:title>Etiquetas de garantía: Consíguelas con Holographic</image:title>
-          <image:caption>Foto de dispositivo con una etiqueta de garantía</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/hologramas-para-licores</loc>
-      <lastmod>2024-06-14T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/holograma-para-licores.jpg</image:loc>
-          <image:title>Utiliza etiquetas holográficas para botellas de licor</image:title>
-          <image:caption>Foto de impresoras térmicas en buen estado</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/holograma-para-licores.webp</image:loc>
-          <image:title>Utiliza etiquetas holográficas para botellas de licor</image:title>
-          <image:caption>Foto de impresoras térmicas en buen estado</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/etiquetas-con-codigos-qr</loc>
-      <lastmod>2024-06-10T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/etiqueta-qr.jpg</image:loc>
-          <image:title>Hologramas con códigos QR: Marca y controla tus activos</image:title>
-          <image:caption>Fotografía de un holograma QR</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/etiqueta-qr.webp</image:loc>
-          <image:title>Hologramas con códigos QR: Marca y controla tus activos</image:title>
-          <image:caption>Fotografía de un holograma QR</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/cintas-de-seguridad-caracteristicas-funciones</loc>
-      <lastmod>2024-06-04T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/cinta-seguridad.jpg</image:loc>
-          <image:title>Características y funciones de las cintas de seguridad</image:title>
-          <image:caption>Foto de una cinta de seguridad personalizada</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/cinta-seguridad.webp</image:loc>
-          <image:title>Características y funciones de las cintas de seguridad</image:title>
-          <image:caption>Foto de una cinta de seguridad personalizada</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/codigos-de-barras</loc>
-      <lastmod>2024-05-18T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/etiquetas-void-holographic.jpg</image:loc>
-          <image:title>Códigos de barras: sigue y controla tus productos y activos</image:title>
-          <image:caption>Fotografía de una etiqueta VOID</image:caption>
-        </image:image>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/etiquetas-void-holographic.webp</image:loc>
-          <image:title>Códigos de barras: sigue y controla tus productos y activos</image:title>
-          <image:caption>Fotografía de una etiqueta VOID</image:caption>
-        </image:image>
-      
-    </url>
-  
-  
   
 </urlset>

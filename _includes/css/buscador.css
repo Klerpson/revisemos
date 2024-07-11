@@ -42,7 +42,7 @@
 
 .buscador > a{
   position: absolute;
-  right: calc(((100vw - 1128px) / 2) - ((100vw - 1128px) / 2));;
+  right: calc((100vw - 1128px) / 2);
   top: 2em;
   padding: 8px;
   line-height: 1;

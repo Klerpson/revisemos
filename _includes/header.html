@@ -1,59 +1,39 @@
 {% assign layout = page.layout %}
 {% case layout %}
-
 {% when "default" %}
-<header class="bloques wrapper">
-  <div class="header_mini_bloque bg">
-    <h2>Proteja su marca y sus productos con hologramas antifalsificación</h2>
-    <img src="{{ 'img/sticker-holografico-azul-turquesa.webp' | relative_url }}" alt="Sticker de Holographic" title="Etiqueta de seguridad">
-  </div>
-  <div class="header_bloque bloque_big" style="background: transparent;">
-    <video autoplay muted loop playsinline preload="auto">
-      <source src="{{ 'videos/sticker-premium.mp4' | relative_url }}" type="video/mp4">
-      Tu navegador no soporta la etiqueta de video.
-    </video>
+
+  <header class="home_header wrapper flow">
     <div>
-      <p>{{page.intro}}</p>
       <h1>{{page.h1}}</h1>
-      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
+      <p>{{page.excerpt}}</p>
+      <a href="{{'juegos/juego-agilizate' | relative_url}}" title="Agilizate Juego" class="boton boton_1">Consigue el Agilízate</a>
     </div>
-  </div>
+    <img src="{{page.hero | relative_url}}" alt="{{page.alt}}" title="{{page.title}}"  width="520" height="520">
+
   
-  {% when "pagina" %}
-  <header class="post_header wrapper">
-    <div class="header_bloque flow">
-      <h1>{{page.h1}}</h1>
-    </div>
-    <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
-    {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
-
+  
 {% when "post" %}
-<header class="post_header wrapper">
-  <div class="bg flow">
-    <h1>{{page.h1}}</h1>
-    <p>{{page.intro}}</p>
-    <small>Autor: {{page.autor}} | Temática: {{page.category}}</small>
-    <small><b>📍Estás aquí: </b><a href="/" title="Página de inicio">Inicio</a>/<a href="{{'blog' | relative_url}}" title="Blog Holographic">Blog</a>/{{page.title}}</small>
-  </div>
-    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340">
 
-{% else %}
-<header class="bloques wrapper">
-  <div class="header_bloque bloque_big">
-    <img src="{{page.hero |relative_url}}" alt="{{page.alt}}">
-    <div>
+  <header class="post_header wrapper">
+    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" loading="lazy">
+    <div class="flow">
       <h1>{{page.h1}}</h1>
-      <p>{{page.intro}}</p>
-      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
+      <p>{{page.description}}</p>
+      <small>Autor: {{page.autor}}</small>
+      <small>Temática: <a href="{{page.category | remove: '#' | relative_url }}">{{page.category}}</a></small>
+      <h3>🤩 <span class="resaltar">{{page.title}}</span>. Sigue leyendo...</h3>
     </div>
-  </div>
-  <div class="header_mini_bloque bg">
-    <h4>Accesos rápidos</h4>
-    {% for items in page.enlaces %}
-    {% for item in items %}
-      <a href="{{item[1]}}">› {{item[0]}}</a>
-    {% endfor %}
-    {% endfor %}
-  </div>
+    
+{% else %}
+    
+  <header class="post_header wrapper">
+    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" loading="lazy">
+    <div class="flow">
+      <h1>{{page.h1}}</h1>
+      <p>{{page.description}}</p>
+      <p>Calificación: ⭐⭐⭐⭐🌟</p>
+      <p>Precio: 28000</p>
+      <a href="{{site.whatsapp}}%20{{page.h1}}" title="{{page.title}}" class="boton boton_1" rel="nofollow noopener noreferrer" target="_blank">Escríbenos por WhatsApp</a>
+    </div>
 {% endcase %}
 </header>

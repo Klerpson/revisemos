@@ -6,90 +6,55 @@ layout: compress
   <!-- Google Tag Manager (noscript) -->
   <!-- End Google Tag Manager (noscript) -->
   {% include nav.html %}
-
   {% include header.html %}
-  
   {% if page.layout == "post" %}
     <main class="wrapper flow">
       {{ content }}
       <div class="post-social wrapper">
         {% include share.html %}
       </div>
-      {% include cta.html%}
+      <aside class="flow" style="padding-top: 2em;">
+        <h3>Últimas publicaciones del Blog</h3>
+        <div class="home_gallery wrapper">
+          {% for post in site.posts limit:3 offset:1 %}
+          <article>
+            <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy">
+            <div>
+              <h4>{{post.h1}}</h4>
+              <a href="{{post.url|relative_url}}" title="{{post.title}}">Leer más</a>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </aside>
     </main>
-    <a href="#">
-      {% include boton-up.html %}
-    </a>
+    <a href="#">{% include boton-up.html %}</a>
 
   {% else %}
-
     {{ content }}
-
   {% endif %}
-
-  {% include footer.html %}
-  <a href="{{site.whatsapp}}" class="boton-whatsapp">
-    <img src="{{'img/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">
-  </a>
+    
+    {% include footer.html %}
+    <a href="{{site.catalogo}}" class="boton-whatsapp">
+      <img src="{{'img/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">
+    </a>
+  {% if page.url == "/categorias" %}
+  <script async>
+    const filterButtons = document.querySelectorAll(".blog-tags button");
+    const filterPosts = document.querySelectorAll(".posts .post");
   
-<a href="#">
-  {% include boton-up.html %}
-</a>
-<script src="/js/slider.js" defer></script>
-{% if page.url == "/productos/etiquetas-personalizadas" %}
-<script>
-  const colorOptions = {
-      "13X10 mm": ["Dorado", "Plateado", "Azul"],
-      "22x15 mm": ["Dorado", "Plateado", "Azul", "Cobre", "Negro", "Transparente", "Azul cielo", "Gris", "Rojo", "Verde"],
-      "36x23 mm": ["Transparente"],
-      "48x20 mm": ["Dorado", "Azul", "Plateado"],
-      "46x17 mm": ["Rojo", "Azul"],
-      "47x22 mm": ["Dorado", "Plateado", "Turquesa", "Azul cielo"],
-      "47x25 mm": ["Dorado", "Plateado", "Turquesa", "Azul cielo"],
-      "70x10 mm": ["Dorado", "Plateado", "Turquesa"]
-  };
-
-  function updateColorOptions() {
-      const size = document.getElementById('size').value;
-      const colorSelect = document.getElementById('color');
-      colorSelect.innerHTML = '<option value="">Seleccione un color</option>';
-      
-      if (colorOptions[size]) {
-          colorOptions[size].forEach(color => {
-              const option = document.createElement('option');
-              option.value = color;
-              option.textContent = color;
-              colorSelect.appendChild(option);
-          });
-      }
-  }
-
-  document.getElementById('size').addEventListener('change', updateColorOptions);
-
-  function sendOrder() {
-      const size = document.getElementById('size').value;
-      const color = document.getElementById('color').value;
-      const quantity = document.getElementById('quantity').value;
-
-      if (!size || !color || !quantity || quantity < 1000) {
-          alert('Por favor, complete todos los campos correctamente. La cantidad mínima es 1000.');
-          return;
-      }
-
-      const message = `Hola, me gustaría hacer un pedido de etiquetas de seguridad personalizadas con las siguientes características:\n\n` +
-                      `- Tamaño: ${size}\n` +
-                      `- Color: ${color}\n` +
-                      `- Cantidad: ${quantity}`;
-
-      const phoneNumber = '573165285933'; 
-      const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
-      window.open(whatsappURL, '_blank');
-  }
-
-  document.addEventListener('DOMContentLoaded', updateColorOptions);
-</script>
-{% endif %}
-<!-- <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+    const filter = e => {
+      filterButtons.forEach(button => button.classList.toggle("active", button === e.target));
+  
+      filterPosts.forEach(post => {
+        post.classList.toggle("hide", post.dataset.name !== e.target.dataset.name && e.target.dataset.name !== "all");
+      });
+    };
+  
+    filterButtons.forEach(button => button.addEventListener("click", filter));
+    </script>
+  {% endif %}
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
   <script>
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
@@ -98,6 +63,6 @@ layout: compress
       noResultsText: 'No tenemos este texto aún',
       fuzzy: false
     });
-  </script> -->
+  </script>
   </body>
 </html>
