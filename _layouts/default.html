@@ -3,8 +3,6 @@ layout: compress
 ---
 {% include head.html %}
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <!-- End Google Tag Manager (noscript) -->
   {% include nav.html %}
   {% include header.html %}
   {% if page.layout == "post" %}
@@ -38,22 +36,7 @@ layout: compress
     <a href="{{site.catalogo}}" class="boton-whatsapp">
       <img src="{{'img/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">
     </a>
-  {% if page.url == "/categorias" %}
-  <script async>
-    const filterButtons = document.querySelectorAll(".blog-tags button");
-    const filterPosts = document.querySelectorAll(".posts .post");
   
-    const filter = e => {
-      filterButtons.forEach(button => button.classList.toggle("active", button === e.target));
-  
-      filterPosts.forEach(post => {
-        post.classList.toggle("hide", post.dataset.name !== e.target.dataset.name && e.target.dataset.name !== "all");
-      });
-    };
-  
-    filterButtons.forEach(button => button.addEventListener("click", filter));
-    </script>
-  {% endif %}
 <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
   <script>
     var sjs = SimpleJekyllSearch({

@@ -1,39 +1,111 @@
 {% assign layout = page.layout %}
 {% case layout %}
-{% when "default" %}
-
-  <header class="home_header wrapper flow">
+  {% when "default" %}
+  <header class="header-home">
+    <div class="wrapper">
+      <img src="{{'img/logo.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+      <h1>Cuida tu salud con los tratamientos de Natural One Life</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus ipsum perspiciatis doloremque!</p>
+      <a href="{{site.whatsapp}}" title="WhatsApp del cirujano Hermes Gamba" class="boton boton_1">🍃 Programa tu consulta</a>
+    </div>
+    <picture class="header_hero_image">
+      <source media="(max-width: 767px)" srcset="{{'img/hero-home-natural-one-life-vertical.webp'|relative_url}}" type="image/webp">
+      <img src="{{'img/hero-home-natural-one-life.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+    </picture>
+  </header>
+  {% when "informacional" %}
+     <header class="header-contacto">
+       <div>
+         <div class="text-hero flow">
+           <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+           <h1>{{page.h1}}</h1>
+           {% if page.intro %}
+           <p>{{page.intro}}</p>
+           {% endif %}
+         </div>
+       </div>
+     </header>
+  {% when "transaccional" %}
+  <header class="header-lipoescultura">
     <div>
-      <h1>{{page.h1}}</h1>
-      <p>{{page.excerpt}}</p>
-      <a href="{{site.whatsapp}}" title="WhatsApp Natural One Life" class="boton boton_1">🍃 Asesórate gratis</a>
+      <div class="text-hero flow">
+        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+        <h1>{{page.h1}}</h1>
+        {% if page.intro %}
+        <p>{{page.intro}}</p>
+        {% endif %}
+      </div>
     </div>
-    <img src="{{page.hero | relative_url}}" alt="{{page.alt}}" title="{{page.title}}"  width="520" height="520">
-
-  
-  
-{% when "post" %}
-
-  <header class="post_header wrapper">
-    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" loading="lazy">
-    <div class="flow">
-      <h1>{{page.h1}}</h1>
+  </header>
+  {% when "/gluteoplastia" %}
+  <header class="header-gluteoplastia">
+    <div>
+      <div class="text-hero flow">
+        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+        <h1>{{page.h1}}</h1>
+        {% if page.intro %}
+        <p>{{page.intro}}</p>
+        {% endif %}
+      </div>
+    </div>
+  </header>
+  {% when "/rinoplastia" %}
+  <header class="header-rinoplastia">
+    <div>
+      <div class="text-hero flow">
+        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+        <h1>{{page.h1}}</h1>
+        {% if page.intro %}
+        <p>{{page.intro}}</p>
+        {% endif %}
+      </div>
+    </div>
+  </header>
+  {% when "/lipopapada" %}
+  <header class="header-lipopapada">
+    <div>
+      <div class="text-hero flow">
+        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+        <h1>{{page.h1}}</h1>
+        {% if page.intro %}
+        <p>{{page.intro}}</p>
+        {% endif %}
+      </div>
+    </div>
+  </header>
+  {% when "/bichectomia" %}
+  <header class="header-bichectomia">
+    <div>
+      <div class="text-hero flow">
+        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+        <h1>{{page.h1}}</h1>
+        {% if page.intro %}
+        <p>{{page.intro}}</p>
+        {% endif %}
+      </div>
+    </div>
+  </header>
+  {% when "/blefaroplastia" %}
+  <header class="header-blefaroplastia">
+    <div>
+      <div class="text-hero flow">
+        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+        <h1>{{page.h1}}</h1>
+        {% if page.intro %}
+        <p>{{page.intro}}</p>
+        {% endif %}
+      </div>
+    </div>
+  </header>
+  {% else %}
+  <header class="header-home">
+    <div>
+      <img src="{{'img/logotipo.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
       <p>{{page.description}}</p>
-      <small>Autor: {{page.autor}}</small>
-      <small>Temática: <a href="{{page.category | remove: '#' | relative_url }}">{{page.category}}</a></small>
-      <h3>🤩 <span class="resaltar">{{page.title}}</span>. Sigue leyendo...</h3>
-    </div>
-    
-{% else %}
-    
-  <header class="post_header wrapper">
-    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" loading="lazy">
-    <div class="flow">
       <h1>{{page.h1}}</h1>
-      <p>{{page.description}}</p>
-      <p>Calificación: ⭐⭐⭐⭐🌟</p>
-      <p>Precio: 28000</p>
-      <a href="{{site.whatsapp}}%20{{page.h1}}" title="{{page.title}}" class="boton boton_1" rel="nofollow noopener noreferrer" target="_blank">Escríbenos por WhatsApp</a>
+      <a href="{{site.whatsapp}}" title="WhatsApp del cirujano Hermes Gamba" class="boton boton_2">
+        <svg height="18" width="18" fill="var(--accion)" viewBox="0 0 24 24" data-name="Layer 1" id="Layer_1" class="sparkle"> <path d="M10,21.236,6.755,14.745.264,11.5,6.755,8.255,10,1.764l3.245,6.491L19.736,11.5l-6.491,3.245ZM18,21l1.5,3L21,21l3-1.5L21,18l-1.5-3L18,18l-3,1.5ZM19.333,4.667,20.5,7l1.167-2.333L24,3.5,21.667,2.333,20.5,0,19.333,2.333,17,3.5Z"></path> </svg> Programa tu consulta</a>
     </div>
+    <img src="{{'img/hero-home-natural-one-life.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+  </header>
 {% endcase %}
-</header>

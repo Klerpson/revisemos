@@ -4,9 +4,9 @@
   --accion: #F78020;
   --secundario: #078D46;
   --acento: #078d4617;
-  --blanco: #fefefe;
+  --blanco: #FDFDFD;
   --gris: #efefef;
-  --grisFuentes: #4A5759;
+  --grisFuentes: #171f18;
   --fuente: "Montserrat", sans-serif;
   --radius: 10.2px;
   --shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.42);
@@ -43,6 +43,7 @@ h1, h2, h3, h4 {
 h1 {
   font-size: clamp(2rem, 1.75rem + 1.5vw, 2.5rem); /* Ajuste de tamaño de fuente para h1 */
   margin-bottom: 1em;
+  width: min(100%, 520px);
 }
 
 h2 {
@@ -203,7 +204,7 @@ input{
   display: block;
   border-radius: var(--radius);
   text-decoration: none;
-  padding: 8px 20px;
+  padding: 16px 20px;
   width: min(100%, 320px);
   text-align: center;
   font-weight: 700;
@@ -249,14 +250,15 @@ input{
 
 .boton-whatsapp img{
   display: inline;
+  filter: drop-shadow(0 2px 12px rgba(0, 0, 0, 0.28));
 }
 
 @media screen and (width >=800px) {
   .boton-whatsapp::before {
-    content: "¿Antojito?";
+    content: "Asesórate";
     font-size: 14px;
     color: white;
-    background-color: #2eda2e70;
+    background-color: #2eda2ea8;
     border: 3px solid white;
     padding: 8px;
     border-radius: 8px;
@@ -306,24 +308,21 @@ lord-icon{
 nav {
   position: sticky;
   width: 100%;
-  margin-inline: auto;
   display: flex;
   gap: 12px;
   justify-content: space-between;
   align-items: center;
   padding: 12px 20px;
   background-color: var(--blanco);
-  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.22);
+  box-shadow: var(--shadow);
   z-index: 100;
 }
 
-.logo-nav{
+.logo_nav{
   display: flex;
-  align-items: center;
   gap: 8px;
+  align-items: center;
   text-decoration: none;
-
-  
 }
 
 .navegacion > a,
@@ -345,22 +344,18 @@ nav {
 }
 
 .navegacion span,
-.logo-nav span{
+.logo_nav span{
   display: none;
 }
 
 @media screen and (min-width: 1024px) {
   .navegacion span,
-  .logo-nav span{
+  .logo_nav span{
     display: inline-block;
     font-size: 16px;
-    color: var(--accion);
-    font-weight: 700;
+    font-weight: 900;
   }
 
-  .logo-nav span{
-    color: var(--principal);
-  }
 }
 
 .buscador:target{
@@ -399,86 +394,154 @@ nav {
 .dropdown:hover .dropdown-content{
   display: block;
 }
+.header-home {
+  position: relative;
+  min-height: 70dvh;
+  width: 100%;
+  overflow: hidden;
+}
 
-/******* FIN NAV *******/
+.header_hero_image img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -webkit-animation: zoom 10s infinite ease-in-out;
+          animation: zoom 10s infinite ease-in-out;
+  z-index: -1;
+}
 
-/************ PAGE HEADER *********/
+@-webkit-keyframes zoom {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
 
-.home_header,
-.post_header{
+@keyframes zoom {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.header-home div{
   display: flex;
-  flex-wrap: wrap;
-  gap: 1em;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-around;
+  padding: 4em 0;
+  text-align: center;
+}
 
-  img{
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
+@media screen and (min-width: 991px ) {
+  .header-home div{
+    text-align: left;
+    align-items: flex-start;
+
+    a{
+      margin: 1em 0;
+    }
   }
 }
 
-.home_header div{
-  flex: 1 0 400px;
-  max-width: 100%;
-
-  h1{
-    font-size: clamp(1.125rem, 1.089rem + 0.18vw, 1.25rem);
-    font-weight: 400;
-  }
-
-  p{
-    font-size: clamp(2.5rem, 2.2rem + 1.5vw, 3.25rem);
-    line-height: 1.1;
-    font-weight: 700;
-  }
+.header-home div p{
+  width: min(100%, 520px);
 }
 
-.post_header div{
-  flex: 1 0 400px;
-  max-width: 100%;
+.header-home div > img{
+  width: min(100%, 400px);
 }
 
-.home_gallery{
+.header-contacto{
+  background-image: url('/img/contacto-hermes-gamba.webp');
+}
+
+.header-gluteoplastia{
+  background-image: url('/img/gluteoplastia.webp');
+}
+
+.header-lipoescultura{
+  background-image: url('/img/lipoescultura.webp');
+}
+
+.header-rinoplastia{
+  background-image: url('/img/operacion-nariz.webp');
+}
+
+.header-lipopapada{
+  background-image: url('/img/operacion-papada.webp');
+}
+
+.header-bichectomia{
+  background-image: url('/img/operacion-mejillas.webp');
+}
+
+.header-blefaroplastia{
+  background-image: url('/img/operacion-parpados.webp');
+}
+
+.header-contacto,
+.header-lipoescultura,
+.header-lipopapada,
+.header-rinoplastia,
+.header-blefaroplastia,
+.header-bichectomia,
+.header-gluteoplastia{
+  position: relative;
+  min-height: 70dvh;
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+}
+
+.header-contacto > div,
+.header-lipoescultura > div,
+.header-lipopapada > div,
+.header-rinoplastia > div,
+.header-blefaroplastia > div,
+.header-bichectomia > div,
+.header-gluteoplastia > div{
+  position: relative;
+  background-color: rgba(120, 166, 207, 0.90);
+  z-index: 2;
+  width: 100%;
+  min-height: 70dvh;
   display: grid;
-  gap: 40px;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 400px), 1fr));
-  place-content: center;
+  place-items: center;
 }
 
-.home_gallery article{
-  display: flex;
-  gap: 16px;
-  align-items: center;
-  border-bottom: dotted 2px var(--gris);
-  padding-bottom: 1em;
+.text-hero{
+  z-index: 2;
+  padding: 3em 16px;
+  width: min(100%, 800px);
+  display: grid;
+  place-items: center;
+  text-align: center;
 }
 
-.home_gallery article img{
-  width: 112px;
-  height: 112px;
-  border-radius: var(--radius);
-  object-fit: cover;
-  box-shadow: var(--shadow);
+.text-hero h1{
+  color: var(--principal);
 }
 
-.home_gallery article div p{
-  line-height: 1.2;
-  font-size: 18px;
-}
-
-.home_gallery .boton{
-  grid-column: 1 / -1;
-}
-
-.home_gallery img{
-  z-index: 3;
-}
-
-.page_header img{
-  border-radius: var(--radius);
-  margin: 0 auto;
-  display: block;
+.text-hero p {
+  color: white;
+  font-weight: 700;
 }
 .catalogo{
   display: grid;

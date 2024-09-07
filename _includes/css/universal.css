@@ -4,9 +4,9 @@
   --accion: #F78020;
   --secundario: #078D46;
   --acento: #078d4617;
-  --blanco: #fefefe;
+  --blanco: #FDFDFD;
   --gris: #efefef;
-  --grisFuentes: #4A5759;
+  --grisFuentes: #171f18;
   --fuente: "Montserrat", sans-serif;
   --radius: 10.2px;
   --shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.42);
@@ -43,6 +43,7 @@ h1, h2, h3, h4 {
 h1 {
   font-size: clamp(2rem, 1.75rem + 1.5vw, 2.5rem); /* Ajuste de tamaño de fuente para h1 */
   margin-bottom: 1em;
+  width: min(100%, 520px);
 }
 
 h2 {
@@ -203,7 +204,7 @@ input{
   display: block;
   border-radius: var(--radius);
   text-decoration: none;
-  padding: 8px 20px;
+  padding: 16px 20px;
   width: min(100%, 320px);
   text-align: center;
   font-weight: 700;
@@ -249,14 +250,15 @@ input{
 
 .boton-whatsapp img{
   display: inline;
+  filter: drop-shadow(0 2px 12px rgba(0, 0, 0, 0.28));
 }
 
 @media screen and (width >=800px) {
   .boton-whatsapp::before {
-    content: "¿Antojito?";
+    content: "Asesórate";
     font-size: 14px;
     color: white;
-    background-color: #2eda2e70;
+    background-color: #2eda2ea8;
     border: 3px solid white;
     padding: 8px;
     border-radius: 8px;
