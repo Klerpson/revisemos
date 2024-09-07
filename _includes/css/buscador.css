@@ -52,4 +52,5 @@
   border: 1.6px solid var(--principal);
   border-radius: 50%;
   box-shadow: var(--shadow);
+  text-decoration: none;
 }

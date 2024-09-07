@@ -14,7 +14,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-07-11T14:20:24-05:00</lastmod>
+        <lastmod>2024-09-07T12:59:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -29,24 +29,9 @@
     
       <url>
         <loc>http://localhost:4000/categorias</loc>
-        <lastmod>2024-07-11T14:20:24-05:00</lastmod>
+        <lastmod>2024-09-07T12:59:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://localhost:4000/clubgurcoff</loc>
-        <lastmod>2024-07-11T14:20:24-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-        
-        <image:image>
-          <image:loc>http://localhost:4000/img/clubgurcoff.webp</image:loc>
-          <image:title>Fotografía del club gurcofff</image:title>
-        </image:image>
         
       </url>
     
@@ -54,7 +39,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-07-11T14:20:24-05:00</lastmod>
+        <lastmod>2024-09-07T12:59:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -71,7 +56,7 @@
     
       <url>
         <loc>http://localhost:4000/ofertas</loc>
-        <lastmod>2024-07-11T14:20:24-05:00</lastmod>
+        <lastmod>2024-09-07T12:59:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -86,7 +71,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-07-11T14:20:24-05:00</lastmod>
+        <lastmod>2024-09-07T12:59:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -98,19 +83,6 @@
       </url>
     
   
-    
-      <url>
-        <loc>http://localhost:4000/blog/ensaladas-de-frutas-pitalito</loc>
-        <lastmod>2024-07-01T00:00:00-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-        
-        <image:image>
-          <image:loc>http://localhost:4000/img/juego-agilizate.webp</image:loc>
-          <image:title>Foto de Ensaladas de frutas Pitalito</image:title>
-        </image:image>
-        
-      </url>
     
   
 </urlset>

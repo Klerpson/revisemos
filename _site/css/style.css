@@ -1,10 +1,10 @@
 :root {
   /*** COLORES ***/
-  --principal: #48BF84;
-  --accion: #FA6C04;
-  --secundario: #BDBF09;
-  --acento: #FDF7E9;
-  --blanco: #FEFEFC;
+  --principal: #094B25;
+  --accion: #F78020;
+  --secundario: #078D46;
+  --acento: #078d4617;
+  --blanco: #fefefe;
   --gris: #efefef;
   --grisFuentes: #4A5759;
   --fuente: "Montserrat", sans-serif;
@@ -305,18 +305,25 @@ lord-icon{
 
 nav {
   position: sticky;
-  top: 20px;
-  width: calc(100vw - 2em);
+  width: 100%;
   margin-inline: auto;
   display: flex;
   gap: 12px;
   justify-content: space-between;
   align-items: center;
   padding: 12px 20px;
-  background-color: var(--gris);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
+  background-color: var(--blanco);
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.22);
   z-index: 100;
+}
+
+.logo-nav{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+
+  
 }
 
 .navegacion > a,
@@ -337,16 +344,22 @@ nav {
   color: var(--accion);
 }
 
-.navegacion span{
+.navegacion span,
+.logo-nav span{
   display: none;
 }
 
 @media screen and (min-width: 1024px) {
-  .navegacion span{
+  .navegacion span,
+  .logo-nav span{
     display: inline-block;
     font-size: 16px;
     color: var(--accion);
     font-weight: 700;
+  }
+
+  .logo-nav span{
+    color: var(--principal);
   }
 }
 
@@ -632,6 +645,7 @@ nav {
   border: 1.6px solid var(--principal);
   border-radius: 50%;
   box-shadow: var(--shadow);
+  text-decoration: none;
 }
 
 .pagina{

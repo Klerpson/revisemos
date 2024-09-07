@@ -5,35 +5,11 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
-    <lastBuildDate>Thu, 11 Jul 2024 14:20:24 -0500</lastBuildDate>
+    <pubDate>Sat, 07 Sep 2024 12:59:39 -0500</pubDate>
+    <lastBuildDate>Sat, 07 Sep 2024 12:59:39 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v3.9.5</generator>
     
-    
-      <item>
-        <title>La mejor ensalada de frutas en Pitalito | GurCoff</title>
-        <description>
-          <![CDATA[
-            
-            <img src="http://localhost:4000/img/juego-agilizate.webp" alt="Foto de Ensaladas de frutas Pitalito" />
-            
-            Ensaladas de frutas en Pitalito hay muchas. Las consigues a domicilio y de diferentes precios. Pero ninguna como la que disfrutas en GurCoff.
-          ]]>
-        </description>
-        <pubDate>Mon, 01 Jul 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/ensaladas-de-frutas-pitalito</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/ensaladas-de-frutas-pitalito</guid>
-        
-        <dc:creator>Andrés GurCoff</dc:creator>
-        
-        
-        <category>#raticogurcoff</category>
-        
-        
-        
-        
-      </item>
     
       <item>
         <title>#raticogurcoff es un regalo de nuestra heladería para decirte GRACIAS</title>
@@ -45,7 +21,7 @@
             Venir a GurCoff es pasar un ratico delicioso. Esos es esta sección. Un ratico para decirte gracias regalándote mucho de nosotros para ayudarte
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
+        <pubDate>Sat, 07 Sep 2024 12:59:39 -0500</pubDate>
         <link>http://localhost:4000/blog</link>
         <guid isPermaLink="true">http://localhost:4000/blog</guid>
         
@@ -61,27 +37,9 @@
             ¿Qué tipo de juego de pensar o didáctico estás buscando? Encuéntralo entre nuestras categorías de juegos fabricados por FelizMente
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
+        <pubDate>Sat, 07 Sep 2024 12:59:39 -0500</pubDate>
         <link>http://localhost:4000/categorias</link>
         <guid isPermaLink="true">http://localhost:4000/categorias</guid>
-        
-        
-        
-      </item>
-    
-      <item>
-        <title>#clubgurcoff | Ahora eres parte de nuestros socios GurCoff</title>
-        <description>
-          <![CDATA[
-            
-            <img src="http://localhost:4000/img/clubgurcoff.webp" alt="Fotografía del club gurcofff" />
-            
-            Nuestro club es un grupo de asesoría profesional que te llevará al mismo alto nivel de nuestra heladería. ¿Ya eres socio del club? Disfruta. ¿Aún no? 🤔 ¿Por qué?
-          ]]>
-        </description>
-        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
-        <link>http://localhost:4000/clubgurcoff</link>
-        <guid isPermaLink="true">http://localhost:4000/clubgurcoff</guid>
         
         
         
@@ -95,7 +53,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
+        <pubDate>Sat, 07 Sep 2024 12:59:39 -0500</pubDate>
         <link>http://localhost:4000/feed.xml</link>
         <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
         
@@ -113,7 +71,7 @@
             Compra juegos de pensar, juegos didácticos y juegos para la memoria. Y los gozan tanto niños como adultos. ¿Quieres comprar un juego de mesa hoy? Escríbenos
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
+        <pubDate>Sat, 07 Sep 2024 12:59:39 -0500</pubDate>
         <link>http://localhost:4000/</link>
         <guid isPermaLink="true">http://localhost:4000/</guid>
         
@@ -131,7 +89,7 @@
             Ya eres socio o socia del #clubgurcoff. Ahora, aprovecha muy bien lo que hacemos cada semana para ayudarte a llegar lejos, tal como lo hicimos nosotros
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
+        <pubDate>Sat, 07 Sep 2024 12:59:39 -0500</pubDate>
         <link>http://localhost:4000/ofertas</link>
         <guid isPermaLink="true">http://localhost:4000/ofertas</guid>
         
@@ -149,7 +107,7 @@
             Ven y conocer quiénes somos en la heladería GurCoff y cómo hemos logrado ser los mejores de la zona donde abrimos nuestras sucursales
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
+        <pubDate>Sat, 07 Sep 2024 12:59:39 -0500</pubDate>
         <link>http://localhost:4000/quienes-somos</link>
         <guid isPermaLink="true">http://localhost:4000/quienes-somos</guid>
         
@@ -165,7 +123,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
+        <pubDate>Sat, 07 Sep 2024 12:59:39 -0500</pubDate>
         <link>http://localhost:4000/search.json</link>
         <guid isPermaLink="true">http://localhost:4000/search.json</guid>
         
@@ -181,7 +139,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
+        <pubDate>Sat, 07 Sep 2024 12:59:39 -0500</pubDate>
         <link>http://localhost:4000/sitemap.xml</link>
         <guid isPermaLink="true">http://localhost:4000/sitemap.xml</guid>
         
@@ -197,7 +155,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 11 Jul 2024 14:20:24 -0500</pubDate>
+        <pubDate>Sat, 07 Sep 2024 12:59:39 -0500</pubDate>
         <link>http://localhost:4000/css/style.css</link>
         <guid isPermaLink="true">http://localhost:4000/css/style.css</guid>
         

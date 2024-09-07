@@ -1,10 +1,5 @@
 [
   
-    {
-      "title"    : "La mejor ensalada de frutas en Pitalito | GurCoff",
-      "url"      : "/blog/ensaladas-de-frutas-pitalito"
-    } 
-  
   ,
   
   
@@ -36,17 +31,6 @@
     
     "title"    : "Categorías de los juegos de FelizMente que estás buscando",
     "url"      : "/categorias"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "#clubgurcoff | Ahora eres parte de nuestros socios GurCoff",
-    "url"      : "/clubgurcoff"
     
     } ,
 
@@ -124,8 +108,19 @@
   
     {
     
-    } 
+    } ,
 
+  
+  
+  
+    
+    {
+      
+      "title"    : "No tenemos este resultado. Mejor mira nuestra carta",
+      "url"      : "https://api.whatsapp.com/send?phone=+573187731355&text=%F0%9F%A4%A9%20Hola.%20Me%20gustar%C3%ADa%20conseguir%20un%20juego%20que%20vi%20en%20tu%20web"
+      
+      } 
+  
   
   
 ]
