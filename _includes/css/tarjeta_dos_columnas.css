@@ -1,0 +1,99 @@
+.tarjeta_dos_columnas{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  justify-content: center;
+  align-items: center;
+  img{
+    height: auto;
+    max-width: 100%;
+    aspect-ratio: 1 / 1;
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.3));
+    transition: all .2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+    &:hover{
+      transform: rotate(5deg);
+    }
+  }
+}
+
+.carousel-container {
+  flex: 1 0 400px;
+  width: min(100%, 600px);
+  height: 600px;
+  margin: 50px auto;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.carousel {
+  height: 100%;
+  overflow-y: auto;
+  scroll-snap-type: y mandatory;
+  scrollbar-width: none; /* Para Firefox */
+  -ms-overflow-style: none; /* Para Internet Explorer y Edge */
+}
+
+.carousel::-webkit-scrollbar {
+  display: none; /* Para Chrome, Safari y Opera */
+}
+
+.carousel::-webkit-scrollbar-track {
+  background: #e0e0e0;
+}
+
+.carousel::-webkit-scrollbar-thumb {
+  background-color: #9e9e9e;
+  border-radius: 4px;
+}
+
+.testimonial {
+  height: 200px;
+  padding: 24px;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.testimonial:not(:last-child) {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.testimonial p {
+  margin: 0 0 16px 0;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.testimonial .author {
+  font-weight: bold;
+  color: var(--principal);
+}
+
+.nav-dots {
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.nav-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #bdbdbd;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.nav-dot.active {
+  background-color: var(--principal);
+}

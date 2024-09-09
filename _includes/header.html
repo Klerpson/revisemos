@@ -3,21 +3,21 @@
   {% when "default" %}
   <header class="header-home">
     <div class="wrapper">
-      <img src="{{'img/logo.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+      <img src="{{'img/logo.webp'|relative_url}}" alt="{{page.alt}}">
       <h1>Cuida tu salud con los tratamientos de Natural One Life</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus ipsum perspiciatis doloremque!</p>
-      <a href="{{site.whatsapp}}" title="WhatsApp del cirujano Hermes Gamba" class="boton boton_1">🍃 Programa tu consulta</a>
+      <a href="{{site.whatsapp}}" title="WhatsApp del {{page.alt}}" class="boton boton_1">🍃 Programa tu consulta</a>
     </div>
     <picture class="header_hero_image">
       <source media="(max-width: 767px)" srcset="{{'img/hero-home-natural-one-life-vertical.webp'|relative_url}}" type="image/webp">
-      <img src="{{'img/hero-home-natural-one-life.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+      <img src="{{'img/hero-home-natural-one-life.webp'|relative_url}}" alt="{{page.alt}}">
     </picture>
   </header>
   {% when "informacional" %}
      <header class="header-contacto">
        <div>
          <div class="text-hero flow">
-           <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+           <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="{{page.alt}}">
            <h1>{{page.h1}}</h1>
            {% if page.intro %}
            <p>{{page.intro}}</p>
@@ -29,67 +29,7 @@
   <header class="header-lipoescultura">
     <div>
       <div class="text-hero flow">
-        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
-        <h1>{{page.h1}}</h1>
-        {% if page.intro %}
-        <p>{{page.intro}}</p>
-        {% endif %}
-      </div>
-    </div>
-  </header>
-  {% when "/gluteoplastia" %}
-  <header class="header-gluteoplastia">
-    <div>
-      <div class="text-hero flow">
-        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
-        <h1>{{page.h1}}</h1>
-        {% if page.intro %}
-        <p>{{page.intro}}</p>
-        {% endif %}
-      </div>
-    </div>
-  </header>
-  {% when "/rinoplastia" %}
-  <header class="header-rinoplastia">
-    <div>
-      <div class="text-hero flow">
-        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
-        <h1>{{page.h1}}</h1>
-        {% if page.intro %}
-        <p>{{page.intro}}</p>
-        {% endif %}
-      </div>
-    </div>
-  </header>
-  {% when "/lipopapada" %}
-  <header class="header-lipopapada">
-    <div>
-      <div class="text-hero flow">
-        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
-        <h1>{{page.h1}}</h1>
-        {% if page.intro %}
-        <p>{{page.intro}}</p>
-        {% endif %}
-      </div>
-    </div>
-  </header>
-  {% when "/bichectomia" %}
-  <header class="header-bichectomia">
-    <div>
-      <div class="text-hero flow">
-        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
-        <h1>{{page.h1}}</h1>
-        {% if page.intro %}
-        <p>{{page.intro}}</p>
-        {% endif %}
-      </div>
-    </div>
-  </header>
-  {% when "/blefaroplastia" %}
-  <header class="header-blefaroplastia">
-    <div>
-      <div class="text-hero flow">
-        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="{{page.alt}}">
         <h1>{{page.h1}}</h1>
         {% if page.intro %}
         <p>{{page.intro}}</p>
@@ -100,12 +40,9 @@
   {% else %}
   <header class="header-home">
     <div>
-      <img src="{{'img/logotipo.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
-      <p>{{page.description}}</p>
       <h1>{{page.h1}}</h1>
-      <a href="{{site.whatsapp}}" title="WhatsApp del cirujano Hermes Gamba" class="boton boton_2">
-        <svg height="18" width="18" fill="var(--accion)" viewBox="0 0 24 24" data-name="Layer 1" id="Layer_1" class="sparkle"> <path d="M10,21.236,6.755,14.745.264,11.5,6.755,8.255,10,1.764l3.245,6.491L19.736,11.5l-6.491,3.245ZM18,21l1.5,3L21,21l3-1.5L21,18l-1.5-3L18,18l-3,1.5ZM19.333,4.667,20.5,7l1.167-2.333L24,3.5,21.667,2.333,20.5,0,19.333,2.333,17,3.5Z"></path> </svg> Programa tu consulta</a>
+      <p>{{page.description}}</p>
     </div>
-    <img src="{{'img/hero-home-natural-one-life.webp'|relative_url}}" alt="Cirujano Hermes Gamba">
+    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
   </header>
 {% endcase %}

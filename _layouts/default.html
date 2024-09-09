@@ -47,5 +47,35 @@ layout: compress
       fuzzy: false
     });
   </script>
+
+  {% if page.url == "/" %}
+  <script>
+    const carousel = document.getElementById('testimonialCarousel');
+    const navDots = document.getElementById('navDots');
+    const testimonials = carousel.querySelectorAll('.testimonial');
+
+    testimonials.forEach((_, index) => {
+        const dot = document.createElement('div');
+        dot.classList.add('nav-dot');
+        dot.addEventListener('click', () => {
+            carousel.scrollTo({
+                top: index * carousel.offsetHeight / 3,
+                behavior: 'smooth'
+            });
+        });
+        navDots.appendChild(dot);
+    });
+
+      const updateActiveDot = () => {
+          const index = Math.round(carousel.scrollTop / (carousel.scrollHeight / testimonials.length));
+          document.querySelectorAll('.nav-dot').forEach((dot, i) => {
+              dot.classList.toggle('active', i === index);
+          });
+      };
+
+      carousel.addEventListener('scroll', updateActiveDot);
+      updateActiveDot();
+  </script>
+  {% endif %}
   </body>
 </html>

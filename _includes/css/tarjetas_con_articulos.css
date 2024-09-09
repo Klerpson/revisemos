@@ -1,0 +1,16 @@
+.tarjeticas_articulos{
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+  flex-wrap: wrap;
+  li{
+    width: min(100%, 240px);
+    display: grid;
+    place-items: center;
+    text-align: center;
+
+    p{
+      font-size: 1rem;
+    }
+  }
+}

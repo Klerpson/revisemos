@@ -8,75 +8,98 @@ alt: Agilizate Juego
 h1: Juego Agilízate fabricado por FelizMente
 excerpt: "Somos FelizMente 😀 Tenemos juegos de pensar tanto para adultos como para niños"
 ---
-<section class="wrapper flow seccion_b">
-  <h2>Los juegos de pensar más pedidos en FelizMente</h2>
-  <div class="home_gallery">
-    {% for juego in site.juegos %}
-    {% if juego.destacado %}
-    <article>
-      <img src="{{ juego.hero | relative_url }}" alt="{{juego.alt}}">
-      <div>
-        <h4>{{juego.title}}</h4>
-        <a href="{{ juego.url  | relative_url }}">› Mira el juego</a>
-      </div>
-    </article>
-    {% endif %}
-    {% endfor %}
+<main class="content tarjeta">
+  <div>
+    <img src="{{'img/about-home-natural-one-life.webp' | relative_url}}" alt="Foto de plantas para preparar tratamientos naturales" loading="lazy" width="270" height="480">
   </div>
-</section>
-<main class="wrapper flow">
-  <h2>¿Necesitas juegos didácticos para la memoria o juegos de pensar? FelizMente los fabrica para ti</h2>
-  <p>En FelizMente fabricamos juegos que ayudan en las terapias y procesos de aprendizaje. Adicionalmente, <strong>procuramos que cada juego sea una experiencia emocionante y divertida</strong>.</p>
-  <h3>Algunas categorías que te podemos ofrecer con los juegos de pensar de FelizMente</h3>
-  <div class="catalogo">
-    <article>
-      <img src="{{'img/cubos-rubik.webp' | relative_url }}" alt="Juego de cubos rubik" title="Juego de concentración cubo rubik" width="120" height="120" loading="lazy">
-      <h3>Juegos de madera</h3>
-    </article>
-    <article>
-      <img src="{{'img/cubos-rubik.webp' | relative_url }}" alt="Juego de cubos rubik" title="Juego de concentración cubo rubik" width="120" height="120" loading="lazy">
-      <h3>Juegos de agilidad</h3>
-    </article>
-    <article>
-      <img src="{{'img/cubos-rubik.webp' | relative_url }}" alt="Juego de cubos rubik" title="Juego de concentración cubo rubik" width="120" height="120" loading="lazy">
-      <h3>Juegos para memoria</h3>
-    </article>
-    <article>
-      <img src="{{'img/cubos-rubik.webp' | relative_url }}" alt="Juego de cubos rubik" title="Juego de concentración cubo rubik" width="120" height="120" loading="lazy">
-      <h3>Juegos de Rubik</h3>
-    </article>
-    <article>
-      <img src="{{'img/cubos-rubik.webp' | relative_url }}" alt="Juego de cubos rubik" title="Juego de concentración cubo rubik" width="120" height="120" loading="lazy">
-      <h3>Juegos de cartas</h3>
-    </article>
-    <article>
-      <img src="{{'img/cubos-rubik.webp' | relative_url }}" alt="Juego de cubos rubik" title="Juego de concentración cubo rubik" width="120" height="120" loading="lazy">
-      <h3>Libros con juegos</h3>
-    </article>
-    <a href="{{'categorias' | relative_url }}" title="Catálogo de juegos" class="boton boton_2">Mira todos los juegos</a>
+  <div class="flow">
+    <small>Lorem Ipsum</small>
+    <h2>Lorem ipsum dolor sit</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium itaque consequuntur aperiam in laborum, iure nihil sed est recusandae nulla?</p>
+    <hr>
+    <ul>
+      <li>
+        <span>100</span>
+        <small>Lorem, ipsum dolor.</small>
+      </li>
+      <li>
+        <span>100%</span>
+        <small>Lorem, ipsum dolor.</small>
+      </li>
+      <li>
+        <span>+100</span>
+        <small>Lorem, ipsum dolor.</small>
+      </li>
+      <li>
+        <span>100</span>
+        <small>Lorem, ipsum dolor.</small>
+      </li>
+    </ul>
+    <a href="#" title="Lorem Ipsum" class="boton boton_2">Asesórate Gratis</a>
   </div>
 </main>
-<section class="wrapper flow articulo">
-  {% include carousel.html %}
-  <h2 class="title">El juego Agilízate es el juego que nos dió a conocer en el país</h2>
-  <p>Agilízate es un juego muy divertido. Y la mayoría disfruta que sea tan fácil de jugar, y al mismo tiempo, <strong>que sea un juego que te ayuda a mejorar las habilidades y la capacidad de observación y concentración.</strong></p>
-  <p>Además, se comparto un montón. Incluso, pronto te estaremos informando de los concursos o campeonatos que haremos ante la gran acogidas de nuestro juego estrella</p>
-  <a href="{{'juegos/juego-agilizate' | relative_url}}" title="Agilizate Juego" class="boton boton_1">Consigue el Agilízate</a>
-  <img src="{{'img/juego-agilizate-felizmente.webp' | relative_url}}" alt="Juego Agilizate" width="1128" height="600" loading="lazy">
+<section class="wrapper">
+  <div class="intro_secciones flow">
+    <small>Lorem Ipsum</small>
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, quas earum. Impedit quibusdam exercitationem esse voluptatem?</p>
+  </div>
+  <ul class="tarjeticas_articulos">
+    <li>
+      <img src="{{'img/tratamiento-natural-cientifico.webp' | relative_url }}" alt="Lorem Ipsum" loading="lazy" width="148" height="148">
+      <h3>Lorem Ipsum</h3>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+    </li>
+    <li>
+      <img src="{{'img/tratamiento-natural-cientifico.webp' | relative_url }}" alt="Lorem Ipsum" loading="lazy" width="148" height="148">
+      <h3>Lorem Ipsum</h3>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+    </li>
+    <li>
+      <img src="{{'img/tratamiento-natural-cientifico.webp' | relative_url }}" alt="Lorem Ipsum" loading="lazy" width="148" height="148">
+      <h3>Lorem Ipsum</h3>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+    </li>
+    <li>
+      <img src="{{'img/tratamiento-natural-cientifico.webp' | relative_url }}" alt="Lorem Ipsum" loading="lazy" width="148" height="148">
+      <h3>Lorem Ipsum</h3>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+    </li>
+  </ul>
 </section>
-<section class="nosotros">
-  <div class="wrapper nosotros_home">
-    <div class="flow">
-      <h2>Soy Daniela de Felizmente y te ayudo a encontrar tu nuevo juego de pensar</h2>
-      <p>Me alegra mucho poder resolver tus pedidos y asesorarte para que no te pierdas este mundo de juegos, aprendizaje y diversión.</p>
-      {% for item in site.data.testimonios %}
-      <img src="{{ item.img | relative_url }}" alt="Testimonio de clientes FelizMente" loading="lazy" width="400" height="500" title="Opiniones del juego agilizate">
-      {% endfor %}
-    </div>
-    <div>
-      <img src="{{'img/daniela-agilizate.webp'|relative_url}}" alt="Daniela de Felizmente" loading="lazy" width="400" height="500" title="Daniela de Juegos FelizMente">
-      <a href="{{site.whatsapp}}" title="Escribe a felizmente" class="boton boton_2">Solicita el catálogo</a>
-    </div>
+<hr>
+<section class="wrapper">
+  <div class="intro_secciones flow">
+    <small>Lorem Ipsum</small>
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, quas earum. Impedit quibusdam exercitationem esse voluptatem?</p>
+  </div>
+  <div class="tarjeta_dos_columnas">
+    <img src="{{'img/laboratorio-natural.webp' | relative_url }}" alt="Laboratorio de tratamientos naturales" loading="lazy" width="496" height="496">
+    <div class="carousel-container">
+      <div class="carousel" id="testimonialCarousel">
+          <div class="testimonial">
+              <p>"Este producto ha cambiado completamente mi flujo de trabajo. ¡Es increíble!"</p>
+              <span class="author">- María García</span>
+          </div>
+          <div class="testimonial">
+              <p>"Nunca había experimentado un servicio al cliente tan excepcional. Recomiendo totalmente."</p>
+              <span class="author">- Juan Pérez</span>
+          </div>
+          <div class="testimonial">
+              <p>"La calidad y la atención al detalle son impresionantes. Superó todas mis expectativas."</p>
+              <span class="author">- Ana Martínez</span>
+          </div>
+          <div class="testimonial">
+              <p>"Fácil de usar y extremadamente eficiente. Ha mejorado nuestra productividad en un 200%."</p>
+              <span class="author">- Carlos Rodríguez</span>
+          </div>
+          <div class="testimonial">
+              <p>"Una solución innovadora para un problema que ni siquiera sabía que tenía. Altamente recomendado."</p>
+              <span class="author">- Laura Sánchez</span>
+          </div>
+      </div>
+      <div class="nav-dots" id="navDots"></div>
+  </div>
   </div>
 </section>
-
