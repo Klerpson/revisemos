@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Sep 2024 17:24:27 -0500</pubDate>
-    <lastBuildDate>Sat, 07 Sep 2024 17:24:27 -0500</lastBuildDate>
+    <pubDate>Mon, 09 Sep 2024 12:34:30 -0500</pubDate>
+    <lastBuildDate>Mon, 09 Sep 2024 12:34:30 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v3.9.5</generator>
     
@@ -21,7 +21,7 @@
             Venir a GurCoff es pasar un ratico delicioso. Esos es esta sección. Un ratico para decirte gracias regalándote mucho de nosotros para ayudarte
           ]]>
         </description>
-        <pubDate>Sat, 07 Sep 2024 17:24:27 -0500</pubDate>
+        <pubDate>Mon, 09 Sep 2024 12:34:30 -0500</pubDate>
         <link>http://localhost:4000/blog</link>
         <guid isPermaLink="true">http://localhost:4000/blog</guid>
         
@@ -37,7 +37,7 @@
             ¿Qué tipo de juego de pensar o didáctico estás buscando? Encuéntralo entre nuestras categorías de juegos fabricados por FelizMente
           ]]>
         </description>
-        <pubDate>Sat, 07 Sep 2024 17:24:27 -0500</pubDate>
+        <pubDate>Mon, 09 Sep 2024 12:34:30 -0500</pubDate>
         <link>http://localhost:4000/categorias</link>
         <guid isPermaLink="true">http://localhost:4000/categorias</guid>
         
@@ -53,7 +53,7 @@
             
           ]]>
         </description>
-        <pubDate>Sat, 07 Sep 2024 17:24:27 -0500</pubDate>
+        <pubDate>Mon, 09 Sep 2024 12:34:30 -0500</pubDate>
         <link>http://localhost:4000/feed.xml</link>
         <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
         
@@ -62,16 +62,16 @@
       </item>
     
       <item>
-        <title>FelizMente - Juegos de pensar para niños y adultos</title>
+        <title>Natural One Life son tratamientos naturales certificados</title>
         <description>
           <![CDATA[
             
             <img src="http://localhost:4000/img/juego-agilizate.webp" alt="Agilizate Juego" />
             
-            Compra juegos de pensar, juegos didácticos y juegos para la memoria. Y los gozan tanto niños como adultos. ¿Quieres comprar un juego de mesa hoy? Escríbenos
+            Compra tratamientos naturales con Natural One Life. Asesórate gratis para entender cómo cuidarte naturalmente. Escríbenos o pide tu tratamiento.
           ]]>
         </description>
-        <pubDate>Sat, 07 Sep 2024 17:24:27 -0500</pubDate>
+        <pubDate>Mon, 09 Sep 2024 12:34:30 -0500</pubDate>
         <link>http://localhost:4000/</link>
         <guid isPermaLink="true">http://localhost:4000/</guid>
         
@@ -89,7 +89,7 @@
             Ya eres socio o socia del #clubgurcoff. Ahora, aprovecha muy bien lo que hacemos cada semana para ayudarte a llegar lejos, tal como lo hicimos nosotros
           ]]>
         </description>
-        <pubDate>Sat, 07 Sep 2024 17:24:27 -0500</pubDate>
+        <pubDate>Mon, 09 Sep 2024 12:34:30 -0500</pubDate>
         <link>http://localhost:4000/ofertas</link>
         <guid isPermaLink="true">http://localhost:4000/ofertas</guid>
         
@@ -107,7 +107,7 @@
             Ven y conocer quiénes somos en la heladería GurCoff y cómo hemos logrado ser los mejores de la zona donde abrimos nuestras sucursales
           ]]>
         </description>
-        <pubDate>Sat, 07 Sep 2024 17:24:27 -0500</pubDate>
+        <pubDate>Mon, 09 Sep 2024 12:34:30 -0500</pubDate>
         <link>http://localhost:4000/quienes-somos</link>
         <guid isPermaLink="true">http://localhost:4000/quienes-somos</guid>
         
@@ -123,7 +123,7 @@
             
           ]]>
         </description>
-        <pubDate>Sat, 07 Sep 2024 17:24:27 -0500</pubDate>
+        <pubDate>Mon, 09 Sep 2024 12:34:30 -0500</pubDate>
         <link>http://localhost:4000/search.json</link>
         <guid isPermaLink="true">http://localhost:4000/search.json</guid>
         
@@ -139,7 +139,7 @@
             
           ]]>
         </description>
-        <pubDate>Sat, 07 Sep 2024 17:24:27 -0500</pubDate>
+        <pubDate>Mon, 09 Sep 2024 12:34:30 -0500</pubDate>
         <link>http://localhost:4000/sitemap.xml</link>
         <guid isPermaLink="true">http://localhost:4000/sitemap.xml</guid>
         
@@ -155,7 +155,7 @@
             
           ]]>
         </description>
-        <pubDate>Sat, 07 Sep 2024 17:24:27 -0500</pubDate>
+        <pubDate>Mon, 09 Sep 2024 12:34:30 -0500</pubDate>
         <link>http://localhost:4000/css/style.css</link>
         <guid isPermaLink="true">http://localhost:4000/css/style.css</guid>
         
