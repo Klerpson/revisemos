@@ -120,7 +120,7 @@ ul li {
 
 ol li {
   list-style: decimal;
-  margin-left: 2em;
+  margin-left: 3em;
 }
 
 ol li::marker {
@@ -268,4 +268,8 @@ input{
     color: var(--secundario);
     font-weight: 700;
   }
+}
+
+.derecha{
+  flex-direction: row-reverse;
 }

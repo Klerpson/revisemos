@@ -120,7 +120,7 @@ ul li {
 
 ol li {
   list-style: decimal;
-  margin-left: 2em;
+  margin-left: 3em;
 }
 
 ol li::marker {
@@ -269,10 +269,9 @@ input{
     font-weight: 700;
   }
 }
-@media screen and (width >= 991px){
-  .tarjeticas_articulos li{
-      width: min(100%, 160px);
-  }
+
+.derecha{
+  flex-direction: row-reverse;
 }
 nav {
   position: sticky;
@@ -660,6 +659,11 @@ nav {
       transform: rotate(5deg);
     }
   }
+  &> div:not(:first-child){
+    flex: 1 0 400px;
+    max-width: 100%;
+
+  }
 }
 
 .carousel-container {
@@ -903,3 +907,8 @@ nav {
   cursor: pointer;
 }
 
+@media screen and (width <= 991px){
+  .tarjeticas_articulos li{
+      width: min(100%, 160px);
+  }
+}

@@ -15,6 +15,11 @@
       transform: rotate(5deg);
     }
   }
+  &> div:not(:first-child){
+    flex: 1 0 400px;
+    max-width: 100%;
+
+  }
 }
 
 .carousel-container {

@@ -1,7 +1,6 @@
 ---
 ---
 {% include css/universal.css %}
-{% include css/queries.css %}
 {% include css/nav.css %}
 {% include css/header.css %}
 {% include css/tarjeta_con_foto.css %}
@@ -11,3 +10,4 @@
 {% include css/footer.css %}
 {% include css/boton-up.css %}
 {% include css/share.css %}
+{% include css/queries.css %}

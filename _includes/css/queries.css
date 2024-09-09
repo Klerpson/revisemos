@@ -1,4 +1,4 @@
-@media screen and (width >= 991px){
+@media screen and (width <= 991px){
   .tarjeticas_articulos li{
       width: min(100%, 160px);
   }
