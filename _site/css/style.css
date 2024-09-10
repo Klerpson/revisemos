@@ -746,6 +746,11 @@ nav {
 .nav-dot.active {
   background-color: var(--principal);
 }
+.tarjeta_seccion_completa{
+  padding: 40px 20px;
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+}
 .buscador{
   position: relative;
   background-color: var(--complemento1);
