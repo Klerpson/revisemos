@@ -2,4 +2,22 @@
   padding: 40px 20px;
   box-shadow: var(--shadow);
   border-radius: var(--radius);
+  margin-bottom: 4em;
+
+  .articulos_tarjeta_seccion_completa{
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    article{
+      text-align: center;
+      padding: 20px;
+      border-radius: 12px;
+
+      &:nth-child(2){
+        box-shadow: var(--shadow);
+      }
+    }
+  }
 }
