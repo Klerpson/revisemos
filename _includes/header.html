@@ -6,7 +6,7 @@
       <img src="{{'img/logo.webp'|relative_url}}" alt="{{page.alt}}">
       <h1>Cuida tu salud con los tratamientos de Natural One Life</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus ipsum perspiciatis doloremque!</p>
-      <a href="{{site.whatsapp}}" title="WhatsApp del {{page.alt}}" class="boton boton_1">🍃 Programa tu consulta</a>
+      {% include boton_whatsapp.html %}
     </div>
     <picture class="header_hero_image">
       <source media="(max-width: 767px)" srcset="{{'img/hero-home-natural-one-life-vertical.webp'|relative_url}}" type="image/webp">
@@ -14,16 +14,14 @@
     </picture>
   </header>
   {% when "informacional" %}
-     <header class="header-contacto">
-       <div>
-         <div class="text-hero flow">
-           <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="{{page.alt}}">
-           <h1>{{page.h1}}</h1>
-           {% if page.intro %}
-           <p>{{page.intro}}</p>
-           {% endif %}
-         </div>
-       </div>
+     <header class="header_informacional wrapper">
+       {% if page.hero %}
+        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="{{page.alt}}">
+        {% endif %}
+        <h1>{{page.h1}}</h1>
+        {% if page.intro %}
+        <p>{{page.intro}}</p>
+        {% endif %}
      </header>
   {% when "transaccional" %}
   <header class="header-lipoescultura">

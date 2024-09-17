@@ -69,81 +69,14 @@
   width: min(100%, 400px);
 }
 
-.header-contacto{
-  background-image: url('/img/contacto-hermes-gamba.webp');
-}
-
-.header-gluteoplastia{
-  background-image: url('/img/gluteoplastia.webp');
-}
-
-.header-lipoescultura{
-  background-image: url('/img/lipoescultura.webp');
-}
-
-.header-rinoplastia{
-  background-image: url('/img/operacion-nariz.webp');
-}
-
-.header-lipopapada{
-  background-image: url('/img/operacion-papada.webp');
-}
-
-.header-bichectomia{
-  background-image: url('/img/operacion-mejillas.webp');
-}
-
-.header-blefaroplastia{
-  background-image: url('/img/operacion-parpados.webp');
-}
-
-.header-contacto,
-.header-lipoescultura,
-.header-lipopapada,
-.header-rinoplastia,
-.header-blefaroplastia,
-.header-bichectomia,
-.header-gluteoplastia{
+.header_informacional{
   position: relative;
-  min-height: 70dvh;
-  background-attachment: scroll;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  z-index: 1;
-}
-
-.header-contacto > div,
-.header-lipoescultura > div,
-.header-lipopapada > div,
-.header-rinoplastia > div,
-.header-blefaroplastia > div,
-.header-bichectomia > div,
-.header-gluteoplastia > div{
-  position: relative;
-  background-color: rgba(120, 166, 207, 0.90);
-  z-index: 2;
-  width: 100%;
-  min-height: 70dvh;
-  display: grid;
-  place-items: center;
-}
-
-.text-hero{
-  z-index: 2;
-  padding: 3em 16px;
-  width: min(100%, 800px);
+  min-height: 50dvh;
   display: grid;
   place-items: center;
   text-align: center;
-}
-
-.text-hero h1{
-  color: var(--principal);
-}
-
-.text-hero p {
-  color: white;
-  font-weight: 700;
+  
+  & h1{
+    color: var(--principal);
+  }
 }

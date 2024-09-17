@@ -2,8 +2,8 @@
   background-color: var(--gris);
   display: grid;
   place-items: center;
-  gap: 60px 20px 40px;
-  padding-bottom: 4em;
+  gap: 1em;
+  padding: 60px 20px 40px;
 }
 
 .footer div{
@@ -24,6 +24,7 @@
   align-items: center;
   justify-content: center;
   gap: 8px;
+  text-decoration: none;
 }
 
 .footer small{

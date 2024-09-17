@@ -1,5 +1,5 @@
 ---
-layout: pagina
+layout: informacional
 title: "#clubgurcoff | Te damos la bienvenida a nuestros socios GurCoff"
 description: "Ya eres socio o socia del #clubgurcoff. Ahora, aprovecha muy bien lo que hacemos cada semana para ayudarte a llegar lejos, tal como lo hicimos nosotros"
 h1: 'Ya eres parte de <span class="resaltar">los socios del #clubgurcoff</span>'

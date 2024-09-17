@@ -8,7 +8,7 @@
     {
       
       "title"    : "No tenemos este resultado. Mejor mira nuestra carta",
-      "url"      : "https://web.whatsapp.com/send?phone=+573123278881&text=%F0%9F%A4%A9%20Hola.%20Me%20gustar%C3%ADa%20conseguir%20un%20juego%20que%20vi%20en%20tu%20web"
+      "url"      : ""
       
       } ,
   
@@ -56,17 +56,6 @@
   
   
   
-    
-    {
-      
-      "title"    : "No tenemos este resultado. Mejor mira nuestra carta",
-      "url"      : "https://web.whatsapp.com/send?phone=+573123278881&text=%F0%9F%A4%A9%20Hola.%20Me%20gustar%C3%ADa%20conseguir%20un%20juego%20que%20vi%20en%20tu%20web"
-      
-      } ,
-  
-  
-  
-  
   
     {
     
@@ -75,6 +64,17 @@
     
     } ,
 
+  
+  
+  
+    
+    {
+      
+      "title"    : "No tenemos este resultado. Mejor mira nuestra carta",
+      "url"      : ""
+      
+      } ,
+  
   
   
   
@@ -117,7 +117,7 @@
     {
       
       "title"    : "No tenemos este resultado. Mejor mira nuestra carta",
-      "url"      : "https://web.whatsapp.com/send?phone=+573123278881&text=%F0%9F%A4%A9%20Hola.%20Me%20gustar%C3%ADa%20conseguir%20un%20juego%20que%20vi%20en%20tu%20web"
+      "url"      : ""
       
       } 
   

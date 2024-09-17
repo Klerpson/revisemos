@@ -1,14 +1,13 @@
 ---
-layout: landing
+layout: informacional
 title: "Términos y condiciones de Natural One Life"
 description: Nuestro club es un grupo de asesoría profesional que te llevará al mismo alto nivel de nuestra heladería. ¿Ya eres socio del club? Disfruta. ¿Aún no? 🤔 ¿Por qué?
 h1: "Términos y condiciones de Natural One Life"
-hero: img/clubgurcoff.webp
-jpg: img/clubgurcoff.jpg
-alt: Fotografía del club gurcofff
 noindex: true
 ---
-Última actualización: 07 de septiembre de 2024
+[Inicio](/) / Términos y condiciones de Natural One Life
+
+**Última actualización: 01 de septiembre de 2024**
 
 Bienvenido a Natural One Life. Al acceder a este sitio web, usted acepta cumplir y estar sujeto a los siguientes términos y condiciones de uso:
 

@@ -5,7 +5,7 @@
   --secundario: #078D46;
   --acento: #078d4617;
   --blanco: #FDFDFD;
-  --gris: #efefef;
+  --gris: #F7F7F2;
   --grisFuentes: #171f18;
   --fuente: "Montserrat", sans-serif;
   --radius: 32px;
@@ -167,13 +167,13 @@ input{
 }
 
 .wrapper {
-  width: min(calc(100% - 20px), 1200px);
+  width: min(calc(100% - 20px), 1280px);
   margin-inline: auto;
   padding: 4rem 0;
 }
 
 .content {
-  width: min(calc(100% - 20px), 1200px);
+  width: min(calc(100% - 20px), 1280px);
   margin-inline: auto;
 }
 

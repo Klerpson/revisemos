@@ -1,11 +1,13 @@
 ---
-layout: pagina
+layout: informacional
 title: Política de Privacidad y Tratamiento de Datos - N.O.L.
 h1: Política de Privacidad y Tratamiento de Datos de Natural One Life
 description: Condiciones de uso, términos y condiciones de la página de Natural One Life.
 noindex: true
 ---
-Última actualización: 01 de septiembre de 2024
+[Inicio](/) / Política de Privacidad y Tratamiento de Datos - N.O.L.
+
+**Última actualización: 01 de septiembre de 2024**
 
 En Natural One Life, nos comprometemos a proteger su privacidad y a tratar sus datos personales con responsabilidad y transparencia. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos su información.
 
