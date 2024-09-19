@@ -14,7 +14,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-09-19T08:38:26-05:00</lastmod>
+        <lastmod>2024-09-19T11:40:27-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -28,24 +28,31 @@
   
     
       <url>
-        <loc>http://localhost:4000/categorias</loc>
-        <lastmod>2024-09-19T08:38:26-05:00</lastmod>
+        <loc>http://localhost:4000/catalogo</loc>
+        <lastmod>2024-09-19T11:40:27-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
+        
+        <image:image>
+          <image:loc>http://localhost:4000/img/catalogo-natural-one-life.avif</image:loc>
+          <image:title>Foto de productos de Natural One Life</image:title>
+        </image:image>
         
       </url>
     
   
     
+  
+    
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-09-19T08:38:26-05:00</lastmod>
+        <lastmod>2024-09-19T11:40:27-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
         <image:image>
-          <image:loc>http://localhost:4000/img/juego-agilizate.webp</image:loc>
-          <image:title>Agilizate Juego</image:title>
+          <image:loc>http://localhost:4000/img/hero-home-natural-one-life.webp</image:loc>
+          <image:title>Tratamientos de Natural One Life</image:title>
         </image:image>
         
       </url>
@@ -54,7 +61,7 @@
     
       <url>
         <loc>http://localhost:4000/ofertas</loc>
-        <lastmod>2024-09-19T08:38:26-05:00</lastmod>
+        <lastmod>2024-09-19T11:40:27-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -71,7 +78,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-09-19T08:38:26-05:00</lastmod>
+        <lastmod>2024-09-19T11:40:27-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         

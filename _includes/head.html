@@ -10,7 +10,7 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}" >
     <meta name="description" content="{% if page.description %}{{page.description|strip_html| strip_newlines}}{% else %}{{site.description}}{% endif %}" >
     {% if page.noindex %}
-    <meta name="robots" content="nofollow" >
+    <meta name="robots" content="nofollow noindex" >
     {% else %}
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" >
     {% endif %}

@@ -11,6 +11,7 @@
     -webkit-filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.3));
             filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.3));
     transition: all .2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border-radius: var(--radius);
 
     &:hover{
       transform: rotate(5deg);
@@ -19,8 +20,13 @@
   &> div:not(:first-child){
     flex: 1 0 400px;
     max-width: 100%;
-
   }
+
+  div ul li{
+    margin-top: 1em;
+    margin-left: 2em;
+  }
+
 }
 
 .carousel-container {

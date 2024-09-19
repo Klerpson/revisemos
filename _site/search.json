@@ -29,11 +29,22 @@
   
     {
     
-    "title"    : "Categorías de los juegos de FelizMente que estás buscando",
-    "url"      : "/categorias"
+    "title"    : "Catálogo de productos de Natural One Life",
+    "url"      : "/catalogo"
     
     } ,
 
+  
+  
+  
+    
+    {
+      
+      "title"    : "No tenemos este resultado. Mejor mira nuestra carta",
+      "url"      : ""
+      
+      } ,
+  
   
   
   

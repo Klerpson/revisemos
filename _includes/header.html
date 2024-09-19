@@ -3,35 +3,40 @@
   {% when "default" %}
   <header class="header-home">
     <div class="wrapper">
-      <img src="{{'img/logo.webp'|relative_url}}" alt="{{page.alt}}">
-      <h1>Cuida tu salud con los tratamientos de Natural One Life</h1>
+      <img src="{{'img/logo.webp'|relative_url}}" alt="Logo de Natural One Life">
+      <h1>{{page.h1}}</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus ipsum perspiciatis doloremque!</p>
       {% include boton_whatsapp.html %}
     </div>
     <picture class="header_hero_image">
-      <source media="(max-width: 767px)" srcset="{{'img/hero-home-natural-one-life-vertical.webp'|relative_url}}" type="image/webp">
-      <img src="{{'img/hero-home-natural-one-life.webp'|relative_url}}" alt="{{page.alt}}">
+      <source media="(max-width: 768px)" srcset="{{page.hero_vertical|relative_url}}" type="image/webp">
+      <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
     </picture>
   </header>
   {% when "informacional" %}
      <header class="header_informacional wrapper">
        {% if page.hero %}
-        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="{{page.alt}}">
+        <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
         {% endif %}
         <h1>{{page.h1}}</h1>
+        <div>
+          <a href="#" title="Lorem Ipsum" class="boton boton_1">Lorem Ipsum</a>
+          <a href="#" title="Lorem Ipsum" class="boton boton_2">Lorem Ipsum</a>
+        </div>
         {% if page.intro %}
         <p>{{page.intro}}</p>
         {% endif %}
      </header>
   {% when "transaccional" %}
-  <header class="header-lipoescultura">
-    <div>
-      <div class="text-hero flow">
-        <img src="{{'img/logo-blanco.webp'|relative_url}}" alt="{{page.alt}}">
+  <header class="header_transaccional">
+    <div class="tarjeta_dos_columnas derecha wrapper">
+      <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
+      <div>
         <h1>{{page.h1}}</h1>
         {% if page.intro %}
         <p>{{page.intro}}</p>
         {% endif %}
+        {% include boton_whatsapp.html %}
       </div>
     </div>
   </header>

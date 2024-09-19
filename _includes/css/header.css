@@ -75,8 +75,35 @@
   display: grid;
   place-items: center;
   text-align: center;
+  gap: 1em;
+
+  img{
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    width: min(100%, 1280px);
+  }
   
   & h1{
+    color: var(--principal);
+  }
+
+  div{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    .boton{
+      margin: 0;
+    }
+  }
+}
+
+.header_transaccional{
+  background: rgb(253,253,253);
+  background: linear-gradient(8deg, rgba(253,253,253,1) 55%, rgba(247,128,32,1) 76%, rgba(7,141,70,1) 91%, rgba(9,75,37,1) 100%);
+
+  div h1{
     color: var(--principal);
   }
 }

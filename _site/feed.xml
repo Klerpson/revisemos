@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Sep 2024 08:38:26 -0500</pubDate>
-    <lastBuildDate>Thu, 19 Sep 2024 08:38:26 -0500</lastBuildDate>
+    <pubDate>Thu, 19 Sep 2024 11:40:27 -0500</pubDate>
+    <lastBuildDate>Thu, 19 Sep 2024 11:40:27 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v3.9.5</generator>
     
@@ -21,7 +21,7 @@
             Venir a GurCoff es pasar un ratico delicioso. Esos es esta sección. Un ratico para decirte gracias regalándote mucho de nosotros para ayudarte
           ]]>
         </description>
-        <pubDate>Thu, 19 Sep 2024 08:38:26 -0500</pubDate>
+        <pubDate>Thu, 19 Sep 2024 11:40:27 -0500</pubDate>
         <link>http://localhost:4000/blog</link>
         <guid isPermaLink="true">http://localhost:4000/blog</guid>
         
@@ -30,16 +30,18 @@
       </item>
     
       <item>
-        <title>Categorías de los juegos de FelizMente que estás buscando</title>
+        <title>Catálogo de productos de Natural One Life</title>
         <description>
           <![CDATA[
             
-            ¿Qué tipo de juego de pensar o didáctico estás buscando? Encuéntralo entre nuestras categorías de juegos fabricados por FelizMente
+            <img src="http://localhost:4000/img/catalogo-natural-one-life.avif" alt="Foto de productos de Natural One Life" />
+            
+            Conoce el catálogo de productos de Natural One Life: células madre, proteínas, vitaminas y más. Cuida tu salud naturalmente.
           ]]>
         </description>
-        <pubDate>Thu, 19 Sep 2024 08:38:26 -0500</pubDate>
-        <link>http://localhost:4000/categorias</link>
-        <guid isPermaLink="true">http://localhost:4000/categorias</guid>
+        <pubDate>Thu, 19 Sep 2024 11:40:27 -0500</pubDate>
+        <link>http://localhost:4000/catalogo</link>
+        <guid isPermaLink="true">http://localhost:4000/catalogo</guid>
         
         
         
@@ -53,7 +55,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 19 Sep 2024 08:38:26 -0500</pubDate>
+        <pubDate>Thu, 19 Sep 2024 11:40:27 -0500</pubDate>
         <link>http://localhost:4000/feed.xml</link>
         <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
         
@@ -66,12 +68,12 @@
         <description>
           <![CDATA[
             
-            <img src="http://localhost:4000/img/juego-agilizate.webp" alt="Agilizate Juego" />
+            <img src="http://localhost:4000/img/hero-home-natural-one-life.webp" alt="Tratamientos de Natural One Life" />
             
             Compra tratamientos naturales con Natural One Life. Asesórate gratis para entender cómo cuidarte naturalmente. Escríbenos o pide tu tratamiento.
           ]]>
         </description>
-        <pubDate>Thu, 19 Sep 2024 08:38:26 -0500</pubDate>
+        <pubDate>Thu, 19 Sep 2024 11:40:27 -0500</pubDate>
         <link>http://localhost:4000/</link>
         <guid isPermaLink="true">http://localhost:4000/</guid>
         
@@ -89,7 +91,7 @@
             Ya eres socio o socia del #clubgurcoff. Ahora, aprovecha muy bien lo que hacemos cada semana para ayudarte a llegar lejos, tal como lo hicimos nosotros
           ]]>
         </description>
-        <pubDate>Thu, 19 Sep 2024 08:38:26 -0500</pubDate>
+        <pubDate>Thu, 19 Sep 2024 11:40:27 -0500</pubDate>
         <link>http://localhost:4000/ofertas</link>
         <guid isPermaLink="true">http://localhost:4000/ofertas</guid>
         
@@ -107,7 +109,7 @@
             Ven y conocer quiénes somos en la heladería GurCoff y cómo hemos logrado ser los mejores de la zona donde abrimos nuestras sucursales
           ]]>
         </description>
-        <pubDate>Thu, 19 Sep 2024 08:38:26 -0500</pubDate>
+        <pubDate>Thu, 19 Sep 2024 11:40:27 -0500</pubDate>
         <link>http://localhost:4000/quienes-somos</link>
         <guid isPermaLink="true">http://localhost:4000/quienes-somos</guid>
         
@@ -123,7 +125,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 19 Sep 2024 08:38:26 -0500</pubDate>
+        <pubDate>Thu, 19 Sep 2024 11:40:27 -0500</pubDate>
         <link>http://localhost:4000/search.json</link>
         <guid isPermaLink="true">http://localhost:4000/search.json</guid>
         
@@ -139,7 +141,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 19 Sep 2024 08:38:26 -0500</pubDate>
+        <pubDate>Thu, 19 Sep 2024 11:40:27 -0500</pubDate>
         <link>http://localhost:4000/sitemap.xml</link>
         <guid isPermaLink="true">http://localhost:4000/sitemap.xml</guid>
         
@@ -155,7 +157,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 19 Sep 2024 08:38:26 -0500</pubDate>
+        <pubDate>Thu, 19 Sep 2024 11:40:27 -0500</pubDate>
         <link>http://localhost:4000/css/style.css</link>
         <guid isPermaLink="true">http://localhost:4000/css/style.css</guid>
         

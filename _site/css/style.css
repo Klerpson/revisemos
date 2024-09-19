@@ -273,6 +273,19 @@ input{
 .derecha{
   flex-direction: row-reverse;
 }
+
+.mapa{
+  margin: 4em 0 2em;
+  
+  div{
+    position: relative;
+    width: 100%;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    line-height: 0;
+  }
+}
 nav {
   position: sticky;
   width: 100%;
@@ -349,7 +362,7 @@ nav {
 .dropdown-content {
   display: none;
   position: absolute;
-  top: 40px;
+  top: 32px;
   left: 0;
   background-color: #f9f9f9;
   width: max-content;
@@ -440,12 +453,38 @@ nav {
   display: grid;
   place-items: center;
   text-align: center;
+  gap: 1em;
+
+  img{
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    width: min(100%, 1280px);
+  }
   
   & h1{
     color: var(--principal);
   }
+
+  div{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    .boton{
+      margin: 0;
+    }
+  }
 }
 
+.header_transaccional{
+  background: rgb(253,253,253);
+  background: linear-gradient(8deg, rgba(253,253,253,1) 55%, rgba(247,128,32,1) 76%, rgba(7,141,70,1) 91%, rgba(9,75,37,1) 100%);
+
+  div h1{
+    color: var(--principal);
+  }
+}
 .tarjeta{
   border-radius: var(--radius);
   box-shadow: var(--shadow);
@@ -591,6 +630,7 @@ nav {
     -webkit-filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.3));
             filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.3));
     transition: all .2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border-radius: var(--radius);
 
     &:hover{
       transform: rotate(5deg);
@@ -599,8 +639,13 @@ nav {
   &> div:not(:first-child){
     flex: 1 0 400px;
     max-width: 100%;
-
   }
+
+  div ul li{
+    margin-top: 1em;
+    margin-left: 2em;
+  }
+
 }
 
 .carousel-container {
@@ -768,6 +813,82 @@ nav {
     max-height: 300px;
   }
 }
+/********* PAGINA DE CATALOGO *********/
+.blog-tags{
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin: 2em auto 1em;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-tags button{
+  flex: 1 0 max-content;
+  padding: 16px 20px;
+  border: none;
+  border-radius: var(--radius);
+  background-color: var(--principal);
+  font-weight: 900;
+  transition: all .15s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  color: white;
+}
+
+.blog-tags button.active{
+  background-color: var(--accion);
+  box-shadow: var(--shadow);
+  color: white;
+}
+
+.blog-tags button:hover{
+  transform: scale(1.05);
+  box-shadow: var(--shadow);
+}
+
+.post{
+  padding: 2em 0;
+  h2{
+    margin-bottom: 2em;
+  }
+
+  & > div{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 500px), 1fr));
+    gap: 2em 1em;
+    
+    .tarjeta{
+      &:nth-child(even){
+        flex-direction: row-reverse;
+      }
+
+      div h3{
+        color: var(--secundario)
+      }
+
+      div ul{
+        padding: 12px 0;
+        display: grid;
+        li{
+          max-width: 100%;
+          text-align: left;
+        }
+      }
+
+      div .boton{
+        margin: 4px 0 0;
+      }
+    }
+  }
+}
+
+.post.hide{
+  display: none;
+
+  div{
+    display: none;
+  }
+}
+
 .buscador{
   position: relative;
   background-color: var(--complemento1);

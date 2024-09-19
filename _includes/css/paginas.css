@@ -1,0 +1,75 @@
+/********* PAGINA DE CATALOGO *********/
+.blog-tags{
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin: 2em auto 1em;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-tags button{
+  flex: 1 0 max-content;
+  padding: 16px 20px;
+  border: none;
+  border-radius: var(--radius);
+  background-color: var(--principal);
+  font-weight: 900;
+  transition: all .15s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  color: white;
+}
+
+.blog-tags button.active{
+  background-color: var(--accion);
+  box-shadow: var(--shadow);
+  color: white;
+}
+
+.blog-tags button:hover{
+  transform: scale(1.05);
+  box-shadow: var(--shadow);
+}
+
+.post{
+  padding: 2em 0;
+  h2{
+    margin-bottom: 2em;
+  }
+
+  & > div{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 500px), 1fr));
+    gap: 2em 1em;
+    
+    .tarjeta{
+      &:nth-child(even){
+        flex-direction: row-reverse;
+      }
+
+      div h3{
+        color: var(--secundario)
+      }
+
+      div ul{
+        padding: 12px 0;
+        display: grid;
+        li{
+          max-width: 100%;
+          text-align: left;
+        }
+      }
+
+      div .boton{
+        margin: 4px 0 0;
+      }
+    }
+  }
+}
+
+.post.hide{
+  display: none;
+
+  div{
+    display: none;
+  }
+}
