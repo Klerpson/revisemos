@@ -2,4 +2,10 @@
   .tarjeticas_articulos li{
       width: min(100%, 160px);
   }
+
+  .dropdown-content {
+    top: 40px;
+    left: -80px;
+  }
+  
 }

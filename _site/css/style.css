@@ -354,13 +354,14 @@ nav {
   background-color: #f9f9f9;
   width: max-content;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  padding: 12px;
+  padding: 20px;
   z-index: 10;
   border-radius: var(--radius);
 }
 
 .dropdown:hover .dropdown-content{
-  display: block;
+  display: grid;
+  gap: 8px;
 }
 .header-home {
   position: relative;
@@ -811,7 +812,7 @@ nav {
 
 .buscador > a{
   position: absolute;
-  right: calc((100vw - 1128px) / 2);
+  right: 1em;
   top: 2em;
   padding: 8px;
   line-height: 1;
@@ -851,6 +852,10 @@ nav {
   justify-content: center;
   gap: 8px;
   text-decoration: none;
+}
+
+.footer > img{
+  width: min(100%, 400px);
 }
 
 .footer small{
@@ -933,4 +938,10 @@ nav {
   .tarjeticas_articulos li{
       width: min(100%, 160px);
   }
+
+  .dropdown-content {
+    top: 40px;
+    left: -80px;
+  }
+  
 }

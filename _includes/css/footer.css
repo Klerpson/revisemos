@@ -27,6 +27,10 @@
   text-decoration: none;
 }
 
+.footer > img{
+  width: min(100%, 400px);
+}
+
 .footer small{
   text-align: center;
 }
