@@ -1,46 +1,24 @@
 ---
 layout: transaccional
 title: Regalos Digitales de Natural One Life para tu Salud
-description: "En Natural One Life queremos regalarte guías, audios, videos, recomendaciones y más; para que pongas en práctica en casa y cuides de tu salud. ¡Descárgalos!"
-h1: Catálogo de productos de Natural One Life
-hero: img/catalogo-natural-one-life.avif
-alt: Foto de productos de Natural One Life
-intro: Mira los productos que te ayudarán a cuidar tu salud de forma natural. Elige cuál necesitas y escríbenos al WhatsApp con el nombre del producto.
+description: "En Natural One Life queremos regalarte guías, audios, videos, recomendaciones y más; para que cuides de tu salud. ¡Descárgalos!"
+h1: Natural One Life te regala información vital para tu salud
+hero: img/regalos-natural-one-life.avif
+alt: Foto de el logo de Natural One Life envuelto en un regalo
+intro: Descarga y utiliza los archivos que tenemos para ti para que cuides de tu salud en casa.
 ---
-<section class="intro_secciones bg_secundario flow">
-  <small>Catálogo de productos</small>
-  <h2>Productos naturales para cuidar tu salud</h2>
+<section class="intro_secciones flow">
+  <small>Regalos digitales</small>
+  <h2>Descarga archivos digitales para el cuidado de la salud</h2>
   <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae consequatur dicta nulla provident repudiandae libero?</p>
-  <h3>Escoge el tema de tu interés para mostrarte los productos indicados</h3>
-  <div class="blog-tags">
-    <button data-name="all" class="active">Todos</button>
-    {% for categoria in site.data.catalogo %}
-    <button data-name="{{ categoria[0] }}">{{ categoria[0] }}</button>
-    {% endfor %}
-  </div>
 </section>
-<section class="posts">
-  {% for categoria in site.data.catalogo %}
-  <div class="post" data-name="{{ categoria[0] }}">
-    <h2>🌿 Tratamientos para {{ categoria[0] }}</h2>
-    <div>
-      {% for producto in categoria[1] %}
-      <article class="tarjeta">
-        <div>
-          <img src="{{ producto.img | relative_url }}" alt="{{ producto.alt }}" loading="lazy" width="400" height="400" title="{{ producto.title }}">
-        </div>
-        <div class="flow">
-          <h3>{{producto.titulo}}</h3>
-          <ul>
-            {% for beneficio in producto.beneficios %}
-            <li><small>✓ {{ beneficio | first | last }}</small></li>
-            {% endfor %}
-          </ul>
-          {% include boton_whatsapp.html %}
-        </div>
-      </article>
-      {% endfor %}
-    </div>
-  </div>
+<ul class="tarjeticas_articulos">
+  {% for regalo in site.data.regalos %}
+  <li>
+    <img src="{{'img/tratamiento-natural-cientifico.webp' | relative_url }}" alt="Lorem Ipsum" loading="lazy" width="148" height="148">
+    <h3>{{regalo.titulo}}</h3>
+    <p>{{regalo.p}}</p>
+    <a href="{{regalo.url}}" rel="nofollow noopener" class="boton boton_2">Descargar regalo</a>
+  </li>
   {% endfor %}
-</section>
+</ul>
