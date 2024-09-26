@@ -1,0 +1,12 @@
+# _data/faqs.yaml
+- question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+  answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc."
+
+- question: "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?"
+  answer: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+- question: "Excepteur sint occaecat cupidatat non proident?"
+  answer: "Sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+- question: "Ut enim ad minima veniam, quis nostrum exercitationem?"
+  answer: "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
