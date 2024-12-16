@@ -5,10 +5,10 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Sep 2024 14:01:48 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2024 10:23:14 -0500</lastBuildDate>
     <language>es-CO</language>
-    <generator>Jekyll v3.9.5</generator>
+    <generator>Jekyll v3.10.0</generator>
     
     
       <item>
@@ -21,7 +21,7 @@
             Venir a GurCoff es pasar un ratico delicioso. Esos es esta sección. Un ratico para decirte gracias regalándote mucho de nosotros para ayudarte
           ]]>
         </description>
-        <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
+        <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
         <link>http://localhost:4000/blog</link>
         <guid isPermaLink="true">http://localhost:4000/blog</guid>
         
@@ -39,7 +39,7 @@
             Conoce el catálogo de productos de Natural One Life: células madre, proteínas, vitaminas y más. Cuida tu salud naturalmente.
           ]]>
         </description>
-        <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
+        <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
         <link>http://localhost:4000/catalogo</link>
         <guid isPermaLink="true">http://localhost:4000/catalogo</guid>
         
@@ -55,7 +55,7 @@
             
           ]]>
         </description>
-        <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
+        <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
         <link>http://localhost:4000/feed.xml</link>
         <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
         
@@ -73,7 +73,7 @@
             Compra tratamientos naturales con Natural One Life. Asesórate gratis para entender cómo cuidarte naturalmente. Escríbenos o pide tu tratamiento.
           ]]>
         </description>
-        <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
+        <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
         <link>http://localhost:4000/</link>
         <guid isPermaLink="true">http://localhost:4000/</guid>
         
@@ -91,7 +91,7 @@
             Ya eres socio o socia del #clubgurcoff. Ahora, aprovecha muy bien lo que hacemos cada semana para ayudarte a llegar lejos, tal como lo hicimos nosotros
           ]]>
         </description>
-        <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
+        <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
         <link>http://localhost:4000/ofertas</link>
         <guid isPermaLink="true">http://localhost:4000/ofertas</guid>
         
@@ -109,7 +109,7 @@
             Ven y conocer quiénes somos en la heladería GurCoff y cómo hemos logrado ser los mejores de la zona donde abrimos nuestras sucursales
           ]]>
         </description>
-        <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
+        <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
         <link>http://localhost:4000/quienes-somos</link>
         <guid isPermaLink="true">http://localhost:4000/quienes-somos</guid>
         
@@ -127,7 +127,7 @@
             En Natural One Life queremos regalarte guías, audios, videos, recomendaciones y más; para que cuides de tu salud. ¡Descárgalos!
           ]]>
         </description>
-        <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
+        <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
         <link>http://localhost:4000/regalos</link>
         <guid isPermaLink="true">http://localhost:4000/regalos</guid>
         
@@ -143,7 +143,7 @@
             
           ]]>
         </description>
-        <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
+        <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
         <link>http://localhost:4000/search.json</link>
         <guid isPermaLink="true">http://localhost:4000/search.json</guid>
         
@@ -159,7 +159,7 @@
             
           ]]>
         </description>
-        <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
+        <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
         <link>http://localhost:4000/sitemap.xml</link>
         <guid isPermaLink="true">http://localhost:4000/sitemap.xml</guid>
         
@@ -175,7 +175,7 @@
             
           ]]>
         </description>
-        <pubDate>Mon, 23 Sep 2024 14:01:48 -0500</pubDate>
+        <pubDate>Mon, 16 Dec 2024 10:23:14 -0500</pubDate>
         <link>http://localhost:4000/css/style.css</link>
         <guid isPermaLink="true">http://localhost:4000/css/style.css</guid>
         

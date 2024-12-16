@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 User-Agent: AdsBot-Google-Mobile
 User-Agent: AdsBot-Google
-Sitemap: https://gurcoff.com/sitemap.xml
+Sitemap: https://naturalonelife.com/sitemap.xml

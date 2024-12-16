@@ -22,11 +22,3 @@ compress_html:
     blanklines: false
     profile: false
     startings: []
-
-collections:
-  juegos:
-    output: true
-    permalink: /juegos/:path
-  posts:
-    output: true
-    permalink: /blog/:slug
