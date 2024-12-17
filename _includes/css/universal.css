@@ -1,15 +1,16 @@
 :root {
   /*** COLORES ***/
-  --principal: #094B25;
-  --accion: #F78020;
-  --secundario: #078D46;
-  --acento: #078d4617;
-  --blanco: #FDFDFD;
-  --gris: #F7F7F2;
-  --grisFuentes: #171f18;
-  --fuente: "Montserrat", sans-serif;
-  --radius: 32px;
-  --shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.22);
+  --accion: #07426a;
+  --principal: #334255;
+  --secundario: #c5d800;
+  --acentar: #c6d80056;
+  --colorTexto: #110904;
+  --gris: #ebebeb;
+  --gris1: #8b8b8b;
+  --shadow: rgba(0, 0, 0, 0.18) 0px 5px 15px 0px;
+  --radius: 16px;
+  /*** FUENTES ***/
+  --fuenteTexto: "Montserrat", sans-serif;
 }
 
 *,
@@ -18,184 +19,149 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }
 
 html {
   scroll-behavior: smooth;
-  line-height: 1.6;
   -webkit-text-size-adjust: 100%;
   scroll-padding-top: 8em;
 }
 
 body {
-  color: var(--grisFuentes);
-  font-family: var(--fuente);
-  background-color: #fefefe;
+  line-height: 1.6;
+  position: relative;
+  font-family: var(--fuenteTexto);
+  color: var(--colorTexto);
+  text-rendering: optimizeSpeed;
 }
 
-h1, h2, h3, h4 {
-  text-transform: initial;
-  line-height: 1.2; /* Ajuste de line-height para mejorar la legibilidad */
-  max-width: 732px;
-  margin-bottom: 0.7em;
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.08;
 }
 
 h1 {
-  font-size: clamp(2rem, 1.75rem + 1.5vw, 2.5rem); /* Ajuste de tamaño de fuente para h1 */
-  margin-bottom: 1em;
-  width: min(100%, 520px);
+  font-weight: 900;
+  font-size: clamp(2.5rem, 5vw, 4rem);
 }
 
 h2 {
-  font-size: clamp(1.75rem, 1.5rem + 1vw, 2rem); /* Ajuste de tamaño de fuente para h2 */
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  width: min(100%, 992px);
+  margin-inline: auto;
+  color: var(--principal);
 }
 
 h3 {
-  font-size: clamp(1.4rem, 1.2rem + 0.6vw, 1.6rem);
+  font-size: clamp(1.25rem, 2vw, 1.75rem);
 }
 
-h4 {
-  font-size: clamp(1.2rem, 1rem + 0.4vw, 1.4rem);
-}
+h4{text-transform: uppercase;}
 
+h4,
 p,
-a,
 li {
   word-wrap: break-word;
-  font-size: clamp(1rem, 0.95rem + 0.25vw, 1.125rem); /* Ajuste de tamaño de fuente */
+  font-size: clamp(1.125rem, 1.072rem + 0.26vw, 1.25rem);
 }
 
 a {
-  color: var(--principal);
-  font-weight: bolder;
-  transition: all 0.2s ease-in;
-  text-decoration-thickness: 2.4px;
+  text-decoration: none;
+  color: var(--accion);
 }
 
-a:hover{
-  color: var(--accion);
+ul li {
+  list-style: none;
+  margin: 0 0 0 1em;
+}
+
+ol li {
+  list-style: decimal !important;
+  margin: 0 0 0 2em;
+}
+
+::marker {
+  color: var(--secundario);
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+blockquote {
+  position: relative;
+  padding-left: 2em;
+  border-left: #fefefe;
+  border-left-width: 1em;
+  border-left-style: double;
+  padding: 2em;
+  background-color: var(--secundario);
+  box-shadow: 0 0 0 100vmax var(--secundario);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
+}
+
+blockquote p {
+  color: white;
+  font-size: 1.6em;
+}
+
+blockquote a {
+  color: var(--blanco);
 }
 
 hr {
   border: 0;
-  height: 2px;
-  background-image: linear-gradient(
-    to right,
-    rgba(72, 191, 132, 0.1),
-    rgba(72, 191, 132, 0.9),
-    rgba(72, 191, 132, 0.1)
-  );
-  margin: 0 0 2.4em 0;
+  height: 4px;
+  background-color: var(--principal);
+  width: 80px;
+  margin: 2em 0;
 }
 
-small {
-  font-size: 80%;
-}
-
-blockquote {
-  background: var(--complemento1);
-  border-radius: var(--radius);
-  border: 2px solid var(--principal);
-  padding: 2em;
-  text-align: center;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-img {
-  border-style: none;
-}
-
-strong{
-  background-color: var(--complemento1);
-  padding: 2px 4px;
-  border-radius: 8px;
-}
-
-ul li {
-  margin: 0;
-  list-style: none;
-}
-
-ol li {
-  list-style: decimal;
-  margin-left: 3em;
-}
-
-ol li::marker {
-  padding: 4px;
-  font-size: 2em;
-  font-weight: bolder;
-  color: var(--secundario);
-  vertical-align: middle;
-}
-
-table {
-  width: 100%;
-  margin: 2em 0 4em;
-}
-
-table tr {
-  border-bottom: 2px dotted var(--principal);
-  display: flex;
-  padding: 1.2em 0;
-  flex-wrap: wrap;
-  gap: 1em;
-  width: 100%;
-}
-
-table tr:nth-child(even){
-  background-color: var(--gris);
-}
-
-table th {
-  font-weight: 900;
-}
-
-table td,
-table th {
-  flex: 1 0 240px;
-  max-width: 100%;
-}
-
-input{
-  padding: 16px;
-  font-size: 18px;
-  border-radius: var(--radius);
-  border: 2px solid var(--principal);
+small{
+  font-size: 16px;
+  margin-bottom: 1em;
 }
 
 .wrapper {
-  width: min(calc(100% - 20px), 1280px);
+  width: min(calc(100% - 2rem), 1320px);
   margin-inline: auto;
-  padding: 4rem 0;
+  padding: 8rem 0;
 }
 
 .content {
-  width: min(calc(100% - 20px), 1280px);
+  width: min(calc(100% - 2rem), 1320px);
   margin-inline: auto;
 }
 
-.flow > * + *:not(h1) {
-  margin-bottom: 1em;
+.flow > * + * {
+  margin-top: 1em;
+}
+
+.left{text-align: left;}
+
+.resaltar {
+  background-color: var(--acentar);
+  padding: 2px;
 }
 
 .boton {
   display: block;
   border-radius: var(--radius);
   text-decoration: none;
-  padding: 16px 20px;
+  padding: 16px 24px;
   width: min(100%, 320px);
   text-align: center;
   font-weight: 700;
   box-shadow: var(--shadow);
   transition: all 0.15s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  margin: 2rem auto;
   cursor: pointer;
+  text-shadow: none;
 }
 
-.boton:hover{
+.boton:hover {
   transform: scale(1.024);
 }
 
@@ -205,9 +171,9 @@ input{
 }
 
 .boton_2 {
-  color: var(--accion);
-  background-color: white;
-  border: 2.4px solid var(--accion);
+  margin-inline: auto;
+  background-color: var(--secundario);
+  color: var(--principal);
 }
 
 .boton_1:active,
@@ -215,74 +181,6 @@ input{
   box-shadow: none;
 }
 
-.boton-whatsapp {
-  position: fixed;
-  bottom: 8rem;
-  right: 12px;
-  z-index: 100;
-  -webkit-animation: scale-up-center 0.4s cubic-bezier(0.390,0.575,0.565,1.000) 0.5s 6 alternate-reverse both;
-  animation: scale-up-center 0.4s cubic-bezier(0.390,0.575,0.565,1.000) 0.5s 6 alternate-reverse both;
-  transition: all .2s ease-in-out;
-  width: -webkit-max-content;
-  width: -moz-max-content;
-  width: max-content;
-  text-decoration: none;
-}
-
-.boton-whatsapp img{
-  display: inline;
-  filter: drop-shadow(0 2px 12px rgba(0, 0, 0, 0.28));
-}
-
-@media screen and (width >=800px) {
-  .boton-whatsapp::before {
-    content: "Asesórate";
-    font-size: 14px;
-    color: white;
-    background-color: #2eda2ea8;
-    border: 3px solid white;
-    padding: 8px;
-    border-radius: 8px;
-  }
-}
-
-.boton-whatsapp:hover {
-  -webkit-filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
-  filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
-}
-
-.bg_secundario{
-  background-color: var(--acento);
-  box-shadow: 0 0 0 100vmax var(--acento);
-  clip-path: inset(0 -100vmax);
-  padding: 2em 0;
-}
-
-.intro_secciones{
-  text-align: center;
-  width: min(100%, 600px);
-  margin-inline: auto;
-  padding-bottom: 2em;
-
-  small{
-    color: var(--secundario);
-    font-weight: 700;
-  }
-}
-
-.derecha{
-  flex-direction: row-reverse;
-}
-
-.mapa{
-  margin: 4em 0 2em;
-  
-  div{
-    position: relative;
-    width: 100%;
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
-    overflow: hidden;
-    line-height: 0;
-  }
-}
+/* background-color: var(--secundario);
+box-shadow: 0 0 0 100vmax var(--secundario);
+clip-path: inset(0 -100vmax); */

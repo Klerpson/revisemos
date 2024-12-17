@@ -1,44 +1,23 @@
-.footer{
-  background-color: var(--gris);
-  display: grid;
-  place-items: center;
-  gap: 1em;
-  padding: 60px 20px 40px;
-}
-
-.footer div{
+footer {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+  text-align: center;
+  background-color: var(--principal);
 }
 
-.footer div a{
-  text-align: center;
-  border-bottom: 1px solid var(--principal);
-  max-width: 100%;
-  flex: 1 0 320px;
-  padding: 16px;
+footer a,
+footer p {
+  display: inline-block;
+  font-family: var(--fuenteTexto);
+  font-size: var(--sizeTextos);
+  color: #ffffff;
   margin: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  text-decoration: none;
+  padding: 0;
 }
 
-.footer > img{
-  width: min(100%, 400px);
-}
-
-.footer small{
-  text-align: center;
-}
-
-.footer small b{
-  background: none;
-}
-
-.footer small a{
-  font-size: 14px;
+footer a {
+  margin: 1rem 0.5rem;
+  font-weight: 700;
 }

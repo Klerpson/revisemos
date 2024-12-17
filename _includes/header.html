@@ -1,51 +1,11 @@
-{% assign layout = page.layout %}
-{% case layout %}
-  {% when "default" %}
-  <header class="header-home">
-    <div class="wrapper">
-      <img src="{{'img/logo.webp'|relative_url}}" alt="Logo de Natural One Life">
-      <h1>{{page.h1}}</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus ipsum perspiciatis doloremque!</p>
-      {% include boton_whatsapp.html %}
-    </div>
-    <picture class="header_hero_image">
-      <source media="(max-width: 768px)" srcset="{{page.hero_vertical|relative_url}}" type="image/webp">
-      <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
-    </picture>
-  </header>
-  {% when "informacional" %}
-     <header class="header_informacional wrapper">
-       {% if page.hero %}
-        <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
-        {% endif %}
-        <h1>{{page.h1}}</h1>
-        <div>
-          <a href="#" title="Lorem Ipsum" class="boton boton_1">Lorem Ipsum</a>
-          <a href="#" title="Lorem Ipsum" class="boton boton_2">Lorem Ipsum</a>
-        </div>
-        {% if page.intro %}
-        <p>{{page.intro}}</p>
-        {% endif %}
-     </header>
-  {% when "transaccional" %}
-  <header class="header_transaccional">
-    <div class="tarjeta_dos_columnas derecha wrapper">
-      <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
-      <div>
-        <h1>{{page.h1}}</h1>
-        {% if page.intro %}
-        <p>{{page.intro}}</p>
-        {% endif %}
-        {% include boton_whatsapp.html %}
-      </div>
-    </div>
-  </header>
-  {% else %}
-  <header class="header-home">
-    <div>
-      <h1>{{page.h1}}</h1>
-      <p>{{page.description}}</p>
-    </div>
-    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
-  </header>
-{% endcase %}
+<header class="hero">
+  <div class="hero-content">
+    <h1 class="hero-title">
+      Una oportunidad que no se repite: Propiedad de 406m² en el corazón de Neiva
+    </h1>
+    <p class="hero-subtitle">
+      225m² de área construida en un terreno estratégico. Ideal para rentas, remodelación o proyectos comerciales.
+    </p>
+    {% include boton.html %}
+  </div>
+</header>

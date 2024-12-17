@@ -1,24 +1,21 @@
 baseurl: ''
 url: 'https://revisemos.com'
-name: 'revisemos.com'
-author: Alejandro Argote - Natural One Life
-instagram: https://www.instagram.com
-facebook: https://www.facebook.com
-maps: https://maps.app.goo.gl/XCsyKqaQ5pQTx1g47
-telefono: 3123278881
-
-markdown: kramdown
+name: Propiedad en venta en el corazón comercial de Neiva
+title: Propiedad en venta en el corazón comercial de Neiva
+celular: "317 373 0534"
 
 permalink: :slug
+
+markdown: kramdown
 
 keep_files: [/img]
 
 compress_html:
-    clippings: []
-    comments: []
-    endings: []
-    ignore:
-    envs: []
-    blanklines: false
-    profile: false
-    startings: []
+  clippings: []
+  comments: []
+  endings: []
+  ignore:
+  envs: []
+  blanklines: false
+  profile: false
+  startings: []

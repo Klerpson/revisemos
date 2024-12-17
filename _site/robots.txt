@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-User-Agent: AdsBot-Google-Mobile
-User-Agent: AdsBot-Google
-Sitemap: https://naturalonelife.com/sitemap.xml

@@ -1,12 +1,11 @@
 <section class="cta">
   <div class="wrapper">
-    <img src="{{'img/tratamiento-natural-bg-1.webp'}}" alt="Lorem ipsum" loading="lazy" class="imagen_izquierda">
-    <div class="cta_texto flow">
-      <h2>CTA para solicitar una consulta</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe porro pariatur excepturi.</p>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi excepturi sequi libero tempore nihil saepe.</p>
-      {% include boton_whatsapp.html %}
+    <div class="cta_copy flow">
+      <h3>{{page.title}}</h3>
+      <p>{{page.description}}</p>
+      <p>Recuerda que aquí compras tu casa sin comisiones ni terceros. Soy el propietario y puedes negociar directamente conmigo.</p>
+      <a href="{{page.cta}}" class="boton boton_2" rel="nofollow noopener">Compra tu casa</a>
     </div>
-    <img src="{{'img/tratamiento-natural-bg-2.webp'}}" alt="Lorem ipsum" loading="lazy" class="imagen_derecha">
+    <img src="{{page.hero}}" alt="{{page.alt}}" loading="lazy">
   </div>
 </section>
