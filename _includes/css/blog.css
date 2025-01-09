@@ -5,5 +5,7 @@
   padding: 16px 0;
   border-top: 2px solid var(--acento);
   border-bottom: 2px solid var(--acento);
+  max-width: -webkit-max-content;
+  max-width: -moz-max-content;
   max-width: max-content;
 }

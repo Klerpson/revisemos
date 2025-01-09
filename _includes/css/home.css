@@ -59,7 +59,8 @@
   background-image: url("/img/bg-2.avif");
   background-size: cover;
   background-position: center left;
-  filter: brightness(0.5);
+  -webkit-filter: brightness(0.5);
+          filter: brightness(0.5);
   z-index: -1;
 }
 
@@ -67,7 +68,8 @@
   background-image: url("/img/bg-1.avif");
   background-size: cover;
   background-position: center left;
-  filter: brightness(0.5);
+  -webkit-filter: brightness(0.5);
+          filter: brightness(0.5);
   z-index: -1;
 }
 
@@ -75,7 +77,8 @@
   background-image: url("/img/bg-1.avif");
   background-size: cover;
   background-position: center left;
-  filter: brightness(0.5);
+  -webkit-filter: brightness(0.5);
+          filter: brightness(0.5);
   z-index: -1;
 }
 
@@ -85,7 +88,8 @@
   text-align: center;
   background-color: var(--gris);
   box-shadow: 0 0 0 100vmax var(--gris);
-  clip-path: inset(0 -100vmax);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
 }
 
 .room-cards {
@@ -154,7 +158,8 @@
 .img-galeria {
   width: 100%;
   aspect-ratio: 16/9;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   cursor: pointer;
@@ -189,7 +194,8 @@
   max-width: 90%;
   max-height: 90vh;
   border-radius: 10px;
-  object-fit: contain;
+  -o-object-fit: contain;
+     object-fit: contain;
   transform: scale(0.8);
   transition: transform 0.3s ease;
 }
@@ -237,6 +243,7 @@
     max-width: 100%;
     box-shadow: var(--shadow);
     margin-inline: auto;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
 }

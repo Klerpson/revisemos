@@ -29,13 +29,20 @@
   font-weight: 700;
 }
 
-@keyframes scroll {
+@-webkit-keyframes scroll {
   0% {
-    -webkit-transform: translateX(0);
     transform: translateX(0);
   }
   100% {
-    -webkit-transform: translateX(calc(-360px * 17));
+    transform: translateX(calc(-360px * 17));
+  }
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
     transform: translateX(calc(-360px * 17));
   }
 }
