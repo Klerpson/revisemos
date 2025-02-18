@@ -1,15 +1,34 @@
-baseurl: ''
-url: 'https://revisemos.com'
-name: Propiedad en venta en el corazón comercial de Neiva
-title: Propiedad en venta en el corazón comercial de Neiva
-celular: "317 373 0534"
+# Información del sitio
+title: Since Marketing
+email: info@since.com
+description: >- 
+  Since Marketing - Agencia de Marketing Digital especializada en estrategias 
+  de crecimiento para empresas en Latinoamérica.
+baseurl: ""
+url: "https://since.com"
+lang: "es"
 
-permalink: :slug
+# Redes sociales
+social:
+  instagram: https://instagram.com/since
+  facebook: https://facebook.com/since
+  linkedin: https://linkedin.com/company/since
 
+# Build settings
 markdown: kramdown
 
-keep_files: [/img]
+# Plugins
+plugins:
+  - jekyll-paginate
 
+# Paginación (removida la duplicación)
+paginate: 10
+paginate_path: "/blog/page/:num/"
+
+# URLs
+permalink: :slug
+
+# Compresión HTML
 compress_html:
   clippings: []
   comments: []
@@ -19,3 +38,12 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
+
+# Collections
+collections:
+  redirects:
+    output: true
+  servicios:
+    output: true
+    permalink: /servicios/:path
+

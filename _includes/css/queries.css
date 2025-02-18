@@ -1,0 +1,14 @@
+@media (prefers-reduced-motion: reduce) {
+  .animate-element {
+    transition: none;
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .highlight-card {
+    flex-direction: column;
+    align-items: center;
+  }
+}

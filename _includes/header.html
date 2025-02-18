@@ -1,11 +1,63 @@
+{% assign layout = page.layout %}
+{% case layout %}
+{% when "default" %}
 <header class="hero">
-  <div class="hero-content">
-    <h1 class="hero-title">
-      Una oportunidad que no se repite: Propiedad de 406m² en el corazón de Neiva
-    </h1>
-    <p class="hero-subtitle">
-      225m² de área construida en un terreno estratégico. Ideal para rentas, remodelación o proyectos comerciales.
-    </p>
-    {% include boton.html %}
+  <div class="wrapper">
+    <div class="hero-content">
+      <h1 class="hero-title">
+        <span class="desktop-title">Since | Agencia de Marketing Digital</span>
+        <span class="mobile-title">Agencia Since Marketing</span>
+      </h1>
+      <div class="hero-text">
+        <p>¡Hey, bienvenido!</p>
+        <p>Seguramente ya sabes a qué se dedica una agencia de marketing.</p>
+        <p>Nosotros lo hacemos muy bien...</p>
+
+        {% include button.html text= "Clic y empecemos" %}
+
+        <div class="services-link">
+          <a href="#servicios">Necesitas estos servicios</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="vertical-text"></div>
+</header>
+
+{% when "servicios" %}
+<header class="hero-services two_columns">
+  <div>
+    <h1>{{ page.h1 }}</h1>
+    <p>{{ page.excerpt }}</p>
+    {% include button.html text= "Clic y empecemos" %}
+  </div>
+  <div class="img-bottom">
+    <img src="{{ page.img-hero | relative_url }}" width="512" height="512" loading="eager" alt="{{page.alt}}">
   </div>
 </header>
+
+{% when "blog" %}
+<header class="hero-services">
+  <div class="wrapper">
+    <div class="hero-content-bottom">
+      <div class="text_center">
+        <h1>{{ page.h1 }}</h1>
+      </div>
+    </div>
+  </div>
+</header>
+{% else %}
+
+<header class="hero-services">
+  
+  <div class="wrapper header">
+    <h1>{{ page.h1 }}</h1>
+    <h2>{{ page.h2 }}</h2>
+    <p>{{ page.excerpt }}</p>
+    {% if page.button %}
+    {% include button.html text="Clic y empecemos" %}
+    {% endif %}
+  </div>
+
+</header>
+{% endcase %}

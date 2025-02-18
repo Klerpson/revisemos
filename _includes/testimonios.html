@@ -1,0 +1,19 @@
+<!-- _includes/testimonios.html -->
+<section class="testimonios wrapper">
+  <div class="tarjetas-wrapper">
+    {% for testimonial in include.testimonials %}
+      <div class="tarjeta-testimonio">
+        <div class="contenido-testimonio">
+          <div class="header-testimonio">
+            <img src="{{ 'img/since-icon.avif' | relative_url }}" alt="Since Logo" width="40" height="40" class="logo">
+            <div class="estrellas">★★★★★</div>
+          </div>
+          <h3>{{ testimonial.title }}</h3>
+        </div>
+        <img src="{{ testimonial.image | prepend: 'img/' | relative_url }}" 
+             alt="{{ testimonial.alt }}" 
+             class="imagen-testimonio">
+      </div>
+    {% endfor %}
+  </div>
+</section>

@@ -1,9 +1,38 @@
-<nav class="nav-fixed nav-hidden" id="nav-scroll">
-  <div>
-    <a href="{{site.baseurl}}/" title="Inicio" class="logo">
-      <img src="{{'img/favicon/apple-touch-icon-57x57.png'|relative_url}}" alt="Logo de salón en venta" width="32" height="40">
-      <span>Aprovecha tu oportunidad <br>Escríbenos al WhatsApp</span>
-    </a>  
-    <a href="#" id="lead_whatsapp" rel="nofollow noopener noreferrer" target="_blank" class="boton boton_1">Escríbenos por WhatsApp</a>
+<nav>
+  <div class="main-menu">
+    <a href="{{site.baseurl}}/" class="logo">
+      <img src="{{ 'img/since-logo.avif' | relative_url }}" width="180" height="59" alt="Since Logo">
+    </a>
+    
+    <input type="checkbox" id="nav-toggle">
+    <label for="nav-toggle" class="icono-nav">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </label>
+
+    <ul class="navegacion">
+      <li class="has-submenu">
+        <a href="{{ '/servicios' | relative_url }}" class="toggle-arrow">
+          Servicios
+          
+        </a>
+        <div class="submenu-wrapper">
+          <ul class="submenu">
+            <li><a href="{{ '/servicios/marketing-digital' | relative_url }}">Marketing digital</a></li>
+            <li><a href="{{ 'servicios/redes-sociales' | relative_url }}">Redes sociales</a></li>
+            <li><a href="{{ 'servicios/seo' | relative_url }}">SEO</a></li>
+            <li><a href="{{ 'servicios/paginas-web' | relative_url }}">Páginas web</a></li>
+            <li><a href="{{ 'servicios/publicidad-digital' | relative_url }}">Publicidad digital</a></li>
+            <li><a href="{{ 'servicios/diseno-grafico' | relative_url }}">Diseño gráfico</a></li>
+            <li><a href="{{ 'servicios/gerencia-marketing' | relative_url }}">Gerencia marketing</a></li>
+          </ul>
+        </div>
+      </li>
+
+      <li> <a href="nosotros"> Nosotros  </a> </li>
+      <li> <a href="#"> Información </a> </li>
+      <li> <a href="contacto"> Contacto  </a> </li>
+    </ul>
   </div>
 </nav>

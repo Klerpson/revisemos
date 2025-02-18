@@ -1,23 +1,73 @@
-footer {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
-  text-align: center;
-  background-color: var(--principal);
+footer{
+  background-image: url("../img/footer-bg.avif");
+  background-size: cover;
+  background-position: center;
+  display: grid;
+  gap: 2em;
+  
+  ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  div{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    margin-inline: auto;
+  }
 }
 
-footer a,
-footer p {
-  display: inline-block;
-  font-family: var(--fuenteTexto);
-  font-size: var(--sizeTextos);
-  color: #ffffff;
-  margin: 0;
-  padding: 0;
+.footer {
+  width: min(100%, 1922px);
+  margin-inline: auto;
+
+  img{
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1922 / 2131;
+  -o-object-fit: cover;
+     object-fit: cover;
+  display: block;
+  }
 }
 
-footer a {
-  margin: 1rem 0.5rem;
-  font-weight: 700;
+.scroll-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background-color: var(--color-primary); /* El amarillo que usas como color principal */
+  color: var(--color-dark); /* Color oscuro para el ícono */
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  border: none;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  z-index: 99;
+}
+
+.scroll-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.scroll-to-top:hover {
+  transform: translateY(-4px);
+  background-color: var(--color-secondary); /* El tono secundario para el hover */
+  box-shadow: var(--shadow-card);
+}
+
+/* Animación suave para el ícono */
+.scroll-to-top svg {
+  transition: transform 0.2s ease;
+}
+
+.scroll-to-top:hover svg {
+  transform: translateY(-2px);
 }
