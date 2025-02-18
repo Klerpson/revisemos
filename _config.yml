@@ -1,4 +1,3 @@
-# Información del sitio
 title: Since Marketing
 email: info@since.com
 description: >- 
@@ -8,27 +7,21 @@ baseurl: ""
 url: "https://revisemos.com"
 lang: "es"
 
-# Redes sociales
 social:
   instagram: https://instagram.com/since
   facebook: https://facebook.com/since
   linkedin: https://linkedin.com/company/since
 
-# Build settings
 markdown: kramdown
 
-# Plugins
 plugins:
   - jekyll-paginate
 
-# Paginación (removida la duplicación)
 paginate: 10
 paginate_path: "/blog/page/:num/"
 
-# URLs
 permalink: :slug
 
-# Compresión HTML
 compress_html:
   clippings: []
   comments: []
@@ -39,7 +32,6 @@ compress_html:
   profile: false
   startings: []
 
-# Collections
 collections:
   redirects:
     output: true
