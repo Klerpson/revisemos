@@ -1,8 +1,8 @@
 # Información del sitio
 title: Since Marketing
 email: info@since.com
-description: >- 
-  Since Marketing - Agencia de Marketing Digital especializada en estrategias 
+description: >-
+  Since Marketing - Agencia de Marketing Digital especializada en estrategias
   de crecimiento para empresas en Latinoamérica.
 baseurl: ""
 url: "https://revisemos.com"
@@ -21,19 +21,19 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-# Paginación (removida la duplicación)
+# Paginación
 paginate: 10
 paginate_path: "/blog/page/:num/"
 
 # URLs
-permalink: :slug
+permalink: /blog/:year/:month/:day/:title/
 
 # Compresión HTML
 compress_html:
   clippings: []
   comments: []
   endings: []
-  ignore:
+  ignore: []
   envs: []
   blanklines: false
   profile: false
@@ -46,4 +46,16 @@ collections:
   servicios:
     output: true
     permalink: /servicios/:path
+  posts:
+    output: true
+    permalink: /blog/:slug
 
+# Opciones adicionales
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Since Marketing"
+      comments: true

@@ -1,10 +1,23 @@
 ---
-layout: blog
-hero_image: /img/blog-since.avif
+layout: default
+hero_image: img/since-marketing-digital.avif
 h1: Administración de redes sociales
 excerpt: Donde tu marca cobra vida y conecta con quienes realmente importan.
 img-hero: img/since-marketing-digital.avif
 ---
+<!-- _includes/categories.html -->
+<div class="categories-container">
+  {% for category in site.categories %}
+    <div class="category-card">
+      <h2 class="category-title">{{ category[0] }}</h2>
+      <div class="digital-items">
+        {% for post in category[1] %}
+          <div class="digital-item">DIGITAL</div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
 
 <section class="wrapper text-center highlighted-title">
   <h2>Lorem Ipsum is simply dummy text of the printing and typesetting </h2>
