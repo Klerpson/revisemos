@@ -6,18 +6,23 @@ excerpt: Donde tu marca cobra vida y conecta con quienes realmente importan.
 img-hero: img/since-marketing-digital.avif
 ---
 <!-- _includes/categories.html -->
-<div class="categories-container">
-  {% for category in site.categories %}
-    <div class="category-card">
-      <h2 class="category-title">{{ category[0] }}</h2>
-      <div class="digital-items">
+<section class="categories-container">
+  <h2>Primera categoria</h2>
+  <div class="tarjeta-blog wrapper">
+    {% for category in site.categories %}
+      {% if category[0] == "primera-categoria" %}
         {% for post in category[1] %}
-          <div class="digital-item">DIGITAL</div>
+          <div class="digital-item" style="background-image: url('{{ post.hero | relative_url }}');">
+            <div class="excerpt-overlay">
+              {{ post.excerpt }}
+              <a href="{{ post.url }}" class="btn-glitch-fill">Clic para leer más</a>
+            </div>
+          </div>
         {% endfor %}
-      </div>
-    </div>
-  {% endfor %}
-</div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
 
 <section class="wrapper text-center highlighted-title">
   <h2>Lorem Ipsum is simply dummy text of the printing and typesetting </h2>
@@ -25,21 +30,22 @@ img-hero: img/since-marketing-digital.avif
 
 <div class="bg-blog ">
   <div class="wrapper flow">
-  
-  <div class="card-content">
-    <img src="{{ 'img/contacto-since.avif' | relative_url }}" alt="Equipo de trabajo" class="team-img" width="500"
-      height="300">
 
-  </div>
-  <div class="two_columns">
-    <div>
-    <h3>Lorem Ipsum is simply dummy</h3>
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. a fwan iua nas fisuadnfiu fnuw fwef in
-      fsn f iunaiuf iua iunc iuwe cb aiufb is fiuy</p>
+    <div class="card-content">
+      <img src="{{ 'img/contacto-since.avif' | relative_url }}" alt="Equipo de trabajo" class="team-img" width="500"
+        height="300">
+
     </div>
-    <div>
-      {% include button-secondary.html text= "leer más" %}
+    <div class="two_columns">
+      <div>
+        <h3>Lorem Ipsum is simply dummy</h3>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. a fwan iua nas fisuadnfiu fnuw
+          fwef in
+          fsn f iunaiuf iua iunc iuwe cb aiufb is fiuy</p>
+      </div>
+      <div>
+        {% include button-secondary.html text= "leer más" %}
+      </div>
     </div>
   </div>
-</div>
 </div>
