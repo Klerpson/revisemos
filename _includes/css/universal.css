@@ -91,6 +91,10 @@ table th {
   justify-content: space-around;
   align-items: center;
 
+  h3{
+    color: var(--text-black);
+  }
+
   & > div {
     flex: 1 0 280px;
     max-width: 600px;

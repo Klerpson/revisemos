@@ -65,6 +65,11 @@
 
 .card-content {
   flex: 1 1 300px;
+
+  img{
+    border-radius: var(--radius-sm);
+  }
+  
 }
 
 .logo-rating {
@@ -249,9 +254,16 @@
 
 /* blog */
 
+.bg-blog{
+  background-image: url("{{ 'img/blog-since-agencia.avif' | relative_url }}");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .categories-container {
-  background-color: var(--color-primary);
-  padding: 20px;
+  /* background-color: var(--color-primary); */
+  padding: 8em 20px ;
 
   h2{
     width: 16ch;
