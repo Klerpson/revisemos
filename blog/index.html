@@ -5,22 +5,23 @@ h1: Administración de redes sociales
 excerpt: Donde tu marca cobra vida y conecta con quienes realmente importan.
 img-hero: img/since-marketing-digital.avif
 ---
-<!-- _includes/categories.html -->
 <section class="categories-container">
-  <h2>Primera categoria</h2>
-  <div class="tarjeta-blog wrapper">
-    {% for category in site.categories %}
-      {% if category[0] == "primera-categoria" %}
-        {% for post in category[1] %}
-          <div class="digital-item" style="background-image: url('{{ post.hero | relative_url }}');">
-            <div class="excerpt-overlay">
-              {{ post.excerpt }}
-              <a href="{{ post.url }}" class="btn-glitch-fill">Clic para leer más</a>
+  <h2>Primera categoria de el blog</h2>
+  <div class="tarjeta-blog-container">
+    <div class="tarjeta-blog">
+      {% for category in site.categories %}
+        {% if category[0] == "primera-categoria" %}
+          {% for post in category[1] %}
+            <div class="digital-item" style="background-image: url('{{ post.hero | relative_url }}');">
+              <div class="excerpt-overlay">
+                {{ post.excerpt }}
+                <a href="{{ post.url }}" class="btn-glitch-fill">Clic para leer más</a>
+              </div>
             </div>
-          </div>
-        {% endfor %}
-      {% endif %}
-    {% endfor %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </section>
 
@@ -49,3 +50,4 @@ img-hero: img/since-marketing-digital.avif
     </div>
   </div>
 </div>
+

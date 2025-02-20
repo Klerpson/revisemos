@@ -247,58 +247,63 @@
 .scroll-animations .numbered-section:nth-of-type(2) { --section-index: 2; }
 .scroll-animations .numbered-section:nth-of-type(3) { --section-index: 3; }
 
-/*  */
-.bg-blog {
-  background-image: url("../img/blog-since-agencia.avif");
-  background-size: cover;
-  background-position: center;
-  position: relative;
-  overflow: hidden;
-  display: grid;
-  place-content: center;
-  place-items: center;
-
-  h3{
-    color: var(--text-black);
-  }
-
-}
-.card-content {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-
-.card-content img {
-  border-radius: var(--radius-lg);
-  height: auto;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
-
-/* posts */
+/* blog */
 
 .categories-container {
   background-color: var(--color-primary);
   padding: 20px;
+
+  h2{
+    width: 16ch;
+  }
+}
+
+.tarjeta-blog-container {
+  width: 100%;
+  overflow: hidden;
+  padding: 20px 0;
 }
 
 .tarjeta-blog {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
+  display: flex;
   gap: 20px;
+  overflow-x: auto;
+  -ms-scroll-snap-type: x mandatory;
+      scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  padding: 10px;
+  transition: scroll-behavior 0.5s ease-in-out;
+  -webkit-transition: scroll-behavior 0.5s ease-in-out;
+  cursor: -webkit-grab;
+  cursor: grab;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+.tarjeta-blog::-webkit-scrollbar {
+  display: none;
+}
+
+.tarjeta-blog {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 .digital-item {
+  flex: 0 0 300px;
   position: relative;
   background-size: cover;
   background-position: center;
-  aspect-ratio: 16 / 9;
-  border-radius: var(--radius-lg);
+  min-height: 300px;
+  border-radius: var(--radius-sm);
   overflow: hidden;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   display: flex;
   align-items: flex-end;
+  scroll-snap-align: start;
 }
 
 .excerpt-overlay {
@@ -306,20 +311,10 @@
   background: rgba(0, 0, 0, 0.7);
   padding: clamp(10px, 5%, 20px);
   text-align: center;
-  color: white;
+  display: grid;
+  gap: 1rem;
 }
-
-.btn-glitch-fill {
-  display: inline-block;
-  margin-top: 10px;
-  padding: 10px 20px;
-  background-color: var(--color-accent);
-  color: white;
-  text-decoration: none;
-  border-radius: var(--radius-sm);
-  transition: background-color 0.3s ease;
-}
-
-.btn-glitch-fill:hover {
-  background-color: var(--color-accent-dark);
+.tarjeta-blog:active {
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
 }
