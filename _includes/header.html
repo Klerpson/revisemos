@@ -1,7 +1,7 @@
 {% assign layout = page.layout %}
 {% case layout %}
 {% when "default" %}
-<header class="hero">
+<header class="hero"> 
   <div class="wrapper">
     <div class="hero-content">
       <h1 class="hero-title">
@@ -22,6 +22,12 @@
     </div>
   </div>
   <div class="vertical-text"></div>
+
+  <picture>
+    <source srcset="{{ '/img/hero-since.avif' | relative_url }}" type="image/avif">
+    <source srcset="{{ '/img/hero-since.webp' | relative_url }}" type="image/webp">
+    <img src="{{ '/img/hero-since.jpg' | relative_url }}" alt="Background image" class="hero-background">
+  </picture>
 </header>
 
 {% when "servicios" %}
@@ -34,9 +40,14 @@
   <div class="img-bottom">
     <img src="{{ page.img-hero | relative_url }}" width="512" height="512" loading="eager" alt="{{page.alt}}">
   </div>
-</header>
 
-{% when "blog" %}
+  <picture>
+    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">
+    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.webp' }}" type="image/webp">
+    <img src="{{ page.hero_image | relative_url }}" alt="Background image" class="hero-background">
+  </picture>
+</header>
+{% when "categoria" %}
 <header class="hero-services">
   <div class="wrapper">
     <div class="hero-content-bottom">
@@ -45,6 +56,11 @@
       </div>
     </div>
   </div>
+  <picture>
+    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">
+    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.webp' }}" type="image/webp">
+    <img src="{{ page.hero_image | relative_url }}" alt="Background image" class="hero-background">
+  </picture>
 </header>
 {% else %}
 
@@ -59,5 +75,10 @@
     {% endif %}
   </div>
 
+  <picture>
+    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">
+    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.webp' }}" type="image/webp">
+    <img src="{{ page.hero_image | relative_url }}" alt="Background image" class="hero-background">
+  </picture>
 </header>
 {% endcase %}
