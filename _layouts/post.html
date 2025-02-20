@@ -1,5 +1,8 @@
 ---
-layout: default 
+layout: default
 ---
-
-{{ content }}
+<article class="post-content wrapper">
+    <div class="post-body">
+    {{ content | replace: '<img', '<figure><img' | replace: '</p>', '</p></figure>' }}
+  </div>
+</article>

@@ -330,3 +330,66 @@
   cursor: -webkit-grabbing;
   cursor: grabbing;
 }
+
+/* post */
+/* Contenedor principal del post */
+.post-content {
+  width: min(100% - 2rem, 1200px);
+  margin-inline: auto;
+  background-color: var(--text-black);
+  color: var(--text-primary);
+  padding: 2rem;
+}
+
+/* Estilos para cada sección con imagen */
+.post-body {
+  display: grid;
+  gap: 4rem;
+}
+
+/* Estilo para párrafos que tienen una imagen adyacente */
+.post-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+}
+
+.post-section > * {
+  flex: 1 1 300px;
+}
+
+/* Títulos */
+.post-body h2 {
+  color: var(--color-primary);
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+  margin-bottom: 1rem;
+}
+
+/* Párrafos */
+.post-body p {
+  color: var(--text-primary);
+  font-size: clamp(1rem, 1.5vw, 1.125rem);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* Imágenes */
+.post-body img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-lg);
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+/* Números en títulos */
+.post-body h2:has(+ p) {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.post-body h2 span {
+  color: var(--color-primary);
+}

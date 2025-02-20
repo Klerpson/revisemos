@@ -42,9 +42,9 @@
   </div>
 
   <picture>
-    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">
-    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.webp' }}" type="image/webp">
-    <img src="{{ page.hero_image | relative_url }}" alt="Background image" class="hero-background">
+    <source srcset="{{ page.hero | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">
+    <source srcset="{{ page.hero | relative_url | replace: '.jpg', '.webp' }}" type="image/webp">
+    <img src="{{ page.hero | relative_url }}" alt="Background image" class="hero-background">
   </picture>
 </header>
 {% when "categoria" %}
@@ -57,9 +57,31 @@
     </div>
   </div>
   <picture>
-    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">
-    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.webp' }}" type="image/webp">
-    <img src="{{ page.hero_image | relative_url }}" alt="Background image" class="hero-background">
+    <source srcset="{{ page.hero | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">
+    <source srcset="{{ page.hero | relative_url | replace: '.jpg', '.webp' }}" type="image/webp">
+    <img src="{{ page.hero | relative_url }}" alt="Background image" class="hero-background">
+  </picture>
+</header>
+
+{% when "post" %}
+<header class="hero-services">
+  
+  <div class="wrapper header">
+    <h1 class="text-primary">{{ page.h1 }}</h1>
+    <h2>{{ page.h2 }}</h2>
+    <p>{{ page.excerpt }}</p>
+    <small class="post-date">
+      {{ page.date | date: "%d/%m/%Y" }} - Categoría: {{ page.categories | first }}
+    </small>
+    {% if page.button %}
+    {% include button.html text="Clic y empecemos" %}
+    {% endif %}
+  </div>
+
+  <picture>
+    <source srcset="{{ page.hero | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">
+    <source srcset="{{ page.hero | relative_url | replace: '.jpg', '.webp' }}" type="image/webp">
+    <img src="{{ page.hero | relative_url }}" alt="Background image" class="hero-background">
   </picture>
 </header>
 {% else %}
@@ -76,9 +98,9 @@
   </div>
 
   <picture>
-    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">
-    <source srcset="{{ page.hero_image | relative_url | replace: '.jpg', '.webp' }}" type="image/webp">
-    <img src="{{ page.hero_image | relative_url }}" alt="Background image" class="hero-background">
+    <source srcset="{{ page.hero | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">
+    <source srcset="{{ page.hero | relative_url | replace: '.jpg', '.webp' }}" type="image/webp">
+    <img src="{{ page.hero | relative_url }}" alt="Background image" class="hero-background">
   </picture>
 </header>
 {% endcase %}

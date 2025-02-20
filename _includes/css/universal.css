@@ -91,10 +91,6 @@ table th {
   justify-content: space-around;
   align-items: center;
 
-  h3{
-    color: var(--text-black);
-  }
-
   & > div {
     flex: 1 0 280px;
     max-width: 600px;
@@ -150,4 +146,12 @@ table th {
 .lista-desordenada li {
   color: var(--text-primary);
   list-style-type: disc;
+}
+
+.text-black{
+  color: var(--text-black);
+}
+
+.text-primary{
+  color: var(--color-primary);
 }
