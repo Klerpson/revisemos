@@ -1,0 +1,15 @@
+<section class="categories-container {{ include.css_class }}">
+  <h2>{{ include.category_name }}</h2>
+  <div class="tarjeta-blog-container">
+    <div class="tarjeta-blog">
+      {% for post in site.categories[include.category_key] %}
+        <div class="digital-item" style="background-image: url('{{ post.hero | relative_url }}');">
+          <div class="excerpt-overlay">
+            {{ post.excerpt }}
+            <a href="{{ post.url }}" class="btn-glitch-fill">Clic para leer más</a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

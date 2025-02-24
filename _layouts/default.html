@@ -57,96 +57,82 @@ layout: compress
   <!-- slider -->
   <script>
     document.addEventListener('DOMContentLoaded', function () {
-      const slider = document.querySelector('.tarjeta-blog');
-
-      if (!slider) {
-        console.log('Slider no encontrado');
-        return;
-      }
-
-      const items = slider.querySelectorAll('.digital-item');
-      if (items.length <= 1) {
-        console.log('No hay suficientes elementos para hacer scroll');
-        return;
-      }
-
-      let scrollAmount = 0;
-      const scrollSpeed = 2; 
-      let isScrolling = true;
-
-      function animateScroll() {
-        if (!isScrolling) return;
-
-        scrollAmount += scrollSpeed;
-        slider.scrollLeft = scrollAmount;
-
-        if (scrollAmount >= (slider.scrollWidth - slider.offsetWidth)) {
-          scrollAmount = 0;
-          slider.scrollLeft = 0;
-        }
-
-        requestAnimationFrame(animateScroll);
-      }
-
-      requestAnimationFrame(animateScroll);
-
-      slider.addEventListener('mouseenter', () => {
-        isScrolling = false;
-      });
-
-      slider.addEventListener('mouseleave', () => {
-        isScrolling = true;
-        requestAnimationFrame(animateScroll);
-      });
-
-      let isDragging = false;
-      let startPosition;
-      let startScrollLeft;
-
-      slider.addEventListener('mousedown', (e) => {
-        isDragging = true;
-        slider.style.cursor = 'grabbing';
-        startPosition = e.pageX - slider.offsetLeft;
-        startScrollLeft = slider.scrollLeft;
-        isScrolling = false;
-      });
-
-      slider.addEventListener('mousemove', (e) => {
-        if (!isDragging) return;
-        e.preventDefault();
-        const x = e.pageX - slider.offsetLeft;
-        const scroll = (x - startPosition) * 2;
-        slider.scrollLeft = startScrollLeft - scroll;
-      });
-
-      slider.addEventListener('mouseup', () => {
-        isDragging = false;
-        slider.style.cursor = 'grab';
-        isScrolling = true;
-        requestAnimationFrame(animateScroll);
-      });
-
-      slider.addEventListener('mouseleave', () => {
-        isDragging = false;
-        isScrolling = true;
-        requestAnimationFrame(animateScroll);
-      });
-
-      slider.addEventListener('touchstart', () => {
-        isScrolling = false;
-      });
-
-      slider.addEventListener('touchend', () => {
-        isScrolling = true;
-        requestAnimationFrame(animateScroll);
-      });
-
-      document.addEventListener('visibilitychange', () => {
-        if (!document.hidden) {
-          scrollAmount = slider.scrollLeft;
-          isScrolling = true;
+      const sliders = document.querySelectorAll('.tarjeta-blog');
+  
+      sliders.forEach((slider) => {
+        const items = slider.querySelectorAll('.digital-item');
+        if (items.length <= 1) return;
+  
+        let scrollAmount = 0;
+        const scrollSpeed = 2;
+        let isScrolling = true;
+  
+        function animateScroll() {
+          if (!isScrolling) return;
+  
+          scrollAmount += scrollSpeed;
+          slider.scrollLeft = scrollAmount;
+  
+          if (scrollAmount >= (slider.scrollWidth - slider.offsetWidth)) {
+            scrollAmount = 0;
+            slider.scrollLeft = 0;
+          }
+  
           requestAnimationFrame(animateScroll);
         }
+  
+        requestAnimationFrame(animateScroll);
+  
+        slider.addEventListener('mouseenter', () => {
+          isScrolling = false;
+        });
+  
+        slider.addEventListener('mouseleave', () => {
+          isScrolling = true;
+          requestAnimationFrame(animateScroll);
+        });
+  
+        let isDragging = false;
+        let startPosition;
+        let startScrollLeft;
+  
+        slider.addEventListener('mousedown', (e) => {
+          isDragging = true;
+          slider.style.cursor = 'grabbing';
+          startPosition = e.pageX - slider.offsetLeft;
+          startScrollLeft = slider.scrollLeft;
+          isScrolling = false;
+        });
+  
+        slider.addEventListener('mousemove', (e) => {
+          if (!isDragging) return;
+          e.preventDefault();
+          const x = e.pageX - slider.offsetLeft;
+          const scroll = (x - startPosition) * 2;
+          slider.scrollLeft = startScrollLeft - scroll;
+        });
+  
+        slider.addEventListener('mouseup', () => {
+          isDragging = false;
+          slider.style.cursor = 'grab';
+          isScrolling = true;
+          requestAnimationFrame(animateScroll);
+        });
+  
+        slider.addEventListener('mouseleave', () => {
+          isDragging = false;
+          isScrolling = true;
+          requestAnimationFrame(animateScroll);
+        });
+  
+        slider.addEventListener('touchstart', () => {
+          isScrolling = false;
+        });
+  
+        slider.addEventListener('touchend', () => {
+          isScrolling = true;
+          requestAnimationFrame(animateScroll);
+        });
       });
     });
   </script>

@@ -261,6 +261,10 @@
   background-size: cover;
 }
 
+.category-segunda-categoria {
+  background-color: var(--color-primary); 
+}
+
 .categories-container {
   /* background-color: var(--color-primary); */
   padding: 8em 20px ;

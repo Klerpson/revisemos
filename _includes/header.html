@@ -50,11 +50,9 @@
 {% when "categoria" %}
 <header class="hero-services">
   <div class="wrapper">
-    <div class="hero-content-bottom">
-      <div class="text_center">
+      <div class="text_center text-bottom">
         <h1>{{ page.h1 }}</h1>
       </div>
-    </div>
   </div>
   <picture>
     <source srcset="{{ page.hero | relative_url | replace: '.jpg', '.avif' }}" type="image/avif">

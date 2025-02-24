@@ -7,7 +7,7 @@ h1: Aprende con el blog de marketing de Since
 <section class="wrapper text-center highlighted-title">
   <h2>Lorem Ipsum is simply dummy text of the printing and typesetting </h2>
 </section>
-
+ 
 <div class="bg-blog ">
   <div class="wrapper flow">
 
@@ -29,26 +29,14 @@ h1: Aprende con el blog de marketing de Since
   </div>
 </div>
 
-<section class="categories-container">
-  <h2>Primera categoria de el blog</h2>
-  <div class="tarjeta-blog-container">
-    <div class="tarjeta-blog">
-      {% for category in site.categories %}
-        {% if category[0] == "primera-categoria" %}
-          {% for post in category[1] %}
-            <div class="digital-item" style="background-image: url('{{ post.hero | relative_url }}');">
-              <div class="excerpt-overlay">
-                {{ post.excerpt }}
-                <a href="{{ post.url }}" class="btn-glitch-fill">Clic para leer más</a>
-              </div>
-            </div>
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-</section>
-
+{% for category_key in site.category_order %}
+  {% assign category = site.categories[category_key] %}
+  {% if category %}
+    {% assign category_name = category_key %}
+    {% assign css_class = "category-" | append: category_key %}
+    {% include category-section.html category_name=category_name category_key=category_key css_class=css_class %}
+  {% endif %}
+{% endfor %}
 
 <section class="wrapper text_center">
   <img src="{{ 'img/since-logo.avif' | relative_url }}" alt="" width="320" height="100">

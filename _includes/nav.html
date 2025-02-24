@@ -26,11 +26,22 @@
             <li><a href="{{ 'servicios/publicidad-digital' | relative_url }}">Publicidad digital</a></li>
             <li><a href="{{ 'servicios/diseno-grafico' | relative_url }}">Diseño gráfico</a></li>
             <li><a href="{{ 'servicios/gerencia-marketing' | relative_url }}">Gerencia marketing</a></li>
+            <li><a href="{{ 'categoria' | relative_url }}">Ver Más</a></li>
           </ul>
         </div>
       </li>
 
-      <li> <a href="nosotros"> Nosotros  </a> </li>
+      <li class="has-submenu">
+        <a href="{{ 'nosotros' | relative_url }}" class="toggle-arrow">
+          Nosostros
+        </a>
+        <div class="submenu-wrapper">
+          <ul class="submenu">
+            <li><a href="{{ 'blog' | relative_url }}">Blog</a></li>
+          </ul>
+        </div>
+      </li>
+
       <li> <a href="#"> Información </a> </li>
       <li> <a href="contacto"> Contacto  </a> </li>
     </ul>
