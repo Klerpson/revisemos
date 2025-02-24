@@ -1,5 +1,5 @@
 <section class="categories-container wrapper {{ include.css_class }}">
-  <h2>{{ include.category_name }}</h2>
+  <a href="{{ 'categoria' | relative_url }}" ><h2>{{ include.category_name }}</h2></a>
   <div class="tarjeta-blog-container">
     <div class="tarjeta-blog">
       {% for post in site.categories[include.category_key] %}
