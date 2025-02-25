@@ -26,7 +26,6 @@ paginate: 10
 paginate_path: "/blog/page/:num/"
 
 # URLs
-permalink: /blog/:year/:month/:day/:title/
 
 # Compresión HTML
 compress_html:
@@ -59,3 +58,9 @@ defaults:
       layout: "post"
       author: "Since Marketing"
       comments: true
+
+
+category_order:
+  - primera-categoria
+  - segunda-categoria
+  - tercera-categoria

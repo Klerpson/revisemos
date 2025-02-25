@@ -3,10 +3,10 @@ layout: post
 title: "Estrategias Efectivas de Marketing Digital para 2024"
 date: 2023-10-15
 author: "Tu Nombre"
-categories: [primera-categoria]
-h1: "Estrategias de Marketing Digital para 2024"
+categories: [segunda-categoria]  # Asegúrate de que la categoría coincida con la que usas en el código
+h1: "Estrategias de Marketing Digital para 2024"  # Este será el título que se muestra en el hero
 description: "Descubre las estrategias de marketing digital que dominarán en 2024."
-hero: 'img/marketing-digital-con-since.avif'
+hero: 'img/marketing-digital-con-since.avif'  # Ruta de la imagen destacada
 excerpt: "El marketing digital está en constante evolución. En este artículo, exploramos las tendencias clave para 2024."
 ---
 <div class="post-section">

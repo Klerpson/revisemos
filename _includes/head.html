@@ -33,7 +33,7 @@
     href="{{ '/img/iconified/apple-touch-icon-180x180.png' | relative_url }}">
 
   <!-- Theme color -->
-  <meta name="theme-color" content="#008037">
+  <meta name="theme-color" content="#525151">
 
   <!-- Generator -->
   <meta name="generator" content="Jekyll {{ jekyll.version }}">
@@ -403,11 +403,17 @@
       padding-top: 80px;
       min-height: 70vh;
       max-height: 900px;
-      background-image: url('{{ "/img/hero-since.avif" | relative_url }}');
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
       overflow: hidden;
+    }
+
+    .hero-background {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: -1;
     }
 
     .hero-content {
@@ -470,14 +476,19 @@
     /* hero servicios */
     .hero-services {
       position: relative;
-      padding-top: 80px;
-      min-height: 80vh;
+      min-height: 70vh;
       max-height: 900px;
-      background-image: url('{{ page.hero_image | relative_url }}');
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
       overflow: visible;
+
+    }
+
+    .text-bottom {
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+        width: 100%;
     }
 
     .img-bottom {

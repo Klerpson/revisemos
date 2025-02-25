@@ -147,3 +147,17 @@ table th {
   color: var(--text-primary);
   list-style-type: disc;
 }
+
+.text-black{
+  color: var(--text-black);
+}
+
+.text-primary{
+  color: var(--color-primary);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

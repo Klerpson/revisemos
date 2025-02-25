@@ -65,6 +65,11 @@
 
 .card-content {
   flex: 1 1 300px;
+
+  img{
+    border-radius: var(--radius-sm);
+  }
+  
 }
 
 .logo-rating {
@@ -247,81 +252,152 @@
 .scroll-animations .numbered-section:nth-of-type(2) { --section-index: 2; }
 .scroll-animations .numbered-section:nth-of-type(3) { --section-index: 3; }
 
-/*  */
-.bg-blog {
-  background-image: url("../img/blog-since-agencia.avif");
+/* blog */
+
+.bg-blog{
+  background-image: url("{{ 'img/blog-since-agencia.avif' | relative_url }}");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.category-segunda-categoria {
+  background-color: var(--color-primary); 
+  box-shadow: 0 0 0 100vmax var(--color-primary);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
+}
+
+.categories-container {
+  /* background-color: var(--color-primary); */
+  padding: 8em 20px ;
+
+  h2{
+    width: 16ch;
+  }
+}
+
+.tarjeta-blog-container {
+  width: 100%;
+  overflow: hidden;
+  padding: 20px 0;
+}
+
+.tarjeta-blog {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  -ms-scroll-snap-type: x mandatory;
+      scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  padding: 10px;
+  transition: scroll-behavior 0.5s ease-in-out;
+  -webkit-transition: scroll-behavior 0.5s ease-in-out;
+  cursor: -webkit-grab;
+  cursor: grab;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+.tarjeta-blog::-webkit-scrollbar {
+  display: none;
+}
+
+.tarjeta-blog {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.digital-item {
+  flex: 0 0 300px;
+  position: relative;
   background-size: cover;
   background-position: center;
-  position: relative;
+  min-height: 300px;
+  border-radius: var(--radius-sm);
   overflow: hidden;
-  display: grid;
-  place-content: center;
-  place-items: center;
-
-  h3{
-    color: var(--text-black);
-  }
-
-}
-.card-content {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   display: flex;
-  flex-direction: column;
+  align-items: flex-end;
+  scroll-snap-align: start;
+}
+
+
+.excerpt-overlay {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  padding: clamp(10px, 5%, 20px);
+  text-align: center;
+  display: grid;
   gap: 1rem;
 }
+.tarjeta-blog:active {
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
+}
 
-.card-content img {
-  border-radius: var(--radius-lg);
+/* post */
+/* Contenedor principal del post */
+.post-content {
+  width: min(100% - 2rem, 1200px);
+  margin-inline: auto;
+  background-color: var(--text-black);
+  color: var(--text-primary);
+  padding: 2rem;
+}
+
+/* Estilos para cada sección con imagen */
+.post-body {
+  display: grid;
+  gap: 4rem;
+}
+
+/* Estilo para párrafos que tienen una imagen adyacente */
+.post-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+}
+
+.post-section > * {
+  flex: 1 1 300px;
+}
+
+/* Títulos */
+.post-body h2 {
+  color: var(--color-primary);
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+  margin-bottom: 1rem;
+}
+
+/* Párrafos */
+.post-body p {
+  color: var(--text-primary);
+  font-size: clamp(1rem, 1.5vw, 1.125rem);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* Imágenes */
+.post-body img {
+  width: 100%;
   height: auto;
+  border-radius: var(--radius-lg);
   -o-object-fit: cover;
      object-fit: cover;
 }
 
-/* posts */
-
-.categories-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-  padding: 2rem;
-}
-
-.category-card {
-  background-color: var(--bg-grey);
-  border-radius: var(--radius-cards);
-  padding: 1.5rem;
-  text-align: center;
-  transition: transform 0.3s ease-in-out;
-}
-
-.category-card:hover {
-  transform: translateY(-5px);
-}
-
-.category-title {
-  font-size: clamp(1.5rem, 2vw, 2rem);
-  color: var(--grey-1);
-  margin-bottom: 1.5rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.digital-items {
+/* Números en títulos */
+.post-body h2:has(+ p) {
   display: flex;
-  flex-direction: column;
-  gap: 1rem;
+  gap: 0.5rem;
+  align-items: center;
 }
 
-.digital-item {
-  background-color: var(--color-primary);
-  color: var(--text-black);
-  padding: 0.75rem;
-  border-radius: var(--radius-lg);
-  font-size: 1.25rem;
-  text-align: center;
-  transition: background-color 0.3s ease-in-out;
-}
-
-.digital-item:hover {
-  background-color: var(--color-secondary);
-  color: var(--text-white);
+.post-body h2 span {
+  color: var(--color-primary);
 }

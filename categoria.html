@@ -1,0 +1,51 @@
+---
+layout: general
+hero: /img/nosotros-since-marketing-digital.avif
+h1: Titulo de la categoria de el blog
+excerpt: Lorem Ipsum is simply dummy text of the printing and typesetting industry
+---
+
+<section class="bg-blog ">
+  <div class="wrapper flow">
+
+    <div class="card-content">
+      <img src="{{ 'img/contacto-since.avif' | relative_url }}" alt="Equipo de trabajo" class="team-img" width="1320"
+        height="440">
+    </div>
+    <div class="two_columns">
+      <div>
+        <h3 class="text-black">Lorem Ipsum is simply dummy</h3>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. a fwan iua nas fisuadnfiu fnuw
+          fwef in
+          fsn f iunaiuf iua iunc iuwe cb aiufb is fiuy</p>
+      </div>
+      <div>
+        {% include button-secondary.html text= "leer más" %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="wrapper text-center highlighted-title">
+  <h2>Lorem Ipsum is simply dummy text of the printing and typesetting </h2>
+  <div class="center">
+    {% include button.html text= "Clic y empecemos" %}
+  </div>
+</section>
+
+<section class="categories-container wrapper {{ include.css_class }}">
+  <a href="{{ 'blog' | relative_url }}">
+    <h2>Todos los Posts</h2>
+  </a>
+    <div class="three_columns">
+      {% for post in site.posts %}
+        <div class="digital-item" style="background-image: url('{{ post.hero | relative_url }}');">
+          <div class="excerpt-overlay">
+            <h4>{{ post.title }}</h4>
+            <!-- <p>{{ post.excerpt | strip_html | truncate: 150 }}</p> -->
+            <a href="{{ post.url | relative_url }}" class="btn-glitch-fill">Clic para leer más</a>
+          </div>
+        </div>
+      {% endfor %}
+  </div>
+</section>
