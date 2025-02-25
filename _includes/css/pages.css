@@ -340,64 +340,57 @@
 }
 
 /* post */
-/* Contenedor principal del post */
 .post-content {
-  width: min(100% - 2rem, 1200px);
-  margin-inline: auto;
-  background-color: var(--text-black);
-  color: var(--text-primary);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+  max-width: 1200px;
+  margin: 0 auto;
   padding: 2rem;
 }
 
-/* Estilos para cada sección con imagen */
-.post-body {
-  display: grid;
-  gap: 4rem;
-}
-
-/* Estilo para párrafos que tienen una imagen adyacente */
-.post-section {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  align-items: center;
-}
-
-.post-section > * {
-  flex: 1 1 300px;
-}
-
-/* Títulos */
-.post-body h2 {
-  color: var(--color-primary);
-  font-size: clamp(1.5rem, 3vw, 2.5rem);
-  margin-bottom: 1rem;
-}
-
-/* Párrafos */
-.post-body p {
-  color: var(--text-primary);
-  font-size: clamp(1rem, 1.5vw, 1.125rem);
-  line-height: 1.6;
-  margin-bottom: 1rem;
-}
-
-/* Imágenes */
-.post-body img {
-  width: 100%;
+/* Imágenes por defecto en columna derecha */
+.post-content img {
+  grid-column: 2;
+  max-width: 100%;
   height: auto;
-  border-radius: var(--radius-lg);
-  -o-object-fit: cover;
-     object-fit: cover;
+  align-self: center;
+  margin-top: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
-/* Números en títulos */
-.post-body h2:has(+ p) {
-  display: flex;
-  gap: 0.5rem;
-  align-items: center;
+/* Clase opcional para imágenes en izquierda */
+.post-content .left-image {
+  grid-column: 1;
+  justify-self: start;
 }
 
-.post-body h2 span {
-  color: var(--color-primary);
+/* Elementos de bloque que deben ocupar ancho completo */
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content blockquote,
+.post-content table {
+  grid-column: 1 / -1;
+}
+
+/* Párrafos en columna izquierda */
+.post-content p {
+  grid-column: 1;
+  margin: 0 0 1.5rem 0;
+  line-height: 1.6;
+}
+
+/* Ajuste responsive */
+@media (max-width: 768px) {
+  .post-content {
+    grid-template-columns: 1fr;
+  }
+  
+  .post-content img,
+  .post-content p {
+    grid-column: 1 !important;
+  }
 }

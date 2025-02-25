@@ -113,7 +113,6 @@ table th {
     position: relative;
     width: min(100%, 376px);
     display: grid;
-    place-items: center;
     border-radius: var(--radius-cards);
     overflow: hidden;
 
