@@ -1,32 +1,49 @@
 ---
-layout: blog
-hero_image: /img/blog-since.avif
-h1: Administración de redes sociales
-excerpt: Donde tu marca cobra vida y conecta con quienes realmente importan.
-img-hero: img/since-marketing-digital.avif
+layout: categoria
+hero: img/blog-since.avif
+h1: Aprende con el blog de marketing de Since
 ---
 
 <section class="wrapper text-center highlighted-title">
   <h2>Lorem Ipsum is simply dummy text of the printing and typesetting </h2>
 </section>
-
-<div class="bg-blog ">
+ 
+<section class="bg-blog ">
   <div class="wrapper flow">
-  
-  <div class="card-content">
-    <img src="{{ 'img/contacto-since.avif' | relative_url }}" alt="Equipo de trabajo" class="team-img" width="500"
-      height="300">
 
-  </div>
-  <div class="two_columns">
-    <div>
-    <h3>Lorem Ipsum is simply dummy</h3>
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. a fwan iua nas fisuadnfiu fnuw fwef in
-      fsn f iunaiuf iua iunc iuwe cb aiufb is fiuy</p>
+    <div class="card-content">
+      <img src="{{ 'img/contacto-since.avif' | relative_url }}" alt="Equipo de trabajo" class="team-img" width="1320"
+        height="440">
     </div>
-    <div>
-      {% include button-secondary.html text= "leer más" %}
+    <div class="two_columns">
+      <div>
+        <h3 class="text-black">Lorem Ipsum is simply dummy</h3>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. a fwan iua nas fisuadnfiu fnuw
+          fwef in
+          fsn f iunaiuf iua iunc iuwe cb aiufb is fiuy</p>
+      </div>
+      <div>
+        {% include button-secondary.html text= "leer más" %}
+      </div>
     </div>
   </div>
-</div>
-</div>
+</section>
+
+{% for category_key in site.category_order %}
+  {% assign category = site.categories[category_key] %}
+  {% if category %}
+    {% assign category_name = category_key %}
+    {% assign css_class = "category-" | append: category_key %}
+    {% include category-section.html category_name=category_name category_key=category_key css_class=css_class %}
+  {% endif %}
+{% endfor %}
+
+<section class="wrapper text_center">
+  <img src="{{ 'img/since-logo.avif' | relative_url }}" alt="" width="320" height="100">
+  <p>¿Quieres invertir en marketing?</p>
+  <p>Muy inteligente.</p>
+  <p>Pero también sabemos que buscas resultados </p>
+
+  {% include button.html text= "Clic y empecemos" %}
+
+</section>
